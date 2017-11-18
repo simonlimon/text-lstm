@@ -1,0 +1,22 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[dev-packages]
+
+
+
+[packages]
+
+requests = "*"
+lxml = "*"
+"bs4" = "*"
+unidecode = "*"
+"h5py" = "*"
+hy = "*"
+keras = "*"
+numpy = "*"
+tensorflow = "*"
