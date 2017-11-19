@@ -1,0 +1,1012 @@
+CHAPTER	1
+
+Foundations	of	the	Universe
+	
+The	more	the	universe	seems	comprehensible,	the	more	it	also	seems
+pointless.
+—STEVEN	WEINBERG,	The	First	Three	Minutes	(1993)
+
+The	universe	was	not	pregnant	with	life	nor	the	biosphere	with	man.
+—JACQUES	MONOD,	Chance	and	Necessity	(1971)
+
+	
+hese	 two	 great	 scientists,	 Weinberg	 the	 physicist,	 Nobel	 Prize
+1979,	and	Monod	the	biologist,	Nobel	Prize	1965,	seem	to	speak	in
+concert:	there	is	no	imperative	for	the	universe	to	exist,	nor	is	there
+one	for	the	existence	of	life,	including	that	of	humans.	Weinberg	goes	on	to	say,	“But
+if	there	is	no	solace	in	the	fruits	of	our	research,	there	is	at	least	some	consolation	in
+the	 research	 itself,”	 and	 Monod,	 writing	 about	 the	 transcendence	 of	 ideas	 and
+knowledge	over	ignorance,	announces,	“[Man’s]	destiny	is	nowhere	spelled	out,	nor	is
+his	duty.	The	kingdom	above	or	the	darkness	below:	it	is	for	him	to	choose.”
+These	two	men	lay	bare	the	stupefying	yet	exhilarating	recognition	that	there	is	no
+design	 in	 the	 universe.	 At	 the	 same	 time,	 there	 is	 a	 great	 sense	 of	 freedom	 and
+responsibility	 that	 this	 thrusts	 upon	 us.	 There	 is	 a	 human	 imperative,	 but	 it	 does	 not
+originate	 outside	 of	 us;	 we	 have	 created	 this	 imperative	 ourselves.	 We	 must	 now
+complete	our	own	destiny:	our	self-imposed	search	for	the	origin	of	the	universe	and
+that	 of	 life.	 These	 are	 the	 two	 deepest	 questions	 that	 science	 can	 ask	 and	 perhaps
+answer.	Let	us	now	start	our	quest,	from	the	very	beginning,	and	study	the	foundation
+upon	which	our	understanding	of	the	universe	is	built.
+For	thousands	of	years	humans	have	gazed	at	the	night	sky,	the	Sun,	the	planets,
+the	 surface	 of	 Earth,	 the	 plants	 and	 animals,	 and	 themselves.	 They	 have	 tried	 to
+make	sense	of	what	they	saw	and	constructed	explanations	to	justify	the	existence	of
+the	natural	world.	Most	of	these	explanations	have	not	passed	the	test	of	time.	Today
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+T
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:00.
+
+a	 set	 of	 interlocking	 scientific	 theories	 exists	 that	 provide	 tentative	 answers	 to	 the
+origin	 of	 the	 universe	 and	 that	 of	 matter.	 These	 theories	 result	 from	 the	 melding	 of
+relativity	 and	 quantum	 physics	 into	 cosmology.	 But	 to	 understand	 the	 current	 model
+for	 the	 creation	 of	 the	 universe,	 one	 must	 first	 know	 what	 the	 universe	 contains	 and
+understand	the	physical	theories	that	made	this	model,	the	Big	Bang,	possible.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+WHAT	IS	IN	THE	UNIVERSE?
+As	 Carl	 Sagan,	 the	 famous	 American	 astronomer	 and	 science
+popularizer	once	suggested,	only	the	word	billions	 can	 give	 us	 any	 idea	 of	 what	 the
+universe	is	all	about.	The	cosmos	is	very	large.	Some	wealthy	people	may	own	a	few
+billion	dollars,	but	even	that	number,	as	high	as	it	may	seem,	is	nothing	in	comparison
+to	the	number	of	stars	in	the	known	universe.	In	mathematical	notation,	1	billion	is	109,
+1	followed	by	nine	zeros.	The	universe	contains	1011	(100	billion)	galaxies,	groups	of
+stars,	and	each	galaxy	contains	on	average	1011	stars,	for	a	grand	total	of	1022	stars.
+Therefore	 the	 estimated	 number	 of	 stars	 in	 the	 observable	 universe	 is	 1013	 times
+bigger	 than	 the	 number	 of	 one-dollar	 bills	 in	 a	 billionaire’s	 wallet.	 This	 means	 that	 if
+each	 dollar	 bill	 were	 equal	 to	 one	 single	 star,	 the	 cosmos	 would	 be	 10,000	 billion
+times	richer	than	the	richest	tycoon.	This	number	has	to	humble	us.
+The	 size	 of	 the	 observable	 universe	 is	 1023	 kilometers	 (the	 distance	 from	 Seattle
+to	Miami	is	about	5	×	103	km),	while	its	age	is	12	to	15	billion	years.	In	our	corner	of
+our	 galaxy,	 the	 Milky	 Way,	 interstellar	 distances	 are	 huge	 as	 well.	 Our	 nearest
+neighbor	 star,	 Proxima	 Centauri,	 is	 5	 ×	 1013	 km	 away.	 Since	 it	 is	 impractical	 to	 use
+numbers	 with	 such	 large	 exponents,	 astronomers	 use	 light-years	 to	 express
+distances	in	the	universe.	In	those	units,	Proxima	Centauri	is	4	light-years	away	from
+us.	In	other	words,	we	now	see	this	star	as	it	was	4	years	ago	because	it	took	that
+long	for	its	light	to	reach	Earth.	To	get	a	better	idea	of	what	this	distance	means,	our
+star,	 the	 Sun,	 is	 only	 8	 light-minutes	 away	 from	 Earth.	 The	 large	 neighboring	 galaxy
+Andromeda	 is	 2	 million	 light-years	 away.	 It	 is	 so	 large,	 about	 as	 large	 as	 the	 Milky
+Way,	 that	 it	 is	 visible	 with	 the	 naked	 eye	 in	 the	 constellation	 of	 the	 same	 name,
+between	 Triangulum	 and	 Cassiopeia.	 By	 peering	 at	 the	 cosmos	 with	 our	 most
+powerful	telescopes,	we	see	the	most	distant	galaxies	as	they	were	some	10	billion
+years	 ago,	 since	 it	 took	 about	 10	 billion	 years	 for	 their	 light	 to	 reach	 Earth.	 This
+means	 that	 we	 will	 observe	 them	 as	 they	 are	 today	 in	 10	 billion	 years	 from	 now,	 if
+anyone	is	left	to	make	the	observation.
+As	 we	 consider	 our	 solar	 system,	 numbers	 become	 less	 impressive.	 Only	 nine
+planets	orbit	the	Sun	and	humans	have	sent	spacecraft	to	eight	of	them	(Pluto	has	yet
+to	 be	 visited),	 with	 actual	 soft	 landings	 on	 two	 (Mars	 and	 Venus).	 We	 now	 believe
+that	planets	are	probably	common	in	the	universe.	In	recent	years,	planets	have	been
+discovered	 in	 several	 dozens	 of	 nearby	 star	 systems.	 These	 planets	 have	 not	 yet
+been	 observed	 directly;	 rather,	 their	 presence	 has	 been	 inferred	 by	 measuring	 the
+wobble	 that	 their	 gravitational	 pull	 exerts	 on	 their	 star	 or	 by	 measuring	 the	 drop	 in
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:00.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+their	star’s	brightness	as	they	transit	in	front	of	it	(literally	partially	eclipsing	it).	As	for
+planets	that	harbor	life,	we	know	of	only	a	single	one.
+Astronomers	and	cosmologists	have	calculated	an	age	for	the	universe,	about	12
+to	15	billion	years.	This	date	of	course	implies	that	the	universe	had	a	beginning,	now
+universally	known	as	the	Big	Bang.	Thus	the	universe	has	not	existed	for	an	eternity.
+Before	 exploring	 how	 the	 universe	 got	 started,	 however,	 it	 would	 be	 good	 to	 have	 a
+feel	for	what	12	to	15	billion	years	represent	on	a	scale	that	we	can	understand.	Carl
+Sagan	 cleverly	 organized	 this	 time	 span	 into	 what	 he	 called	 the	 cosmic	 calendar.	 In
+this	 calendar	 the	 age	 of	 the	 universe	 is	 compressed	 into	 one	 single	 year,	 starting
+January	1	and	ending	December	31	at	midnight.	Here	is	an	excerpt	of	this	calendar:
+	
+January	1
+Big	Bang
+May	1
+Formation	of	our	galaxy,	the	Milky	Way
+September	9
+Formation	of	the	solar	system
+September	14
+Formation	of	Earth
+September	25
+Origin	of	life	on	Earth
+October	9
+Oldest	known	bacterial	fossils	were	alive
+November	12
+First	complex	eukaryotic	cells	appeared
+December	1
+Earth’s	atmosphere	is	fully	oxygenated
+December	16
+First	worms
+December	20
+First	land	plants
+December	22
+First	amphibians
+December	24
+First	dinosaurs
+December	29
+First	primates
+December	31
+First	humans	(at	10:30	p.m.)
+December	31
+Domestication	of	fire	(at	11:46	p.m.)
+December	31
+Invention	of	the	alphabet	(at	11:59:51	p.m.)
+December	31
+Roman	Empire	(at	11:59:56	p.m.)
+December	31
+Renaissance	in	Europe	(at	11:59:59	p.m.)
+During	the	last	second	of	the	year,	five	centuries
+December	31
+have	elapsed	and	humans	have	engaged	in	space
+exploration.
+	
+It	is	interesting	to	note	that	in	the	cosmic	calendar,	it	took	several	months	for	our
+Milky	 Way	 galaxy	 to	 form.	 We	 will	 see	 in	 chapter	 2	 what	 happened	 during	 these
+“months.”	 Also,	 planet	 Earth	 formed	 nine	 and	 a	 half	 months	 into	 the	 year,	 but	 life
+appeared	only	two	and	a	half	weeks	later.	This	is	lightning	fast	on	the	cosmic	scale.
+We	will	see	in	chapters	4	and	5	what	may	have	happened	during	that	time.
+As	 mentioned,	 the	 Big	 Bang	 model	 is	 rooted	 in	 theoretical	 physics	 and,	 in
+particular,	in	the	convergence	of	relativity	and	quantum	mechanics.	Let	us	now	review
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:00.
+
+these	 theories	 to	 understand	 how	 scientists	 have	 pieced	 together	 an	 intellectually
+satisfying	account	of	the	birth	of	the	universe.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+PHYSICS	HOLDS	ONE	OF	THE	CLUES	TO	THE	ORIGINS:
+RELATIVITY
+The	first	quarter	of	the	twentieth	century	witnessed	two	great	discoveries
+in	physics.	In	chronological	order,	they	were	the	realization	that	mass	and	energy	are
+equivalent	 and	 that	 matter	 can	 be	 understood	 both	 as	 waves	 and	 as	 particles.	 The
+first	 discovery	 was	 made	 by	 Albert	 Einstein	 (a	 German,	 then	 Swiss,	 then	 American
+citizen)	 as	 he	 was	 developing	 the	 theory	 of	 special	 relativity.	 The	 second	 discovery
+was	 made	 by	 several	 scientists	 who	 founded	 quantum	 mechanics.	 This	 new	 view	 of
+matter	and	energy	later	allowed	cosmologists	to	put	together	a	comprehensive	model
+for	the	origin	of	matter	as	a	direct	consequence	of	the	creation	of	the	universe.
+Albert	Einstein’s	famous	equation	E	=	mc2	(E	 is	 energy,	 m	 is	 mass,	 and	 c	 is	 the
+speed	 of	 light)	 derives	 directly	 from	 his	 and	 others’	 requestioning	 of	 the	 laws	 of
+motion	 that	 Galileo	 and	 Newton	 formulated	 centuries	 ago.	 This	 equation	 shows	 that
+mass	is	a	form	of	energy.	It	was	Einstein	who	came	up	with	the	concept	of	mass	and
+energy	 equivalence	 in	 his	 special	 relativity	 theory.	 The	 term	 relativity,	 as	 used	 here,
+deals	 with	 the	 measurement	 of	 physical	 phenomena	 taking	 place	 in	 frames	 of
+reference	whose	movements	are	relative	to	one	another,	at	constant	speeds.	Frame
+of	reference	defines	any	location	in	space	characterized	by	a	set	of	coordinates	(up,
+down,	left,	right,	front,	and	back),	while	a	physical	phenomenon	is	anything	that	can
+be	 measured.	 For	 example,	 you	 could	 throw	 a	 ball	 forward	 (a	 measurable	 physical
+phenomenon)	while	sitting	in	a	moving	bus	(one	frame	of	reference)	while	your	friend,
+standing	 still	 on	 the	 sidewalk	 (a	 second	 frame	 of	 reference),	 is	 watching	 you.1	 For
+you	 the	 ball	 simply	 moves	 forward	 at	 a	 certain	 speed,	 but	 for	 your	 friend	 it	 also
+moves	together	with	the	bus.	For	her	the	ball	moves	faster	than	for	you	because	the
+speed	 (or	 velocity)	 of	 the	 ball	 and	 the	 speed	 (or	 velocity)	 of	 the	 bus	 add	 up.	 If	 you
+throw	the	ball	toward	the	back	of	the	moving	bus,	the	ball	moves	more	slowly	for	your
+friend	 than	 for	 you	 because	 the	 velocity	 of	 the	 ball	 must	 be	 subtracted	 from	 that	 of
+the	bus.	This	is	what	Galileo	and	Newton	had	already	described	and	understood.
+Einstein,	 however,	 took	 the	 position	 that	 light	 behaves	 differently	 from	 anything
+else	that	moves.	For	him	the	speed	of	light	is	the	same	in	all	nonaccelerating	(that	is,
+moving	at	constant	velocities)	frames	of	reference.	In	that	view,	no	matter	how	fast	a
+frame	of	reference	is	moving,	the	speed	of	light	cannot	be	exceeded.	For	example,	if
+you	 flash	 a	 laser	 pointer	 toward	 the	 front	 of	 a	 moving	 bus,	 that	 light,	 for	 your
+motionless	 friend	 on	 the	 sidewalk,	 will	 not	 move	 at	 its	 own	 speed	 (about	 300,000
+km/sec)	plus	that	of	the	bus.	For	both	you	and	your	friend,	light	will	move	at	exactly
+the	 same	 speed,	 about	 300,000	 km/sec.	 The	 same	 concept	 applies	 to	 a	 laser
+pointing	 toward	 the	 back	 of	 the	 bus.	 Again,	 for	 both	 you	 and	 your	 friend,	 light	 will
+move	at	the	same	speed,	not	more	slowly	for	her,	regardless	of	the	speed	of	the	bus.
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:00.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+The	constancy	of	the	speed	of	light	has	dramatic	consequences	for	physics,	as	I	will
+next	explain.
+In	 classical	 (Newtonian)	 mechanics,	 by	 definition,	 a	 constant	 force	 acting	 on	 an
+object	 for	 an	 infinite	 period	 of	 time	 will	 impart	 on	 the	 object	 an	 infinite	 velocity.	 For
+example,	 an	 infinitely	 large	 fuel	 tank	 feeding	 a	 rocket	 engine	 burning	 for	 an	 infinite
+time	 would	 make	 a	 rocket	 go	 infinitely	 fast.	 Not	 so	 in	 relativistic	 mechanics;	 here	 an
+infinite	 velocity	 is	 impossible	 because	 nothing	 can	 go	 faster	 than	 light.	 Even	 at	 an
+infinite	 time,	 during	 which	 acceleration	 is	 occurring,	 the	 object	 will	 simply	 get	 closer
+and	 closer	 to	 the	 speed	 of	 light	 but	 will	 never	 reach	 it	 and	 certainly	 not	 exceed	 it
+(figure	1.1).	This	principle	is	not	just	a	figment	of	Einstein’s	imagination	but	has	been
+verified	experimentally	many	times.	The	speed	of	light	in	a	vacuum	is	indeed	constant,
+regardless	of	the	velocities	of	reference	frames.	(It	is,	however,	not	the	same	in	say,
+air	and	glass,	but	the	principle	of	relativity	applies	under	all	conditions.)
+
+FIGURE	1.1	A	graph	of	velocity	versus	time,	representing	acceleration,	in	Newtonian	mechanics	and	in
+relativistic	 mechanics.	 Relativistic	 and	 Newtonian	 mechanics	 predict	 the	 same	 values	 for	 acceleration	 at	 low
+velocities.	At	high	velocities,	relativistic	mechanics	predicts	smaller	and	smaller	values	for	acceleration,	contrary	to
+Newtonian	mechanics.
+
+Next,	Einstein	realized	that	time	and	space	are	intimately	linked	and	that	time	is	a
+fourth	 coordinate,	 adding	 to	 the	 familiar	 three	 dimensions	 of	 regular	 space.	 Thus	 in
+relativity,	 one	 speaks	 of	 space-time.	 We	 know	 that	 moving	 objects	 move	 because
+over	time	we	do	not	see	them	exactly	in	the	same	position	as	before.	But	the	speed
+of	light	is	an	intrinsic	part	of	this	process	because	our	measurements	imply	that	light
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:00.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+moves	 from	 the	 objects	 to	 our	 eyes.	 Thus	 space-time	 becomes	 a	 relative	 quantity
+(just	as	positioning	in	space	alone	is)	that	differs	in	different	frames	of	reference.	This
+complicated	 reasoning	 led	 to	 the	 seemingly	 absurd	 conclusion	 of	 time	 dilation.
+According	 to	 Einstein’s	 calculations,	 a	 clock	 (the	 time-measuring	 device)	 in	 a	 moving
+frame	of	reference	runs	slower	than	a	clock	inside	a	motionless	frame	of	reference.
+And	this	is	exactly	what	happens!	Time	dilation	has	been	measured	by	very	accurate
+atomic	 clocks	 installed	 aboard	 artificial	 satellites	 and	 fast-moving	 airplanes.	 This
+effect	is	normally	observable	only	at	very	high	speeds	because	the	equations	contain
+a	divisor	proportional	to	the	square	of	the	speed	of	light,	a	very	large	quantity.	Thus
+our	 everyday	 experiences	 preclude	 us	 from	 feeling	 time	 dilation	 because	 most	 of	 us
+do	 not	 move	 at	 speeds	 that	 exceed	 about	 0.3	 km/sec	 (about	 the	 speed	 of	 a	 jet),
+whereas	the	speed	of	light	is	1	million	times	faster	(see	appendix	1).
+Now,	 since	 space-time	 is	 relative	 (as	 time	 measurements	 show),	 what	 about
+mass?	 In	 Newtonian	 mechanics,	 mass	 is	 a	 constant	 that	 does	 not	 depend	 on	 the
+speed	 of	 the	 object	 possessing	 the	 mass.	 Going	 back	 to	 figure	 1.1,	 we	 see	 that	 in
+relativistic	 mechanics,	 a	 constant	 force	 applied	 over	 time	 to	 an	 object	 will	 result	 in
+smaller	 and	 smaller	 velocity	 increments	 experienced	 by	 the	 object.	 Close	 to	 the
+speed	 of	 light,	 these	 increments	 become	 infinitely	 small.	 In	 Newtonian	 mechanics	 a
+body’s	 rate	 of	 change	 of	 velocity	 with	 time	 remains	 constant,	 which	 means	 that
+acceleration	 remains	 constant	 over	 time.	 However,	 in	 relativistic	 mechanics	 the
+velocity	 rate	 of	 change,	 the	 acceleration	 of	 a	 body,	 decreases	 with	 time	 and	 tends
+toward	zero	at	infinite	time.	The	body	is	thus	seen	as	resisting	acceleration.
+The	ability	of	an	object	to	resist	velocity	changes	is	called	inertia.	Mass,	however,
+is	a	measure	of	inertia.	For	example,	a	massive	rock	requires	a	larger	effort	to	move
+than	 a	 small	 rock	 because	 its	 inertia,	 its	 mass,	 is	 greater.	 Thus	 in	 special	 relativity,
+the	mass	of	an	object	increases	as	its	velocity	increases,	and	it	tends	toward	infinity
+as	 velocity	 approaches	 the	 speed	 of	 light,	 therefore	 precluding	 any	 object	 from
+reaching	 that	 speed!	 The	 speed	 of	 light	 cannot	 be	 reached	 because	 at	 that	 speed,
+the	mass	of	the	object	would	be	infinite	and	the	force	needed	to	continue	to	move	it
+also	 infinite.	 In	 special	 relativity	 the	 mass	 of	 an	 object	 is	 represented	 by	
+,	 where	 m0	 is	 the	 rest	 mass	 (the	 mass	 of	 the	 object
+when	it	is	not	moving),	v	is	the	object’s	velocity,	and	c	is	the	speed	of	light.	As	can	be
+seen,	 the	 quantity	 v2/c2	 appears	 in	 the	 equation,	 meaning	 that	 relativistic	 effects	 are
+negligible	at	low	velocity	but	become	important	as	v	approaches	c.	Also,	the	equation
+shows	that	if	v	=	c,	the	divisor	equals	zero	and	thus	m	is	infinite.
+Again,	 this	 is	 not	 just	 the	 result	 of	 some	 complicated	 mathematical	 tricks.
+Subatomic	 particles	 such	 as	 protons	 and	 electrons	 have	 been	 accelerated	 in	 “atom
+smashers”	 (particle	 accelerators)	 so	 that	 they	 move	 at	 a	 rate	 close	 to	 the	 speed	 of
+light.	 As	 their	 velocity	 increases,	 it	 becomes	 more	 and	 more	 difficult	 to	 give	 them
+additional	 velocity	 because	 their	 mass	 increases,	 just	 as	 the	 equations	 predict,
+increasing	 the	 additional	 force	 needed	 to	 accelerate	 them.	 For	 example,	 in	 a
+synchrotron	 used	 to	 accelerate	 electrons,	 the	 magnetic	 field	 needed	 to	 deflect
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:00.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+electrons	moving	close	to	the	speed	of	light	is	2000	times	greater	than	that	predicted
+by	 Newton’s	 theory.	 This	 is	 because	 at	 these	 relativistic	 speeds,	 the	 electrons	 are
+2000	 times	 more	 massive	 than	 when	 at	 rest,	 as	 predicted	 by	 the	 special	 theory	 of
+relativity	(see	appendix	1).
+What	has	this	got	to	do	with	the	equivalence	between	mass	and	energy?	Newton
+had	 demonstrated	 that	 the	 energy	 of	 a	 body	 by	 virtue	 of	 its	 velocity	 is	
+,
+where	m	is	the	mass	and	v	is	its	velocity.	Remember	that	Newton	regarded	mass	as
+a	constant.	For	Einstein,	as	we	have	seen,	mass	is	not	a	constant,	since	it	increases
+with	velocity.	Thus	the	energy	E	does	not	simply	increase	with	v2,	it	also	increases	as
+mass	 (m)	 increases	 with	 v.	 Thus	 mass	 should	 be	 considered	 a	 form	 of	 energy.	 But
+Einstein	 went	 further	 and	 made	 the	 bold	 assumption	 that	 the	 rest	 mass	 of	 an	 object
+(its	 mass	 regardless	 of	 its	 velocity,	 as	 low	 as	 it	 might	 be)	 is	 also	 a	 form	 of	 energy.
+Einstein	 was	 of	 course	 proven	 right	 with	 the	 detonation	 of	 the	 first	 atom	 bomb	 in
+1945,	 which	 demonstrated	 the	 conversion	 of	 a	 plutonium	 mass	 into	 heat	 (a	 form	 of
+energy),	electromagnetic	energy	(gamma	rays),	and	nuclear	fragments.
+More	 interestingly,	 Einstein’s	 theory	 also	 predicted	 that	 energy	 in	 the	 form	 of
+radiation	 could	 materialize,	 provided	 that	 radiation	 packed	 enough	 energy.	 That	 is,
+special	 relativity	 predicted	 that	 matter	 could	 appear	 from	 radiation,	 which	 is	 the
+reverse	 of	 what	 happens	 when	 a	 nuclear	 warhead	 is	 detonated.	 This	 was
+demonstrated	 when	 energetic	 gamma	 rays	 were	 observed	 to	 materialize	 into
+electron-antielectron	 pairs	 (that	 is,	 matter	 and	 antimatter).	 Thus	 it	 can	 also	 be	 said
+that	energy	is	just	another	form	of	matter.	Thus	E	=	mc2,	or	m	=	E/c2.	Mathematically
+this	is	trivial,	but	conceptually	it	is	not.	In	particular,	this	means	that	energetic	photons
+(electromagnetic	 radiation	 of	 zero	 rest	 mass)	 of	 high	 energy	 E	 and	 moving	 at	 the
+speed	of	light,	as	all	photons	do	by	definition,	can	be	converted	into	material	mass.	In
+that	 sense,	 matter	 can	 appear	 from	 nonmatter.	 This	 mass-energy	 equivalence	 has
+important	 consequences	 for	 the	 creation	 of	 the	 universe,	 as	 we	 will	 see	 in	 the	 next
+chapter.
+About	10	years	after	he	formulated	his	special	relativity	theory,	Einstein	published
+his	 general	 theory,	 in	 which	 reference	 frames	 were	 no	 longer	 assumed	 to	 be	 in
+steady	 motion	 relative	 to	 one	 another;	 they	 could	 also	 experience	 acceleration.
+Newton	had	already	demonstrated	that	acceleration	is	involved	in	gravitational	effects
+such	as	those	experienced	by	planets	orbiting	a	star.	The	general	theory	of	relativity
+is	then	a	theory	of	gravity.	This	theory	involves	mathematics	much	more	sophisticated
+than	 that	 used	 for	 the	 special	 theory	 (which	 involves	 only	 high	 school	 math—at	 least
+as	 taught	 in	 a	 good	 high	 school).	 There	 Einstein	 demonstrated	 the	 equivalence
+between	gravity	and	the	warping	of	space.	In	other	words,	gravity	was	no	longer	the
+property	of	massive	bodies	per	se;	these	bodies	(such	as	stars)	deformed	the	fabric
+of	 space-time	 and	 led	 to	 the	 formation	 of	 gravity	 “wells”	 in	 which	 satellites	 such	 as
+planets	 would	 “fall”	 and	 orbit.	 Similarly,	 starlight	 would	 be	 deflected	 by	 the	 gravity
+wells	of	other	stars	(figure	1.2).	This	conclusion	was	quickly	verified.	Massive	objects
+like	 stars	 are	 indeed	 able	 to	 deform	 the	 straight	 path	 of	 light	 emanating	 from	 other
+stars	because	they	warp	space.	General	relativity	thus	seemed	like	a	good	theory	to
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:00.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+describe	 the	 universe,	 which	 is	 of	 course	 a	 vast	 space	 full	 of	 massive	 bodies	 (the
+stars	and	galaxies)	possessing	impressive	gravitational	fields.
+
+FIGURE	1.2	How	starlight	is	deflected	by	the	gravitational	well	of	the	Sun.	A	photo	of	a	star	whose	light
+path	 grazes	 the	 Sun	 was	 taken	 during	 a	 total	 solar	 eclipse,	 which	 allowed	 this	 star	 to	 be	 visible	 during	 daytime.
+Another	photograph,	taken	at	night	without	the	Sun	in	the	line	of	sight,	showed	the	shift	in	the	star’s	position	caused
+by	the	Sun’s	deflection	of	its	light.	The	reference	star	is	far	away	from	the	sun	and	its	light	is	not	deflected	by	the
+Sun’s	 gravitational	 well.	 The	 angular	 distance	 between	 the	 true	 and	 apparent	 positions	 is	 greatly	 exaggerated	 for
+clarity.	 The	 actually	 measured	 angular	 shift	 is	 only	 about	 1	 second	 of	 arc,	 in	 full	 agreement	 with	 Einstein’s
+calculations.
+
+Einstein	 and	 Willem	 de	 Sitter	 (a	 Dutch	 physicist	 and	 a	 contemporary	 of	 Einstein)
+applied	the	equations	of	Einstein’s	general	theory	to	the	universe	as	a	whole,	and	the
+result	had	one	important	consequence:	this	universe	cannot	be	stable;	it	must	expand.
+Newton	 had	 already	 identified	 the	 problem	 of	 the	 stability	 of	 the	 universe.	 In	 his
+model,	the	universe	could	not	be	stable	either,	because	the	masses	of	the	stars	and
+their	gravitational	attraction	would	cause	an	inevitable	collapse,	given	enough	time.	In
+the	Einstein-de	Sitter	universe,	on	the	other	hand,	expansion	was	predicted.	In	1916,
+when	 Einstein’s	 theory	 was	 published,	 there	 was	 no	 evidence	 whatsoever	 that	 the
+universe	 was	 contracting	 or	 expanding.	 Yet	 his	 general	 relativity	 theory	 offered	 the
+possibility	that	at	one	time,	the	universe’s	size	could	have	been	exactly	zero—in	other
+words,	 a	 singularity	 in	 space-time	 with	 infinite	 energy	 (remember	 the	 mass,	 that	 is,
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:00.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+matter-energy	 equivalence).	 Einstein	 himself	 dismissed	 this	 possibility,	 since	 there
+was	no	experimental	evidence	to	prove	(or	disprove)	expansion	or	contraction	at	the
+time	he	published	his	work.
+Now,	 Einstein’s	 insight	 and	 rigorous	 mathematical	 development	 was	 proven	 right
+when,	 in	 1919,	 astronomers	 demonstrated	 that	 starlight	 can	 indeed	 be	 deflected	 by
+massive	objects	such	as	stars.	Was	there	something	wrong	with	general	relativity	as
+it	pertained	to	the	whole	universe,	as	opposed	to	just	individual	stars	or	galaxies?	No,
+we	 know	 today	 that	 Einstein’s	 general	 relativity	 is	 more	 complete	 and	 verified	 than
+any	 other	 theory	 (except	 quantum	 mechanics,	 not	 a	 competing	 theory)	 ever
+formulated.	 Einstein’s	 interpretations	 were	 not	 just	 the	 ramblings	 of	 an	 ivory	 tower
+dweller,	 they	 were	 real.	 Therefore	 the	 whole	 theory,	 including	 an	 expansion	 of	 the
+universe,	must	have	great	validity.	The	question	was,	then,	is	space	really	expanding?
+Careful	 observation	 of	 the	 movement	 of	 galaxies	 in	 the	 cosmos	 provided	 the
+answer	 and,	 in	 a	 nutshell,	 this	 answer	 is	 that	 space	 is	 indeed	 expanding.	 The
+expansion	of	the	universe	was	put	on	firm	footing	by	several	astronomers	working	in
+the	 mid	 to	 late	 1920s.	 For	 this,	 these	 astronomers	 decomposed	 the	 light	 of	 distant
+galaxies	 by	 using	 prisms	 or	 similar	 devices.	 When	 starlight	 is	 decomposed	 by	 a
+prism,	we	observe	the	fundamental	colors	that	combine	to	give	white	light	(in	the	case
+of	 the	 Sun),	 and	 a	 series	 of	 dark	 lines.	 These	 dark	 lines	 are	 called	 an	 absorption
+spectrum;	 they	 result	 from	 the	 absorption	 of	 specific	 wavelengths	 by	 elements
+present	in	the	Sun	and	other	stars	(figure	1.3A).	This	is	how	helium	was	discovered	in
+the	nineteenth	century,	by	noting	that	some	absorption	lines	in	the	Sun’s	spectrum	did
+not	 correspond	 to	 any	 element	 known	 so	 far	 on	 Earth	 but	 were	 distinguishable	 in
+sunlight.
+Galaxies	are	composed	of	many	billions	of	stars,	so	the	absorption	spectrum	of	a
+galaxy	 gives	 an	 indication	 of	 what	 elements	 predominate	 in	 the	 stars	 present	 in	 that
+galaxy.	One	element	whose	absorption	lines	are	particularly	convenient	to	observe	is
+calcium.	 Astronomers	 made	 an	 astonishing	 discovery:	 the	 far	 ther	 away	 the	 galaxy,
+the	 more	 the	 calcium	 lines	 are	 shifted	 to	 red	 wavelengths.	 When	 stationary	 (as	 in	 a
+laboratory	 situation),	 calcium’s	 prominent	 spectral	 lines	 are	 in	 the	 blue	 region	 of	 the
+spectrum.	 However,	 these	 calcium	 lines	 shift	 to	 the	 center	 of	 the	 spectrum,	 in	 the
+yellow-green	 region,	 for	 galaxies	 not	 too	 far	 away,	 and	 to	 the	 red	 region	 of	 the
+spectrum	for	very	distant	galaxies	(figure	1.3B).
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:00.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+FIGURE	1.3	Absorption	spectra	and	their	use	in	determining	galactic	velocities.	A:	A	small	portion	of	the
+absorption	 spectrum	 of	 the	 Sun	 (blue	 region,	 from	 4300	 to	 4340	 angstroms).	 The	 many	 dark	 lines	 represent
+wavelengths	 absorbed	 by	 the	 many	 elements	 present	 in	 the	 outer	 layer	 of	 our	 star.	 B:	 The	 shift	 of	 two	 calcium
+absorption	lines	toward	the	red	end	of	the	spectrum	as	a	function	of	recession	velocity.	The	white	arrows	under	the
+spectra	 indicate	 the	 magnitude	 of	 the	 redshift.	 The	 four	 galaxies	 represented	 are,	 from	 the	 top:	 a	 Virgo	 cluster
+galaxy,	Ursa	major,	Corona	borealis,	and	Hydra.	(Adapted	from	Weinberg,	S.	1993.	The	First	Three	Minutes.	 New
+York:	Basic	Books.)
+
+Now,	calcium	on	Earth	is	the	same	as	calcium	elsewhere	in	the	universe.	What	is
+happening?	Why	are	all	spectral	lines,	including	those	of	calcium,	red-shifted	in	distant
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:00.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+galaxies?	 This	 redshift	 can	 be	 understood	 in	 terms	 of	 what	 is	 called	 the	 Doppler
+effect.	This	effect	is	familiar	to	all	of	us.	When	an	ambulance	is	using	its	siren	(or	bell,
+or	other	sound	device),	the	pitch	of	the	siren	increases	as	the	ambulance	approaches
+us,	then	decreases	as	the	ambulance	moves	away.	This	is	because	the	sound	waves
+of	 a	 moving	 object	 increase	 in	 frequency	 as	 the	 object	 is	 approaching	 but	 decrease
+as	 the	 object	 is	 receding.	 The	 same	 happens	 with	 light	 waves:	 when	 a	 luminous
+object	approaches	us,	the	frequency	of	the	light	it	emits	is	shorter	(blue-shifted)	than
+that	 of	 the	 same	 stationary	 object	 (figure	 1.4).	 Conversely,	 when	 the	 object	 moves
+away	 from	 us,	 its	 light	 is	 red-shifted.	 What	 is	 more,	 the	 amount	 of	 blueshifting	 or
+redshifting	is	proportional	to	the	velocity	of	the	object.	(However,	do	not	expect	to	see
+blue-shifted	 or	 red-shifted	 car	 lights;	 cars	 move	 much	 too	 slowly	 for	 the	 Doppler
+effect	to	be	noticeable	with	light.)
+Applying	 the	 Doppler	 effect	 to	 the	 shifting	 of	 calcium	 lines	 (and	 other	 elements’
+lines)	in	the	spectra	of	galaxies,	astronomers	were	left	with	only	one	conclusion:	the
+spectral	 lines	 of	 galaxies	 are	 red-shifted	 because	 the	 galaxies	 are	 receding	 from	 us
+at	high	speed,	and	their	wavelength	is	increased	relative	to	stationary	spectra.	What
+is	more,	they	discovered	that	the	more	distant	a	galaxy	is,	the	faster	it	recedes.2	For
+example,	the	Virgo	cluster	galaxy,	which	is	78	million	light-years	from	us,	recedes	at
+1200	km/sec.	On	the	other	hand,	the	Hydra	cluster,	which	is	4	billion	light-years	away,
+recedes	 at	 61,000	 km/sec.	 Therefore	 Einstein’s	 prediction	 of	 an	 expanding	 universe
+now	 had	 an	 observational	 foundation:	 since	 galaxies	 recede	 from	 one	 another,	 the
+size	of	the	universe	is	growing	with	time;	it	is	expanding.	This	expansion	should	not	be
+misunderstood:	the	universe	is	not	expanding	into	something	such	as	a	big	void;	it	is
+space	itself	that	is	expanding.	This	effect	actually	“stretches”	the	wavelength	of	light,
+making	it	redder	because	red	light	has	a	longer	wavelength	than	blue	light.
+The	expansion	concept	immediately	suggests	that	the	universe	had	a	beginning.	If,
+indeed,	we	ran	the	clock	back	and	looked	at	the	universe	earlier	and	earlier	in	time,
+the	 galaxies	 would	 be	 seen	 to	 approach	 one	 another,	 make	 contact,	 and	 eventually
+perhaps	 merge	 into	 a	 Big	 Crunch.	 As	 this	 crunch	 progressed,	 we	 would	 witness	 an
+enormous	increase	in	density,	as	all	the	matter	in	the	universe	would	be	concentrated
+into	a	smaller	and	smaller	volume.	Could	the	end	of	this	process	be	the	zero-volume
+singularity	mentioned	earlier	in	this	chapter?	Could	all	these	billions	and	billions	of	tons
+of	 galactic	 matter	 concentrate	 into	 a	 very	 small	 volume?	 Before	 addressing	 this
+question,	 we	 must	 first	 understand	 what	 matter	 is	 and	 how	 matter	 and	 radiation
+interact.
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:00.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+FIGURE	1.4	The	Doppler	effect.	This	effect	is	caused	by	the	compression	(or	expansion)	of	the	wave
+crests	 of	 light	 in	 the	 direction	 of	 motion	 of	 a	 light-emitting	 object.	 If	 the	 object	 is	 moving	 toward	 the	 observer,	 the
+waves	are	compressed,	generating	a	shorter	wavelength	(a	higher	frequency),	which	shifts	the	original	color	toward
+the	blue	end	of	the	spectrum.	If	the	object	is	moving	away	from	the	observer,	the	waves	are	stretched,	generating	a
+longer	 wavelength	 (a	 lower	 frequency)	 and	 shifting	 the	 color	 toward	 the	 red	 end	 of	 the	 spectrum.	 This	 effect
+depends	on	the	velocity	of	the	object.	A:	Wave	crests	from	a	motionless	source	are	not	shifted.	B:	The	wave	crests
+of	a	moving	source	are	compressed	in	the	direction	of	motion	and	stretched	in	the	opposite	direction.	The	light	of	the
+most	 distant	 galaxies	 is	 redshifted	 to	 such	 an	 extent	 that	 they	 are	 most	 observable	 in	 the	 infrared	 portion	 of	 the
+electromagnetic	spectrum.
+
+THE	NEXT	CLUE:	QUANTUM	PHYSICS
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:00.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+The	macroscopic	world	in	which	we	live	is	deterministic.	When	we	see	a
+moving	car	on	the	road,	we	expect	to	be	able	to	precisely	determine	its	location	and
+speed.	 This	 is	 how	 the	 police	 deliver	 speeding	 tickets.	 Not	 so	 in	 the	 world	 of	 the
+atom,	 where	 indeterminacy	 is	 the	 norm.	 Also,	 a	 solid	 object	 such	 as	 a	 brick	 is
+obviously	composed	of	material	elements,	not	electromagnetic	radiation	such	as	light,
+which	 we	 normally	 characterize	 by	 its	 wavelength	 or	 its	 color.	 Again,	 not	 so	 in	 the
+atomic	and	subatomic	world,	even	that	making	up	the	brick.	We	will	indeed	see	later
+that	 particles	 of	 matter	 can	 also	 be	 characterized	 as	 waves.	 The	 branch	 of	 physics
+studying	phenomena	at	the	level	of	the	atom	and	below	is	called	quantum	mechanics,
+the	field	that	has	generated	quantum	indeterminacy	and	matter	waves.
+Quantum	mechanics	was	developed	in	the	middle	and	late	1920s	but	had	its	origin
+at	the	turn	of	the	twentieth	century.	Einstein,	together	with	Max	Planck	(of	Germany),
+Louis	 de	 Broglie	 (of	 France),	 and	 Niels	 Bohr	 (of	 Denmark),	 all	 Nobel	 laureates,
+founded	 this	 new	 science.	 However,	 a	 second	 generation	 of	 researchers,	 Max	 Born
+and	 Werner	 Heisenberg	 (both	 Germans),	 Erwin	 Schrödinger	 and	 Wolfgang	 Pauli
+(both	 Austrians),	 and	 Paul	 Dirac	 (an	 Englishman),	 also	 all	 Nobel	 laureates,	 gave
+quantum	 mechanics	 its	 present	 face,	 one	 that	 some	 call	 quantum	 weirdness.	 This	 is
+because	 quantum	 mechanics	 defies	 our	 common	 sense;	 it	 is	 completely
+counterintuitive.	 Nevertheless,	 quantum	 mechanics	 and	 its	 derivatives,	 quantum
+electrodynamics	and	quantum	chromodynamics,	are	exquisitely	precise	in	measuring,
+interpreting,	and	predicting	the	behavior	of	atomic	and	subatomic	particles.
+Quantum	 mechanics	 and	 relativity	 theory	 are	 the	 two	 pillars	 of	 modern	 physics.
+These	are	two	theories	that	simply	work	extremely	well	to	explain	the	physical	world.
+Modern	 cosmology,	 the	 study	 of	 the	 universe	 on	 a	 grand	 scale,	 uses	 both	 relativity
+(which	deals	with	universe-size	objects)	and	quantum	mechanics	(which	deals	with	the
+inframicroscopic	world)	because,	as	one	could	surmise,	the	properties	of	matter	and
+radiation	must	have	an	effect	on	the	universe,	which	contains	both.
+The	 birth	 of	 quantum	 mechanics	 occurred	 in	 1899,	 when	 Max	 Planck
+demonstrated	 that	 light	 energy	 was	 not	 exchanged	 with	 matter	 in	 a	 smooth
+continuum,	 as	 had	 been	 thought	 until	 then.	 By	 smooth	 continuum,	 I	 mean	 a
+mechanism	 that	 does	 not	 operate	 by	 jerks.	 For	 example,	 when	 I	 depress	 the
+accelerator	pedal	of	my	car,	I	admit	more	fuel	into	the	cylinders,	where	it	burns.	That
+chemical	energy	is	turned	into	kinetic	energy	at	the	level	of	the	pistons,	which	in	turn
+operate	 the	 axle	 and	 finally	 the	 wheels.	 This	 chemical	 energy	 and	 the	 kinetic	 energy
+are	 not	 produced	 by	 leaps	 and	 bounds;	 smoothly	 depressing	 the	 accelerator	 results
+in	a	smooth	acceleration.3
+In	 Planck’s	 day	 this	 was	 what	 everybody	 in	 the	 world	 of	 physics	 assumed	 to	 be
+true:	 light,	 a	 form	 of	 electromagnetic	 energy,	 and	 matter	 interacted	 in	 a	 perfectly
+linear	way,	not	in	a	stepwise	fashion.	But	there	was	then	the	nagging	problem	of	the
+blackbody	 radiation.	 A	 blackbody	 in	 physics	 is	 a	 hollow,	 material	 object	 able	 to
+absorb	and	reemit,	as	electromagnetic	radiation,	the	thermal	energy	it	has	received.
+Thus	a	blackbody	heated	at	high	enough	temperature	can	turn	red	hot,	then	white	hot,
+much	 like	 a	 piece	 of	 iron.	 The	 blackbody	 then	 emits	 visible	 light	 that	 the	 human	 eye
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:00.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+can	 perceive.	 If	 heated	 at	 a	 higher	 temperature,	 the	 blackbody	 starts	 emitting	 even
+shorter-wavelength	light—namely,	ultraviolet	(UV)	light.
+It	turns	out	that	the	theoretical	equations	used	in	the	nineteenth	century	to	model
+the	 behavior	 of	 a	 blackbody	 as	 a	 function	 of	 temperature	 were	 hopelessly	 flawed.
+These	 equations	 predicted	 that	 at	 high	 temperature,	 the	 blackbody	 would	 emit	 an
+infinite	 amount	 of	 UV	 radiation.	 This	 was	 not	 experimentally	 observed.	 In	 fact,	 the
+amount	of	UV	radiation	was	observed	to	drop	off,	not	increase	to	infinity.	Clearly,	the
+theory	 did	 not	 match	 observations,	 a	 damning	 fact	 for	 a	 theory.	 Planck	 set	 out	 to
+derive	an	equation	that	matched	experimental	observations,	and	he	succeeded	in	his
+efforts.	 To	 his	 own	 surprise,	 he	 discovered	 that	 his	 new	 equation	 implied	 that
+electromagnetic	 energy	 could	 not	 be	 emitted	 by	 the	 blackbody	 in	 a	 continuous,
+smooth	fashion.	Rather,	his	equation	predicted	that	the	energy	came	in	discrete,	finite
+packets	 or	 bundles,	 which	 he	 called	 quanta.	 Therefore	 energy	 emission	 of	 the
+blackbody	 was	 not	 unlike	 the	 steps	 of	 a	 staircase:	 there	 is	 no	 such	 thing	 as	 half,	 a
+quarter,	or	an	eighth	of	a	step.	Like	steps	of	a	staircase,	quanta	came	in	full	units	of
+themselves	and	this	meant	that	energy	could	not	be	emitted	on	a	smooth,	continuous
+scale	 divided	 into	 infinitely	 small	 increments.	 Energy	 in	 the	 form	 of	 electromagnetic
+radiation	was	received	and	emitted	in	jerks—that	is,	in	discrete	amounts.
+Planck’s	 work	 was	 entirely	 theoretical,	 but	 Einstein	 demonstrated	 in	 1905	 that
+quanta	can	explain	very	real	experimental	observations.	To	do	this,	Einstein	solved	the
+mystery	of	the	photoelectric	effect.	Some	metals,	such	as	sodium,	release	electrons
+when	 they	 are	 irradiated	 with	 light.	 This	 is	 the	 photoelectric	 effect.	 The	 released
+electrons,	when	forced	to	move	by	an	electric	field	such	as	that	imposed	by	a	battery,
+produce	 a	 current.	 This	 principle	 is	 at	 work	 in	 elevator	 doors	 that	 reopen	 as	 an
+entering	passenger	is	on	the	verge	of	being	crushed.
+Before	 Einstein	 it	 was	 known	 that	 the	 intensity	 of	 a	 current	 (the	 number	 of
+electrons	released	by	the	metal	surface)	was	determined	by	the	intensity	of	the	light
+reaching	 the	 metal.	 However,	 and	 this	 is	 what	 puzzled	 everybody,	 the	 wavelength	 of
+the	 light	 had	 to	 be	 just	 right.	 If	 the	 photocell	 responded	 to	 blue	 light,	 it	 would	 not
+respond	to	red	light,	no	matter	how	intense	the	red	light	was.	Red	light	simply	refused
+to	 release	 electrons	 from	 the	 metal	 surface	 and	 nobody	 understood	 why.	 Enter
+Einstein.	Although	it	was	contrary	to	what	the	scientific	community	had	held	for	many
+years,	 Einstein	 assumed	 that	 light,	 which	 was	 evidently	 a	 wavelike	 phenomenon,
+could	 also	 act	 like	 particles	 or	 packets	 of	 energy.	 And	 it	 worked!	 Einstein’s	 energy
+packets,	now	called	photons,	were	Planck’s	quanta.
+This	 is	 how,	 according	 to	 Einstein,	 the	 photoelectric	 effect	 works.	 Electrons	 are
+bound	to	the	atoms	composing	the	surface	of	the	light-sensitive	metal.	If	the	photons
+of	 light	 that	 hit	 the	 metal	 surface	 carry	 an	 energy	 less	 than	 that	 of	 the	 electrons’
+binding	 energy,	 no	 electrons	 will	 be	 released.	 If,	 on	 the	 contrary,	 the	 photons	 carry
+enough	energy,	electrons	will	be	knocked	off	the	metal	surface	and	freed.	Since	the
+energy	 of	 a	 photon	 is	 directly	 proportional	 to	 the	 frequency	 of	 the	 light	 in	 question
+(through	 E	 =	 hf,	 where	 f	 is	 the	 frequency	 and	 h	 is	 a	 constant	 called	 the	 Planck
+constant),	this	explains	why	low-frequency	light	(red	light,	for	example)	cannot	extract
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:00.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+electrons	from	the	surface,	whereas	higher-frequency	light	(such	as	blue	light)	can	do
+the	job	(figure	1.5).	Simply	put,	in	this	example,	the	photons	of	red	light	do	not	pack
+enough	energy	to	free	electrons,	whereas	photons	of	blue	light	do.	Einstein’s	quantum
+interpretation	 of	 light	 was	 fully	 verified	 experimentally	 in	 1914	 and	 he	 received	 the
+1921	Nobel	Prize	for	physics	for	this	discovery.
+Now	this	quantum	theory	posed	a	problem:	is	light	an	electromagnetic	wave	or	is
+it	made	of	particles?	An	electromagnetic	wave	is	a	combination	of	coupled,	pulsating
+electric	 and	 magnetic	 fields	 created	 by	 a	 moving	 electric	 charge	 (figure	 1.6).	 One
+example	 of	 an	 electromagnetic	 field	 is	 that	 generated	 by	 electrons	 moving	 back	 and
+forth	in	a	radio	antenna.	Thus	radio	and	radar	waves;	infrared,	visible,	and	UV	light;	X
+rays;	 and	 gamma	 rays	 constitute	 what	 is	 called	 the	 electromagnetic	 spectrum,	 from
+low	 frequency	 and	 low	 energy	 (radio	 waves)	 to	 high	 frequency	 and	 high	 energy
+(gamma	 rays).	 Newton	 first	 proposed	 that	 light	 rays	 were	 made	 of	 particles,	 but
+subsequent	 experiments	 suggested	 a	 wavelike	 nature	 for	 light.	 The	 wave	 nature	 of
+light	was	put	on	strong	theoretical	footing	by	the	physicist	James	Clerk	Maxwell	in	the
+second	 half	 of	 the	 nineteenth	 century.	 However,	 this	 theory	 failed	 to	 explain	 the
+photoelectric	effect!	The	revisiting	of	the	wave/particle	duality	by	Einstein	became,	as
+we	 just	 saw,	 a	 turning	 point	 in	 physics.	 We	 know	 today	 that	 light	 can	 be	 seen	 as
+packets	 of	 electromagnetic	 energy	 (particles	 called	 photons)	 and	 as	 waves.	 Its
+corpuscular	 and	 wavelike	 nature	 can	 be	 revealed	 in	 different	 experiments,	 using
+different	 instruments;	 there	 is	 no	 contradiction	 between	 these	 two	 aspects	 of	 light.
+The	dual	nature	of	light	is	now	fully	accepted	by	all	physicists.
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:00.
+
+FIGURE	1.5	Graphic	representation	of	the	photoelectric	effect.	The	slanted	line	represents	the	energy	of
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+the	released	electrons	as	a	function	of	the	frequency	of	the	incident	light.	The	threshold	represents	the	frequency
+below	which	no	electrons	are	emitted.	In	this	graph,	red	light	is	located	to	the	left	of	the	horizontal	axis	and	blue	light
+to	the	right.
+
+But,	 then,	 if	 light	 is	 both	 radiation	 and	 particles,	 what	 about	 matter?	 Could	 it	 be
+that	 the	 particles	 of	 matter	 also	 could	 be	 seen	 as	 some	 kind	 of	 wavelike
+phenomenon?	The	answer	of	quantum	mechanics	is	a	loud	yes.	Thus	light	has	a	dual
+nature,	 but	 so	 does	 matter.	 This	 is	 how	 this	 other	 duality,	 that	 of	 matter,	 was
+demonstrated.	By	the	1910s,	scientists	had	shown	that	matter	is	composed	of	atoms
+containing	a	central	body,	the	positively	charged	nucleus	carrying	most	of	the	mass	of
+the	 atom,	 and	 electrons,	 negatively	 charged	 particles,	 somehow	 in	 orbit	 around	 the
+nucleus.	 The	 diameter	 of	 the	 nucleus	 is	 very	 much	 smaller	 than	 the	 diameter	 of	 the
+atom.	To	get	an	idea	of	the	proportions	involved,	the	nucleus	has	been	compared	to
+the	head	of	a	pin	sitting	in	the	middle	of	a	football	field,	the	borders	of	the	atoms	(its
+electrons)	being	located	at	the	sidelines.
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:00.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+FIGURE	1.6	An	electromagnetic	wave	showing	the	coupled	electric	(E)	and	magnetic	(B)	fields	as	they
+oscillate	in	their	motion	through	space.
+
+It	had	been	known	since	the	nineteenth	century	that	a	gas	could	be	“excited”	by	an
+energy	 discharge	 (such	 as	 an	 electrical	 spark),	 in	 which	 case	 it	 would	 emit	 light.
+Interestingly,	 the	 spectrum	 of	 the	 emitted	 light	 consists	 of	 discrete	 bright	 lines	 on	 a
+dark	background	(figure	1.7).	 It	 was	 also	 known	 that	 gases,	 in	 an	 “unexcited”	 state,
+absorbed	 light	 to	 generate	 absorption	 spectra	 that	 were,	 to	 simplify,	 the	 negative
+image	 of	 emission	 spectra.	 Absorption	 spectra,	 as	 we	 saw	 earlier,	 are	 used	 to
+measure	 the	 velocities	 of	 galaxies.	 Thus	 gases	 (matter)	 could	 emit	 and	 absorb
+electromagnetic	energy	represented	by	light	of	a	specific	frequency.
+
+FIGURE	1.7	The	emission	spectrum	of	mercury.	When	decomposed	by	a	prism,	the	ghostly	white	color
+
+of	excited	mercury	(as	in	some	streetlights)	generates	three	prominent	lines	in	the	blue	(left),	and	green	and	orange
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:00.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+(right)	parts	of	the	visible	spectrum.
+
+In	1913,	the	physicist	Niels	Bohr	proposed	that	atomic	spectra	were	the	result	of
+orbiting	 electrons	 releasing	 energy	 in	 the	 form	 of	 photons	 (quanta	 of	 light)	 when
+excited	 in	 some	 way,	 by	 electrons,	 photons,	 or	 chemical	 reactions,	 for	 example.	 In
+this	scenario	the	electrons	absorbed	the	provided	energy	and	reemitted	it	in	the	form
+of	 photons	 by	 dropping	 back	 to	 their	 original,	 or	 at	 least	 lower,	 energy	 level.
+Absorption	 spectra	 were	 caused	 by	 the	 reverse	 phenomenon:	 incident	 light	 of	 a
+particular	frequency	was	absorbed	by	electrons	that	were	thus	bumped	up	to	a	higher
+energy	level.	What	was	exciting	about	this	interpretation	was	the	notion	that	electrons
+in	matter	could	receive	energy	and	release	it	only	in	a	quantized—that	is,	discrete—
+manner.	 Remember	 that	 Einstein	 had	 demonstrated	 quantized	 energy	 acquisition	 by
+electrons	in	the	photoelectric	effect	but	not	quantized	energy	release	(which	does	not
+occur	 in	 the	 photoelectric	 effect	 anyway).	 Bohr	 thus	 proposed	 the	 notion	 of	 discrete
+electronic	orbits	around	the	atomic	nucleus.	Electrons	acquiring	energy	in	the	form	of
+quanta	of	light	are	forced	into	higher,	more	energetic	orbits.	Once	there	they	can	fall
+back	 to	 a	 lower	 energy	 state	 (a	 lower	 orbit)	 and	 emit	 a	 quantum	 of	 light.	 These
+quanta	 of	 light	 are	 emitted	 (or	 absorbed)	 at	 very	 specific	 frequencies,	 explaining	 the
+narrow	 (in	 frequency	 or	 wavelength)	 lines	 of	 emission	 and	 absorption	 spectra.	 This
+also	 meant	 that	 electron	 orbits	 were	 themselves	 quantized:	 an	 electron	 in	 an	 atom
+could	 not	 assume	 any	 energy	 level,	 only	 some	 such	 levels	 were	 possible.	 Electronic
+transitions	 between	 energy	 levels	 are	 known	 as	 quantum	 leaps	 or	 quantum	 jumps,
+expressions	that	have	joined	our	everyday	language.
+Problems	 with	 this	 simple	 (but	 revolutionary)	 model	 soon	 arose.	 While	 Bohr’s
+theory	 explained	 well	 the	 spectrum	 of	 hydrogen	 (an	 element	 containing	 a	 single
+electron	around	its	nucleus),	it	did	not	work	in	the	case	of	another	gas,	helium,	which
+has	 two	 electrons.	 Another	 problem	 was	 that,	 according	 to	 classical	 physics,
+electrons	in	orbit	around	an	atomic	nucleus	cannot	be	stable.	If	they	are	thought	of	as
+little	 bodies	 carrying	 a	 negative	 electric	 charge	 in	 orbit	 around	 the	 nucleus	 (much	 as
+planets	 are	 in	 orbit	 around	 the	 Sun),	 the	 theory	 of	 electromagnetic	 radiation
+demonstrates	that	 electrons,	being	 electrically	charged	 moving	objects,	 must	radiate
+energy	 and	 soon	 fall	 into	 the	 nucleus.	 Matter	 then	 is	 not	 stable!	 But	 of	 course,	 we
+know	 that	 matter	 is	 stable.	 Clearly,	 the	 electrons-in-orbit	 model	 is	 incomplete	 or
+wrong,	or	merely	a	first	step.4	What	was	left	of	Bohr’s	model,	however,	was	the	idea
+of	quantum	jumps	occurring	in	matter	and	the	correlation	between	atomic	spectra	and
+electronic	energy	levels.
+In	1923	the	young	scientist	Louis	de	Broglie	(a	genuine	duke)	published	the	results
+of	his	Ph.D.	dissertation,	a	series	of	cogitations	inspired	by	Einstein’s	idea	that	mass
+and	 energy	 are	 two	 facets	 of	 the	 same	 coin.	 Since,	 thought	 de	 Broglie,	 both	 mass
+and	 light	 are	 forms	 of	 energy,	 matter	 (which	 has	 mass)	 and	 light	 should	 be
+describable	 using	 the	 same	 mathematical	 formalism.	 He	 showed	 that,	 indeed,
+electrons	could	be	mathematically	described	as	waves,	not	just	as	very	small	material
+bodies!	 This	 great	 insight	 was	 demonstrated	 experimentally	 a	 few	 years	 later.	 (The
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:00.
+
+principle	that	electrons	are	waves	is	used	in	electron	microscopes.)	This	again	posed
+a	 problem:	 what	 are	 electrons?	 Are	 they	 material	 objects	 (they	 had	 better	 be,
+because	they	are	one	of	the	constituents	of	matter)	or	are	they	waves?	Or	else,	are
+they	both?	These	questions	are	of	course	reminiscent	of	the	particle-wave	duality	for
+light	that	we	examined	earlier.
+The	 year	 1926	 saw	 the	 grand	 synthesis	 of	 Planck’s,	 Bohr’s,	 Einstein’s,	 and	 de
+Broglie’s	 ideas	 into	 one	 single	 coherent	 theory:	 quantum	 mechanics.	 Werner
+Heisenberg	 and	 Erwin	 Schrödinger	 demonstrated	 independently	 (using	 very	 different
+mathematical	tools)	that	electrons	can	be	treated	as	three-dimensional	matter	waves
+surrounding	 the	 atomic	 nucleus.	 In	 this	 picture,	 Bohr’s	 orbits	 are	 replaced	 by
+electronic	 “clouds”	 and	 the	 electrons	 cease	 to	 be	 seen	 as	 single	 material	 points
+revolving	around	the	nucleus,	as	planets	orbit	the	Sun.	In	the	new	model,	an	electron
+is	 “delocalized,	 smeared	 out”	 and	 the	 cloud	 (also	 called	 an	 orbital)	 represents	 the
+probability	of	finding	an	electron	in	the	region	of	space	occupied	by	the	cloud	(figure
+1.8).	The	simplified	Schrödinger	equation	is
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+−h2/8π2m	·	d2Ψ/dx2	+	VΨ	=	EΨ,
+where	h	is	Planck’s	constant,	m	is	the	particle’s	mass,	V	is	the	potential	energy	that
+depends	on	the	particle’s	position,	x	is	the	particle’s	position,	E	is	the	total	energy	of
+the	 particle,	 Ψ	 is	 the	 wave	 function,	 and	 d2Ψ/dx2	 is	 its	 second	 derivative.	 The	 wave
+function	 Ψ	 has	 no	 direct	 physical	 meaning,	 but	 generally	 speaking,	 wave	 functions
+that	 satisfy	 the	 Schrödinger	 equation	 allow	 only	 certain	 energy	 (E)	 values	 for	 the
+particle.	These	energy	values	are	thus	quantized.
+The	 probabilistic	 interpretation	 of	 matter	 waves	 was	 proposed	 by	 the	 physicist
+Max	Born,	who	realized,	soon	after	Schrödinger	and	Heisenberg	published	their	work,
+that	 mathematically,	 Ψ2	 is	 the	 probability	 of	 finding	 a	 particle	 in	 a	 given	 region	 of
+space.	Thus	Ψ2	is	a	probability	density.	When	one	thinks	about	this	interpretation	for
+a	minute,	one	realizes	that	it	has	baffling	consequences.	For	the	first	time	in	physics,
+it	 had	 been	 suggested	 that	 one	 could	 no	 longer	 pinpoint	 the	 position	 of	 a	 material
+object!	Indeed,	how	does	one	pinpoint	a	wave	or	a	probability	density?
+Not	 only	 that,	 the	 Schrödinger	 equation	 allows	 particles	 to	 overcome	 energy
+barriers	 that	 would	 be	 considered	 classically	 impenetrable.	 Let	 us	 consider	 the
+following	“classical”	example.	Imagine	a	billiard	ball	in	a	strong,	tall	box.	The	ball	can
+be	pushed	around,	even	energetically,	but	in	no	case	do	we	expect	the	ball	to	escape
+from	 the	 box.	 This	 is	 because	 the	 walls	 of	 the	 box	 constitute	 a	 solid	 barrier	 that	 the
+ball	cannot	overcome.	This	is	not	what	is	happening	in	the	world	of	the	atom,	because
+the	 Schrödinger	 equation	 allows	 subatomic	 particles	 to	 “tunnel”	 through	 energy
+barriers	 that	 would	 have	 stopped	 these	 particles	 in	 a	 classical	 world.	 Figure	 1.9
+describes	 the	 tunnel	 effect.	 A	 subatomic	 particle	 is	 shown	 as	 a	 wave	 present
+between	two	potential	energy	“walls”	of	value	V0	(the	V	as	in	Schrödinger’s	equation)
+that	classically	would	prevent	the	particle	from	escaping.
+In	 reality,	 solutions	 to	 the	 Schrödinger	 equation	 show	 that	 the	 particle	 has	 a
+nonzero	probability	of	penetrating	the	potential	barrier	and	finding	itself	in	the	outside
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:00.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+world.	This	is	as	if	the	billiard	ball	in	our	example	were	able	to	cross	the	walls	of	the
+box	 without	 breaking	 them.	 And	 again,	 this	 is	 not	 simply	 the	 result	 of	 clever
+mathematical	 tricks.	 We	 now	 know	 that	 radioactive	 α-decay,	 the	 phenomenon	 in
+which	 radioactive	 substances	 (such	 as	 plutonium)	 emit	 helium	 nuclei	 (two	 protons
+associated	with	two	neutrons	to	form	an	α	particle),	is	explained	by	the	tunnel	effect.
+Alpha	 particles	 are	 not	 energetic	 enough	 to	 defeat	 the	 potential	 energy	 barrier
+presented	 by	 the	 nuclei	 of	 these	 radioactive	 elements;	 they	 leave	 these	 nuclei	 by
+tunneling	through	this	barrier.
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:00.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+FIGURE	1.8	Probability	density	“clouds”	for	the	electron	of	a	hydrogen	atom.	The	electron	is	represented
+in	two	different	energy	(quantum)	states,	n	=	1	and	n	=	2.	Other	quantum	numbers	l	and	m	describe	the	angular
+momentum	of	the	electron.	At	the	lowest	energy	level	(n	=	1),	the	electronic	orbital	forms	a	fuzzy	sphere	near	the
+nucleus	(the	proton).	At	the	higher	energy	level	(n	=	2),	the	electron	can	be	found	in	two	different	areas	around	the
+proton:	one	very	close	to	it	and	another,	larger	one,	five	times	more	distant.	The	curves	show	sections	of	the	threedimensional	figures.	Energy	absorption	by	the	electron	causes	it	to	move	from	the	lowest	energy	level	to	the	next,
+higher	one.	By	emitting	a	photon,	the	electron	falls	back	to	the	lowest	energy	level.	(Adapted	from	Spielberg,	N.,	and
+B.	D.	Anderson.	1987.	Seven	Ideas	That	Shook	the	Universe.	New	York:	John	Wiley	&	Sons.)
+
+FIGURE	1.9	The	tunnel	effect.	A	subatomic	particle	is	shown	as	a	wave	of	amplitude	A.	The	potential
+
+energy	 barrier	 V0	 is	 such	 that	 the	 particle	 is	 confined	 between	 “walls”	 1	 and	 2.	 It	 can	 be	 shown	 that	 a	 wall	 of
+thickness	d	can	be	penetrated	by	the	particle,	which	then	escapes	confinement	and	travels	on	from	point	3.	This	is
+impossible	in	the	“classical”	macroscopic	world.
+
+Quantum	 weirdness	 was	 developed	 further	 by	 Heisenberg	 who	 soon	 enunciated
+his	 famous	 uncertainty	 principle.	 According	 to	 this	 principle,	 it	 is	 impossible	 to
+determine	with	infinite	accuracy	both	 the	 momentum	 (the	 product	 of	 the	 velocity	 and
+the	 mass)	 and	 the	 location	 (the	 spatial	 coordinates)	 of	 an	 atomic	 or	 subatomic
+particle.	 In	 other	 words,	 if	 the	 location	 of	 a	 particle	 can	 be	 precisely	 determined,	 its
+velocity	 cannot,	 and	 vice	 versa.	 This	 has	 nothing	 to	 do	 with	 the	 accuracy	 of	 our
+instruments;	 Heisenberg	 demonstrated	 that	 indeterminacy	 is	 an	 intrinsic	 property	 of
+nature	as	described	by	quantum	mechanics.	The	uncertainty	principle	is	written
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:00.
+
+∆p	·	∆q	≥	h/2π,
+where	p	is	the	momentum	(mv),	q	represents	the	three	coordinates	of	space	(used	to
+position	 any	 object	 in	 three-dimensional	 space),	 h	 is	 the	 Planck	 constant,	 and	 π	 is
+3.14159…,	 making	 h/2π	 a	 constant	 number.	 The	 symbol	 ∆	 represents	 intrinsic
+imprecision,	variation	in	the	measurements.	Thus	if	we	measure	the	particle’s	position
+exactly,	∆q,	the	variation	in	position,	will	be	zero.	But	if	∆q	equals	zero,	then	∆p	must
+be	equal	to	or	greater	than	h/2π	divided	by	zero.	This	means	that	the	imprecision	in
+the	 measurement	 of	 the	 momentum	 (mass	 times	 velocity)	 is	 infinite!	 Heisenberg’s
+uncertainty	principle	is	often	misunderstood.	The	imprecision	in	the	measurements	of
+p	 and	 q	 has	 nothing	 to	 do	 with	 imperfect	 instruments	 and	 equipment;	 Heisenberg
+showed	 that	 his	 principle	 is	 a	 direct	 mathematical	 consequence	 of	 quantum
+mechanics.	And	again,	this	principle	was	demonstrated	experimentally.
+The	 Planck	 constant,	 h,	 is	 a	 very	 small	 number,	 and	 hence	 the	 uncertainty
+principle	 is	 not	 observable	 in	 the	 macroscopic	 world.	 This	 is	 why	 you	 should	 never
+invoke	this	principle	when	a	policeman	is	writing	you	a	speeding	ticket.
+The	uncertainty	principle	also	applies	to	another	pair	of	variables	and	can	also	be
+written
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+∆E	·	∆t	≥	h/2π,
+where	 E	 is	 the	 energy	 of	 a	 particle	 and	 t	 its	 lifetime	 in	 an	 excited	 state.	 Since	 E	 =
+mc2,	the	uncertainty	principle	allows	for	the	totally	counterintuitive	existence	of	virtual
+particles!	Simple	algebra	shows	that	particles	can	materialize	from	nothing	and	return
+to	 nothing	 if	 their	 lifetime	 ∆t	 is	 equal	 or	 smaller	 than	 (h/2π)/mc2.	 In	 other	 words,	 the
+uncertainty	principle	makes	possible	the	creation	of	particles	from	nothing	at	all	if	they
+return	 to	 nothing	 within	 a	 given	 ∆t	 proportional	 to	 their	 energy!	 In	 fact,	 following	 the
+uncertainty	principle,	we	should	think	of	empty	space,	a	perfect	vacuum,	as	brimming
+with	virtual	particles	popping	in	and	out	of	existence.	Or,	to	put	it	differently,	when	the
+uncertainty	principle	is	expressed	in	terms	of	energy	and	time,	it	shows	that	particles
+can	 materialize	 from	 nothing,	 if	 only	 for	 a	 very	 short	 time	 (see	 appendix	 2).	 This
+phenomenon	is	known	as	quantum	fluctuations	of	the	vacuum.	This	also	means	that	a
+vacuum,	 empty	 space,	 contains	 energy.	 And	 yes,	 bizarre	 as	 it	 may	 seem,	 this	 socalled	zero-point	energy	does	exist.	The	Dutch	physicist	Hendrik	Casimir	calculated	in
+1948	that	zero-point	energy	should	force	two	metal	plates	to	attract	each	other	when
+brought	 sufficiently	 close	 together.	 The	 Casimir	 effect	 was	 tested	 in	 the	 laboratory
+and	 verified.	 Therefore	 a	 vacuum	 contains	 energy,	 confirming	 the	 “reality”	 of	 virtual
+particles	and	quantum	fluctuations.	Again,	what	may	have	been	seen	as	sophisticated
+mathematics	 without	 physical	 basis	 turned	 out	 to	 be	 a	 law	 of	 nature.	 Heisenberg’s
+uncertainty	principle	rules	the	subatomic	world.
+Quantum	mechanics,	after	its	successful	application	to	the	properties	of	electrons,
+was	quickly	applied	with	equal	success	to	the	cases	of	the	two	subnuclear	particles,
+the	proton	and	the	neutron.	It	is	also	applicable	to	the	short-lived	particles	detected	in
+cosmic	rays	and	in	the	products	of	collisions	in	particle	accelerators.	In	its	75	years	of
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:00.
+
+existence,	 quantum	 mechanics	 has	 never	 been	 contradicted	 by	 empirical
+observations.	 It	 is	 a	 very	 good	 theory	 of	 nature.	 We	 will	 see	 later	 that	 aspects	 of
+quantum	 mechanics,	 in	 particular	 the	 wavelike	 nature	 of	 subatomic	 particles,	 as	 well
+as	 the	 uncertainty	 principle,	 have	 important	 consequences	 for	 the	 creation	 of	 the
+universe.	However,	the	interpretation	of	quantum	mechanics	is	not	complete,	nor	is	it
+completely	accepted.	Physicists	continue	to	argue	over	its	meaning.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+FORCES	OF	NATURE	AND	ELEMENTARY	PARTICLES
+Ordinary	matter5	 is	 composed	 of	 nuclear	 particles,	 neutrons	 (electrically
+neutral)	and	protons	(positively	charged),	that	combine	to	form	the	atom’s	nucleus.	As
+we	 have	 seen,	 the	 nucleus	 is	 surrounded	 by	 negatively	 charged	 electrons	 that
+counterbalance	the	positive	charge	of	the	nucleus.	Physicists	now	consider	electrons
+to	be	truly	elementary	particles.	This	means	that	electrons	do	not	seem	to	have	any
+kind	 of	 internal	 structure.	 Protons	 and	 neutrons	 are	 different	 from	 electrons.	 For
+decades	 after	 their	 discovery	 they	 were	 thought	 to	 be	 elementary	 as	 well.	 Then
+theoretical	 calculations	 and	 experiments	 with	 large-particle	 accelerators
+demonstrated	 that	 this	 is	 not	 the	 case.	 We	 now	 know	 that	 protons	 and	 neutrons
+(collectively	called	baryons,	meaning	“heavy”)	are	composed	of	three	subunits	each,
+called	quarks,	with	two	“up”	quarks	and	one	“down”	quark	for	the	proton	and	one	up
+quark	 and	 two	 down	 quarks	 for	 the	 neutron.	 As	 far	 as	 we	 know,	 quarks	 are	 truly
+elementary	and	devoid	of	internal	structure.
+Another	 category	 of	 elementary	 particles	 known	 to	 form	 ordinary	 matter,	 in
+addition	 to	 baryons,	 is	 the	 lepton	 (meaning	 light)	 class,	 which	 contains	 negatively
+charged	electrons	and	electrically	neutral	neutrinos.	The	mass	of	an	electron	is	about
+1/2000th	that	of	a	proton	or	neutron.	Neutrinos	appear	to	possess	a	very	small	mass,
+much	less	than	that	of	an	electron.	Neutrinos	interact	very	weakly	with	matter	and	are
+produced	 in	 a	 certain	 type	 of	 radioactive	 decay,	 called	 β	 decay.	 They	 exist	 as	 free
+particles	 in	 the	 universe,	 as	 they	 are	 produced	 by	 thermonuclear	 reactions	 taking
+place	in	stars.	The	Sun	is	a	profuse	source	of	neutrinos,	which,	incidentally,	are	totally
+harmless	for	living	organisms.
+All	 these	 elementary	 particles	 must	 interact	 to	 produce	 matter	 as	 we	 know	 it.
+They	 do	 this	 through	 the	 action	 of	 forces	 that	 must	 explain	 how,	 for	 example,
+positively	 charged	 protons	 present	 in	 an	 atomic	 nucleus	 do	 not	 repel	 each	 other
+instantly.	 Three	 such	 forces	 explain	 the	 stability	 of	 matter,	 while	 a	 fourth	 force
+explains	 the	 action	 of	 gravity.	 Thus	 modern	 physics	 recognizes	 four	 fundamental
+forces,	 the	 strong	 force,	 the	 electromagnetic	 force,	 the	 weak	 force,	 and	 the
+gravitational	force.	They	are	characterized	as	follows:
+	
+•				The	strong	force	unites	quarks	inside	baryons.	Interestingly,	and	counterintuitively
+(for	 most	 of	 us,	 anyway),	 the	 strong	 force	 is	 not	 that	 strong	 at	 extremely	 close
+range,	 but	 it	 gets	 stronger	 as	 the	 distance	 between	 two	 quarks	 increases.	 This
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:00.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+explains	why	free	quarks	have	never	been	observed.	The	“left	over”	of	the	strong
+force	(sometimes	called	the	nuclear	force)	unites	protons	and	neutrons	inside	the
+nucleus	and	is	stronger	at	closer	range.
+•				The	electromagnetic	force	governs	the	interactions	between	charged	particles.	It
+is	attractive	when	two	particles	have	opposite	charges	(positive	and	negative)	and
+repulsive	 when	 the	 charges	 are	 the	 same.	 It	 is	 weaker	 than	 the	 nuclear	 force	 at
+close	 range,	 explaining	 why	 two	 protons	 do	 not	 repel	 each	 other	 when	 they	 are
+present	 in	 the	 same	 nucleus	 but	 do	 so	 once	 the	 range	 of	 the	 nuclear	 force	 is
+exceeded.	Electromagnetic	forces	determine	the	overall	structure	of	matter,	as	in
+atoms	 where	 electrons	 surround	 a	 positively	 charged	 nucleus.	 The
+electromagnetic	 force	 is	 100	 to	 1000	 times	 weaker	 than	 the	 strong	 force.	 Its
+strength	 decreases	 with	 the	 square	 of	 the	 distance	 separating	 two	 particles	 (an
+example	of	the	well-known	inverse	square	law).
+•	 	 	 	 The	 weak	 force	 is	 also	 a	 type	 of	 nuclear	 force.	 Among	 others,	 it	 governs	 β−
+decay,	 a	 radioactive	 process	 through	 which	 a	 neutron	 is	 converted	 into	 a	 proton
+plus	 an	 electron	 and	 an	 antineutrino.	 Generally	 speaking,	 the	 weak	 force
+determines	the	interactions	between	baryons	and	leptons.	The	weak	force	has	an
+extremely	short	range	and	is	about	1	million	times	weaker	than	the	strong	force.
+•	 	 	 	 The	 gravitational	 force	 is	 always	 attractive	 and	 is	 1039	 times	 weaker	 than	 the
+strong	force.	It	governs	the	interactions	between	masses	and	follows	the	inverse
+square	 law,	 as	 does	 the	 electromagnetic	 force.	 We	 saw	 earlier	 that	 the
+gravitational	 force	 is	 in	 fact	 complex	 and	 results	 from	 the	 warping	 of	 space-time
+by	objects	possessing	mass.
+	
+In	quantum	theory,	all	forces	correspond	to	fields,	regions	of	space	where	a	force
+exists,	 and	 all	 four	 types	 of	 field	 are	 characterized	 by	 a	 given	 field	 particle	 (with	 its
+dual	 wave/particle	 characteristic)—hence	 the	 existence	 of	 a	 third	 category	 of
+particles	 to	 accompany	 baryons	 and	 leptons.	 Thus	 the	 strong	 force	 is	 mediated	 by
+gluons,	 massless	 particles	 acting	 at	 very	 short	 range.	 The	 electromagnetic	 force	 is
+mediated	 by	 the	 familiar	 photons,	 massless	 particles	 whose	 range	 is	 infinite	 (but
+varies	as	the	inverse	square	law).	Then,	the	weak	force	is	mediated	by	the	exchange
+of	Z0,	W+,	or	W−	field	particles	between	baryons	and	leptons.	The	field	particles	here
+are	 very	 massive	 and	 hence	 very	 energetic.	 This	 makes	 their	 lifetime	 very	 short,
+according	to	the	uncertainty	principle,	and	thus	makes	their	range	extremely	short	as
+well.	 Finally,	 the	 gravitational	 force	 is	 governed	 by	 gravitons,	 massless	 hypothetical
+particles,	with	infinite	range,	also	acting	according	to	the	inverse	square	law.
+Where	does	this	lead	us	in	our	attempts	to	understand	the	origin	of	matter?	Going
+back	to	the	theory	of	relativity,	we	understand	that	mass	(matter)	is	energy	and	thus
+energy	is	matter.	Therefore	given	enough	energy	in	a	system,	it	is	possible	to	create
+matter.	 It	 is	 then	 convenient	 to	 express	 units	 of	 mass	 in	 units	 of	 energy	 such	 as
+electron	volts,	where	1	electron	volt	is	the	energy	acquired	by	an	electron	submitted
+to	a	voltage	drop	of	1	volt.	Using	this	system,	and	knowing	that	the	mass	of	a	proton
+is	 1.67	 ×	 10−24	 grams,	 its	 mass	 in	 energy	 units	 is	 1000	 million	 electron	 volts,
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:00.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+abbreviated	 as	 1	 GeV.	 In	 comparison,	 the	 mass	 of	 an	 electron	 is	 only	 0.5	 million
+electron	volts	(MeV).	Current	particle	accelerators	and	colliders	achieve	energy	levels
+of	 about	 200	 GeV.	 These	 machines	 are	 thus	 easily	 able	 to	 create	 matter	 from
+energy;	 indeed,	 accelerators	 can	 create	 all	 sorts	 of	 subatomic	 particles.	 Therefore
+the	equivalence	between	matter	and	energy	and	the	mechanisms	involved	have	been
+experimentally	explored	for	many	years.
+Now	 any	 system	 (which	 can	 be	 a	 small	 collection	 of	 atoms,	 a	 human	 body,	 a
+galaxy,	 or	 even	 the	 whole	 universe)	 above	 a	 temperature	 of	 absolute	 zero	 emits
+electromagnetic	 radiation	 proportional	 to	 its	 temperature,	 very	 much	 as	 a	 blackbody
+does,	as	discussed	earlier.	In	scientific	notation,	temperature	is	expressed	in	degrees
+Kelvin	(also	called	absolute,	where	absolute	zero	is	−273°	Celsius),	abbreviated	as	K.
+Therefore	 a	 particular	 type	 of	 electromagnetic	 radiation,	 characterized	 by	 a	 certain
+range	 of	 wavelengths	 and	 energies	 (radio	 waves,	 microwaves,	 infrared	 and	 visible
+light,	 UV	 light,	 etc.)	 is	 associated	 with	 the	 equivalent	 temperature	 of	 a	 system.	 For
+example,	a	temperature	of	300	K	is	close	to	room	temperature	and	a	little	below	that
+of	 a	 human	 body.	 At	 this	 temperature,	 objects,	 including	 humans,	 emit	 primarily
+infrared	light.	This	is	how	night	vision	goggles	work;	they	capture	infrared	photons	and
+convert	 them	 into	 visible	 light.	 At	 10,000	 K	 (104	 K)	 or	 less,	 matter	 emits	 light	 in	 the
+visible	 range,	 this	 visible	 light	 being	 composed	 of	 higher-energy	 photons.	 At	 105	 K,
+matter	emits	UV	light,	which	at	108	K	becomes	X	rays,	and	at	109	K,	it	emits	gamma
+rays	 that	 can	 materialize,	 as	 we	 have	 seen,	 into	 electron-antielectron	 pairs.	 This	 is
+because	 the	 energy	 carried	 by	 gamma-ray	 photons	 is	 high	 enough	 to	 create	 matter
+according	to	E	=	mc2.
+Of	 course,	 no	 solid,	 liquid,	 or	 even	 gaseous	 matter	 can	 exist	 above	 a	 few
+thousand	 K;	 at	 these	 temperatures	 all	 matter	 exists	 in	 its	 fourth	 state,	 a	 plasma,	 in
+which	atomic	nuclei	and	some	electrons	are	no	longer	bound.	At	higher	temperatures
+still,	matter	ceases	to	exist	and	is	turned	into	radiation	of	very	short	wavelength	and
+hence	very	high	equivalent	temperature.	Thus	it	is	possible	to	establish	a	relationship
+between	 the	 temperature	 of	 a	 system	 and	 the	 particular	 state	 (matter	 or	 radiation)
+this	 system	 is	 in.	 As	 far	 as	 subatomic	 particles	 are	 concerned,	 this	 state	 directly
+depends	 on	 the	 mass-energy	 content	 of	 the	 system.	 Theoretical	 calculations	 and
+particle	accelerator	experiments	have	shown	that	quarks,	the	constituents	of	protons
+and	 neutrons,	 can	 exist	 stably	 only	 below	 1014	 to	 1013	 K.	 Protons	 and	 neutrons	 are
+stable	 below	 1012	 K,	 whereas	 electrons	 stabilize	 below	 4	 ×	 109	 K.	 Atoms—that	 is,
+nuclei	 surrounded	 by	 their	 electronic	 clouds—become	 stable	 in	 the	 range	 of	 3000	 to
+20,000	K.
+In	addition,	theoretical	calculations	and	experiments	have	shown	that	at	very	high
+energies	 (very	 high	 temperatures),	 the	 four	 forces	 of	 nature	 are	 united	 as	 one,	 a
+unified	superforce	 of	 sorts,	 because	 field	 particles	 (gluons,	 photons,	 the	 weak	 force
+particles,	 and	 gravitons)	 are	 not	 differentiated.	 As	 temperature	 goes	 down,	 gravity
+separates	out,	leaving	the	strong,	electromagnetic,	and	weak	forces	together.	Then,
+the	 strong	 force	 separates	 from	 the	 electroweak	 force,	 and,	 next,	 the	 weak	 and
+electromagnetic	 forces	 separate.	 In	 that	 sense,	 very	 high	 energy	 levels	 are
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:00.
+
+“pregnant”	with	the	four	forces	and	mass,	two	prerequisites	to	form	matter.
+Thus	to	build	a	universe	that	has	a	beginning	in	a	very	small	region	of	space,	one
+needs	 extremely	 high	 temperatures	 and	 energy	 levels	 high	 enough	 to	 lead	 to	 the
+production	 of	 matter,	 and	 these	 high	 temperatures	 must	 then	 decrease	 to	 induce
+stable	 matter	 particles,	 and	 subsequently	 atoms,	 to	 exist.	 Relativity	 provides	 a
+unification	 of	 the	 concepts	 of	 mass	 and	 energy	 (special	 relativity),	 and	 space	 and
+gravitation	 (general	 relativity).	 Quantum	 physics,	 on	 the	 other	 hand,	 unifies	 the
+concepts	 of	 particles	 and	 radiation.	 What	 is	 still	 missing,	 however,	 is	 a	 unification	 of
+general	 relativity	 and	 quantum	 physics.	 To	 achieve	 this	 goal,	 scientists	 will	 have	 to
+develop	 a	 quantum	 theory	 of	 gravity—in	 particular,	 a	 theory	 that	 can	 explain	 the
+behavior	 of	 space-time,	 gravity,	 and	 energy	 under	 the	 extreme	 conditions	 of	 density
+that	 prevailed	 at	 the	 moment	 of	 the	 Big	 Bang.	 This	 has	 yet	 to	 be	 accomplished.
+Nevertheless,	 we	 shall	 see	 in	 chapter	 2	 that	 both	 theories	 account	 very	 well	 for	 the
+properties	of	the	known	universe,	although	they	leave	the	mysteries	of	the	beginning
+still	 unsolved.	 As	 we	 now	 understand	 it,	 the	 universe	 must	 have	 begun	 in	 a
+tremendous	flash	of	released	energy:	the	Hot	Big	Bang.	This	energy	then	coalesced
+into	material	mass,	interacting	via	force	field	particles,	and	left	a	large	number	of	free
+photons	behind.	This	scenario	will	be	studied	in	the	next	chapter.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+CONCLUSIONS
+Relativity	and	quantum	physics	both	provide	accurate	descriptions	of	the
+world.	The	realm	of	relativity	is	the	very	large	and	the	very	fast.	Both	regimes	exist	in
+the	universe,	where	galaxies,	thousands	of	light-years	in	size,	recede	at	tremendous
+velocities.	 Relativity	 is	 the	 science	 of	 space.	 Quantum	 physics	 deals	 with	 the
+ultramicroscopic,	 the	 realm	 of	 the	 atom,	 the	 molecule,	 and	 their	 constituents.	 The
+cosmos	 basically	 contains	 only	 two	 things,	 radiation	 and	 matter,	 both	 present	 in	 a
+vast	 amount	 of	 space.	 By	 understanding	 radiation	 and	 its	 interactions	 with	 matter
+(quantum	 physics)	 and	 by	 understanding	 that	 radiation	 and	 matter	 are	 two	 forms	 of
+energy	 (relativity),	 we	 can	 build	 a	 model	 explaining	 the	 creation	 of	 the	 universe	 and
+the	matter	it	contains.
+On	 a	 final	 note,	 it	 is	 legitimate	 to	 wonder	 whether	 quantum	 physics	 and	 relativity
+have	any	impact	on	our	daily	lives.	In	the	case	of	relativity,	the	answer	is	probably	not
+much	(with	the	exception	of	nuclear	weapons	and	nuclear	reactors,	direct	spinoffs	of
+E	 =	 mc2);	 its	 realm	 seems	 so	 far	 limited	 to	 pure	 science.	 In	 the	 case	 of	 quantum
+physics,	 the	 answer	 is	 a	 definite	 yes.	 Our	 entire	 electronics	 industry	 is	 based	 on
+quantum	 theory.	 As	 Leon	 Lederman,	 Nobel	 laureate	 for	 physics,	 once	 said,	 “If
+everything	we	understand	about	the	atom	stopped	working,	the	GNP	[gross	national
+product]	would	go	to	zero.”
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:00.
+
+

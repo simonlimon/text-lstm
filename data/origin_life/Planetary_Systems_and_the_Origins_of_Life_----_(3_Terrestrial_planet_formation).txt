@@ -1,0 +1,1173 @@
+3
+Terrestrial planet formation
+Edward W. Thommes
+Canadian Institute for Theoretical Astrophysics
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+3.1 Introduction
+Kant (1755) and Laplace (1796) laid the foundations of our theory of planet
+formation, arguing that the Solar System formed in a ﬂattened disk orbiting the Sun.
+Today we know such disks to be a part of the star formation process (see Chapter 4),
+and we have come a long way toward understanding the details of how a protostellar
+disk turns itself into planets. Most importantly, for ten years now we have been
+ﬁnding planets orbiting other stars; the current count of detected exoplanets exceeds
+180, so that the Solar System now constitutes only a small minority of all known
+planets. The bad news is that Mercury, Venus, Earth, and Mars remain the only
+examples of terrestrial planets we know, since such bodies are still well below
+the mass threshold for detection around ordinary stars. Thus, apart from a pair
+of bodies orbiting the pulsar PSR1257 + 12 (Wolszczan and Frail, 1992), all
+known exoplanets are giants: gaseous bodies like Jupiter or Saturn with a couple
+of potentially Neptune-like examples recently added to the menagerie. However,
+impressive as the ‘king of the planets’ and its kind are, it is a terrestrial planet – a
+modest rocky body, three-thousandths Jupiter’s mass – which actually harbours the
+life in our Solar System. And as we contemplate the possibility of life elsewhere
+in the Universe, it is inevitably upon terrestrial planets that we focus our attention.
+It is thus especially important to attempt to understand the process of terrestrial
+planet formation, so that even in the absence of direct observations, we can assess
+the likelihood of other planets like our own existing around other stars. At the
+same time, such work allows us to plan ahead for future terrestrial planet-hunting
+missions like KEPLER, COROT, and (if it is resurrected) the Terrestrial Planet
+Finder (TPF).
+This chapter gives an overview of the theory of terrestrial planet formation
+as it currently stands. We begin with the formation of the basic building blocks,
+planetesimals, in Section 3.2. In Section 3.3, we look at how protoplanets grow from
+Planetary Systems and the Origins of Life, eds. Ralph E. Pudritz, Paul G. Higgs, and Jonathon R. Stone.
+Published by Cambridge University Press. © Cambridge University Press 2007.
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:07:56.
+
+42
+
+Terrestrial planet formation
+
+the agglomeration of planetesimals. This brings us to the ﬁnal stage of terrestrial
+planet formation in Section 3.4, wherein the protoplanets collide to produce
+bodies like Earth and Venus. We examine the ‘standard mode’ of how this stage
+plays out, together with some more recent variations, as well as the constraints
+cosmochemistry places on the the timeline of the Earth’s formation. In Section 3.5,
+we summarize the current state of the impact model for the origin of the Earth–Moon
+system. In Section 3.6, we consider terrestrial planet formation and evolution from
+an astrobiology perspective, including the concept of the habitable zone and the
+puzzle posed by the Late Heavy Bombardment. A summary is given in Section 3.7.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+3.2 The formation of planetesimals
+In the ﬁrst phase of terrestrial planet formation, solids condense out of the
+protostellar gas disk as dust grains, settle to the disk midplane, and eventually form
+kilometre-sized planetesimals. The actual mechanism of planetesimal formation
+remains unclear. Goldreich and Ward (1973) put forward a model in which the
+dust layer becomes sufﬁciently thin that it undergoes gravitational instability,
+contracting (in the terrestrial region) into kilometre-sized clumps and thus
+producing planetesimals directly. However, Weidenschilling (1995) pointed out
+that turbulent stirring of the dust layer would likely prevent gravitational instability.
+The dust particles are on Keplerian orbits while the gas disk, being partly supported
+by its own internal pressure, revolves at slightly less than the Keplerian rate. The
+resulting vertical shear in velocity at the dust–gas interface induces turbulence in the
+dust layer, preventing it from becoming thin enough for the onset of gravitational
+instability.
+Because of this problem, the most widely held current view is that dust particles
+build planetesimals by pairwise accretion. Laboratory experiments suggest that
+growth of dust to centimetre-sized aggregates proceeds quite easily, probably
+in 106 y (Paraskov et al. (2005 and references therein). At metre size and larger,
+the process is less well understood. For one thing, it is unclear how readily larger
+bodies stick together. Turbulent eddies in the gas disk may play a role in bringing
+about local particle concentrations (e.g., Barranco and Marcus (2005)). However,
+orbital decay due to aerodynamic gas drag from the nebula seems to present a
+problem. Due to the sub-Keplerian rotation of the gas, a solid body orbiting with
+the disk experiences a headwind, loses energy, and experiences continual orbital
+shrinking. Orbital decay rates are peaked for metre-sized bodies; for typical nebula
+models, such planetesimals spiral from 1 AU (= astronomical unit, the mean radius
+of the Earth’s orbit around the Sun, which is 1.5 × 1013 cm) into the central star
+on a timescale of order 100 years (Weidenschilling, 1977). Thus, it appears growth
+through this size regime must be extremely rapid in order to avoid the loss of all
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:07:56.
+
+3.3 The growth of protoplanets
+
+43
+
+solids. Another possibility is that ﬂuctuations in nebular gas density, turbulent or
+otherwise, may locally stall the migration.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+3.3 The growth of protoplanets
+Once the solids in the protoplanetary disk are mostly locked up in kilometresized bodies, their interactions become dominated by gravity, and in a sense
+the dynamics becomes simpler. We will begin with a qualitative description of
+what happens next. The planetesimals are on nearly circular coplanar Keplerian
+orbits within the disk, although mutual perturbations induce slight deviations from
+this. In terms of orbital elements, the planetesimals’ interactions induce in each
+other non-zero orbital eccentricities (thus making neighbouring orbits cross) and
+inclinations (thus vertically ‘pufﬁng up’ the disk). Since the self-stirring of the disk
+is gravitational, the upper limit to the relative velocities induced in the planetesimals
+is the surface escape velocity from the locally largest bodies. Therefore initially,
+when two planetesimals collide, they usually do so at an impact velocity low enough
+that accretion dominates over shattering. Larger-mass bodies have larger collision
+cross-sections, so accretion eventually becomes a runaway process: a relatively
+small subset of larger bodies, or protoplanets, grows very rapidly in the disk,
+consuming the smaller neighbours. However, runaway growth eventually runs out
+of steam when it becomes too successful; once the largest protoplanets are massive
+enough to dominate the gravitational stirring of the nearby disk, the feedback for
+accretion switches from positive to negative, and larger protoplanets grow more
+slowly than smaller ones. Thus neighbouring protoplanets converge toward similar
+sizes. For the little planetesimals it is now too late; with the large bodies having
+taken over the stirring, they now smash into each other at impact velocities too high
+for much accretion to occur, and they are reduced to serving as building material
+for the protoplanets. With the population of similar-sized protoplanets now ﬁrmly
+in charge, this regime is called oligarchic growth. The protoplanets keep sweeping
+up planetesimals, and occasionally two neighbours merge, until there is nothing
+but protoplanets left.
+We can gain some additional insight from a more quantitative approach. To begin
+with, a universally important quantity is the Hill radius (or Hill sphere), which gives
+a measure of gravitational reach of a body orbiting a central mass. For a companion
+of mass M orbiting a primary of mass M∗ at a distance r, it is deﬁned as
+
+
+M 1/3
+rH =
+r.
+(3.1)
+3M∗
+This is the radius within which a third body (with mass  M ) is able to orbit
+around M . Thus a moon must be within its parent planet’s Hill sphere. Of course,
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:07:56.
+
+44
+
+Terrestrial planet formation
+
+this is a necessary but not sufﬁcient condition; a would-be satellite approaching a
+planet too fast will simply pass through the Hill sphere with some deﬂection, rather
+than be captured.
+If the relative velocities between neighbouring planetesimals are dispersiondominated – i.e., the main contribution to their relative velocities is their mutual
+perturbations, rather than the difference in Keplerian speed between neighbouring
+orbits – their growth rate can be estimated using a simple ‘particle in a box’approach
+(Lissauer (1993) and references therein):
+dM
+= ρplsmls σ vrel ,
+dt
+
+(3.2)
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+where ρplsmls is the density with which planetesimals are distributed in the
+planetesimal disk, σ is the collisional cross-section of a planetesimal, and vrel
+is the average relative velocity between nearby planetesimals. The collisional
+cross-section of a planetesimal is given by
+
+
+2
+vesc
+2
+σ = πR 1 + 2
+≡ πR2 fg ,
+(3.3)
+vrel
+√
+where R is the planetesimal’s physical radius, vesc = 2GM /R is the escape
+velocity from its surface, and fg is the enhancement of the cross-section by
+gravitational focusing. With a few substitutions and simpliﬁcations, we can gain
+more insight from Equation (3.2). To begin with, we will assume that gravitational
+focusing is effective, so that fg 
+ 1. Also, ρplsmls = plsmls /2Hplsmls , where
+plsmls is the surface density of the planetesimal disk, and Hplsmls is the disk’s
+scale height. If the planetesimals
+have a characteristic
+√
+√ random velocity v, then the
+vertical component is ≈ v/ 3, and so H ≈ (rv)/( 3vKep ). Finally, vKep ∝ r −1/2 ,
+R ∝ M 1/3 and vesc ∝ M 1/3 , and so the growth rate has the form
+plsmls M 4/3
+dM
+∝
+.
+dt
+v2 r 3/2
+
+(3.4)
+
+As shown by Wetherill and Stewart (1989), planetesimal accretion is subject to
+positive feedback, which results in runaway growth: the largest bodies grow the
+fastest, rapidly detaching themselves from the size distribution of the planetesimals.
+The reason for this can be seen from Equation (3.4): dM /dt ∝ M 4/3 , and so the
+growth timescale is
+tgrow ≡
+
+M
+∝ M −1/3 ,
+dM /dt
+
+thus larger bodies grow faster than smaller ones.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:07:56.
+
+(3.5)
+
+3.3 The growth of protoplanets
+
+45
+
+Ida and Makino (1993) showed that runaway growth only operates temporarily;
+once the largest protoplanets are massive enough to dominate the gravitational
+stirring of the nearby planetesimals, the mode of accretion changes. From this
+point on, near a protoplanet of mass M , the planetesimal random velocity is
+approximately proportional to the surface escape speed from the protoplanet, and
+so v ∝ M 1/3 . Therefore, we now have
+plsmls M 2/3
+dM
+∝
+,
+dt
+r 3/2
+
+(3.6)
+
+tgrow ∝ M 1/3 .
+
+(3.7)
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+which makes
+
+Thus growth becomes orderly; larger bodies grow more slowly, and we have the
+onset of oligarchic growth (Kokubo and Ida, 1998). In the terrestrial region, the
+transition from runaway to oligarchic growth already happens when the largest
+protoplanets are still many orders of magnitude below an Earth mass (Thommes
+et al., 2003). As a result, protoplanets spend almost all of their time growing
+oligarchically.
+As long as nebular gas is present, the random velocity v of the planetesimals
+is set by two competing effects: gravitational stirring acts to increase v, while
+aerodynamic gas drag acts to reduce it. One can estimate the equilibrium random
+velocity by equating the two rates (Kokubo and Ida, 1998). In this way, one can
+eliminate v and write the protoplanet growth rate (recall that there is essentially
+no more planetesimal–planetesimal growth by this time) in terms of planetesimal
+and gas disk properties. Also, for simplicity we approximate the planetesimal
+population as having a single characteristic mass m. The result is (for details
+see Thommes et al. (2003))
+dM
+≈ Aplsmls M 2/3 ,
+dt
+
+(3.8)
+
+where
+2/5
+
+A = 3.9
+
+1/6 2/5
+
+b5/2 CD G 1/2 M∗ ρgas
+4/15
+
+1/3
+
+ρplsml ρM r 1/10 m2/15
+
+.
+
+(3.9)
+
+CD is a dimensionless drag coefﬁcient ∼1 for kilometre-sized or larger
+planetesimals, M∗ is the mass of the central star, ρgas is the density of the gas disk,
+and ρM and ρm are the material densities of the protoplanet and the planetesimals,
+respectively. The parameter b is the spacing between adjacent protoplanets in units
+of their Hill radii (3.1). An equilibrium between mutual gravitational scattering on
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:07:56.
+
+46
+
+Terrestrial planet formation
+
+the one hand and recircularization by dynamical friction on the other keeps b ∼ 10
+(Kokubo and Ida, 1998).
+Protoplanet growth by sweep-up of planetesimals ceases when all planetesimals
+are gone. This leads to the notion of the isolation mass, which is the mass at which a
+protoplanet has consumed all planetesimals within an annulus of width brH centred
+on its orbital radius. The isolation mass is given by
+3/2
+
+2πbplsmls r 2
+Miso =
+.
+(3.10)
+√
+3M∗
+Note that when plsmls ∝ r −2 , Miso is constant with radius from the star; the
+increasing gravitational reach at larger distance from the star exactly balances the
+falloff in the density of planetesimals. For any shallower surface density proﬁle,
+Miso increases with r.
+In order to obtain values for protoplanet accretion times and ﬁnal masses, a
+useful starting point is the ‘minimum-mass Solar Nebula’(MMSN) model (Hayashi,
+1981), which is obtained by ‘smearing out’ the refractory elements contained in the
+Solar System planets into a power-law planetesimal disk, then adding gas to obtain
+solar abundance:
+	 r 
+−3/2
+min
+gas
+= 1700
+g cm−2 ,
+(3.11)
+1 AU
+min
+ρgas
+≈ gas /2H ,
+
+H = 0.0472
+
+	 r 
+5/4
+AU,
+1 AU
+
+(3.12)
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+and
+min
+solid
+= 7.1FSN
+
+where
+
+	 r 
+−3/2
+g cm−2 ,
+1 AU
+
+(3.13)
+
+
+FSN =
+
+1,
+r < rSN
+4.2, r > rSN
+
+(3.14)
+
+is the ‘snow line’ solids enhancement factor: beyond rSN (= 2.7 AU in the Hayashi
+model), water freezes out, thus adding to the surface density of solids.
+Since the exponent of the surface density power law is greater than −2, we know
+from Equation (3.10) that the isolation mass will increase with distance from the
+star (though from Equation (3.8), the time to ﬁnish growing also increases with r).
+Using Equation (3.10) with b = 10, the MMSN yields an isolation mass of 0.07
+M⊕ at 1 AU. If we assume a material density of 2 g cm−3 for planetesimals and
+protoplanets, and a characteristic planetesimal size of ∼1 km (with a corresponding
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:07:56.
+
+3.4 The growth of planets
+
+47
+
+Protoplanet mass (Earth masses)
+0.14
+0.12
+0.1
+0.08
+0.06
+0.04
+0.02
+0.5
+
+1
+
+1.5
+
+2
+
+2.5
+
+Orbital radius (AU)
+
+Fig. 3.1. Protoplanet accretion during the ‘oligarchic growth’ phase in an MMSN.
+The average protoplanet mass as a function of distance from the star is plotted at
+104 (dashed), 105 (dotted), and 106 (solid) years, showing how growth proceeds
+as a ‘wave’ from inside out through the disk. The upper limit, or isolation mass,
+is also plotted (thick). By a million years, growth has ﬁnished, i.e., essentially all
+planetesimals have been agglomerated into protoplanets, well out into the region
+of the present-day asteroid belt.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+mass of 10−12 M⊕ ), the growth timescale for an isolation-mass body at 1 AU is
+tgrow ≡ M /(dM /dt) ≈ 6 × 104 y. Thus, the sweep-up of planetesimals into
+protoplanets proceeds very rapidly in the terrestrial region, concluding long before
+the nebular gas dissipates, which takes a few million years (Haisch et al., 2001).
+Figure 3.1 plots the solution to Equation (3.8) at different times, showing the
+progression of protoplanet growth through the terrestrial region during the ﬁrst
+million years of the disk’s lifetime.
+
+3.4 The growth of planets
+With the protoplanets (or ‘oligarchs’) now starved of planetesimals, the ﬁnal stage
+of terrestrial planet formation requires them to agglomerate with one another.
+For this to happen, their orbits have to cross. This is referred to as the giantimpact (or chaotic) phase. We will begin with a description of how this unfolds
+in the ‘standard model’, and then touch on some more recent efforts to tie up the
+loose ends.
+Traditionally, N -body simulations have been the tool of choice for characterizing
+the giant-impact phase. The problem is particularly well suited to this approach,
+because once all the planetesimals have been locked up in perhaps tens to hundreds
+of protoplanets, N is no longer an intractably large number. The ﬁrst direct N -body
+calculations (Cox and Lewis, 1980; Lecar and Aarseth, 1986) revealed a number of
+key features of the giant-impact phase. They showed that an ensemble of lunar-to
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:07:56.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+48
+
+Terrestrial planet formation
+
+Martian-sized bodies, allowed to agglomerate with one another in collisions,
+naturally formed Solar-System-like terrestrial planets. They also demonstrated that
+this process is highly stochastic. Because only a few bodies remain at the end,
+in any single simulation the notion of a characteristic planet mass as a function of
+distance from the star becomes meaningless, and the approach we use in Section 3.3
+can no longer be applied.
+Taken together, the work of Chambers and Wetherill (1998), Agnor et al. (1999),
+and Chambers (2001) can be said to delineate the ‘standard model’ of how the
+ﬁnal stage of terrestrial planet formation plays out: simulations begin with a
+population of 102 –103 lunar- to-Martian-sized protoplanets, the endproducts of
+the previous oligarchic growth phase. Different realizations of a particular initial
+condition typically vary only by the (randomly-generated) initial orbital phases of
+the protoplanets; the stochastic nature of these systems ensures that this is enough
+to make the details of the evolution completely different from one simulation to
+the next. Nevertheless, averaging over enough simulations, a number of common
+features emerge. On a timescale of ∼(1–3) × 108 years, these bodies collide with
+each other and accrete to form planetary systems which, on average, resemble the
+Solar System’s terrestrial planets in mass, number, and orbital radius. Mercury and
+Mars, given their small sizes, seem to ﬁt into the picture as essentially primordial
+oligarchs that managed to come through the whole process without undergoing
+any major accretional collisions. The spin of each endproduct is dominated by
+the last few major impacts on it, and to lowest order is randomly oriented. This
+contrasts with the present-day Solar System, in which all terrestrial planet spins are
+approximately perpendicular to their orbital plane. However, the obliquities of the
+terrestrial planets have evolved signiﬁcantly by processes such as tidal interactions
+and spin–orbit coupling, thus their spins are unlikely to be primordial. A more
+puzzling issue is that of the ﬁnal orbital eccentricities and inclinations. Their timeaveraged values are almost universally larger (e, i  0.1, for i in radians) than
+those of Earth and Venus today (e, i ≈ 0.03) (Chambers and Wetherill, 1998;
+Nagasawa et al., 2006).
+Because numerical models of late-stage terrestrial planet formation are otherwise
+so successful, the problem of reproducing the low e and i of Earth and Venus has
+been the subject of much effort; it really is a case of ‘so close and yet so far!’
+Considering that we are demanding that the terrestrial region evolve directly from
+wildly crossing orbits and giant impacts, to a very quiescent state of nearly circular,
+coplanar orbits, this failure is not really surprising. In the most general terms, to
+solve this problem an additional, dissipative physical process must be invoked,
+which will damp away the planets’ non-circular motions. A number of different
+mechanisms have been put forth and, as yet, nothing approaching a consensus
+has been reached among theorists. Below, we look at three proposed models.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:07:56.
+
+3.4 The growth of planets
+
+49
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+Perhaps the most obvious candidate is the planets’ own leftover building
+material. If a signiﬁcant mass in planetesimals is left in the system, this can exert
+dynamical friction on the planets (e.g., Wetherill and Stewart (1989)): a population
+of gravitationally interacting bodies with different masses evolves toward a state
+where the energy in random velocities (relative to circular Keplerian orbits; see
+Section 3.3) is the same for all bodies, regardless of mass. This makes smaller
+bodies gain eccentricity and inclination at the expense of the larger ones, so that the
+latter have their e and i damped. The problem is that the timescale for sweeping up
+the planetesimals is, as we saw in Section 3.3, only ∼105 years. Thus, a signiﬁcant
+reservoir of planetesimals is unlikely to persist long enough to affect the dynamics
+after 108 years or more. Alternatively, a large number of small bodies, right down
+to dust size, may be generated collisionally during the planet growth process
+(Goldreich et al., 2004).
+As long as the nebular gas persists, it also acts as a source of damping for
+protoplanet eccentricities and inclinations. Though bodies larger than kilometre size
+are not strongly affected by aerodynamic gas drag, their gravitational interaction
+with the gas disk can have a signiﬁcant effect on them. Each planet launches density
+waves into the interior and exterior part of the disk, exchanging energy and angular
+momentum with it. The net result is that planets migrate inward while having their
+eccentricities damped (Goldreich and Tremaine, 1980; Artymowicz, 1993; Ward,
+1997; Papaloizou and Larwood, 2000). The approximate orbital and eccentricity
+decay timescales for a planet of mass M orbiting a star of mass M∗ with initial
+semi-major axis ap and eccentricity ep are (Artymowicz, 1993; Papaloizou and
+Larwood, 2000)
+ap
+ta ≡ − ∼
+a˙p
+
+
+
+M
+M∗
+
+−1 
+
+2πap2 gas
+
+−1 
+
+M∗
+
+H
+ap
+
+2
+Torb
+
+(3.15)
+
+and
+te ≡
+
+ep
+∼
+e˙p
+
+
+
+H
+ap
+
+2
+ta ,
+
+(3.16)
+
+where Torb is the orbital period at a distance ap from the star. Note that the quantities
+in brackets are all unitless; the ﬁrst is the ratio of planet to star mass, the second is
+(roughly) the ratio of disk mass interior to ap to star mass, and the third is the ratio
+of disk scale height to radius at radius ap (i.e., the disk’s vertical aspect ratio). For an
+Earth-mass body in MMSN gas disk (with gas and H given by Equations (3.11) and
+(3.12)) around the Sun, these ratios are 3 × 10−6 , 1.2 × 10−3 , and 0.05 respectively.
+The orbital period at 1 AU is 1 y, so the body suffers orbital decay on a timescale
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:07:56.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+50
+
+Terrestrial planet formation
+
+of ∼7 × 105 y, and has its eccentricity damped on a timescale of ∼2 × 104 y.
+Because of this difference in timescales, even when the gas disk has become so
+tenuous that only very little planet migration is occurring, the planets can still be
+subject to signiﬁcant eccentricity damping.
+Kominami and Ida (2002, 2004) performed simulations of this scenario. They
+found, ﬁrst of all, that the giant-impact stage tends to be delayed until the
+gas is strongly depleted, such that te  106 y, approximately the crossing
+time for adjacent oligarchs. Therefore in this scenario, the terrestrial region is
+essentially frozen in the end state of oligarchic growth until the gas disk is tenuous
+enough that dynamical evolution can resume. Kominami and Ida demonstrated
+that low ﬁnal eccentricities of Earth and Venus analogues can be generated in
+this way, but ﬁne tuning of the disk properties, speciﬁcally the gas dispersal
+time, is required. Even then, on average six–seven bodies are left in the end,
+signiﬁcantly more than the present-day number of Solar System terrestrial planets.
+The fundamental problem is that making the oligarchs’ orbits cross and damping
+their eccentricities are two conﬂicting objectives. Also, they found that including
+the gravitational perturbations on the terrestrial region due to Jupiter and Saturn
+tended to make the model work more poorly (in the sense that eccentricities and
+inclinations became higher), leading them to speculate that the terrestrial planets
+might have formed at a time when Jupiter and Saturn had not yet reached their
+ﬁnal masses.
+Nagasawa et al. (2005) (see also Nagasawa et al. (2006)) developed a model
+for late-stage terrestrial planet formation via a large-scale dynamical shakeup.
+The model likewise hinges on the dissipating gas disk; however, it also includes
+the effect of the gas disk on the precession of all the embedded orbits, with the
+result that things play out in a dramatically different way. This is due to the effect
+of a secular resonance of Jupiter, a detailed discussion of secular resonances is
+given in, e.g., Murray and Dermott (1999). Here, we will restrict ourselves to a
+simpliﬁed, qualitative description: A secular resonance between two bodies occurs
+(approximately) when the precession frequencies of their orbits are equal. In this
+case, we are looking at the precession rate of terrestrial oligarchs relative to that of
+Jupiter. The former precess due to the gravitational inﬂuence of the gas disk, Jupiter,
+Saturn and, to a lesser extent, each other. Jupiter, meanwhile, is made to precess
+by the inﬂuence of Saturn and the gas disk, as well as a small contribution from
+the protoplanets themselves. When a given oligarch’s precession matches that of
+Jupiter and a resonance occurs, a rapid exchange of angular momentum takes place
+between the two bodies. Being much more massive, Jupiter’s orbit undergoes little
+change. The orbit of the small protoplanet, however, rapidly gains eccentricity. For
+a given gas disk density distribution, there is one particular orbital radius interior
+(and exterior, though this plays no role in the model) to Jupiter at which a body
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:07:56.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+3.4 The growth of planets
+
+51
+
+will be in secular resonance. As the gas disk dissipates (through a combination
+of accreting onto the star, photoevaporation, and stripping by stellar winds), its
+gravitational potential changes and so too do the precession rates of the embedded
+(proto)planets and thus the location of the interior secular resonance. The resonance
+begins near Jupiter in a massive gas disk, ﬁnally ending up – once the gas is all
+gone – at its present-day location at 0.6 AU, just inside the current orbit of Venus
+(Lecar and Franklin, 1997; Nagasawa and Ida, 2000). Along the way it thus sweeps
+the asteroid belt and much of the terrestrial region and one after another the oligarchs
+have their eccentricity sharply raised, thus crossing their neighbours’ orbits. In this
+way, the giant-impact phase is kick-started when there is still a signiﬁcant amount
+of gas left in the disk. Nagasawa et al. (2005) performed numerical simulations of
+this process and found that accretion among oligarchs can ﬁnish rapidly in this way,
+leaving enough time for the last remnants of the gas disk to damp the eccentricities
+and inclinations of the end products. Another effect in evidence is a net inward
+migration of material during the resonance sweeping process, since bodies forced
+to high eccentricities in the presence of a damping force lose orbital energy as their
+eccentricity is damped again, thus spiralling inward (Lecar and Franklin, 1997). This
+offers a way to both clear the asteroid belt region (which is highly depleted relative
+to even the MMSN planetesimal disk) and deliver water-rich building material for
+the Earth (see Section 3.6).
+Parent–daughter pairs of radioactive isotopes can be exploited as chronometers
+to trace the timelines of processes in the early Solar System, potentially helping
+us to decide among the different formation models. Two such pairs are Hf–W
+and U–Pb. For both of these, the parent element is a lithophile that is retained
+in silicate reservoirs during planetary accretion, whereas the daughter element is
+segregated into the core. Since each of the large late-stage impacts would ‘reset
+the clock’ by remixing core and mantle, measurements of relative abundances of
+these elements in the Earth can be used to estimate how long ago the giant-impact
+phase concluded. It is thought that the last impact was the Moon-forming one
+(see Section 3.5). Measurements of Hf–W have been used to derive a growth time
+of the Earth ranging from about 15 to 50 My (Yin et al., 2002; Kleine et al., 2002;
+Wood and Halliday, 2005), intriguingly similar to the short timescales obtained by
+Nagasawa et al. (2005). However, the U–Pb chronometer implies a later formation
+time, ∼65–85 My (Halliday, 2004). It may be that U–Pb traces the last stages of
+core segregation, while Hf–W traces the time for most of the core to ﬁnish forming
+(Sasaki and Abe, 2005). Given the difﬁcult nature of these measurements, it should
+not be surprising that the different groups’ results have still not been completely
+reconciled with each other. Future developments in this area may yet allow us to
+determine with some certainty whether the formation of the terrestrial planets was
+rapid or drawn out.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:07:56.
+
+52
+
+Terrestrial planet formation
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+3.5 The origin of the Earth–Moon system
+The leading model for the formation of the Moon is that a Mars-mass impactor
+struck the proto-Earth, with the Moon accreting out of the resulting debris disk
+(Hartmann and Davis, 1975; Cameron and Ward, 1976). This scenario naturally
+results in a Moon depleted in volatiles and iron-poor (since the impact would have
+preferentially splashed out mantle material from the proto-Earth). The giant-impact
+model was explored further via a succession of smoothed-particle hydrodynamics
+(SPH) simulations, greatly increasing over time in resolution as computing power
+advanced (Benz et al., 1986; Cameron and Benz, 1991; Canup and Asphaug, 2001;
+Canup, 2004). As mentioned in Section 3.4, this impact is thought to have been the
+last major accretion event in the Earth’s history.
+The latest simulations reproduce the Earth–Moon system best with an impactor
+just over 0.1 M⊕ striking proto-Earth at about a 45◦ angle. This ejects about a
+lunar mass of material exterior to Earth’s Roche radius (the distance inside which
+a strengthless, self-gravitating body would be disrupted by Earth’s tidal forces) at
+about 3 Earth radii (R⊕ ). The vast majority of this material comes from the impactor
+itself. Initially, 10–30% of it is in the form of silicate vapour. The orbital period at the
+Roche radius is only about 7 hours, thus subsequent evolution is very fast. Ida et al.
+(1997) simulated the accretion of the Moon in the protolunar disk, showing that it
+takes between a month and a year to get to a single remaining lunar-mass body. The
+Moon’s current orbital radius is ≈ 60 R⊕ , thus its orbit has expanded signiﬁcantly
+from the time it formed. This is effected by the Moon’s tidal interaction with the
+Earth, which transfers angular momentum from the Earth’s spin to the Moon’s orbit.
+Early on, interaction with the last remnants of the protolunar disk likely also made
+a large contribution to the outward migration of the Moon (Ward and Canup, 2000).
+It has been suggested that the Moon may have actually aided the development
+of life on Earth (Benn (2001) and references therein): the Moon stabilizes the
+Earth against chaotic obliquity variations, and thus against large variations in
+climate. Also, without the Moon-forming impact, Earth may have retained its thick
+primordial atmosphere and ended up more similar to Venus. Finally, a more closelyorbiting early Moon would have raised substantial tides on the Earth’s surface,
+which may have aided the formation of life in tidal pools.
+
+3.6 Terrestrial planets and life
+The term ‘habitable zone’ (HZ) goes back to Huang (1959). The criteria adopted for
+what constitutes a potentially life-supporting planet have varied widely. The most
+durable has proven to be simply the requirement that liquid water can exist on the
+planet surface (Rasool and de Bergh, 1970; Kasting et al., 1988). In fact, ‘Follow
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:07:56.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+3.6 Terrestrial planets and life
+
+53
+
+the water!’ has become one of the guiding principles of astrobiology. Kasting et al.
+(1993) used a climate model to calculate this zone for stars later than F0, which
+have lifetimes exceeding 2 Gy, thus giving life ample time to evolve. The inner edge
+of the HZ is set by water loss via photolysis and hydrogen escape; the outer edge
+is set by the formation of CO2 clouds, which cool a planet by raising its albedo.
+For G stars like the Sun, Kasting et al. (1993) conservatively estimated that the
+HZ stretches from 0.95 to 1.37 AU. F stars, being hotter, have a more distant HZ,
+while later type stars have a closer-in HZ (their Fig. 16). They point out that the
+logarithmic width of HZs is approximately constant across stellar types. This is
+signiﬁcant because the spacing between adjacent planets ought to be set at least
+in part by their Hill radii; since rH ∝ r (Equation (3.1)) this implies (for a given
+planetary mass) logarithmic spacing. Thus, the number of planets which ﬁt into an
+HZ can be expected to be very roughly constant across stellar types. However, the
+closer-in HZ of later type stars does lead to a potential obstacle to life: for M type
+stars, planets in the HZ will become tidally locked into synchronous rotation with
+the central star over a time less than the star’s age. The resultant eternally-dark
+planetary hemisphere would likely be frozen and uninhabitable.
+Water is the basis of life on Earth, but tracing the origin of the Earth’s water
+is also central to understanding terrestrial planet formation. Most models of the
+protosolar nebula have too high a temperature at 1 AU for water to condense
+out of the gas (Nagasawa et al. (2006) and references therein). Hence, models of
+terrestrial planet formation generally invoke a way to deliver water from reservoirs
+at larger heliocentric distances. This idea is supported by the deuterium to hydrogen
+(D/H) ratio of the Earth’s oceans, which is many times higher than expected in the
+protosolar nebula at 1 AU. Still uncertain is what fraction of such material came
+from the asteroid belt (e.g., Morbidelli et al. (2000)) vs the trans-Jupiter region
+(e.g., Levison et al. (2001), Lunine et al. (2003), Raymond et al. (2004), Gomes et al.
+(2005)), i.e., ‘wet asteroids’ vs comets. Observational evidence appears to favour
+the asteroid belt, since the D/H ratio of carbonaceous chondrites is closer to that of
+the Earth’s oceans than is that of comets (Balsiger et al., 1995; Meier et al., 1998;
+Bockelee-Morvan et al., 1998; Dauphas et al., 2000; Drake and Righter, 2002).
+One way to systematically deliver large amounts of icy material from beyond the
+snow line to the terrestrial region is via the late-stage formation model of Nagasawa
+et al. (2005) outlined in Section 3.4.
+The cratering record on the Moon seems to suggest a spike in the impact rate about
+700 My after the formation of the Solar System (e.g., Hartmann et al. (2000)). This
+cataclysmic event in our early history turns out to be a puzzle from the point of view
+of both celestial mechanics and the origin of life. Insofar as the latter is concerned,
+there exists some (controversial) carbon isotopic evidence for the existence of life
+3.7–3.85 Gy ago (Wells et al. (2003) and references therein), right around the time
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:07:56.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+54
+
+Terrestrial planet formation
+
+of the Late Heavy Bombardment (LHB). This is surprising since the LHB is likely
+to have sterilized the entire Earth (Sleep et al., 1989). One explanation put forward
+by Maher and Stevenson (1988) is that around this time, life might simply have
+arisen repeatedly and on fairly short timescales, only to be continuously frustrated
+by catastrophic impacts. Thus as soon as the impacts ceased, life arose one last time
+and took hold. Another possibility is that life found a way to weather the impacts,
+either deep underground or in impact ejecta (Sleep et al., 1998). Such ejecta may
+even have seeded life elsewhere in the Solar System, such as Mars – a sort of cosmic
+enactment of not having all the eggs in one basket.
+From a dynamics point of view, the timing of the LHB has also been the cause
+of much study and speculation. As discussed in Section 3.3, the sweep-up of
+planetesimals in the terrestrial region proceeds on a timescale well below a million
+years. Where, then, do all the impactors for the LHB come from? Several different
+scenarios have been proposed. Zappala et al. (1998) suggested the breakup of an
+asteroid; however, to provide enough material for the LHB, the asteroid’s size must
+have been an order of magnitude greater than Ceres (which, with a diameter of
+950 km, is the largest body in the asteroid belt today). Chambers and Lissauer
+(2002) showed that an extra planet beyond Mars, perhaps around 2 AU, could
+have been the culprit. Such a planet could have become unstable on a 700 My
+timescale, become eccentric, and crossed as-yet undepleted planetesimal reservoirs
+in the inner asteroid belt. These planetesimals would then have been perturbed
+onto orbits crossing the terrestrial region. The chief difﬁculty lies in preserving a
+signiﬁcant planetesimal population between 2 AU and Jupiter for this length of
+time. Finally, Gomes et al. (2005) devised a model in which the LHB is triggered
+directly by Jupiter and Saturn. The giant planets almost certainly underwent a
+period of gradual, divergent migration as they exchanged angular momentum via
+the scattering of planetesimals (Fernández and Ip, 1996; Hahn and Malhotra, 1999).
+Gomes et al. (2005) posited an initially compact conﬁguration for the giant planets,
+with Uranus and Neptune between 11 and 15 AU, and Jupiter and Saturn just inside
+their 1:2 mean-motion resonance. As the planetesimals are scattered back and forth
+among the giant planets they migrate apart, and at the moment when Jupiter and
+Saturn cross their 1:2 resonance divergently, both receive a kick in eccentricity,
+as previously shown by Chiang et al. (2002). This excitation, then, serves as the
+trigger for the LHB, delivering a large ﬂux of planetesimals from the outer disk
+onto orbits that cross the terrestrial region. To a lesser extent, material remaining
+in the asteroid belt may also participate.
+The trick is to make this event happen so late; Gomes et al. (2005) showed
+that the timing of the migration can be controlled by the distance between the
+outermost giant planet and the inner edge of the planetesimal disk. Since many
+planetesimals will have already been accreted or scattered during the giant planets’
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:07:56.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+3.6 Terrestrial planets and life
+
+55
+
+formation, a distance of more than 1 AU between the giant planets and the inner
+disk edge, as in their best-ﬁt model, is not implausible. However, although this
+model constitutes a clever way to obtain an essentially arbitrarily long evolution
+followed by a cataclysm, the initial locations of the giant planets need to be rather
+ﬁnely tuned, without any obvious cosmogonical justiﬁcation.
+In Section 3.4, we looked at one way in which the formation process of terrestrial
+planets in the Solar System may have been driven by the dynamical inﬂuence of
+Jupiter and Saturn. We now consider other, more general, ways in which giant
+planets may affect terrestrial planets, with an emphasis on the issue of habitability.
+While Section 3.4 describes a scenario in which the giant planets may help
+terrestrial planet formation, it is just as possible for giant planets to hinder the
+formation of terrestrial planets. In a mature planetary system, the existence of
+a Jovian planet in or near the HZ will make it unlikely terrestrial planets will
+have survived in the same region. Even a stable HZ is no guarantee of a friendly
+environment for terrestrial planets. During the lifetime of the gas disk in the ﬁrst
+few million years, substantial migration of planets, especially giant planets, is likely
+to occur due to gravitational planet–disk interactions (Goldreich and Tremaine,
+1980; Lin and Papaloizou, 1986; Ward, 1997). Numerous gas giants planets may
+in fact be lost during this time by migrating inside a disk gap (‘Type II’ migration)
+all the way into the central star (Trilling et al., 2002). If gas giants form by
+core accretion (Pollack et al., 1996), growing giant planet cores, ∼10 M⊕ in
+mass, likely migrate even faster than gas giants, so that even a system in which
+no gas giant ever penetrates the terrestrial region may suffer an early period of
+being repeatedly transited by Neptune-sized bodies (Thommes and Murray, 2006).
+Dynamical studies do suggest, though, that even under such adverse conditions,
+some fraction of the (proto)planets in the terrestrial region can survive (Mandell
+and Sigurdsson, 2003; Fogg and Nelson, 2005). Finally, it is worth mentioning that
+even in systems where a gas giant ends up right in the HZ, biology may have another
+recourse: if the giant has one or more large moons, these may provide a suitable
+setting for life to arise. Laughlin et al. (2004) argued that the formation of gas
+giants ought to be unlikely around low-mass M dwarfs. They assumed that the disk
+mass scales with the stellar mass; this would make for a longer growth timescale
+and a lower ﬁnal mass for planets grown about such stars (M ≤ 0.4 M ). If gas
+giants grow by core accretion, this makes it less likely that cores of large enough
+mass to accrete the requisite massive gas envelope will grow within the time that
+the gas disk persists, 10 My (GJ 876, M∗ = 0.3 M , orbited by two planets with
+M sin i = 0.6 MJup and 1.9 MJup , is a notable counterexample). However, growing
+a terrestrial planet is a much less demanding proposition, and effectively the only
+time limit is the age of the system. Thus terrestrial planets ought to still be common
+around M dwarfs. In fact, with fewer gas giants to threaten their stability, it is
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:07:56.
+
+56
+
+Terrestrial planet formation
+
+conceivable that terrestrial planets are actually more common on average around
+lower-mass stars. Since M dwarfs are by far the most common stars, making up
+about 70% by number of the stars in the Galaxy, the total number of HZ-dwelling
+terrestrial planets is potentially very high.
+Although a system with no giant planets at all may be a safer haven for terrestrial
+planet formation and survival, a lack of gas giants may negatively impact the
+habitability of the planets which do form, even those that end up in their respective
+HZ. In the Solar System, Jupiter intercepts a large fraction of the comet ﬂux which
+would otherwise cross the terrestrial region. It is thus often argued that without
+such a dynamical barrier, life would never have arisen and survived on our planet,
+and that a gas giant exterior to the HZ is an additional necessary condition for
+habitability. However, the issue is perhaps not quite as clear-cut as it appears at ﬁrst
+glance; after all, Jupiter’s perturbations also play a large role in producing shortperiod comets from the Kuiper belt and long-period comets from the Oort cloud
+in the ﬁrst place. In fact, outward scattering of planetesimals by Jupiter plays the
+main role in actually building the Oort cloud (Duncan et al., 1987). Quantifying the
+difference in comet ﬂux into the HZ of a mature planetary system with and without
+exterior gas giants is thus an important area for future work, and one which needs
+to be undertaken before we can properly assess the potential for low-mass stars to
+harbour life.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+3.7 Summary
+From the theorist’s perspective of how terrestrial planets form, perhaps the most
+important aspect is that it seems to be relatively easy, much more so than making
+giant planets. Numerical simulations have no problem producing such bodies in
+the inner 1–2 AU of a system. Assuming a disk manages to produce planetesimals
+(notwithstanding the problems outlined in Section 3.2), their sweep-up proceeds
+rapidly in the terrestrial region, taking typically much less than 1 My. The simplest
+scenario, in which the resultant protoplanets then interact and collide in a gasfree environment, results in the formation of Earth-mass planets on a timescale
+of ∼108 y for a ‘minimum-mass’ distribution of solid material, i.e., one which
+begins with essentially just the mass of the present-day terrestrial planets. This
+is because planet formation in the inner few astronomical units is very efﬁcient;
+with no systematic migration, almost all of the mass one puts in is built into
+planets. Thus terrestrial planet formation is fundamentally a very robust process,
+so much so that it may actually be difﬁcult to prevent it from happening in any
+given system.
+This being said, there are still a number of questions about the details of how
+terrestrial planets grew in the Solar System and, by extension, how they form
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:07:56.
+
+References
+
+57
+
+around other stars. The low eccentricities of Earth and Venus seem to require
+processes beyond the standard model. It is certainly possible that these low
+eccentricities will turn out to be a peculiarity of the Solar System; eccentricities
+< 0.1 are not in general necessary for long-term stability. Neither are they
+required for habitability. However, this ‘small detail’ may in fact be pointing to
+a fundamentally different course of events in the last stage of formation, such as
+the secular-resonance ‘shakeup’ model outlined in Section 3.4. Another puzzle is
+the nature of the LHB. What initiated it? Did life survive this event, or did it have
+to wait until the end of the LHB to arise? How likely are analogues to the LHB
+in other planetary systems? The probable ubiquity of terrestrial planet formation
+means that any given star ought to have a good chance of harbouring one in its
+HZ. This prospect may be ruined if a giant planet exists close enough to the HZ to
+destabilize bodies within it.At the same time, though, the presence of (exterior) giant
+planets may be required in order to protect the HZ against comet bombardment.
+The HZ is deﬁned by the presence of liquid surface water, but the source of that
+water is itself still not fully understood.
+The discovery of the ﬁrst extrasolar terrestrial planet will certainly be a
+momentous event. Until then, no amount of modelling can change the fact that
+our sample size of terrestrial planet systems is one. As with the gas giants,
+surprises may await which overturn our currently-held picture of how such
+planets form. And, of course, the search for exo-terrestrial planets is made
+especially exciting by the possibility that another life-bearing world is waiting to be
+discovered.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+Acknowledgements
+It is a pleasure to thank Doug Lin, Makiko Nagasawa, Scott Kenyon, John Chambers
+and Stein Jacobsen for stimulating and informative interactions, which were a
+valuable source of inspiration for this chapter.
+References
+Agnor, C. B., Canup, R. M., and Levison, H. F. (1999). On the character and consequences
+of large impacts in the late stage of terrestrial planet formation. Icarus, 142, 219–237.
+Artymowicz, P. (1993). Disk-satellite interaction via density waves and the eccentricity
+evolution of bodies embedded in disks. Astrophys. J., 419, 166.
+Balsiger, H., Altwegg, K., and Geiss, J. (1995). D/H and O-18/O-16 ratio in the
+hydronium ion and in neutral water from in situ ion measurements in comet Halley.
+J. Geophys. Res., 100, 5827–5834.
+Barranco, J. A., and Marcus, P. S. (2005). Three-dimensional vortices in stratiﬁed
+protoplanetary disks. Astrophys. J., 623, 1157–1170.
+Benn, C. R. (2001). The moon and the origin of life. Earth Moon Planets, 85, 61–66.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:07:56.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+58
+
+Terrestrial planet formation
+
+Benz, W., Slattery, W. L., and Cameron, A. G. W. (1986). The origin of the moon and the
+single-impact hypothesis. I. Icarus, 66, 515–535.
+Bockelee-Morvan, D., Gautier, D., Lis, D. C., et al. (1998). Deuterated water in comet
+C/1996 B2 (Hyakutake) and its implications for the origin of comets. Icarus, 133,
+147–162.
+Cameron, A. G. W., and Benz, W. (1991). The origin of the Moon and the single impact
+hypothesis. IV. Icarus, 92, 204–216.
+Cameron, A. G. W., and Ward, W. R. (1976). The origin of the Moon. Lunar and Planetary
+Institute Conf. Abstr., 7, 120.
+Canup, R. M. (2004). Simulations of a late lunar-forming impact. Icarus, 168, 433–456.
+Canup, R. M., and Asphaug, E. (2001). Origin of the Moon in a giant impact near the end
+of the Earth’s formation. Nature, 412, 708–712.
+Chambers, J. E. (2001). Making more terrestrial planets. Icarus, 152, 205–224.
+Chambers, J. E., and Lissauer, J. J. (2002). A new dynamical model for the lunar Late
+Heavy Bombardment. 33rd Annual Lunar and Planetary Sci. Conf., abstract no.
+1093.
+Chambers, J. E., and Wetherill, G. W. (1998). Making the terrestrial planets: N -body
+integrations of planetary embryos in three dimensions. Icarus, 136, 304–327.
+Chiang, E. I., Fischer, D., and Thommes, E. (2002). Excitation of orbital eccentricities of
+extrasolar planets by repeated resonance crossings. Astrophys. J., 564, L105–L109.
+Cox, L. P., and Lewis, J. S. (1980). Numerical simulation of the ﬁnal stages of terrestrial
+planet formation. Icarus, 44, 706–721.
+Dauphas, N., Robert, F., and Marty, B. (2000). The late asteroidal and cometary
+bombardment of earth as recorded in water deuterium to protium ratio. Icarus, 148,
+508–512.
+Drake, M. J., and Righter, K. (2002). Determining the composition of the Earth. Nature,
+416, 39–44.
+Duncan, M., Quinn, T., and Tremaine, S. (1987). The formation and extent of the solar
+system comet cloud. Astron. J., 94, 1330.
+Fernández, J. A., and Ip, W.-H. (1996). Orbital expansion and resonant trapping during the
+late accretion stages of the outer planets. Planet. Space Sci., 44, 431–439.
+Fogg, M. J., and Nelson, R. P. (2005). Oligarchic and giant impact growth of terrestrial
+planets in the presence of gas giant planet migration. Astron. Astrophys., 441,
+791–806.
+Goldreich, P., and Tremaine, S. (1980). Disk-satellite interactions. Astrophys. J., 241,
+425–441.
+Goldreich, P., and Ward, W. R. (1973). The formation of planetesimals. Astrophys. J., 183,
+1051–1062.
+Goldreich, P., Lithwick, Y., and Sari, R. (2004). Planet formation by coagulation: a focus
+on Uranus and Neptune. Annu. Rev. Astron. Astr., 42, 549–601.
+Gomes, R., Levison, H. F., Tsiganis, K., and Morbidelli, A. (2005). Origin of the
+cataclysmic Late Heavy Bombardment period of the terrestrial planets. Nature, 435,
+466–469.
+Hahn, J. M., and Malhotra, R. (1999). Orbital evolution of planets embedded in a
+planetesimal disk. Astron. J., 117, 3041–3053.
+Haisch, K. E., Lada, E. A., and Lada, C. J. (2001). Disk frequencies and lifetimes in young
+clusters. Astrophys. J., 553, L153–L156.
+Halliday, A. (2004). Geochemistry: The clock’s second hand. Nature, 431, 253–254.
+Hartmann, W. K., and Davis, D. R. (1975). Satellite-sized planetesimals and lunar origin.
+Icarus, 24, 504–514.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:07:56.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+References
+
+59
+
+Hartmann, W. K., Ryder, G., Dones, L., and Grinspoon, D. (2000). The time-dependent
+intense bombardment of the primordial Earth/Moon system, in Origin of the Earth
+and Moon, eds. R. M. Canup and K. Righter. Tucson: University of Arizona Press,
+pp. 493–512.
+Hayashi, C. (1981). Structure of the solar nebula, growth and decay of magnetic ﬁelds and
+effects of magnetic and turbulent viscosities on the nebula. Prog. Theoret. Phys., 70,
+35–53.
+Huang, S.-S. (1959). The problem of life in the Universe and the mode of star formation.
+PASP, 71, 421.
+Ida, S., Canup, R. M., and Stewart, G. R. (1997). Lunar accretion from an impactgenerated disk. Nature, 389, 353–357.
+Ida, S., and Makino, J. (1993). Scattering of planetesimals by a protoplanet – slowing
+down of runaway growth. Icarus, 106, 210.
+Kant, I. (1755). Allgemeine Naturgeschichte und Theorie des Himmels. Königsberg,
+Prussia.
+Kasting, J. F., Toon, O. B., and Pollack, J. B. (1988). How climate evolved on the
+terrestrial planets. Sci. Am., 258, 90–97.
+Kasting, J. F., Whitmire, D. P., and Reynolds, R. T. (1993). Habitable zones around main
+sequence stars. Icarus, 101, 108–128.
+Kleine, T., Münker, C., Mezger, K., and Palme, H. (2002). Rapid accretion and early core
+formation on asteroids and the terrestrial planets from Hf–W chronometry. Nature,
+418, 952–955.
+Kokubo, E., and Ida, S. (1998). Oligarchic growth of protoplanets. Icarus, 131,
+171–178.
+Kominami, J. and Ida, S. (2002). The effect of tidal interaction with a gas disk on
+formation of terrestrial planets. Icarus, 157, 43–56.
+Kominami, J. and Ida, S. (2004). Formation of terrestrial planets in a dissipating gas disk
+with Jupiter and Saturn. Icarus, 167, 231–243.
+Laplace, P. S. (1796). Exposition du Systè‘me du Monde. Paris.
+Laughlin, G., Bodenheimer, P., and Adams, F. C. (2004). The core accretion model
+predicts few Jovian-mass planets orbiting red dwarfs. Astrophys. J., 612, L73–L76.
+Lecar, M., and Aarseth, S. J. (1986). A numerical simulation of the formation of the
+terrestrial planets. Astrophys. J., 305, 564–579.
+Lecar, M., and Franklin, F. (1997). The solar nebula, secular resonances, gas drag, and the
+asteroid belt. Icarus, 129, 134–146.
+Levison, H. F., Dones, L., Chapman, C. R. et al. (2001). Could the lunar ‘Late Heavy
+Bombardment’ have been triggered by the formation of Uranus and Neptune? Icarus,
+151, 286–306.
+Lin, D. N. C., and Papaloizou, J. (1986). On the tidal interaction between protoplanets and
+the protoplanetary disk. III Orbital migration of protoplanets. Astrophys. J., 309,
+846–857.
+Lissauer, J. J. (1993). Planet formation. Annu. Rev. Astron. Astr., 31, 129–174.
+Lunine, J. I., Chambers, J., Morbidelli, A., and Leshin, L. A. (2003). The origin of water
+on Mars. Icarus, 165, 1–8.
+Maher, K. A., and Stevenson, D. J. (1988). Impact frustration of the origin of life. Nature,
+331, 612–614.
+Mandell, A. M., and Sigurdsson, S. (2003). Survival of terrestrial planets in the presence
+of giant planet migration. Astrophys. J., 599, L1114.
+Meier, R., Owen, T. C., Jewitt, D. C., et al. (1998). Deuterium in comet C/1995 O1
+(Hale-Bopp): detection of DCN. Science, 279, 1707.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:07:56.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+60
+
+Terrestrial planet formation
+
+Morbidelli, A., Chambers, J., Lunine, J. I., et al. (2000). Source regions and time scales
+for the delivery of water to Earth. Meteorit. Planet. Sci., 35, 1309–1320.
+Murray, C. D., and Dermott, S. F. (1999). Solar System Dynamics. Cambridge: Cambridge
+University Press.
+Nagasawa, M., and Ida, S. (2000). Sweeping secular resonances in the Kuiper Belt caused
+by depletion of the solar nebula. Astron. J., 120, 3311–3322.
+Nagasawa, M., Lin, D. N. C., and Thommes, E. (2005). Dynamical shake-up of planetary
+systems. I. Embryo trapping and induced collisions by the sweeping secular
+resonance and embryo-disk tidal interaction. Astrophys. J., 635, 578–598.
+Nagasawa, M., Thommes, E., Kenyon, S., Bromley, B., and Lin, D. N. C. (2006). The
+diverse origins of terrestrial-planet systems, in Protostars and Planets V, eds.
+B. Reipurth, D. Jewitt, and K. Keil. Tuscon, AZ: University of Arizona Press,
+in press.
+Papaloizou, J. C. B., and Larwood, J. D. (2000). On the orbital evolution and growth of
+protoplanets embedded in a gaseous disc. MNRAS, 315, 823–833.
+Paraskov, G. B., Wurm, G., and Krauss, O. (2005). Planetesimal growth in high velocity
+impacts, in Protostars and Planets V, proceedings of the conference held October
+24–28, (2005) in Hilton Waikoloa Village, Hawai’i. LPI Contribution No. 1286.,
+Tucson: University of Arizona Press, p. 8318.
+Pollack, J. B., Hubickyj, O., Bodenheimer, P., et al. (1996). Formation of the giant planets
+by concurrent accretion of solids and gas. Icarus, 124, 62–85.
+Rasool, S. I., and de Bergh, C. (1970). The runaway greenhouse and accumulation of
+CO_2 in the Venus atmosphere. Nature, 226, 1037–1039.
+Raymond, S. N., Quinn, T., and Lunine, J. I. (2004). Making other earths: dynamical
+simulations of terrestrial planet formation and water delivery. Icarus, 168, 1–17.
+Sasaki, T., and Abe, Y. (2005). Imperfect equilibration of Hf–W system by grant impacts,
+in Protostars and Planets V, proceedings of the conference held October 24–28,
+(2005) in Hilton Waikoloa Village, Hawai’i. LPI Contribution No. 1286. Tucson:
+University of Arizona Press, p. 8221.
+Sleep, N. H., Zahnle, K. J., Kasting, J. F., and Morowitz, H. J. (1989). Annihilation of
+ecosystems by lare asteroid impacts on the early Earth. Nature, 342, 139–142.
+Thommes, E. W., and Murray, N. (2006). Giant planet accretion and migration: surviving
+the type I regime. Astrophys. J., 644, 1214–1222.
+Thommes, E. W., Duncan, M. J., and Levison, H. F. (2003). Oligarchic growth of giant
+planets. Icarus, 161, 431–455.
+Trilling, D. E., Lunine, J. I., and Benz, W. (2002). Orbital migration and the frequency of
+giant planet formation. Astron. Astrophys., 394, 241–251.
+Ward, W. R. (1997). Protoplanet migration by nebula tides. Icarus, 126, 261–281.
+Ward, W. R., and Canup, R. M. (2000). Satellite recoil from a circumplanetary disk. Lunar
+and Planetary Conf. Abstr., 2050.
+Weidenschilling, S. J. (1977). Aerodynamics of solid bodies in the solar nebula. MNRAS,
+180, 57–70.
+Weidenschilling, S. J. (1995). Can gravitation instability form planetesimals? Icarus, 116,
+433–435.
+Wells, L. E., Armstrong, J. C., and Gonzalez, G. (2003). Reseeding of Early Earth by
+impacts of returning ejecta during the late heavy bombardment. Icarus, 162, 38–46.
+Wetherill, G. W., and Stewart, G. R. (1989). Accumulation of a swarm of small
+planetesimals. Icarus, 77, 330–357.
+Wolszczan, A., and Frail, D. A. (1992). A planetary system around the millisecond pulsar
+PSR1257 + 12. Nature, 355, 145–147.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:07:56.
+
+References
+
+61
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+Wood, B. J., and Halliday, A. N. (2005). Cooling of the Earth and core formation after the
+giant impact. Nature, 437, 1345–1348.
+Yin, Q., Jacobsen, S. B., Yamashita, K., et al. (2002). A short timescale for terrestrial
+planet formation from Hf–W chronometry of meteorites. Nature, 418, 949–952.
+Zappala, V., Cellino, A., Gladman, B. J., Manley, S., and Migliorini, F. (1998). NOTE:
+asteroid showers on Earth after family breakup events. Icarus, 134, 176–179.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:07:56.
+
+

@@ -1,0 +1,1072 @@
+7
+Hyperthermophilic life on Earth – and on Mars?
+Karl O. Stetter
+Universität Regensburg
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+7.1 Introduction
+Every living organism is adapted to a speciﬁc growth temperature. In the case
+of humans, this is 37 ◦ C and an increase by 5 ◦ C becomes fatal. In the world
+of microbes, the growth temperature range is much more diverse: heat lovers
+(‘thermophiles’) grow optimally (fastest) at temperatures up to 65 ◦ C (Brock, 1978;
+Castenholz, 1979). Since the time of Pasteur, it had been assumed generally that
+growing (vegetative) cells of bacteria were killed quickly by temperatures of 80 ◦ C
+and above. The Pasteurization technology is based on this observation. In contrast,
+during the past few decades, hyperthermophiles (HT; Stetter, 1992) that exhibit
+unprecedented optimal growth temperatures in excess of 80 ◦ C have been isolated
+(Stetter et al., 1981; Zillig et al., 1981; Stetter, 1982). HT turned out to be very
+common in hot terrestrial and submarine environments. In comparing the growth
+requirements of these present-day HT with the conditions on ancient Earth, similar
+organisms could or even should have existed already by Early Archaean times.
+Propelled by impact energy, microbes could have spread in between the planets
+and moons of the early Solar System. Is there any evidence for the existence of
+microbes at that time? Most likely, yes. But the recognition of ancient microfossils
+on the basis of morphology turned out to be difﬁcult, leading to controversy.
+Nevertheless, there are chemical traces of life within rocks from Precambrian
+deep sea vents (Schopf et al., 1987; Brasier et al., 2002; van Zullen et al.,
+2002).
+In my research, I search for HT, their environments, properties, and modes of
+living. So far, I have gathered a collection of more than 1500 strains of HT, among
+them are isolates that survive autoclaving at 121 ◦ C. Whether such organisms are
+growing slowly or just surviving at 121 ◦ C is unresolved (Blöchl et al., 1997;
+Kasheﬁ and Lovley, 2003; Cowan, 2004).
+
+Planetary Systems and the Origins of Life, eds. Ralph E. Pudritz, Paul G. Higgs, and Jonathon R. Stone.
+Published by Cambridge University Press. © Cambridge University Press 2007.
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:09:00.
+
+136
+
+Hyperthermophilic life on Earth – and on Mars?
+
+7.2 Biotopes
+HT form complex communities within water-containing geothermally and
+volcanically heated environments situated mainly along terrestrial and submarine
+tectonic spreading and subduction zones. Availability of liquid water is a
+fundamental prerequisite of life. At an increased boiling point of water (for example
+by elevated atmospheric, hydrostatic or osmotic pressure), several HT exhibit
+growth temperatures exceeding 100 ◦ C. Due to the presence of reducing gasses
+like H2 S and the low solubility of O2 at high temperatures, the biotopes of HT
+essentially are oxygen-free (anaerobic). HT have been isolated from terrestrial and
+submarine environments.
+
+7.2.1 Terrestrial biotopes
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+Natural terrestrial biotopes of HT are mainly hot springs and sulfur-containing
+solfataric ﬁelds (named after Solfatara, Italy), with a wide range of pH values
+(pH 0–9) and usually low salinity (0.1–0.5%). Solfataric ﬁelds consist of soils, mud
+holes, and surface waters, heated by volcanic exhalations from magma chambers
+several kilometres below (Figure 7.1). Very often, solfataric ﬁelds are found close
+to active volcanoes and activity increases greatly during eruption phases. The
+chemical composition of solfataric ﬁelds is very variable and site-dependent.
+Many are rich in iron minerals, like ferric hydroxides and pyrite. Less usual
+compounds may be enriched at some sites, with magnetite and arsenic minerals like
+
+Fig. 7.1. Solfataric ﬁeld at Kaﬂa, Iceland.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:09:00.
+
+7.2 Biotopes
+
+137
+
+realgar and auripigment in Caldera Uzon, Kamchatka. Hydrogen may be formed
+either pyrolytically from water or chemically from FeS and H2 S (Drobner et al.,
+1990). Steam within the solfataric exhalations is responsible mainly for the heat
+transfer. In addition, sites may contain carbon dioxide, variable amounts of H2 ,
+methane, nitrogen, carbon monoxide, and traces of nitrate and ammonia. Active
+volcanoes may harbour hot-water lakes, which are heated by fumaroles. Usually,
+those abound in sulfur and are very acidic. Other suitable biotopes for HT are
+deep, subterranean, geothermally heated oil stratiﬁcations, approximately 3500 m
+below the bottom of the North Sea and the surface of the permafrost soil at the
+North Slope, Northern Alaska (Stetter et al., 1993). The ﬂuids produced in these
+regions contained up to 107 viable cells per litre of different species of HT. Artiﬁcial
+biotopes include smouldering coal refuse piles and hot outﬂows from geothermal
+and nuclear power plants.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+7.2.2 Marine biotopes
+Marine biotopes of HT consist of various hydrothermal systems situated at shallow
+to abyssal depths. Similar to ambient seawater, submarine hydrothermal systems
+usually contain high concentrations of NaCl and sulfate and exhibit a slightly
+acidic to alkaline pH (5.0–8.5). Otherwise, the major gases and life-supporting
+mineral nutrients can be similar to those in terrestrial thermal areas. Shallow
+submarine hydrothermal systems are found in many parts of the world, mainly on
+beaches with active volcanism, like at Vulcano Island, Italy, with temperatures of
+80 to 105 ◦ C.
+Most impressive are the deep sea ‘smoker’ vents (Figure 7.2), where mineralladen hydrothermal ﬂuids with temperatures up to approximately 400 ◦ C escape
+into the cold (2.8 ◦ C), surrounding deep sea water and build up huge rock chimneys.
+Although these hot ﬂuids are sterile, the surrounding porous smoker rock material
+appears to contain very steep temperature gradients, which provide zones of suitable
+growth temperatures for HT. Some smoker rocks are teeming with HT (for example
+108 cells of Methanopyrus per gram of rock inside a Mid Atlantic Snake Pit hot
+vent chimney). Deep sea vents are located along submarine tectonic fracture zones
+(for example the ‘TAG’ and ‘Snake Pit’ sites situated at the Mid Atlantic Ridge in a
+depth of about 4000 m). Another type of submarine high temperature environment
+is provided by active sea mounts. Close to Tahiti, there is a huge abyssal volcano,
+Macdonald Seamount (28◦ 58.7 S, 140 ◦ 15.5 W), the summit of which is situated
+approximately 40 meters below the sea surface. Samples taken during an active
+phase from the submarine eruption plume and rocks from the active crater contained
+high concentrations of viable HT (Huber et al., 1990).
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:09:00.
+
+138
+
+Hyperthermophilic life on Earth – and on Mars?
+
+Fig. 7.2. Abyssal hot ‘black smoker’ chimneys at the East Paciﬁc Rise, 21 ◦ N.
+Depth: 2500 m, maximal ﬂuid temperature: 365 ◦ C.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+7.3 Sampling and cultivation
+Samples of possible HT containing hot waters, soils, rock and sediments may serve
+as primary material to set-up enrichment cultures in the laboratory. Special care has
+to be taken to avoid contamination of the sample by oxygen. In the presence of high
+temperatures of growth, it is toxic to anaerobic HT. In contrast, at low temperatures
+(for example: 4 ◦ C) in the presence of oxygen, anaerobic HT may survive for years.
+Transportation and shipping can be performed at ambient temperature. In the lab,
+anaerobic samples (in tightly stoppered 100 ml storage bottles and stored at 4 ◦ C)
+can be used for successful enrichment cultures at least for 10 years.
+Enrichment cultures can be obtained by simulating the varying geochemical and
+geophysical composition of the environments. Various plausible electron donors
+and acceptors may be used under anaerobic, microaerophilic, or aerobic culture
+conditions. Depending on the (unknown) initial cell concentration and the doubling
+time of the organism, positive enrichment cultures of HT can be identiﬁed by
+microscopy within 1–7 days. For a deeper understanding of the organisms, the
+study of pure cultures is required. Due to the high incubation temperatures, the
+traditional manner of cloning by plating does not perform well in HT (even by
+using heat stable polymers like Gelrite). Therefore, we developed a new procedure
+for cloning single cells under the laser microscope, by employing optical tweezers
+(Ashkin and Dziedzic, 1987; Huber et al., 1995). Large cell masses are required for
+biochemical and biophysical investigations. For mass culturing of HT, a new type
+of high temperature fermentor was invented in collaboration with an engineering
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:09:00.
+
+7.4 Phylogenetic implications
+
+139
+
+Fig. 7.3. Fermentation plant, University of Regensburg. Partial view, showing two
+300 l fermenters and one 130 l fermenter for cultivation of HT.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+company (Figure 7.3). Its steel casing is enamel-protected in order to resist the
+highly corrosive culture conditions. Sharp-edged parts like stirrers, gasing and
+sampling pipes and condensers are made of titanium. The cell yield of a 300 l
+fermentation may vary from approximately 3 g to 2 kg (wet weight), depending on
+the HT isolate.
+
+7.4 Phylogenetic implications
+Hot volcanic environments are among the oldest biotopes existing on Earth. What
+is known about the phylogenetic relationships of the organisms living there? Based
+on the pioneering work of Carl Woese, the small subunit ribosomal RNA (ss-rRNA)
+is widely used in phylogenetic studies of prokaryotes (Woese and Fox, 1977; Woese
+et al., 1990). It consists of approximately 1500 nucleotides and is homologous to
+its eukaryotic counterpart. On the basis of sequence comparisons, a phylogenetic
+tree is now available (Figure 7.4). It shows a tripartite division of the living world
+into the bacterial, archaeal, and eukaryal domains. Within this tree, deep branches
+are evidence for early separation. The separation of the Bacteria from the stem
+shared by Archaea and Eukarya represents the deepest and earliest branching
+point. Short phylogenetic branches indicate a rather slow rate of evolution.
+In contrast to the eukaryal domain, the bacterial and archaeal domains within the
+phylogenetic tree exhibit some extremely short and deep branches. Surprisingly,
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:09:00.
+
+140
+
+Hyperthermophilic life on Earth – and on Mars?
+
+Eukarya
+
+Arthropoda
+
+Nematoda
+
+Animals
+
+Alveolates
+
+Chordata (Homo)
+
+Stramenopiles
+
+Invertebrata
+Rhodophytes
+
+Fungi
+
+Mycetozoa
+
+Chlorophytes
+
+Euglenozoa
+
+Amoebas
+Diplomonads
+Amoebo-Flagellates
+
+Bacteria
+
+High G+C
+Gram positiv
+
+Trichomonads
+Clostridia
+
+Spirochaetes
+
+Microsporidia
+
+Desulfotomaculum
+Cyanobacteria Green non sulfur
+Deino- bacteria
+Green sulfur
+cocci
+bacteria
+
+Sulfolobus
+Dictyoglomus
+
+Chlamydia
+Flexistipes
+
+δ
+
+Proteobacteria
+
+ε
+β
+Fibrobacter
+
+γ
+
+α
+
+lgnicoccus
+Thermotoga Pyrodictium
+Pyrolobus
+
+Crenarchaeota
+Metallosphaera
+
+Archaea
+
+Thermofilum
+Thermoproteus
+Pyrococcus
+Thermococcus
+Methanobacterium
+Methanothermus
+Methanopyrus
+Archaeoglobus/Ferroglobus
+
+Thermoanaerobium
+Thermo- N.eq.
+Aquifex
+Halobacteriales
+Thermocrinis vibrio Nanoarchaeota
+DesulfuroMethanoplanus
+bacterium
+Methanomicrobium
+Methanococcales Methanosarcina
+Thermoplasma Euryarchaeota
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+Low GC Gram positives
+(Bacillus, Mycoplasma,
+Lactobacillus)
+
+Fig. 7.4. Small subunit ribosomal RNA-based phylogenetic tree. The bulky
+lineages are representing HT.
+
+those are covered exclusively by hyperthermophiles, which therefore form a cluster
+around the phylogenetic root (Figure 7.4, bulky lineages). The deepest and shortest
+phylogenetic branches are represented by the Aquiﬁcales and Thermotogales within
+the Bacteria and the Nanoarchaeota, Pyrodictiaceae, and Methanopyraceae within
+the Archaea. Long lineages represent mesophilic and moderately thermophilic
+Bacteria and Archaea (e.g., Gram-positives, Proteobacteria; Halobacteriales;
+Methanosarcinaceae) indicating their ss-rRNA had experienced a fast rate of
+evolution. Now, several total genome sequences are available. Phylogenetic
+trees based on genes involved in information management (for example, DNA
+replication, transcription, translation) parallel the ss-rRNA tree. Genes involved in
+metabolism, however, are prone to frequent lateral gene transfer, and a network
+rather than a tree might reﬂect their phylogenetic relations (Doolittle, 1999).
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:09:00.
+
+7.5 Physiologic properties
+
+141
+
+To date, approximately 90 species of HT Archaea and Bacteria, which had been
+isolated from different terrestrial and marine thermal areas in the world, are known.
+HT are very divergent, both in their phylogeny and physiological properties and
+are grouped into 34 genera and 10 orders (Boone and Castenholz, 2001).
+
+7.5 Physiologic properties
+7.5.1 Energy sources
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+Most species of HT exhibit a chemolithoautotrophic mode of nutrition. Inorganic
+redox reactions serve as energy sources (chemolithotrophic), and CO2 is the
+only carbon source required to build up organic cell material (autotrophic).
+Therefore, these organisms ﬁx CO2 by chemosynthesis and are designated
+chemolithoautotrophs. The energy-yielding reactions in chemolithoautotrophic HT
+are those involved in anaerobic and aerobic respiration (Figure 7.5). Molecular
+hydrogen serves as an important electron donor. Other electron donors are sulﬁde,
+sulfur, and ferrous iron. As in mesophilic respiratory organisms, in some HT,
+oxygen may serve as an electron acceptor. In contrast, however, oxygen-respiring
+HT are usually microaerophilic and, therefore, grow only at reduced oxygen
+concentrations. Anaerobic respiration types are the nitrate-, sulfate-, sulfur- and
+carbon dioxide-types. While chemolithoautotrophic HT produce organic matter,
+there are some HT that depend on organic material as energy and carbon
+sources. They are designated as heterotrophs. Several chemolithoautotrophic HT
+are opportunistic heterotrophs. These are able to use organic material alternatively
+to inorganic nutrients whenever they are available from the environment (e.g., by
+
+Energy-yielding reactions of Hyperthermophiles
+Electron Donor
+
+H2
+
+S0 (Pyrite)
+
+Electron Acceptor
+
+Product
+
+CO2
+Fe(OH)3
+
+Methane
+Magnetite
+
+S0; SO42–
+NO3–
+O2 (traces)
+
+Hydrogen Sulfide
+Nitrogen (NH3)
+Water
+
+O2
+
+H2SO4(+FeSO4)
+
+Source of Cell Carbon: CO2
+Additional Growth requirements:
+Heat, Trace minerals, Liquid water
+
+Fig. 7.5. Main energy-yielding reactions in chemolithoautotrophic HT (schematic
+drawing).
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:09:00.
+
+142
+
+Hyperthermophilic life on Earth – and on Mars?
+
+Table 7.1. Growth conditions and morphology of hyperthermophiles
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+Species
+
+Sulfolobus
+acidocaldarius
+Metallosphaera
+sedula
+Acidianus
+infernus
+Stygiolobus
+azoricus
+Thermoproteus
+tenax
+Pyrobaculum
+islandicum
+Pyrobaculum
+aerophilum
+Thermoﬁlum
+pendens
+Desulfurococcus
+mobilis
+Thermosphaera
+aggregans
+Sulfophobococcus
+zilligii
+Staphylothermus
+marinus
+Thermodiscus
+maritimus
+Aeropyrum
+pernix
+Stetteria
+hydrogenophila
+Ignicoccus
+islandicus
+Pyrodictium
+occultum
+Hyperthermus
+butylicus
+Pyrolobus
+fumarii
+Thermococcus
+celer
+Pyrococcus
+furiosus
+
+Min.
+Temp
+(◦ C)
+
+Opt.
+Temp
+(◦ C)
+
+Max.
+Temp
+(◦ C)
+
+pH
+
+60
+
+75
+
+85
+
+1–5
+
+ae
+
+lobed cocci
+
+50
+
+75
+
+80
+
+1–4.5
+
+ae
+
+cocci
+
+60
+
+88
+
+95
+
+1.5–5
+
+ae/an
+
+lobed cocci
+
+57
+
+80
+
+89
+
+1–5.5
+
+an
+
+lobed cocci
+
+70
+
+88
+
+97
+
+2.5–6
+
+an
+
+regular rods
+
+74
+
+100
+
+103
+
+5–7
+
+an
+
+regular rods
+
+75
+
+100
+
+104
+
+5.8–9
+
+ae/an
+
+regular rods
+
+70
+
+88
+
+95
+
+4–6.5
+
+an
+
+70
+
+85
+
+95
+
+4.5–7
+
+an
+
+slender regular
+rods
+cocci
+
+67
+
+85
+
+90
+
+5–7
+
+an
+
+70
+
+85
+
+95
+
+6.5–8.5
+
+an
+
+65
+
+92
+
+98
+
+4.5–8.5
+
+an
+
+75
+
+88
+
+98
+
+5–7
+
+an
+
+cocci in
+aggregates
+disks
+
+70
+
+90
+
+100
+
+5–9
+
+ae
+
+irregular cocci
+
+70
+
+95
+
+102
+
+4.5–7
+
+an
+
+irregular disks
+
+65
+
+90
+
+100
+
+3.9–6.3
+
+an
+
+irregular cocci
+
+82
+
+105
+
+110
+
+5–7
+
+an
+
+80
+
+101
+
+108
+
+7
+
+an
+
+disks with
+cannulae
+lobed cocci
+
+90
+
+106
+
+113
+
+4.0–6.5
+
+ae/an
+
+lobed cocci
+
+75
+
+87
+
+93
+
+4–7
+
+an
+
+cocci
+
+70
+
+100
+
+105
+
+5–9
+
+an
+
+cocci
+
+Aerobic
+(ae) vs.
+anaerobic
+(an)
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:09:00.
+
+Morphology
+
+cocci in
+aggregates
+cocci
+
+7.6 Examples of recent HT organisms
+Archaeoglobus
+fulgidus
+Ferroglobus
+placidus
+Methanothermus
+sociabilis
+Methanopyrus
+kandleri
+Methanococcus
+igneus
+Thermotoga
+maritima
+Aquifex
+pyrophilus
+
+143
+
+60
+
+83
+
+95
+
+5.5–7.5
+
+an
+
+irregular cocci
+
+65
+
+85
+
+95
+
+6–8.5
+
+an
+
+irregular cocci
+
+65
+
+88
+
+97
+
+5.5–7.5
+
+an
+
+rods in clusters
+
+84
+
+98
+
+110
+
+5.5–7
+
+an
+
+rods in chains
+
+45
+
+88
+
+91
+
+5–7.5
+
+an
+
+irregular cocci
+
+55
+
+80
+
+90
+
+5.5–9
+
+an
+
+67
+
+85
+
+95
+
+5.4–7.5
+
+ae
+
+rods with
+sheath
+rods
+
+decaying cells). Heterotrophic HT gain energy either by aerobic or different types of
+anaerobic respiration, using organic material as electron donors, or by fermentation.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+7.5.2 General physiologic properties
+HT are adapted to environmental factors including composition of minerals and
+gases, pH, redox potential, salinity and temperature. Similar to mesophiles, they
+grow within a temperature range of about 25–30 ◦ C between the minimal and
+maximal growth temperature (Table 7.1). Fastest growth is obtained at their optimal
+growth temperature, which may be up to 106 ◦ C. Generally, HT do not propagate
+at 50 ◦ C or below. Although unable to grow at the low ambient temperatures, they
+are able to survive for years. Based on their simple growth requirements, HT could
+grow on any hot, wet place, even on other planets and moons of our solar system,
+like Mars and Europa. Today, the surface of Mars is too cold and contains no liquid
+water and therefore is hostile to life as it is known on Earth. However, in a depth
+of a few kilometres below the permafrost layer, there may be hot liquid water and
+nutrients to support growth of HT. Life could have spread onto Mars via meteorites
+during the great bombardment, about 4 GA ago. At that time, the surface of Mars
+had been much hotter and contained liquid water, therefore being favourable to HT.
+
+7.6 Examples of recent HT organisms
+Within the Bacteria domain, the deepest phylogenetic branch is represented
+by the HT Aquifex (Huber et al., 1992). Its type species Aquifex pyrophilus
+is a motile rod-shaped chemolithoautotroph (Figure 7.6). It is a facultative
+microaerophilic anaerobe. Under anaerobic conditions, Aquifex pyrophilus grows
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:09:00.
+
+144
+
+Hyperthermophilic life on Earth – and on Mars?
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+Fig. 7.6. Aquifex pyrophilus, dividing cell with a tuft of ﬂagella. Pt-shadowing.
+Transmission electron micrograph. Scale bar, 1 µm.
+
+by nitrate reduction with H2 and S0 as electron donors. Alternatively, at very low
+oxygen concentrations (up to 0.5%, after adaptation), it is able to gain energy by
+oxidation of H2 and S0 , using oxygen as an electron acceptor. Members of Aquifex
+are found in shallow submarine vents. Aquifex pyrophilus grows up to 95 ◦ C, the
+highest growth temperature observed within the Bacteria (Table 7.1).
+From the walls of a black smoker at the Mid Atlantic Ridge, we had isolated
+the archaeon Pyrolobus fumarii (Blöchl et al., 1997). Cells are lobed cocci,
+approximately 0.7–2.5 µm in diameter (Figure 7.7). The species Pyrolobus fumarii
+is adapted optimally to temperatures of superheated water, exhibiting an optimal
+growth temperature of 106 ◦ C (Figure 7.8) and an upper temperature border of
+growth at 113 ◦ C. It is so dependent to high temperatures that it is unable to grow
+below 90 ◦ C. Cultures of Pyrolobus fumarii, similar to Pyrodictium occultum are
+able to survive autoclaving for one hour at 121 ◦ C. A very closely related isolate
+(‘strain 121’) exhibits the same optimal growth temperature (106 ◦ C), but has been
+reported to grow slowly even at 121 ◦ C (Kasheﬁ and Lovley, 2003). However, this
+result has not been conﬁrmed.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:09:00.
+
+7.6 Examples of recent HT organisms
+
+145
+
+Fig. 7.7. Pyrolobus fumarii, lobed coccoid cell. Ultra thin section. Transmission
+electron micrograph. Scale bar, 0.5 µm.
+
+8
+7
+Doubling time (hours)
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+6
+5
+4
+3
+2
+1
+0
+0
+
+95
+100 105
+Temperature (°C)
+
+110
+
+Fig. 7.8. Pyrolobus fumarii: Temperature dependence of its doubling time.
+Optimal growth (about 50 min. doubling time ) occurs between 103 and 106 ◦ C.
+
+From a submarine hydrothermal system situated at the Kolbeinsey Ridge,
+north of Iceland, we were able to obtain our ultimate hyperthermophilic coccoid
+isolate Nanoarchaeum equitans, which represents a novel kingdom of Archaea
+(Huber et al., 2002). With a cell diameter of only 400 nm, it is the smallest living
+organism known. Cells grow attached to the surface of a speciﬁc crenarchaeal
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:09:00.
+
+146
+
+Hyperthermophilic life on Earth – and on Mars?
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+Fig. 7.9. Nanoarchaeum equitans–Ignicoccus hospitalis.: Transmission electron
+micrographs. (A) Two cells of N. equitans attached on the surface of the (central)
+Ignicoccus cell. Platinum shadowed. Scale bar, 1 µm. (B) Freeze-etched cell of
+Ignicoccus hospitalis (Ig) and attached cells of N. equitans (N) on the surface. Scale
+bar, 1 µm. (C) Surface relief reconstruction of N. equitans. Dark: cavity; Bright:
+elevation. Scale bar, 15 nm. (D) Ultrathin section of a N. equitans cell. Single cell.
+CM: cytoplasmic membrane; PP: periplasm; SL: S-layer. Scale bar: 0.5 µm.
+
+host, a new member of the genus Ignicoccus (Figure 7.9). Owing to their unusual
+ss-rRNA sequence, members of Nanoarchaeum equitans remained undetectable by
+commonly used ‘universal’ primers in ecological studies based on the polymerase
+chain reaction. However, two different ss-rRNA genes could be detected in
+a coculture-derived DNA by Southern blot hybridization, by taking advantage
+of the generally high sequence homology of all ss-rRNA genes (about 75%
+similarity). After sequencing of the total genome, the phylogenetic relationships
+of Nanoarchaeum equitans could be investigated by concatenating and aligning
+the amino acid sequences of 35 ribosomal proteins (Waters et al., 2003). The
+species Nanoarchaeum equitans was placed with high support at the most deeply
+branching position within the Archaea, suggesting that the Nanoarchaeota diverged
+early within the Archaea. With only 490 885 base pairs, the Nanoarchaeum
+equitans genome is the smallest microbial genome known to date and also the
+most compact, with 95% of the DNA predicted to encode proteins and stable
+RNAs. It harbours the complete machinery for information processing and repair,
+but lacks genes for lipid, cofactor, amino acid, and nucleotide biosynthesis. The
+limited biosynthetic and catabolic capacity suggests that the symbiotic relationship
+of Nanoarchaeum equitans to its Ignicoccus hospitalis host may be parasitic,
+making it the only known archaeal parasite. Unlike the small genomes of bacterial
+parasites, however, which are undergoing reductive evolution, the small genome
+of Nanaoarchaeum equitans has very few pseudogenes and a well-equipped DNA
+recombination system. Therefore, it may be a very ancient parasite. Alternatively,
+the Ignicoccus hospitalis–Nanoarchaeum equitans system could be remains
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:09:00.
+
+References
+
+147
+
+from pre-Archaea communities, as postulated earlier (Kandler, 1994). At the
+molecular level, Nanoarchaeum equitans harbours further unexpected, most likely
+primitive properties, like separately encoded enzyme modules and – for the ﬁrst
+time – t RNA gene fragments (Waters et al., 2003; Randau et al., 2005). Currently,
+we possess only rudimentary understanding of the Nanoarchaeum equitans –
+Ignicoccus hospitalis relationship. The Nanoarchaeota are distributed world-wide
+within hot environments and had been completely overlooked. Two ss-rRNA
+sequences from Uzon Caldeira (Kamchatka, Russia) and Yellowstone National
+Park (USA) exhibited 83% sequence similarity to Nanoarchaeum equitans, and,
+therefore, represent a distinct group within the Nanoarchaeota (Hohn et al.,
+2002). Light microscopy and ﬂuorescence in situ staining reveal that these novel
+Nanoarchaeota are again tiny cocci, approximately the size of Nanoarchaeum
+equitans, however, attached to a rod-shaped Pyrobaculum-like host. The discovery
+of the Nanoarchaeota suggests that further unrecognized major groups of microbes
+may remain undetected by current PCR primers and are waiting for isolation to tell
+us more about the origins and evolution of life.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+References
+Ashkin, A. and Dziedzic, J. M. (1987). Optical trapping and manipulation of viruses and
+bacteria. Science, 235, 1517–1520.
+Boone, D. R. and Castenholz, R. W. (2001). The Archaea and the deeply branching and
+phototrophic Bacteria, in Bergey‘s Manual of Systematic Bacteriology, vol. 1, 2nd
+edn., ed. G.M. Garrity. New York: Springer, pp. 169–387.
+Blöchl, E., Rachel, R., Burggraf, S. et al. (1997). Pyrolobus fumarii, gen. and sp. nov.,
+represents a novel group of archaea, extending the upper temperature limit for life to
+113 ◦ C. Extremophiles, 1, 14–21.
+Brasier, M. D., Green, O. R., Jephcoat, A. P. et al. (2002). Questioning the evidence for
+Earth’s oldest fossils. Nature, 416, 76–81.
+Brock, T. D. (1978). Thermophilic microorganisms and life at high temperatures.
+Castenholz, R. W. (1979). Evolution and ecology of thermophilic microorganisms.
+In Strategies of Microbial Life in Extreme Environments, ed. M. Shilo. Weinheim:
+Verlag Chemie, pp. 373–392.
+Cowan, D. A. (2004). The upper limit of life–how far can we go. Trends Microbiol., 12,
+58–60.
+Doolittle, W. F. (1999). Phylogenetic classiﬁcation and the universal tree. Science, 284,
+2124–2129.
+Drobner, E., Huber, H., Wächtershäuser, G., Rose, D. and Stetter, K. O. (1990). Pyrite
+formation linked with hydrogen evolution under anaerobic conditions. Nature, 346,
+742–744.
+Hohn, M. J., Hedlund, B. P. and Huber, H. (2002). Detection of 16S rDNA sequences
+representing the novel phylum ‘Nanoarchaeota’: indication for a broad distribution
+in high temperature. Syst. Appl. Microbiol., 25, 551–554.
+Huber, H., Hohn, M. J., Rachel, R., Fuchs, T., V. C. Wimmer, V. C. and K. O. Stetter.
+(2002). A new phylum of Archaea represented by a nanosized hyperthermophilic
+symbiont. Nature, 417, 63–67.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:09:00.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+148
+
+Hyperthermophilic life on Earth – and on Mars?
+
+Huber, R, Stoffers, P., Cheminee, J. L., Richnow, H. H. and Stetter, K. O. (1990).
+Hyperthermophilic archaebacteria within the crater and open-sea plume of erupting
+Macdonald Seamount. Nature, 345, 179–181.
+Huber, R. Burggraf, S., Mayer, T., Barns, S. M., Rossnagel, P. and Stetter, K. O. (1995).
+Isolation of a hyperthermophilic archaeum predicted by in situ RNA analysis.
+Nature, 376, 57–58.
+Kandler, O. (1994). The early diversiﬁcation of life. In Early Life on Earth, Nobel
+Symposium No. 84, ed. S. Bengtson. New York: Columbia University Press, pp.
+152–160.
+Kasheﬁ, K. and Lovley, D. R. (2003). Extending the upper temperature limit of life.
+Science, 301, 934.
+Randau, L., Münch, R., Hohn, M. J. Jahn, D. and Söll, D. (2005). Nanoarchaeum equitans
+creates functional t-RNAs from separate genes for their 5’- and 3’- halves. Nature,
+433, 537–541.
+Schopf, J. W., and Packer, B. M. (1987). Early Archean (3.3 billion to 3.5 billion-year-old)
+microfossils from Warrawoona Group, Australia. Science, 237, 70–73.
+Stetter, K. O., Thomm, M., Winter, J. et al. (1981). Methanothermus fervidus, sp. nov.,
+a novel extremely thermophilic methanogen isolated from an Icelandic hot spring.
+Zbl. Bakt. Hyg., I. Abt. Orig. C2, 166–178.
+Stetter, K. O. (1982). Ultrathin mycelia-forming organisms from submarine volcanic
+areas having an optimum growth temperature of 105 ◦ C. Nature, 300, 258–260.
+Stetter, K. O. (1992). Life at the upper temperature border. In Frontiers of Life, eds.
+J. Tran Thanh Van, K. Tran Thanh Van, J. C. Mounolou, J. Schneider and C. McKay.
+Gif-sur-Yvette: Editions Frontieres, pp. 195–219.
+Stetter, K. O., Huber, R., Blöchl, E. et al. (1993). Hyperthermophilic archaea are thriving
+in deep North Sea and Alaskan oil reservoirs. Nature, 365, 743–745.
+van Zullen, M. A., Lepland, A., and Arrhenius, G. (2002). Reassessing the evidence for the
+earliest traces of life. Nature, 418, 627–630.
+Waters, E., Hohn, M. J., Ahel, I. et al. (2003). The genome of Nanoarchaeum equitans:
+Insights into early archaeal evolution and derived parasitism. Proc. Natl. Acad. Sci.
+USA, 100, 12984–12988.
+Woese, C. R. and Fox, G. E. (1977). Phylogenetic structure of the prokaryotic domain: the
+primary kingdoms. Proc. Natl. Acad. Sci. USA, 74, 5088–5090.
+Woese, C. R., Kandler, O. and Wheelis, M. L. (1990). Towards a natural system of
+organisms: proposal for the domains Archaea, Bacteria and Eucarya. Proc. Natl.
+Acad. Sci. USA, 87, 4576–4579.
+Zillig, W., Stetter, K. O., Schäfer, W. et al. (1981). Thermoproteales: a novel type of
+extremely thermoacidophilic anaerobic archaebacteria isolated from Icelandic
+solfataras. Zbl. Bakt. Hyg., I. Abt. Orig. C2, 205–227.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:09:00.
+
+

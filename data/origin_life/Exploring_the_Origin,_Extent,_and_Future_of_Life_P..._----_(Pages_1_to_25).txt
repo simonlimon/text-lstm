@@ -1,0 +1,810 @@
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+Exploring the Origin, Extent, and Future of Life : Philosophical,
+Ethical and Theological Perspectives, Cambridge University Press, 2009. ProQu
+Created from claremont on 2017-11-13 14:11:02.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+This page intentionally left blank
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:02.
+
+E x plor i ng t h e Or igi n, E x t e n t,
+a n d F u t u r e of Li fe
+
+Philosophical, Ethical, and Theological Perspectives
+Where did we come from? Are we alone? Where are we going? These are the
+questions that define the field of astrobiology. New discoveries about life on Earth,
+the increasing numbers of extrasolar planets being identified, and the technologies
+being developed to locate and characterize Earth-like planets around other stars,
+are continually challenging our views of nature and our connection to the rest of
+the universe.
+In this book, philosophers, historians, ethicists, and theologians provide the perspectives of their fields on the research and discoveries of astrobiology. A valuable
+resource for graduate students and researchers, the book provides an introduction
+to astrobiology, and explores subjects such as the implications of current originof-life research, the possible discovery of extraterrestrial microbial life, and the
+possibility of altering the environment of Mars.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+Consta nc e M. Be rt k a is an Adjunct Professor at the Wesley Theological
+Seminary, Washington DC. She was Director of the Program of Dialogue on
+Science, Ethics, and Religion of the American Association for the Advancement of
+Science (AAAS) from 2002 to 2008.
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:02.
+
+Cambridge Astrobiology
+Series Editors
+Bruce Jakosky, Alan Boss, Frances Westall, Daniel Prieur, and Charles Cockell
+Books in the series
+
+1. Planet Formation: Theory, Observations, and Experiments
+Edited by Hubert Klahr and Wolfgang Brandner
+ISBN 978-0-521-86015-4
+2.  Fitness of the Cosmos for Life: Biochemistry and Fine-Tuning
+Edited by John D. Barrow, Simon Conway Morris,
+Stephen J. Freeland and Charles L. Harper, Jr.
+ISBN 978-0-521-87102-0
+3. Planetary Systems and the Origin of Life
+Edited by Ralph Pudritz, Paul Higgs and Jonathan Stone
+ISBN 978-0-521-87548-6
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+4.  Exploring the Origin, Extent, and Future of Life: Philosophical,
+Ethical, and Theological Perspectives
+Edited by Constance M. Bertka
+ISBN 978-0-521-86363-6
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:02.
+
+E x plor i ng t h e Or igi n, E x t e n t,
+a n d F u t u r e of Li fe
+Philosophical, Ethical, and Theological Perspectives
+Edited by
+Consta nce m. Be rt k a
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+American Association for the Advancement of Science
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:02.
+
+CAMBRIDGE UNIVERSITY PRESS
+
+Cambridge, New York, Melbourne, Madrid, Cape Town, Singapore,
+São Paulo, Delhi, Dubai, Tokyo
+Cambridge University Press
+The Edinburgh Building, Cambridge CB2 8RU, UK
+Published in the United States of America by Cambridge University Press, New York
+www.cambridge.org
+Information on this title: www.cambridge.org/9780521863636
+© Cambridge University Press 2009
+
+This publication is in copyright. Subject to statutory exception and to the
+provision of relevant collective licensing agreements, no reproduction of any part
+may take place without the written permission of Cambridge University Press.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+First published in print format 2009
+ISBN-13
+
+978-0-511-63376-8
+
+eBook (EBL)
+
+ISBN-13
+
+978-0-521-86363-6
+
+Hardback
+
+Cambridge University Press has no responsibility for the persistence or accuracy
+of urls for external or third-party internet websites referred to in this publication,
+and does not guarantee that any content on such websites is, or will remain,
+accurate or appropriate.
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:02.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+To Fei
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:02.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:02.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+Contents
+
+List of contributorspage ix
+Acknowledgementsxi
+1  Astrobiology in a societal context1
+Constance M. Bertka
+Part I  Origin of life
+2  Emergence and the experimental pursuit of the origin of life21
+Robert M. Hazen
+3   From Aristotle to Darwin, to Freeman Dyson: changing
+definitions of life viewed in a historical context47
+James E. Strick
+4  Philosophical aspects of the origin-of-life problem:
+the emergence of life and the nature of science61
+Iris Fry
+5  The origin of terrestrial life: a Christian perspective80
+Ernan McMullin
+6  The alpha and the omega: reflections on the origin and future
+of life from the perspective of Christian theology and ethics96
+Celia Deane-Drummond
+Part II  Extent of life
+7  A biologist’s guide to the solar system115
+Lynn J. Rothschild
+8  The quest for habitable worlds and life beyond the solar system143
+Carl B. Pilcher and Jack J. Lissauer
+9  A historical perspective on the extent and search for life167
+Steven J. Dick
+10 The search for extraterrestrial life: epistemology, ethics,
+and worldviews186
+Mark Lupisella
+vii
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:02.
+
+viii
+
+Contents﻿
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+11 The implications of discovering extraterrestrial life:
+different searches, ­different issues205
+Margaret S. Race
+12 God, evolution, and astrobiology220
+Cynthia S.W. Crysdale
+Part III  Future of life
+13 Planetary ecosynthesis on Mars: restoration ecology
+and environmental ethics245
+Christopher P. McKay
+14 The trouble with intrinsic value: an ethical primer
+for astrobiology261
+Kelly C. Smith
+15 God’s preferential option for life: a Christian perspective
+on astrobiology281
+Richard O. Randolph
+16  Comparing stories about the origin, extent, and future
+of life: an Asian religious perspective303
+Francisca Cho
+Index321
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:02.
+
+Contributors
+
+Constance M. Bertka
+Program of Dialogue on Science, Ethics, and Religion, American Association
+for the Advancement of Science; Wesley Theological Seminary, 1108 Churchview
+Place, Potomac, MD 20854, USA
+Francisca Cho
+Department of Theology, Georgetown University, 108 New North, 37 and
+O streets NW, Washington, DC 20057, USA
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+Cynthia S. W. Crysdale
+School of Theology, Sewanee: The University of the South, 735 University Ave.,
+Sewanee, TN 37383, USA
+Celia Deane-Drummond
+Centre for Religion and the Biosciences, Theology and Religious Studies
+Department, University of Chester, Parkgate Road, Chester, CH1 4BJ, UK
+Steven J. Dick
+History Division, National Aeronautics and Space Administration Headquarters,
+300 E Street SW, Washington, DC 20546, USA
+Iris Fry
+The Cohn Institute for the History and Philosophy of Science and Ideas, Tel Aviv
+University, P.O. Box 39040, Ramat Aviv, Tel-Aviv, 69978, Israel
+Robert M. Hazen
+Carnegie Institution of Washington, Geophysical Laboratory, George Mason
+University, 5251 Broad Branch Rd NW, Washington, DC 20015, USA
+
+ix
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:02.
+
+x
+
+﻿List of contributors
+
+Jack J. Lissauer
+Space Science and Astrobiology Institute, Ames Research Center, National
+Aeronautics and Space Administration
+Mark Lupisella
+Goddard Space Flight Center, National Aeronautics and Space Administration,
+8800 Greenbelt Rd, Greenbelt, MD 20771, USA
+Christopher P. McKay
+Ames Research Center, National Aeronautics and Space Administration, Mail
+Stop 245-3, Moffett Field, CA 94035, USA
+Ernan McMullin
+Program of History and Philosophy of Science, University of Notre Dame, 100
+Malloy Hall, Notre Dame, IN 46556, USA
+Carl B. Pilcher
+Astrobiology Institute, Ames Research Center, National Aeronautics and Space
+Administration, Moffett Field, CA 94035, USA
+Margaret S. Race
+SETI Institute, 515 N. Whisman Road, Mountain View, CA 94043, USA
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+Richard O. Randolph
+Bioethics Department, Kansas City University of Medicine and Biosciences, 1750
+Independence Avenue, Kansas City, Missouri 641006-1453, USA
+Lynn J. Rothschild
+Ames Research Center, National Aeronautics and Space Administration, Mail
+Stop 245-3, Moffett Field, CA 94035, USA
+Kelly C. Smith
+Department of Philosophy and Religion, Clemson University, 126D Hardin Hall,
+Clemson, SC 29634, USA
+James E. Strick
+Program in Science, Technology, and Society, Franklin and Marshall College,
+P.O. Box 3003, Lancaster, PA 17604, USA
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:02.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+Acknowledgements
+
+The editor is grateful to all the authors for both their contributions to this volume
+and for their participation in the workshop series from which this volume grew.
+The editor is also grateful to the American Association for the Advancement of
+Science (AAAS) for its support of the AAAS Program of Dialogue on Science,
+Ethics, and Religion, the program through which this work was undertaken with
+the encouragement of Al Teich, Audrey Chapman, and James Miller. The editor
+is also indebted to Jessica Huls for her assistance in proofing and formatting the
+volume. This work was completed with support from the National Aeronautics
+and Space Administration, NAG5–12966, and a grant from the John Templeton
+Foundation, #1860.
+The interpretations and conclusions contained in this book are those of the
+authors and participants, and reflect their views and not necessarily those of the
+AAAS, its Council, Board of Directors, Officers, or the views of the institutions
+with which the authors and participants are affiliated.
+
+xi
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:02.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:02.
+
+1
+Astrobiology in a societal context
+Constance M. Bertka
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+1.1  Introduction
+In 2003 the American Association for the Advancement of Science, Program
+of Dialogue on Science, Ethics, and Religion, invited over twenty scholars from
+diverse fields, scientists active in astrobiology, as well as philosophers, historians,
+ethicists, and theologians, to explore together the philosophical, ethical, and theological implications of research and discoveries in astrobiology. A major motivation
+for this effort was the recognition that the very questions that define astrobiology as
+a discipline – Where do we come from? Are we alone? Where are we going? – are
+multidisciplinary in nature and have broad appeal to the public-at-large.
+It is unavoidable that the science of astrobiology will intersect with, and inevitably challenge, many deeply held beliefs. Exploration possibilities, particularly those
+that may include the discovery of extraterrestrial life, will continue to challenge us
+to reconsider our views of nature and our connection to the rest of the universe.
+Much work has already been done in this area.1 What is unique about our present
+circumstance is that past theoretical musings may soon benefit from a renewed
+urgency that is awakened both by new discoveries and by technological advances.
+Many of the astrobiologists assembled for this workshop have in common another
+interest, working proactively to provide more opportunities for non-scientists to
+both share in the excitement of this field, and to be informed participants in a public dialogue that considers the opportunities and challenges associated with astrobiology in the near future. With that goal in mind participants were asked that their
+work together have a pragmatic focus on the implications of, for example, current
+ origin-of-life research, the discovery of  extraterrestrial microbial life in the  solar
+ See, for example, S. J. Dick. Plurality of Worlds: The Origins of the Extraterrestrial Life Debate from
+Democritus to Kant (Cambridge: Cambridge University Press, 1982).
+
+1
+
+Exploring the Origin, Extent, and Future of Life: Philosophical, Ethical, and Theological Perspectives, ed.
+Constance M. Bertka. Published by Cambridge University Press. © Cambridge University Press 2009.
+
+1
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:02.
+
+2
+
+Constance M. Bertka
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+system (in contrast to the implications of contact with extraterrestrial intelligent
+life), and the possibility of  terraforming Mars.
+The astrobiologists who participated in the workshops were charged with laying
+the groundwork for each topical discussion by presenting a review of the work of
+their field in a manner that would be accessible to scholars outside of their field.
+These scientific presentations were followed by presentations that reflected on the
+topic from a philosophical, ethical, theological or historical perspective. The perspectives included here are not intended to be exhaustive and the volume is skewed
+toward Christian theological responses. Given the religious demographics in this
+country (see below) that focus is understandable. Hopefully future work will serve
+to broaden the dialogue.
+Following the general astrobiology themes, the three workshop topics explored
+were the “Origin of Life,” the “Extent of Life,” and the “Future of Life,” all with
+the pragmatic focus noted above. The workshops were held over a two-year period
+and the majority of participants attended all three. This level of commitment and
+interest in the series enabled a progressively rich and ongoing level of dialogue to
+take place among the participants. This volume has certainly benefited from that
+extended dialogue. The chapters collected here were prepared in light of those
+discussions and each was reviewed by at least one workshop participant outside of
+the author’s field of expertise. A general summary of the key points of each of the
+three parts of the volume is presented below. I also offer my own thoughts on the
+unique contributions that astrobiology may bring to the scientific community as it
+works at fostering a positive relationship between science and society, particularly
+here in the United States.
+1.2   Astrobiology and public engagement
+As a scientific discipline, astrobiology works from the assumption that the origin
+and evolution of life can be accounted for by natural processes, that life could
+emerge naturally from the physical materials that make up the terrestrial planets. Whether or not life will be a rare or common occurrence on other terrestrial
+planets is yet to be determined. However, with the growing number of extrasolar
+planets being discovered, and the development of technologies and missions to specifically search for Earth-like planets, we are progressing ever closer to determining how common or rare  life is in the universe [1]. For the time being the greatest
+possibility of discovering past or present life on a planet other than Earth probably
+lies with our exploration of Mars. Indeed the focus of Mars exploration has been to
+understand the history of water on Mars, as the assumption is that this history will
+be intimately linked to the history of life on Mars, if life has ever been there or is
+present there now.
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:02.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+Astrobiology in a societal context
+
+3
+
+The focus on water reflects the decision to  search for life “as we know it.” The
+only life we currently know of is the life found on Earth, and for the scientific community the shared common ancestry of all Earth life, and its astounding diversity,
+is explained by the  theory of evolution. The work of astrobiology, at its very core, is
+fueled by the theory of evolution. However, the dubious position that science holds
+with at least half of the American public is perhaps nowhere better illustrated than
+by the controversy over the teaching of evolution in this country.
+A survey by the  Pew Forum on Religion and Public Life (2005) [2] revealed
+that 42% of those surveyed believe that “life has existed in its present form since
+the beginning of time” (pp. 7–11). This answer persists nearly 150 years after the
+publication of  Charles Darwin’s On the Origin of Species, the landmark work
+in which Darwin proposed that living things share common ancestors and have
+“descended with modification” from these ancestors through a process of  natural selection [3]. Perhaps even more distressing is the fact that these numbers
+have not changed in decades, despite the astounding advancements in science
+that have resulted over this same time period, i.e. from space exploration, both
+manned and robotic, to sequencing the  human genome and imaging the brain in
+action. Knowledge about the physical world gained through science has certainly
+increased, but at least half the public is failing when it comes to science literacy,
+or at least evolution literacy.
+It may appear that the other half is doing a bit better, after all 48% reported that
+“life has evolved over time,” but only 26% of those were willing to credit natural
+selection as the process responsible [2] (p. 7). At least 18% of this group, who preferred “evolution guided by a supreme being” might welcome the latest challenge to
+evolution, the so-called  Intelligent Design theory or ID. The basic premises behind
+ID are that some structures or processes associated with life are irreducibly complex, or are evidence of complex specified information, both of which imply that an
+intelligent designer is responsible for their production, and that evolution through
+ natural selection simply could not have done the job.2 An astounding majority of
+those surveyed, 64%, regardless of their own acceptance or rejection of evolution,
+feel that both evolution and  creation science or ID should be taught in the public
+science classroom because that is the “fair” solution [2] (p. 10) . How will these
+facts bear on the usefulness of astrobiology as a tool for encouraging a US public
+to share in the excitement of scientific discovery and be informed participants in a
+public dialogue concerning next steps? The answer, I believe, depends in large part
+on whether or not astrobiology as a discipline has something unique to offer society
+when it comes to working on the relationship between science and religion. We
+ For a critique of  Intelligent Design as well as other  creationist positions see E. C. Scott. Evolution vs.
+Creationism (Westport, CT: Greenwood Press, 2004).
+
+2
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:02.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+4
+
+Constance M. Bertka
+
+know precisely where the evolution illiteracy problem is rooted, in the  2005 Pew
+survey quoted above when people were asked “to identify the biggest influence
+on your thinking about how life developed,” the response chosen most frequently,
+42%, was “my religious beliefs” [2] (p. 10). Before considering how astrobiology
+might contribute to public engagement issues, we must first turn to a brief review
+of the religious landscape in the United States.
+A few years ago I accepted an invitation to speak at a local meeting of the
+Secular Humanist Association. The group was interested in the general topic of
+science and religion, and more specifically, why the American Association for the
+Advancement of Science sponsored a program of Dialogue on Science, Ethics,
+and Religion. The secular humanists were puzzled by the fact that the scientific
+community would even put energy into engaging religious communities. As our
+discussion continued, it became clear to me that this group viewed religion as a
+relic on its way out and contributed its demise in large part to the success of science in revealing “the truth.” Clearly one of the ideological roots of this group was
+the secularization theory. Simply put, this theory holds that as society becomes
+increasingly modernized and secular, religious belief, and the influence of religious
+institutions, will decline. The theory was a popular one with sociologists of religion
+in the 1960s but has now largely been abandoned because it is not supported by
+the empirical data [4, 5]. If secularization is not on the rise, how has the religious
+landscape, particularly in the USA, but also globally, changed?
+A 2005 survey conducted by the  Baylor Institute for Studies of Religion and the
+Department of Sociology at Baylor University directly addresses the question in
+terms of American piety [6]. The goal of the Baylor Religion Survey is to understand
+religion in America. It is a work in progress with additional surveys to be conducted
+over the next several years. Initial results speak directly to the question of secularization. The survey’s authors note that previous national studies seemed to indicate
+that over the past quarter century there was an increase in the percentage of the
+population subscribing to no religion, rising from 8% to over 14%. However, they
+note that these previous studies asked people to identify their religious affiliation
+based on a list of possible dominations. Given the growth in non-denominational
+congregations, as well as congregations that do not emphasize their denominational
+identity, the authors suspected that this type of survey may have incorrectly equated
+declining denominational ties with declining religion. To test this assumption, in
+addition to requesting information on denomination, their survey also asked for the
+name and address of the respondent’s place of worship. In this way the researchers
+could use the information to locate the place of worship within a denominational
+structure, even if the respondent did not recognize this connection.
+Using this approach, only 10.8% of the population is determined to be religiously
+unaffiliated, versus the 14% of previous surveys, and the previously unaccounted
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:02.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+Astrobiology in a societal context
+
+5
+
+for 3% belong to Evangelical denominations. The denominations with the greatest
+affiliation include Catholic (21.2%), Evangelical Protestant (33.6%), and Mainline
+Protestant (22.1%). Furthermore, of the 10.8% that report being unaffiliated with organized religion, 62.9% report believing in God or some higher power [6] (pp. 7–8, 12).
+Religion is not in decline in the US and is experiencing growth similar to that
+found in other areas of the world, namely an increase in Evangelical Protestantism,
+Charismatic Christianity and  “spirituality” [7].
+Within the USA the growth of  Charismatic Christianity can be seen within both
+Catholicism as well as within Protestantism. In its earliest phase the Charismatic
+movement was referred to as “Pentecostalism” and within the US it originated
+in the early twentieth century within a marginalized urban community in Los
+Angeles, the Asuza Street Apostalic Faith Mission. “Charismatic” is the more general term used to describe the movement in the later twentieth century. Charismatic
+Christianity is characterized by an emphasis on a direct personal experience of
+the Spirit of God, often evidenced in worship services by “speaking in tongues”
+and “healings.” In addition to the rise of Charismatic Christianity within the US,
+another notable, and related trend, is the increase in “spirituality.” Recall that even
+of the 10.8% of individuals in the  Baylor Survey who report being unaffiliated
+with organized religion, 62.9% report believing in God or some “higher power.”
+This finding is revealed even more dramatically in the results of a recent Gallup
+Poll, The Spiritual State of the Union: The Role of Spiritual Commitment in the
+United States [8]. This survey, consisting of 1004 interviews with US adults conducted in February and March 2006, reports that 40% of the respondents described
+themselves as “spiritual but not religious” and this percentage has increased by
+10% since a similar survey conducted in 1999. The majority of respondents (49%)
+still define themselves as “religious”; however, another 7% describe themselves as
+“both” and only 3% as “neither.” When asked more specifically about their beliefs,
+82% reported believing in God whereas 13% chose instead belief in a “universal
+Spirit.” Note then that of the 40% who chose to describe themselves as “spiritual
+but not religious” 26% still identify with theism.
+Spirituality is also a factor in the UK, where Steve Bruce has shown that over
+a 40-year time span belief in a personal God may have fallen by 8%, but at the
+same time belief in “some sort of spirit or vital force which controls life” has
+risen by 3% [9]. Paula Heelas uses this work as well as data on religious belief
+in Sweden and the United States to argue that the middle ground, between those
+who regularly attend church and those who are declared atheists and  agnostics,
+is increasing, and this increase is due at least in part to the growth of spirituality [10]. What exactly do we mean by “spirituality”? Heelas defines the term
+by contrasting it with religion, which she describes as being centered on a transcendent God whose will is mediated through tradition. Spirituality, in contrast,
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:02.
+
+6
+
+Constance M. Bertka
+
+is not concerned with institutionalized authority, but on a direct experience of the
+­divine immanent in life:
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+“Spirituality” has to do with the personal; that which is interior or immanent; that
+which is one’s experienced relationship with the scared; and that wisdom or knowledge
+which derives from such experiences. At heart, spirituality has come to mean “life”
+[10] (p. 358).
+
+It appears that those who define themselves solely as spiritual actually share a common ground with the Charismatic branches of Evangelical Christians, Mainline
+Protestants, and Catholics, and it is this common ground that is growing within
+the USA. Heelas refers to this common ground as the “HS” factor, which for nontraditionalists, or non-theist spiritualists, implies “the ‘higher self’ within” that is
+pursued. For more traditional or theistic spiritualities, “HS” refers to the quest for
+the indwelling of the Holy Spirit; for both the focus is on empowering this life in
+the here and now. Can astrobiology actually provide a bridge to engaging a religious US public that increasingly, both within and outside of theistic traditions,
+describes itself as spiritual? Maybe, if we are willing to build more than one type
+of bridge.
+How would the goals of astrobiology be viewed by those subscribing to theistic
+spirituality , specifically the increasing numbers of Charismatic Christians in the
+United States? As this group places more emphasis on interpreting the Bible as an
+authoritative historical document than liberal Christian communities, we can predict that the greatest tension might be between what astrobiology learns about the
+origin and evolution of life and the Biblical creation story. The same would be true
+for conservative Evangelical Protestants. However, it would be incorrect to assume
+that either all Charismatic Christians or all Evangelical Protestants will insist on
+a literal reading of Genesis; not all are fundamentalists and in fact Charismatic
+Christianity in the United States is characterized by the importance it places on a
+direct experience of the divine, over a strict adherence to doctrine. For more liberal
+Charismatic Christians and Evangelical Protestants the challenging theological
+questions will be the same as those for liberal mainline Christians: what was God’s
+role in an  origin of life that arose naturally, or, put another way, how does God act
+in nature?
+Emphasizing the nature of science and the differences between science and religion (see below) is one effort the scientific community can make to help alleviate
+this tension, but serious theological work remains to be done as well. Whereas
+some of this work is beginning to take place in liberal mainline Christian circles,3
+ See, for example, C. Baker. The Evolution Dialogues: Science, Christianity, and the Quest for Understanding,
+ed. J. B. Miller (Washington DC: American Association for the Advancement of Science, 2006).
+
+3
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:02.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+Astrobiology in a societal context
+
+7
+
+the very nature of Charismatic Christianity, with its focus on individual experience
+at the expense of institutionalized doctrine, will be counterproductive in terms of
+building a theological framework that incorporates what science has learned about
+the world. Much work remains for the Evangelical Protestant community as well.
+As for the other questions astrobiology poses, concerning the extent of life
+and the future of life, I would argue that these are less threatening, assuming that
+our greatest possibility for discovering life in the near future is  microbial life on
+Mars, and that they can provide unique opportunities for outreach. The discovery
+of a  second genesis of life on Mars most likely would ignite origin and evolution
+issues; microbial life related to Earth life would undoubtedly be an exciting discovery, but not one that is particularly challenging to religious beliefs. Future of
+life questions, in the broadest interpretation, might appear as an irrelevant question
+for Charismatic Christians and Evangelical Protestants in general, as the Biblical
+account of history promises a future salvation. On the other hand, interpreting this
+question in terms of sustainability issues on Earth can resonate with both liberal
+and more conservative Christians, as recently evidenced by the agreement initiated
+by prominent members of the Evangelical community to work collaboratively with
+the scientific community on global climate change [11].
+I suggest above that we should not expect Charismatic Christianity to be encouraging of developing theologies that incorporate scientific findings, not because of
+a negative attitude toward science, but because the focus of  spirituality is on individual experience, not the development of doctrine. However, I also suggest that
+particular assumptions and possible discoveries of astrobiology will most likely be
+met with resistance by members of this group, as well as Evangelical Protestants
+in general, and even many liberal Christians, because of the challenges they raise
+concerning God’s role in nature and creation. That said, I am still intrigued by the
+identification of  “spirituality” with “life,” quoted above, and what this might imply
+for a research and exploration program focused on life. Does astrobiology present a
+unique opportunity for the scientific community to engage with religious communities, whose members are increasingly defining themselves as spiritual, through a
+shared interest in “life”?
+There is evidence that the answer for non-theist spiritualists, admittedly a smaller
+percentage than the theist spiritualists (13% vs. 26%), is yes. Consider, for example,
+the work of Ursula Goodenough [12]. Her main premise, eloquently expressed in
+her work, The Sacred Depths of Nature, is that a modern understanding of nature
+can give rise to religious emotions, which she defines as “shared cosmology and
+shared morality.” Through the story that science tells about the cosmos, with an
+emphasis on the origin and interconnectedness of life on this planet, a planetary
+ethic may emerge that will provide a guideline for addressing global concerns,
+including sustainability issues. For the non-theist spiritualist the story about life
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:02.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+8
+
+Constance M. Bertka
+
+that astrobiology is both telling, and striving to discover, might serve to encourage
+an interior experience of the divine, that is, “The Sacred Depths of Nature.” Can
+the same be true for a theist spiritualist, particularly if their worldview stems from
+conservative Christianity? Perhaps the answer depends on how the astrobiology
+community engages these individuals.
+The scientific community at large, despite unfortunately the opinion of some
+of its most vocal members, is taking great effort to remind the public that science
+and religion do not need to be in conflict. One recent example is the new publication by the National Academy of Science, Science, Evolution, and Creationism
+[13]. This publication emphasizes the “non-overlapping magesteria” or contrast
+view of science and religion which was popularized within the scientific community especially by  Stephen J. Gould and his book Rock of Ages: Science and
+Religion in the Fullness of Life [14]. Simply put, this model assumes that there
+can be no conflict between science and religion since they respond to different
+questions; science tells us how, religion tells us why. The  Clergy Letter Project is
+another recent effort that promotes the contrast view of science and religion [15].
+The letter was initiated on the part of the scientific community (in response to
+the controversy over the teaching of evolution in public science classrooms) but
+seeks the help of clergy to spread the message. To date over 11,000 clergy members have signed the letter, which includes the plea, “We ask that science remain
+science and that religion remain religion, two very different, but complementary
+forms of truth.” This is a message the scientific community is comfortable with
+and one that fits nicely within a broader program that encourages the scientific
+community at large to pay careful attention to how they “frame” their public
+statements [16].
+Certainly, in regards to engaging a religious public around what science is learning about the world, this model is preferable to one more commonly assumed,
+a conflict model, which depicts science and religion as two endeavors inherently
+at odds with one another (a model which historians of science and religion have
+shown to be oversimplified).4 When we speak as science educators we use the contrast model when we desperately try to help people understand what science is and
+can do, and what it isn’t and can’t do. This is an important message and one that
+scientists need to keep conveying. That said, I would argue that another approach
+has its time and place as well and that the astrobiology community would do well
+to embrace that approach – namely one that looks for dialogue and interaction.5 In
+order to participate in that approach, we need to be able to listen, and to recognize
+ For a review of the interaction between science and Christianity through history see D.C. Lindberg and
+R. Numbers (eds.). God and Nature: Historical Essays on the Encounter between Christianity and Science
+(Berkeley, CA: University of California Press, 1986).
+5
+ For a review of models relating Science and Religion see, for example, J.F. Haught. Science and Religion:
+From Conflict to Conversation (New York: Paulist Press, 1995).
+4
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:02.
+
+Astrobiology in a societal context
+
+9
+
+that different religious constituencies will require different engagement models – we
+must be building multiple bridges.
+Let me illustrate that point with a quote from the Washington Post Magazine in
+January 2006. The cover from that edition read, “Darwin vs. God, what the war
+between evolution and  Intelligent Design is really about.” I believe the author, who
+interviewed students, teachers, and scientists for this story, expresses quite nicely
+why we need more than a contrast approach in dealing with science and religion,
+“If intelligent design advocates  have generally been blind to the overwhelming
+evidence for evolution, scientists have generally been deaf to concerns about evolution’s implication” [17].
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+1.2.1  Who is it that feels we are not listening and
+what can we do to reach them?
+ The 2005 Pew Survey responses, when broken down according to the broad
+Christian religious affiliation categories of “Evangelical,” “Mainline Protestant,”
+and “Roman Catholic,” illustrate that all affiliations, even secular, have a percentage of individuals who believe that “life has existed in its present form since the
+beginning of time.” This view is, however, predominant among those who classified themselves as Evangelicals (70% of Evangelicals). Mainline Protestants and
+Catholics are more accepting of life evolving over time (60%) with nearly equal
+amounts attributing the process to natural selection or guidance by a supreme
+being  [2]. The contrast view of science and religion is particularly appealing to
+Mainline Protestants as is demonstrated, for example, by the positive response
+these congregations have given to another outreach effort associated with the
+Clergy Letter Project, “Evolution Sunday.”
+Evolution Sunday, held near Darwin’s birthday, encourages clergy to devote
+one Sunday to emphasizing that science and religion complement one another [15].
+Assigning denominations to the same broad religious affiliations used in the
+Baylor Survey [6], we find that of the 558 congregations that participated in
+Evolution Sunday in 2007 the majority (78%) represented Mainline Protestant
+churches; the next largest category (18.1%) consisted predominantly of Unitarian
+Universalist congregations (a liberal religion with Judeo-Christian roots).
+Evangelical Protestant congregations accounted for less than 2% of the participating congregations.
+The success story of the Clergy Letter Project, Evolution Sunday, and the contrast approach in general, is that mainline Christian denominations are being vocal
+about supporting the teaching of evolution. This is good news. A remaining and
+serious challenge is to engage evangelical communities on this issue and a contrast approach to science and religion is unlikely to accomplish this end. We need
+to honestly ask ourselves, is our goal limited to keeping  creationism out of the
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:02.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+10
+
+Constance M. Bertka
+
+science classroom, perhaps by majority rule, or are we interested in working long
+term towards a widespread acceptance of evolution? A widespread acceptance of
+evolution in the United States will require that the scientific community go beyond
+a simple contrast approach and be willing to encourage, and participate in, a program of in-depth and long-term engagement with theologians and religious community leaders.
+We are correct in helping people understand that science can’t by itself answer
+questions about meaning. But in doing only this, without a broader conversation,
+are we also suggesting that what science learns about the world, what the world is,
+has absolutely no relevance for our thoughts about what the world means? Are we
+condoning a focus on life as an interior experience, disconnected from the larger
+context? If astrobiology has done anything for the scientific community it has at
+minimum encouraged us to expand our vision beyond that of our immediate discipline, to see the larger context and to struggle to find a way to participate in a multidisciplinary scientific dialogue. This is the very contribution that I suggest makes
+astrobiology the ideal discipline for expanding the dialogue into an even broader
+context with a specific invitation to theologians and religious leaders to participate.
+We may even be able to build on the interest of theistic spiritualists in “life” so that
+through astrobiology in particular we may engage their interest in what science has
+learned about the world.
+Securing a religious public’s support for space science research and exploration,
+so that it merits a high enough priority to claim resources, though vital, is only the
+beginning. It is in the sharing of what we learn from the exploration that the process comes full circle, and then, only when the discoveries are owned by both the
+religious and the spiritual, both the liberal and conservative. Hopefully this volume
+provides one example of the broadening of context that can occur for all involved
+when members of the astrobiology community invite theologians, ethicists, histor­
+ians and philosophers to learn about astrobiology, to reflect on its work from the
+perspective of their own discipline, and to share their findings with the scientific
+community and the public at large. Summarized below are the key points of the
+contributors to this volume, organized according to astrobiology themes .
+1.3  Origin of life
+Where did we come from? Astrobiology includes the study of the origin and evolution of life on Earth and draws on the results of these studies to explore the possibility of life arising and thriving on other planetary bodies. The authors of the
+first part of this volume, an origins researcher, a historian, a philosopher, and two
+theologians, specifically address the origins question from the perspective of their
+discipline. They provide an introduction to the science of life’s origin; describe
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:02.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+Astrobiology in a societal context
+
+11
+
+attitudes towards the  definition of life as a function of historical context; use the
+study of life’s origin as an example to illustrate the nature of science; offer an early
+Christian perspective on life’s origin which can reflect favorably on current scientific understanding; and argue for the unique perspective Theology can bring to
+astrobiology’s pursuits around the questions of origin and future of life.
+The focus of origins research is elucidating how the first living cell arose from
+non-living matter, a formidable task. Both  Hazen and  Fry emphasize that although
+the specific, historical pathway that gave rise to life on Earth may never be known,
+the scientific community harbors great optimism for discovering the general chemical pathways that led to this outcome. Hazen suggests that the study of emergence,
+“the natural process by which complexity arises” can provide a unifying theme for
+origins research and that the emergent systems approach is particularly amenable
+to experimentation.
+Fry prefers an “arch and scaffolding model” as a unifying theme for origins
+research. She argues that this model excels at providing an answer to the question
+of apparent design, a question posed by the fact that both  metabolism and replication of genetic material are required for cell functioning. If these two distinct
+systems are dependent on one another, how then can evolution account for their
+appearance? Fry suggests that the various solutions offered to answer this dilemma
+all have in common the analogy of a supporting scaffold used to build a stone arch;
+the scaffold is present during construction but not obvious in the final product.
+Both Hazen  and Fry note that  origin-of-life research is a relatively recent
+endeavor propelled forward by the Miller–Urey experiments 50 years ago . Fry also
+argues that this is the time during which the theory of evolution “came into maturity” opening the door to the assumption that life formed in the past through a natural process from inorganic matter. Origin-of-life research, she argues, should be
+granted the same scientific status as  evolution research and not viewed as a weak
+point in the scientific explanation of the history of life.
+ Strick’s review of changes in the definition of life from a historical perspective
+illustrates how the origin-of-life question was handled gingerly both by Darwin
+and his supporters.  Darwin was well aware that the  theory of evolution would be
+challenging for a religious public and in the first edition of Origins took great care
+to leave the possibility of divine intervention open in regards to the appearance of
+the first life form . Strick’s review of the reactions of Darwin’s supporters, both religious and non-religious to the definition of life and its first origins, and changing
+perspectives on the definition of life by scientists up until the present, demonstrates
+the important role cultural experience plays in the scientific endeavor.
+Cultural experience also plays an important role in Theology.  McMullin’s
+contribution to this volume traces the influence of the prevailing philosophies of
+ Augustine’s time on his views on creation. Augustine, a prominent theologian
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:02.
+
+

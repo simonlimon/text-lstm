@@ -1,0 +1,1820 @@
+4
+From protoplanetary disks to prebiotic amino
+acids and the origin of the genetic code
+Paul G. Higgs and Ralph E. Pudritz
+McMaster University
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+4.1 Introduction
+The robust formation of planets as well as abundant sources of water and organic
+molecules are likely to be important prerequisites for the wide-spread appearance
+of life in the cosmos. The nebular hypothesis of Kant and Laplace was the ﬁrst
+to propose that the formation of planets occurs in gaseous disks around stars.
+The construction of new infrared and submillimetre observatories over the last
+decade and a half has resulted in the discovery of protoplanetary discs around
+most, if not all, forming stars regardless of their mass (e.g., reviews by Meyer et al.
+(2006), Dutrey et al. (2006)). The recent discoveries of extrasolar planets in over
+a hundred planetary systems provides good evidence that Jovian planets, at least,
+may be relatively abundant around solar-like stars (see Chapter 1). These results
+beg the question of whether protoplanetary disks are also natural settings for the
+manufacture of the molecular prerequisites for life. Life requires water and organic
+molecules such as amino acids, sugars, nucleobases, and lipids as building blocks
+out of which biological macromolecules and cellular structures are made, and many
+of these can be manufactured in protoplanetary disks.
+In the ﬁrst part of this chapter we review the properties of protoplanetary disks
+and how planets are believed to form within them. We then consider the evidence
+that these disks may be a major source of the water and biomolecules available
+for the earliest life, as on the Earth. We focus on amino acids because they
+are the key components of proteins and more is known about prebiotic synthesis
+of amino acids than most other biomolecules. In the second part of this review,
+we compare the different environments that have been proposed for amino acid
+synthesis – including the atmosphere, hydrothermal vents in the deep ocean, and
+protoplanetary disks – and show that there is considerable consensus on which
+amino acids can be formed prebiotically, even if there is still disagreement on the
+location.
+Planetary Systems and the Origins of Life, eds. Ralph E. Pudritz, Paul G. Higgs, and Jonathon R. Stone.
+Published by Cambridge University Press. © Cambridge University Press 2007.
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:13.
+
+4.2 Protoplanetary disks and the formation of planet systems
+
+63
+
+We will argue that the amino acids that were least thermodynamically costly
+to form were the ones that were most abundant before life arose. Early organisms
+could make use of existing amino acids in the ﬁrst proteins. Later organisms evolved
+biochemical pathways to synthesize additional amino acids that were not common
+prebiotically, thus increasing the diversity and functional speciﬁcity of the proteins
+they could make.
+The synthesis of speciﬁc proteins is only possible after the origin of the genetic
+code (i.e., the mapping between codons in RNA and amino acids in proteins). We
+will discuss the origin of the genetic code in the context of our understanding
+of prebiotic amino acid frequencies. We will also consider the evidence that the
+genetic code is optimized to reduce translational error and discuss how it came to be
+this way.
+It is likely that early proteins were composed of a smaller set of amino
+acids than the 20 used currently. We will discuss several experimental studies
+of proteins composed of deliberately reduced amino acid sets that indicate that
+properly folded and functional structures could have formed in such proteins.
+Bioinformatics techniques can also be used to make predictions about early proteins.
+For example, using molecular phylogenetics it is possible to estimate the most likely
+ancestral sequence for a given set of related proteins. Several studies indicate that
+the abundances of amino acids in the ancestral proteins differed from average
+abundances in modern organisms. It is possible that this is a relic of a time when
+only a subset of amino acids was used.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+4.2 Protoplanetary disks and the formation of planet systems
+Stars and planets form within dense, cold clouds of gas and dust, known as molecular
+clouds. Surveys of many molecular clouds show that most stars form as members of
+entire star clusters. These stellar nurseries arise from dense regions within molecular
+clouds known as clumps which extend over about 1 pc in physical scale (or about
+3 light years, or 205 000 astronomical units – AU – where 1 AU = 1.5 × 1013
+cm is the distance between the Earth and the Sun) and typical initial temperatures
+around 20 K. The gas in clouds and clumps is stirred vigorously by supersonic
+turbulence which also generates its ﬁlamentary structure. A single star, or a binary
+stellar system, forms within a small, dense subregion of a clump (known as a core)
+that, for stars like the Sun, extends over a scale of 0.04 pc and has a (particle)
+number density ranging from 104 to 108 cm−3 .
+Numerical simulations of supersonic turbulent gas under the observed conditions
+show how stars and their protoplanetary disks form. Supersonic turbulence ﬁrst
+sweeps up the gas into systems of shocked sheets and ﬁlaments. Dense core-like
+regions are produced as such ﬂows develop. Also, the shock waves that produce
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:13.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+64
+
+Protoplanetary disks, amino acids, and the genetic code
+
+the cores are oblique and hence impart spin to the cores (see MacLow and Klessen
+(2004) for a review). The eventual gravitational collapse of such slowly spinning
+cores under their own weight preserves most of their angular momentum, resulting
+in the formation of protoplanetary disks (e.g., Tilley and Pudritz (2004)).
+Surveys of star-forming regions have established that disks are universal around
+solar mass stars. Stars range over more than three decades in mass, and for all of
+them, one has evidence for disks. The least massive of these is the disk around
+an object that has only 15 MJ (Jovian masses)! (Note, the mass of Jupiter is one
+thousandth the mass of the sun; MJ = 0.001 M .) Disks are commonly observed
+around solar-like stars as they form. At the most massive end, rotating disks have
+been found around B stars that are up to 10 M (e.g., Schreyer et al. (2005)).
+Most studies generally do not resolve a disk around a star but infer its presence
+from the excess of infrared emission that is seen in the spectrum of the star. Disks
+around forming solar-type stars typically extend out to more than 100 AU, with the
+temperature varying as a function of the radius r. In our Solar System, the orbital
+radius of the Earth around the Sun is 1 AU, while that of the most massive outer
+planet, Neptune, is 30 AU. The total emission from this collection of rings of gas
+and dust, each of which emits radiation like a blackbody, adds up to the observed
+excess infrared emission (known as the spectral energy distribution or SED).
+For solar-type stars, the disk temperature that can be inferred from such
+observations scales with disk radius as T ∝ r −0.6 , with a temperature at 100 AU of
+about 30 K. Similarly, one can deduce that the column density of the disk (which
+is the volume density integrated over the disk thickness at a given radius) varies as
+ ∝ r −1.5 and has a value at 100 AU of 0.8 g cm−2 . Disks seen at these later stages
+of their evolution are far less massive than are their central stars, having typically
+10−2 M of gas and dust (e.g., Dutrey et al. (2006)). Hence, their dynamics are
+governed by the gravitational ﬁeld of the central star, and the material is expected
+√
+to be in nearly Keplerian orbit about the star (i.e., vKep (r) = (GM∗ /r)).
+Occasionally, one can also spatially resolve the disk around a young star. The
+rotation curves of the disks can be measured under such conditions, as has been
+done in molecular observations (Simon et al., 2000), and these have been found to
+be nearly Keplerian. At a slightly later stage (a few hundred thousand years), after
+the surrounding cloud is blown away by the young massive star, stars and their
+disks still in formation can be seen in optical images. This is seen in the Hubble
+Space Telescope (HST) image in Figure 4.1, where we see several images of young
+stars that are forming in the Orion Nebula Cluster. A massive star has created a
+strongly illuminated background of glowing nebular gas. The HST image shows
+a disk around each young star which is seen as a silhouette against this bright
+background (McCaughrean and Stauffer, 1994). Disks are heated primarily by the
+young star that they surround as well as by a massive nearby star in the case of
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:13.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+4.2 Protoplanetary disks and the formation of planet systems
+
+65
+
+Fig. 4.1. Hubble images of four protoplanetary disks in the Orion Nebula. These
+are seen as silhouettes against the bright background of the nebula.
+
+clustered star formation. They are also illuminated by ultraviolet radiation as well
+as X-rays from the central star, and this drives the production of organic molecules
+(as we discuss in the next section).
+Studies of the frequency of disks in Orion also allow us to determine their
+lifetimes. One can calibrate the lifetimes of protoplanetary disks because one can
+measure the ages of the young stars that they encompass. The result is that 50% of
+disks are gone by 3 million years after formation, and 90% are gone by 5 million
+years. This lifetime for disks translates into a hard upper limit for the time for the
+formation of massive Jovian planets. While Jupiter has an 8–10 Earth mass core,
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:13.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+66
+
+Protoplanetary disks, amino acids, and the genetic code
+
+its bulk consists of gas that was accreted from the protoplanetary disk in which it
+formed.
+The building of planets and molecules depends, in part, on the balance between
+carbon and oxygen in the molecular gas within protoplanetary disks (e.g., Gaidos
+and Selsis (2006)). These two elements are the most abundant in the interstellar
+medium after hydrogen and helium and are predominantly bound in the form of
+CO in molecular clouds. During gravitational collapse, however, the presence of
+high pressure can shift this balance in favour of the formation of water and methane
+(CH4 ) from CO and molecular hydrogen. Thus, if there is an excess of O over C,
+then the extra O is taken up in the formation of water (through combination with
+abundant molecular hydrogen). In the converse case, an excess of C over O is used
+up in the formation of graphite and organic molecules. The balance between C and
+O depends on the condensation and sedimentation of grains.
+While the bulk of the mass of disks is dominated by gas, dust grains play several
+important roles. Dust grains in more diffuse gas consist of a mixture of silicates
+and carbon, with sizes ranging typically from 100 Å to 0.2–0.3 µm. Once dust
+starts to collect in denser environments such as protostellar disks, it grows by
+agglomeration via collisions. This growth continues up to the scale of kilometresized objects (called planetesimals) and, eventually, planets. Dust grains, while still
+small, are the dominant form of opacity in protostellar disks and effectively absorb
+the ultraviolet radiation that falls on disks from their central and surrounding stars
+(e.g., Natta et al. (2006)).
+Models of terrestrial planet formation agree that the process starts as dust
+settles onto the midplane of protoplanetary disks (see Chapter 3). In the earliest
+phases, dust grains condense and grow by collisions with other dust grains,
+gradually settling to the disk midplane as they become more massive. After
+the formation of planetesimals, an ‘oligarchic’ growth phase occurs wherein
+gravitational interactions lead to focusing of orbits and collisions of planetesimals
+resulting in large numbers of Moon- to Mars-sized objects. At a radial distance of
+1 AU from the central star, this process occurs within a million years (e.g., Kokubo
+and Ida (2002)). The gaseous disk is still present at this phase. The late collisions
+of these oligarchs over 100 My produces a sparse system of massive planets.
+If the Earth formed at around 1 AU in such a disk, it must have formed in a
+very dry zone without much water. This is because the snow-line for water – that
+radius in the protostellar disk which separates a hot inner region of the disk, where
+water cannot condense, from an outer region, where the temperature is low enough
+for water to freeze out and condense in grains and planetesimals – occurs at 2.5
+AU. The Earth’s ocean probably arose as a consequence of the delivery of water
+by bodies that formed beyond 2.5 AU and that later collided with the Earth. It is
+now thought that water ice in comets is unlikely to be the source, as the deuterium
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:13.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+4.2 Protoplanetary disks and the formation of planet systems
+
+67
+
+to hydrogen ratio (D/H) of comets is twice that found in Earth’s water. Perhaps
+only 10% of the Earth’s ocean came from a cometary source. It has been suggested
+(Morbidelli et al., 2000) that water arrived from the asteroid belt through the impact
+of water-laden planetary embryos, such as those discussed above.
+Massive planets, such as Jupiter, play a major role in this process. Numerical
+simulations (Raymond et al., 2004) show that the presence of a Jovian mass planet
+stirs up planetesimals and perturbs them into ever more eccentric orbits. Such orbits
+carry the planetary embryos into the hot, dry inner regions of the disk where they can
+undergo collisions with the Earth. This is a stochastic process, and the simulations
+show that the majority of Earth-like planets that formed in the ‘habitable zone’
+(0.8–1.5 AU) have water contents that are within an order of magnitude of that of
+the Earth. The water content has a broad range, however, extending from some dry
+worlds to a few watery ones that have more than 100 times more water than there
+is on Earth.
+In fact, massive gas-giant (Jovian) planets play a dominant role in the formation
+and evolution of entire planetary systems. How they form is still is unclear, but
+there are two major contemporary models that are under intense investigation. The
+more popular of these is the core accretion picture wherein a rocky core that grows
+to about 5–10 Earth masses can then rapidly accrete gas from the disk. This may
+take a few million years, however – uncomfortably close to the observational limit
+for disk lifetimes (Pollack et al., 1996). The alternative picture is that Jovian planets
+form as a consequence of rapid gravitational instability in a fairly massive disk (e.g.,
+Mayer et al. (2002)). Whatever the mechanism of its formation, the ﬁnal mass of
+a giant planet is dependent strongly on the structure of the disk (its pressure scale
+height) as well as the magnitude of its turbulent viscosity. Jovian planets cease
+to grow when their mass (known as the gap-opening mass) is large enough to
+exert a torque on their surrounding disks in the face of turbulent viscosity, thereby
+opening a signiﬁcant gap in it. The disappearance of the corresponding ring of
+emission from the gas at this radius translates into a notch-like feature in the SED,
+which can be searched for in the spectra of forming stars. The advent of the highly
+sensitive Atacama Large Millimeter Array (ALMA) in the latter part of this decade
+will allow such gaps to be imaged directly, as will the emission from the forming
+Jupiter (e.g., Wolf and D’Angelo (2005)).
+Planets exert signiﬁcant tidal forces on their natal disks and this results in the
+inward migration of the planet (Lin and Papaloizou, 1993). This process is quite
+general and explains why the newly discovered extrasolar planets observed around
+solar-type stars have orbits well within 5 AU and sometimes at the equivalent radius
+of the orbit of Mercury (see Chapter 1). Jupiter mass planets are thought to have
+formed at much larger disk radii, where gas is more abundant, and migrated to
+their present positions. Models show that planets can migrate very quickly – within
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:13.
+
+68
+
+Protoplanetary disks, amino acids, and the genetic code
+
+a million years or so – and are liable to be swallowed by the star. This presents
+a problem as to why there are any planetary systems in the ﬁrst place. Also, the
+migration of massive planets will strongly perturb the smaller terrestrial planets
+and this is of profound signiﬁcance for the origin of life in such systems.
+Several mechanisms have been proposed for saving planetary systems from such
+rapid destruction by their central stars. One of possible universal applicability is
+the role of so-called dead zones that occur in disks (Matsumura et al., 2007). Dead
+zones are regions that are too poorly ionized to support the kind of hydromagnetic
+turbulence in disks that makes them ‘viscous’. Such zones may extend up to 15 AU
+or so and are marked by low viscosity. A massive planet that migrates into such a
+region will readily open a large gap in the disk. Its radial inward migration is then
+locked to the slow rate at which gas in the dead zone drifts inwards.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+4.3 Protoplanetary disks and the formation of biomolecules
+Well over 100 molecules, many of them organic, have been identiﬁed in interstellar
+gas. The clumps and cores in molecular clouds out of which stars form have
+densities ranging from 104 cm−3 to 108 cm−3 and low temperatures. In this state,
+cold gas chemistry can account for the formation of simple molecules (CO, N2 ,
+O2 , C2 H2 , C2 H4 , and HCN). The surfaces of dust grains play host to the formation
+of more complex organic molecules, which include nitriles, aldehydes, alcohols,
+acids, ethers, ketones, amines, amides, and long-chain hydrocarbons.
+For decades, our knowledge of the chemistry in the solar nebula was based
+on studies of planetary atmospheres, meteorites, and comets. Current observations
+allow us to study directly the chemistry of disks around other stars. This work reveals
+that active chemistry occurs near the surface regions of protoplanetary disks. This
+chemistry is in disequilibrium and is similar observationally to that found in dense
+regions directly exposed to ultraviolet and X-ray irradiation (Bergin et al., 2006).
+Chemistry and reaction rates in protoplanetary disks depend on the local gas
+density, temperature, and radiation ﬁeld. Disks are not ﬂat but are instead observed
+to be ﬂared. Their surfaces, therefore, are exposed to radiation from the central
+star. The vertical structure of disks arises from the fact that the pressure gradient
+of the gas at any radius and scale height in the disk supports the weight of the
+material above it. The force that must be balanced is the vertical component of the
+gravitational ﬁeld of the central star (e.g., Dubruelle et al. (2006)).
+Self-consistent calculations show that the heating of such ﬂaring disks is due
+primarily to the ultraviolet radiation from the central star that is absorbed by dust
+grains in such surface layers (Chiang and Goldreich, 1997; D’Alessio et al., 1998).
+The dust in the disk envelope then reradiates this energy in the form of infrared and
+submillimetre photons – about half of which escape vertically away from the disk,
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:13.
+
+accretion
+
+external
+radiation
+
+UV, optical, X-ray
+
+ISM
+abundances?
+
+ye
+
+Protosun/star
+
+69
+r
+
+4.3 Protoplanetary disks and the formation of biomolecules
+
+la
+te d
+ina
+m
+o
+ton-d
+er
+i. pho
+ol. lay
+ii. w ar m m
+iii. midplane
+
+mixing?
+Cosmic Ray
+penetration to
+disk midplane
+
+puffed-up inner rim
+disk in shadow?
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+Fig. 4.2. Illustration of the structure of protostellar disks in response to heating and
+ionization from their central stars and cosmic rays. Note the general appearance
+of a molecular layer. Adapted from Bergin et al. (2006), with permission.
+
+while the remainder radiate downwards towards the disk midplane. These infrared
+photons are then absorbed by the deeper lying dust and ultimately radiate out of
+the disk. The gas is heated by collisions with the warm dust and cools by radiating
+this energy in the form of molecular vibration–rotation emission lines that can
+be observed. This overall process produces a disk that is hottest near the surface
+layers and cooler towards the midplane. By balancing all of these heating and
+cooling rates, one can determine the local disk temperature distribution and hence
+the disk’s SED. The prediction that the temperature should scale as T ∝ r −0.5 is
+close to that observed.
+The vertical structure of disks at disk radii beyond 100 AU consists of three
+layers; the radiation-dominated surface layer or ‘photon-dominated region’ (PDR),
+which consists mainly of atomic and ionized species, a molecular layer at greater
+depth beyond which most ultraviolet radiation has been absorbed by the grains, and
+the cold midplane layer noted above. This midplane region turns out to be so cold
+(around 20 K) that most heavy species, such as CO, freeze out on the dust grains.
+Figure 4.2 shows a schematic of the disk. It is the molecular layer that is of primary
+interest for the synthesis of complex organic molecules.
+Observations of molecules so far are still limited by the sensitivity of telescopes
+as the emission is so weak. By far, the most abundant molecule is molecular
+hydrogen, H2 , but it is generally hard to detect. The most abundant species that
+have been observed to date in disks include HCO+ , CN, CS, HCN, H2 CO, and
+DCO+ (e.g., Dutrey et al. (1997), van Zadelhoff et al. (2001)). Silicates such as
+Mg2 SiO4 (forsterite) have been detected in the hot surface layers of the inner regions
+of the disk (r ≤ 1–10 AU). This is important because the shape and strength of
+silicate features in disk spectra allow one to track the evolution and growth of
+dust grains in disks with time. Ices of H2 O, CO2 , and CO are observed in the outer
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:13.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+70
+
+Protoplanetary disks, amino acids, and the genetic code
+
+regions of the disks, where temperatures drop to less than 100 K. The most abundant
+organic molecules observed are the polycyclic aromatic hydrocarbons, or PAHs.
+Their abundance per H atom is of the order of 10−7 . Up to 50% of carbon may
+be locked up in such carbonaceous solids. They are important for disk chemistry
+because they absorb ultraviolet radiation and act as potential sites for H2 formation.
+Dust grains that are coated with simple icy mantles warm up as they are mixed
+and transported to dense, active protostellar regions. This can occur in regions
+such as the so-called hot cores that are hosts to massive star formation or the
+innermost regions of protoplanetary disks. These regions are particularly rich in
+organic molecules. Ultraviolet irradiation, or perhaps X-ray bombardment, then
+breaks bonds, and allows reactions that can produce organic molecules. However,
+evaporation of these simple dust grain surfaces can drive gas phase production of
+organics.
+It is now well established that organic molecules of extra terrestrial origin
+are found in carbonaceous chondrite meteorites. The best-studied of these is the
+Murchison meteorite, in which 8 of the 20 biological amino acids have been found
+(Engel and Nagy, 1982). Meteorites also contain many other organic molecules that
+are relevant in astrobiology (Sephton, 2002), including lipids that have been shown
+to be capable of membrane formation (see Chapter 5). The organic molecules in
+meteorites may have originally arisen on dust grains, which were then incorporated
+into comets and meteorites. The possibility that dust grains with icy mantles are a
+site for amino acid synthesis has been investigated experimentally. Bernstein et al.
+(2002) and Munoz-Caro et al. (2002) have shown that amino acids such as glycine,
+alanine, and serine may result from the exposure of icy mantles consisting of HCN,
+ammonia (NH3 ), and formaldehyde (H2 CO) to ultraviolet radiation.
+Alternatively, it has been proposed that amino acids such as glycine and
+alanine, and the base adenine can form during the gravitational collapse of a core.
+Chakrabarti and Chakrabarti (2000) added reactions that make amino acids (e.g., by
+the Strecker process – wherein an aldehyde starting material combines with HCN
+in ammonia to form the corresponding aminonitrile, which upon hydrolysis forms
+the amino acid) to the existing UMIST database of chemical reactions in molecular
+clouds. This created a reaction network involving 421 molecular species. As an
+example, they found that the glycine that was formed had a mass fraction of order
+10−12 . It peaks at a radius of approximately 100 AU and a time of a million years
+after the initiation of the collapse. The astronomical detection of interstellar amino
+acids, such as glycine, would strengthen the link between the chemistry of disks
+and observed amino acids in meteorites. A spectroscopic survey for amino acids in
+clouds and disks will be possible with ALMA.
+Organic molecules contained in comets and meteorites are delivered to Earth
+when impact events occur, and it is known that impacts were frequent in the
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:13.
+
+4.4 Measurements and experiments on amino acid synthesis
+
+71
+
+early history of the Solar System. Impacts release huge amounts of energy which
+might cause thermal degradation of macromolecules. However, Pierazzo and Chyba
+(1999) predicted that molecules such as amino acids can survive such impacts
+and that the rate of delivery of biomolecules from space could exceed the rate of
+synthesis on Earth.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+4.4 Measurements and experiments on amino acid synthesis
+The previous section presents the case for synthesis of biomolecules in
+protoplanetary disks, but several mechanisms of prebiotic synthesis on Earth have
+also been debated for many years. In this section, we show that these results combine
+to give a coherent picture of which amino acids were most abundant on the early
+Earth. We focus on amino acids because of their fundamental importance in biology
+and because they have been detected in a wide range of non-biological contexts
+relevant to prebiotic synthesis.
+In Table 4.1, each column contains observed amino acid concentrations,
+normalized relative to glycine unless otherwise stated. In the following discussion,
+column numbers refer to this table. Column M1 is the H2 O extract from the
+Murchison meteorite (Engel and Nagy, 1982). Column M2 is the Murray meteorite
+(Cronin and Moore, 1971), and column M3 is the interior, hydrolysed sample of
+the Yamato meteorite (Shimoyama et al., 1979). Several amino acids that are not
+used biologically are found to be as abundant in meteorites as the biological ones
+(Kvenvolden et al., 1971). We will not consider non-biological amino acids in
+this chapter. However, the question of why certain amino acids came to be used in
+proteins and others did not is an important one, and in many cases reasons have been
+proposed as to why the non-biological ones were avoided (Weber and Miller, 1981).
+Column I1 shows measurements from an experiment simulating the chemistry on
+icy grains (Munoz-Caro et al., 2002).
+Miller and Urey showed that amino acids could be synthesized by exposure of
+a mixture of reducing gases to ultraviolet radiation or electrical discharge. These
+experiments were intended to show that synthesis was possible in the atmosphere of
+the early Earth, which was presumed to be reducing. Column A1 shows the results
+with an atmosphere of CH4 , NH3 , H2 O, and H2 (Miller and Orgel, 1974), and
+column A2 shows the results with an atmosphere of CH4 , N2 , H2 O, and traces
+of NH3 (Miller and Orgel, 1974). Although yields are lower in non-reducing
+atmospheres, column A3 shows an experiment using proton irradiation of an
+atmosphere of CO, N2 , and H2 O (Miyakawa et al., 2002), which is not a strongly
+reducing mixture.
+Another competing theory is that life originated in high-temperature, highpressure environments in the deep sea (Amend and Shock, 1998). Chemical
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:13.
+
+72
+
+Protoplanetary disks, amino acids, and the genetic code
+
+Table 4.1. Frequencies of amino acids observed in non-biological contexts. In
+the column headings, M denotes meteorites, I denotes icy grains, A denotes
+atmospheric synthesis, H denotes hydrothermal synthesis, and S denotes other
+chemical syntheses (details in text). Robs is the mean rank derived from these
+observations. The ﬁnal six amino acids are not observed: N asparagine,
+Q glutamine, C cysteine, Y tyrosine, M methionine, W tryptophan
+M1 M2 M3
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+G glycine
+A alanaine
+D aspartic acid
+E glutamic acid
+V valine
+S serine
+I isoleucine
+L leucine
+P proline
+T threonine
+K lysine
+F phenylalanine
+R arginine
+H histidine
+NQCYMW
+
+1.00
+0.34
+0.19
+0.40
+0.19
+
+1.0
+0.4
+0.5
+0.5
+0.3
+
+I1
+
+A1
+
+A2
+
+A3
+
+H1 H2
+
+1.00
+0.38
+0.035
+0.11
+0.10
+0.003
+0.06
+0.035
+
+S1
+
+S2
+
+1.000 1.000 1.000 1.000 18 12 1.000 1.000
+0.293 0.540 1.795 0.155 15 8 0.473 0.097
+0.022 0.006 0.077 0.059 10 10
+0.581
+0.010 0.018
+6 11
+0.012
+0.044
+1
+0.006
+0.072
+0.011 0.018 8 11
+0.154
+0.13
+0.011
+8 9
+0.002
+0.04
+0.026
+3
+0.001 0.002
+0.29 0.1
+0.001
+0.003
+9
+0.003
+0.002
+2
+0.002
+7
+4
+
+S3 Robs
+40
+20
+30
+20
+2
+4
+7
+2
+1
+14
+1
+15
+15
+
+1.1
+2.8
+4.3
+6.8
+8.5
+8.6
+9.1
+9.4
+10.0
+11.7
+12.6
+13.2
+13.3
+13.3
+14.2
+
+syntheses of amino acids in hydrothermal conditions have been reported. Column
+H1 is from Marshall (1994), and H2 is from Hennet et al. (1992). Each of these
+columns gives the number of times that the amino acid was observed in greater
+than trace amounts in a large number of experiments. The ﬁnal three columns
+are miscellaneous chemical synthesis experiments: S1 is shock synthesis from a
+gaseous mixture (Bar-Nun et al., 1970); S2 is synthesis from ammonium cyanide
+(Exp. 2 of Lowe et al., 1963); S3 is synthesis from CO, H2 , and NH3 at high
+temperature in the presence of catalysts (Yoshino et al., 1971). This column shows
+the number of positive identiﬁcations of the amino acid from many experiments.
+It is possible that the organic molecules that were present when life began were
+synthesized by several different mechanisms. A central issue is to estimate what
+fraction originated on Earth and what fraction was brought to Earth after synthesis
+in protoplanetary disks (Whittet, 1997). The yields on Earth are dependent on
+the mixture of gases in the atmosphere. If the atmosphere is non-reducing, yields
+on Earth are low, and delivery of molecules from space is more relevant (Chyba
+and Sagan, 1992; Kasting, 1993; Pierazzo and Chyba, 1999). Although there is
+now a reasonable consensus that the atmosphere was not strongly reducing, the
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:13.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+4.5 A role for thermodynamics
+
+73
+
+importance of synthesis in the atmosphere is maintained by some (Lazcano and
+Miller, 1996; Miyakawa et al., 2002), and this type of synthesis still works to some
+degree in intermediate atmospheres. Despite this uncertainty, the results in Table
+4.1 are surprisingly consistent as regards which amino acids can be synthesized,
+even if they are in disagreement about where and how they were formed.
+In his studies of the origin of the genetic code, Trifonov (2000, 2004) collected 60
+criteria by which the amino acids can be ranked. A consensus order was obtained by
+averaging the rankings. This procedure incorporates diverse criteria that are not all
+consistent with one another, and some of these must be misleading. Nevertheless,
+the consensus order that emerges appears to be a useful one. We shall call the average
+ranks derived from genetic code criteria Rcode . In this section we derive our own
+ranking, Robs , based only on observed frequencies of amino acids in non-biological
+syntheses, i.e., we use non-speculative criteria.
+We ranked the amino acids according to each criterion in Table 4.1 separately.
+For example, for criterion M2, G is most frequent and is given rank 1. The next
+two, D and E, are equally frequent, and are both given rank 2.5. The next three are
+A, V, and P, with ranks 4, 5, and 6. All the remaining amino acids are not observed,
+and are given an equal bottom rank 13.5 (the average of the numbers between 7
+and 20). Robs is the mean of the ranks obtained from the 12 columns.
+Several points are worth noting from Table 4.1. G is the most abundant amino
+acid in all but column A2, where it is second. A, D, and E are also abundant in
+most experiments. The next six (V, S, I, L, P, T) are all found in the Miller–Urey
+experiment (A2), at least one of the meteorites, and several of the other cases.
+Therefore, there is good evidence for prebiotic synthesis of all the amino acids
+down as far as T on the list. The following four (K, F, R, H) are not found in
+the Miller experiments or in meteorites and occur only in one or two of the other
+chemical synthesis experiments. The remaining amino acids (N, Q, C, Y, M, W)
+are not formed in any of the experiments. In our view, the data are not sufﬁcient to
+make a deﬁnite distinction between K, F, R, H and N, Q, C, Y, M, W.
+4.5 A role for thermodynamics
+Thermodynamic arguments can help us to understand what the mixtures of amino
+acids available to early organisms may have been like, and why there is considerable
+consensus among the experiments considered in the previous section. Table 4.2
+lists the amino acids and their properties according to the ranking Robs derived
+above. We will refer to the top ten amino acids as ‘early’ and the bottom ten as
+‘late’. Early amino acids were easily synthesized by non-biological means and
+were, therefore, available for use by early organisms. Late amino acids were not
+available in appreciable quantities until organisms evolved a means to synthesize
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:13.
+
+74
+
+Protoplanetary disks, amino acids, and the genetic code
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+Table 4.2. Thermodynamic and evolutionary properties of amino acids
+Robs
+
+Rcode
+
+Gsurf
+
+Ghydro
+
+ATP
+
+MW
+
+dp/dt
+
+p
+
+G
+A
+D
+E
+V
+S
+I
+L
+P
+T
+
+Gly
+Ala
+Asp
+Glu
+Val
+Ser
+Ile
+Leu
+Pro
+Thr
+
+1.1
+2.8
+4.3
+6.8
+8.5
+8.6
+9.1
+9.4
+10.0
+11.7
+
+3.5
+4.0
+6.0
+8.1
+6.3
+7.6
+11.4
+9.9
+7.3
+9.4
+
+80.49
+113.66
+146.74
+172.13
+178.00
+173.73
+213.93
+205.03
+192.83
+216.50
+
+14.89
+−12.12
+32.78
+−1.43
+−70.12
+69.47
+−96.40
+−105.53
+−38.75
+53.51
+
+11.7
+11.7
+12.7
+15.3
+23.3
+11.7
+32.3
+27.3
+20.3
+18.7
+
+75
+89
+133
+147
+117
+105
+131
+131
+115
+119
+
+−0.0063
+−0.0239
+−0.0039
+−0.0137
+0.0098
+0.0167
+0.0089
+−0.0017
+−0.0139
+0.0091
+
+−0.5
+−3.3
+−0.4
+0.7
+−1.6
+−0.6
+−0.9
+3.2
+0.0
+−1.4
+
+K
+F
+R
+H
+N
+Q
+C
+Y
+M
+W
+
+Lys
+Phe
+Arg
+His
+Asn
+Gln
+Cys
+Tyr
+Met
+Trp
+
+12.6
+13.2
+13.3
+13.3
+14.2
+14.2
+14.2
+14.2
+14.2
+14.2
+
+13.3
+14.4
+11.0
+13.0
+11.3
+11.4
+13.8
+15.2
+15.4
+16.5
+
+258.56
+303.64
+409.46
+350.52
+201.56
+223.36
+224.67
+334.20
+113.22
+431.17
+
+−28.33
+−114.54
+197.52
+154.48
+83.53
+44.03
+60.24
+−59.53
+−174.71
+−38.99
+
+30.3
+52.0
+27.3
+38.3
+14.7
+16.3
+24.7
+50.0
+34.3
+74.3
+
+146
+165
+174
+155
+132
+146
+121
+181
+149
+204
+
+−0.0065
+0.0042
+0.0038
+0.0073
+0.0073
+0.0020
+0.0067
+−0.0005
+0.0088
+0.0002
+
+1.6
+1.5
+−0.2
+−1.3
+−0.6
+1.3
+0.5
+1.6
+−0.3
+0.6
+
+them. The early–late distinction is relevant in the discussion of the origin of the
+genetic code in the following section. Our ranking, Robs , is close to the ranking,
+Rcode , taken from Table V of Trifonov (2004). The top three are the same, and nine
+amino acids are in the top ten of both orders. We prefer Robs on the grounds that it is
+derived directly from experimental observables; however, the conclusions drawn
+from both rankings are very similar.
+The ranking can be interpreted on thermodynamic grounds. Amend and Shock
+(1998) have calculated the free energy of formation of the amino acids from
+CO2 , NH+
+4 , and H2 in two sets of conditions. Gsurf in Table 4.2 corresponds
+to surface seawater conditions (18 ◦ C, 1 atm), and Ghydro corresponds to deepsea hydrothermal conditions (100 ◦ C, 250 atm). Figure 4.3 shows that Robs is closely
+related to Gsurf . For the ten early amino acids, there is a strong correlation between
+the two (r = 0.96).
+The late amino acids have signiﬁcantly higher Gsurf than the early ones.
+The means and standard deviations of the groups are 169.3 ± 42.0 and 285.0 ±
+94.1 kJ/mol. Table 4.2 also lists the molecular weight (MW) of each amino acid
+and the ATP cost, which is the number of ATP molecules that must be expended
+to synthesize the amino acids using the biochemical pathways in E. coli bacteria
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:13.
+
+4.5 A role for thermodynamics
+
+75
+
+16
+N Q
+
+Y
+
+14
+K
+
+F
+
+W
+H
+
+R
+
+12
+T
+P
+
+10
+
+L
+
+Robs
+
+S
+
+I
+V
+
+8
+
+E
+
+6
+4
+
+D
+A
+
+2
+G
+0
+
+0
+
+100
+
+200
+
+300
+∆ G surf
+
+400
+
+500
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+Fig. 4.3. Relationship between the rank of the amino acid and the free energy of
+formation: circles – early amino acids; triangles – late amino acids. The line is the
+linear regression for the early amino acids.
+
+(Akashi and Gojobori, 2002). The means and standard deviations of MW for early
+and late groups are 116.2 ± 20.6 and 157.3 ± 23.2 Da, and the ﬁgures for ATP cost
+are 18.5 ± 6.9 and 36.2 ± 17.3. Thus it is clear that the late group are larger and
+more thermodynamically costly.
+We have omitted the two sulphur-containing amino acids, Met and Cys, from
+Figure 4.3. Several of the experiments in Table 4.1 do not include sulphur in the
+reaction mixture, so these amino acids are bound to be absent from the products.
+Thus, the value of Robs for Met and Cys is unclear. Nevertheless, Met and Cys are
+absent from the meteorites, and are late according to Rcode , so it seems reasonable to
+classify them in the late group. Additionally, there are some uncertainties associated
+with Met and Cys in the data used in the calculation of Gsurf by Amend and
+Shock (1998): the concentration of Cys in seawater was not reported; Met and Val
+were not distinguishable, which makes the concentration of Met uncertain; and
+the concentration of H2 S was below detection (this affects Gsurf for Met and
+Cys but not the other amino acids). The value of Gsurf = 113.22 kJ mol−1 for
+Met is puzzling. This is lower than for any of the other late amino acids, and is
+particularly surprising as it is lower than the ﬁgure for Cys (Met is a larger molecule
+than Cys). For all these reasons it seemed preferable to omit Met and Cys from
+this ﬁgure.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:13.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+76
+
+Protoplanetary disks, amino acids, and the genetic code
+
+All the formation reactions are endergonic (Gsurf > 0). The amino acids
+with the smallest Gsurf should be formed most easily, as they require the
+least free energy input. Figure 4.3 demonstrates this. The values of Gsurf
+are predictive of what we see in a wide range of meteorite and prebiotic
+synthesis experiments. If the mixture of compounds were in equilibrium, then we
+would expect the concentrations to depend exponentially on G via the Boltzmann
+factor exp(−G/kT ). The ranking procedure linearizes this relationship and makes
+the correlation easier to see. The exponential dependence explains why the amino
+acids with high G are not seen in experiment: their concentration would be too
+low to detect. Observed concentrations also depend on the rates of formation and
+not just on equilibrium thermodynamics. The middle-ranking amino acids show
+considerable ﬂuctuation between the columns of Table 4.1, being present in some
+cases and not others. This may reﬂect differences in rates of synthesis between
+different experimental conditions. The ranking procedure averages out these
+ﬂuctuations.
+The picture becomes less clear when we consider the free energy of formation
+under hydrothermal conditions. The central message of Amend and Shock (1998)
+is that many of the formation reactions are exergonic (Ghydro < 0) under
+hydrothermal conditions, and that even the endergonic ones are less positive than
+they are at the surface. They use this to explain why hydrothermal vents might be a
+good place for current life, and to support the idea that the ﬁrst organisms might have
+been deep-sea chemosynthesizers. However, there is no correlation between rank
+and Ghydro , and no signiﬁcant difference in Ghydro between early and late amino
+acids. The two experiments designed to simulate hydrothermal systems (H1 and H2)
+give results that agree fairly well with the combined ranking from the other data.
+The Ghydro values do not seem to agree with the H1 and H2 experiments any
+better than they agree with the overall ranking. Although this does not rule out the
+possibility of a hydrothermal origin of life, what does appear clear is that the ten
+early amino acids identiﬁed by the ranking procedure can be predicted on the basis
+of Gsurf and not Ghydro .
+4.6 The RNA world and the origin of the genetic code
+One of our main motivations for discussing prebiotic amino acid formation above
+is that we are interested in the origin of the genetic code and protein synthesis. The
+previous section gives us a good idea which were the early amino acids available
+at the time the genetic code evolved. However, many other types of biomolecules
+would have been around as well as amino acids, and life must already have reached
+a rather advanced stage before the genetic code and protein synthesis could have
+evolved. In this chapter, we will not attempt to discuss the origin of life itself, but
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:13.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+4.6 The RNA world and the origin of the genetic code
+
+77
+
+we will present our reasons for believing that an RNA world stage existed in the
+early history of life, that the genetic code arose in the context of an RNA world,
+and that the mixture of prebiotic amino acids available inﬂuenced the structure of
+this code.
+Current life is based on DNA and proteins: proteins carry out the majority of
+catalytic roles in the cell, and DNA stores the genetic information. Proteins are
+made using the information speciﬁed in the DNA sequence (genome) of the cell.
+Proteins do not have their own hereditary mechanism. Double-stranded DNA does
+have a hereditary mechanism because each strand can act as a template for synthesis
+of the complementary strand. In current organisms, DNA synthesis is catalysed by
+protein enzymes. Thus, DNA and proteins are mutually dependent, and it is difﬁcult
+to see how one could have existed without the other. The RNA world hypothesis was
+proposed as a way out of this chicken-and-egg dilemma. The RNA world is a period
+thought to have existed in the early stages of life in which RNA molecules carried
+out both catalytic and genetic roles. This is supported by the fact that there are many
+viruses in which the genome is RNA (although no longer any cellular organisms),
+and by the increasing repertoire of catalytic RNAs that are being synthesized by
+in vitro selection techniques (Joyce, 2002).
+It is thought that when organisms evolved the ability to synthesize speciﬁc
+proteins, these proteins took over most of the catalytic roles formerly performed by
+RNA. Also DNA took over the role of information storage from RNA at some stage.
+Nevertheless, RNA was retained as an intermediate between DNA and proteins:
+information in the DNA gene sequence is ﬁrst transcribed into an RNA sequence
+and then translated into a protein sequence. There are also a certain number of types
+of RNAs with key biochemical roles that occur widely in all domains of life and
+that are thought to be relics of the RNA world (Jeffares et al., 1998). Joyce (2002)
+likened this situation to a primitive civilization that existed before recorded history
+but which left its mark on the modern civilization that followed.
+There are still important gaps in our understanding of the RNA world, and it is
+not known if complex self-replicating RNAs could have originated de novo. It may
+be that there was no single self-replicating RNA, and that life began with a network
+of reactions of many molecular components (Shapiro, 2006). These components
+could have been RNAs or other types of biomolecules. Nevertheless, we are
+persuaded that life on Earth passed through an RNA world stage, even if something
+preceded this. Translation is the process by which the sequence information in an
+RNA molecule is used to make a speciﬁc protein. Translation depends on RNA
+in several ways. Firstly, the messenger RNA contains the sequence information;
+secondly, ribosomal RNA is the active component of the ribosome – the complex of
+macromolecules that catalyses formation of proteins (Moore and Steitz, 2002); and
+thirdly, the transfer RNAs are the ‘adaptors’that make the link between nucleic acids
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:13.
+
+78
+
+Protoplanetary disks, amino acids, and the genetic code
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+Table 4.3. The canonical genetic code. Each of the 64 codons is assigned to one
+of the 20 amino acids (or to a Stop signal). The ﬁrst-position base is shown on the
+left, the second-position base at the top, and the third-position base at the right
+U
+
+C
+
+A
+
+G
+
+U
+
+UUU Phe (F)
+UUC Phe (F)
+UUA Leu (L)
+UUG Leu (L)
+
+UCU Ser (S)
+UCC Ser (S)
+UCA Ser (S)
+UCG Ser (S)
+
+UAU Tyr (Y)
+UAC Tyr (Y)
+UAA Stop
+UAG Stop
+
+UGU Cys (C)
+UGC Cys (C)
+UGA Stop
+UGG Trp (W)
+
+U
+C
+A
+G
+
+C
+
+CUU Leu (L)
+CUC Leu (L)
+CUA Leu (L)
+CUG Leu (L)
+
+CCU Pro (P)
+CCC Pro (P)
+CCA Pro (P)
+CCG Pro (P)
+
+CAU His (H)
+CAC His (H)
+CAA Gln (Q)
+CAG Gln (Q)
+
+CGU Arg (R)
+CGC Arg (R)
+CGA Arg (R)
+CGG Arg (R)
+
+U
+C
+A
+G
+
+A
+
+AUU Ile (I)
+AUC Ile (I)
+AUA Ile (I)
+AUG Met (M)
+
+ACU Thr (T)
+ACC Thr (T)
+ACA Thr (T)
+ACG Thr (T)
+
+AAU Asn (N)
+AAC Asn (N)
+AAA Lys (K)
+AAG Lys (K)
+
+AGU Ser (S)
+AGC Ser (S)
+AGA Arg (R)
+AGG Arg (R)
+
+U
+C
+A
+G
+
+G
+
+GUU Val (V)
+GUC Val (V)
+GUA Val (V)
+GUG Val (V)
+
+GCU Ala (A)
+GCC Ala (A)
+GCA Ala (A)
+GCG Ala (A)
+
+GAU Asp (D)
+GAC Asp (D)
+GAA Glu (E)
+GAG Glu (E)
+
+GGU Gly (G)
+GGC Gly (G)
+GGA Gly (G)
+GGG Gly (G)
+
+U
+C
+A
+G
+
+and amino acids. Therefore, it is likely that translation originated in organisms in
+which RNAs played a central role and in which a mechanism of accurate replication
+of relatively long RNA sequences had already evolved.
+The key to translation is the genetic code. This is the set of assignments between
+the 64 possible codons (three-letter sequences composed of U, C, A, and G
+nucleotides) in RNA and the 20 possible amino acids in proteins. The genetic
+code is decoded by complementary base pairing between the codon sequence in
+the messenger RNA and the anticodon sequence on the transfer RNAs (readers
+requiring more information should consult any biology textbook). The canonical
+genetic code shown in Table 4.3 is shared by the three domains of life (archaea,
+bacteria, and eukaryotes). Therefore, it evolved prior to the last universal common
+ancestor (LUCA). Understanding how it arose is a fundamental question in
+evolutionary biology.
+As prebiotic synthesis of the early group of amino acids seems to be possible in
+a number of environments, it is likely that these early amino acids were available
+to RNA-based organisms. Prior to the evolution of the genetic code, amino acids
+could have played a role in metabolism, and it is possible that polypeptides might
+also have been synthesized if peptide bond formation was catalysed by a ribozyme.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:13.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+4.6 The RNA world and the origin of the genetic code
+
+79
+
+For more details of possible types of chemistry that could have existed in this
+period, see Pascal et al. (2005). However, before the genetic code evolved, any
+peptides would have had stochastic amino acid compositions. When the genetic
+code arose, it became possible to synthesize speciﬁc proteins where the amino acid
+sequence was predetermined by the RNA sequence. Speciﬁc proteins can have
+speciﬁc structures and hence speciﬁc functions; therefore, they are much more
+useful to an organism than are stochastic peptides. The invention of the genetic
+code is a stroke of evolutionary brilliance which couples the hereditary mechanism
+inherent in the template-directed replication of nucleic acids to the catalytic
+possibilities of proteins. Prior to the genetic code, proteins could not undergo
+evolution.
+Early versions of the code probably used a smaller repertoire of amino acids, each
+with a larger number of codons. The codon table was divided up into progressively
+smaller blocks as successive amino acids were added. This idea goes as far back
+as Crick (1968). Each addition would have opened up a whole new world of
+protein possibilities. Thus, there is a selective drive for adding new amino acids
+in the early stages of code development. This brings us back to question of the
+order of addition of amino acids to the genetic code. We have shown above that
+the early group of amino acids can be identiﬁed based on their appearance in
+meteorites, the Miller–Urey experiment, and a variety of other chemical syntheses
+designed to simulate prebiotic conditions. The strong correlation between the
+ranking, Robs , that we derive and the free energy of formation, Gsurf , suggests
+that this ranking is a meaningful prediction of the relative frequencies of abiotically
+synthesized amino acids that would have been available to the ﬁrst organisms.
+Essentially the same amino acids are placed early in Rcode (Trifonov, 2004)
+as well.
+We therefore envisage an organism in the RNA world that learned to use the
+available amino acids to synthesize proteins in a prescribed way and found this
+to be extremely useful. Such an organism would have begun to evolve metabolic
+pathways to synthesize these amino acids itself from other chemicals so that it
+was no longer reliant on the prebiotic supply. As this process proceeded, pathways
+developed for synthesis of the more complex, late group of amino acids that were
+never present in appreciable quantities prebiotically. At some point along the line,
+proteins became so useful and so essential that the RNA-based organisms were
+replaced by modern DNA/protein-based organisms. This scenario has long been
+advocated by Wong (1975) as part of what is known as the coevolution theory for the
+origin of the code. In an updated version of this theory, Wong (2005) proposed the
+same set of early and late amino acids as us, based on synthesis from atmospheric
+gases. We have shown above that this set of early amino acids seems likely, even
+if the place of origin is different.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:13.
+
+80
+
+Protoplanetary disks, amino acids, and the genetic code
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+4.7 How was the genetic code optimized?
+There is considerable evidence that the canonical code has evolved to minimize the
+effect of errors (Freeland et al., 2003). Mutations create errors in the gene sequence
+that are passed to the protein sequences translated from this gene. Translational
+errors due to codon–anticodon mispairing or mischarging of a tRNA will introduce
+occasional non-heritable errors into proteins. These errors are likely to involve only
+one of the three bases in the codon most of the time. Errors can be minimized by
+arranging for codons that differ by only one base to code for the same amino acid or
+amino acids with similar physical properties. Thus, when an error leads to an amino
+acid replacement, it is usually replaced by a similar amino acid, and the deleterious
+effect on the protein is minimized. The canonical code has been compared with
+large numbers of random codes created by reshufﬂing the amino acid positions in
+the table of codons. The fraction of random codes for which the average effect
+of an error is less than in the canonical code is as small as 10−6 (Freeland and
+Hurst, 1998), and can be even smaller than this if the effect of unequal amino acid
+frequencies is also accounted for (Gilis et al., 2001).
+It was originally thought that the canonical code was shared by all organisms
+and that it was frozen and unable to change. However, although the majority of
+organisms use the canonical code, there are now a large number of cases known
+where small changes to the code have occurred in speciﬁc lineages (Knight et al.,
+2001). There are several different mechanisms by which codon reassignment can
+occur despite the negative selective effects that are present during the changeover
+period (Sengupta and Higgs, 2005, Sengupta et al., 2007). The variant codes have
+all arisen since the establishment of the canonical code. In this chapter, we are more
+concerned with the origin of the canonical code itself.
+One remarkable pattern in the code is that the ﬁve highest ranking amino acids,
+Gly, Ala, Asp, Glu, and Val, all have codons of the form GNN (codons with ﬁrst
+position G are on the bottom row of Table 4.3). It is possible that only these GNN
+codons were assigned in the ﬁrst code. Trifonov (1987) argued that the ﬁrst position
+G is important for maintaining the correct reading frame during translation. Eigen
+and Winkler-Oswatitsch (1981) proposed an initial code with only the four GNC
+codons assigned (one codon each for Gly, Ala, Asp, and Val). However, such a
+system has the disadvantage that a large fraction of codons are unassigned, and that
+most mutations in a gene sequence would create untranslatable codons. It would
+be advantageous to rapidly progress to a stage where all codons were assigned,
+as this reduces the mutational load. A possibility that we consider likely is that
+there was a stage in which the code was divided simply into four columns: all
+NUN codons were Val, all NCN codons were Ala, all NAN codons were Asp (or a
+mixture of Asp and Glu), and all NGN codons were Gly. In this pattern, there is still
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:13.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+4.7 How was the genetic code optimized?
+
+81
+
+a shift of three bases between successive codons, but only the second position base
+carries information. This means that the code can become more speciﬁc later by
+assigning signiﬁcance to ﬁrst and third positions without destroying the information
+contained at the second position (Crick, 1968). Later, preﬁx and sufﬁx codons may
+have arisen (Wu et al., 2005), where either the ﬁrst and second or the second and
+third bases were signiﬁcant. This would have broken up the four columns into
+smaller divisions.
+This proposal is consistent with the observation that the code is error-minimizing.
+Selection would have acted to ensure each new amino acid was added in a favourable
+position. This would mean that amino acids would be added into positions that used
+to be occupied by an earlier amino acid with similar properties. Work by H. Goodarzi
+(personal communication) also makes this point. In the ﬁrst column Phe, Leu, Ile,
+and Met are similar to Val, and in the second column Ser, Pro, and Thr are similar
+to Ala. A general property of the code is that amino acids in the same column are
+much more similar than those in the same row (Urbina et al., 2006). This may be a
+relic of an early four-column stage of the code where all codons in the same column
+coded for the same amino acid.
+Wong (1975, 2005) also supposes that large blocks of codons were divided up
+into smaller ones as new amino acids were added to the code; however, there are
+important differences to our argument above. From the pathways of biosynthesis of
+amino acids in modern organisms, it is possible to deﬁne precursor–product pairs.
+Wong argues that later amino acids were assigned to codons that were formerly
+occupied by their biochemical precursors. The earliest code would have contained
+only the amino acids that are at the start of the biochemical pathways. Di Giulio
+and Medugno (1999) showed the complex pattern of assignments that would have
+existed in the early code if every current amino acid were replaced by its earliest
+precursor. This pattern seems unlikely to us because it would require a very complex
+molecular recognition process for tRNA charging. The initial four-column pattern
+that we propose would require straightforward molecular recognition of the second
+base in the anticodon. The precursor–product argument predicts that precursor–
+product pairs in the canonical code should occupy neighbouring codons. The
+statistical signiﬁcance of this depends on the details of how precursor–product
+pairs are counted (Ronneberg et al., 2000) and is not as high as was previously
+claimed. Our argument is that later amino acids were added to positions that were
+formerly occupied by amino acids with similar properties, irrespective of whether
+the earlier amino acid was a precursor of the later. This predicts that amino acids
+on neighbouring codons should have similar properties, i.e., the code should be
+optimized in the sense of Freeland and Hurst (1998). The statistical evidence for
+this is much more robust, as discussed above.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:13.
+
+82
+
+Protoplanetary disks, amino acids, and the genetic code
+
+In contrast to both these theories, it has also been proposed that there were speciﬁc
+interactions between amino acids and their codons or anticodons. Evidence for this
+comes from selection experiments on random RNA pools (Yarus et al., 2005).
+Although this is intriguing, to us it is the error-minimizing properties of the code
+that most demand an explanation. An error-minimizing code can be reached by
+a pathway in which natural selection acts each time a new amino acid is added.
+Precursor–product relationships and RNA–amino acid interactions might inﬂuence
+which codons were most likely to be ‘tried out’ for a new amino acid, but selection
+would eliminate those trial codes in which an amino acid was added in ‘the wrong
+place’, and would favour the addition of a new amino acid in a place that was
+consistent with its physical properties. Thus our principle for amino acid addition
+explains how the code became optimized.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+4.8 Protein evolution
+The previous section envisages early proteins composed of a small set of amino
+acids. Several studies have considered whether such proteins could be functional.
+Using only three amino acids (Gln, Leu, and Arg), proteins with strong helical
+structure were found (Davidson et al., 1995). Doi et al. (2005) found that random
+sequences of the ﬁve most abundant early amino acids according to our ranking,
+Gly, Ala, Asp, Glu, and Val, were more soluble than random sequences of 20 amino
+acids or Gln–Leu–Arg proteins. Riddle et al. (1997) took a 57-residue structural
+domain of a naturally occurring protein and found that almost all residues could be
+replaced by an amino acid from a simple alphabet of Ile–Lys–Glu–Ala–Gly. The
+smallest amino acids, Gly and Ala, were essential parts of this alphabet. The large
+aromatic amino acids, Trp, Phe, and Tyr, which are late according to our theory,
+were not able to be replaced by amino acids from the simple alphabet. Babajide
+et al. (1997) used inverse-folding programmes to locate sequences that are likely to
+fold to a speciﬁed natural protein structure. Suitable sequences could be found for
+some very small alphabets (including Ala–Asp–Leu–Gly, which is very similar to
+our proposed original set) but not others (including Gln–Leu–Arg). Taken together,
+these studies suggest that proteins composed of the early group of amino acids
+could well have formed similar structures to modern day proteins and could have
+performed useful functions in early organisms.
+Another unusual proposal that is worth mentioning is the proteins-ﬁrst hypothesis
+of Ikehara (2005). The same amino acids are again ﬁrst in this theory, but proteins
+composed of Gly–Ala–Asp–Val evolve replication and metabolism prior to the
+origin of RNA. It is not clear to us how genetic information could be passed on by
+proteins alone, however.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:13.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+4.8 Protein evolution
+
+83
+
+We considered above the role that thermodynamics has in prebiotic synthesis
+of amino acids. It also seems likely that thermodynamics effects the evolution of
+modern proteins. Akashi and Gojobori (2002) showed that organisms appear to be
+sensitive to the ATP cost of amino acid synthesis (listed in Table 4.2). Speciﬁcally,
+the most highly expressed proteins had the highest frequency of the low-cost amino
+acids. Seligmann (2003) also found considerable evidence that amino acid usage
+in proteins is affected by cost minimization. Gutierrez et al. (1996) observed an
+increase in frequency of the base G in the ﬁrst codon position in highly expressed
+genes, which can be interpreted as selection for low-cost amino acids Gly–Ala–
+Asp–Glu–Val.
+It is possible that modern day proteins may still contain a signal of which amino
+acids were abundant in the early stages of evolution. Phylogenetic methods can
+be used to reconstruct estimates of ancestral sequences and hence to determine
+the frequencies of amino acids in those sequences. Brooks et al. (2002) estimated
+frequencies of amino acids in the LUCA, and found them to be noticeably different
+from current proteins. In Table 4.2, p = pLUCA −pcurrent . Jordan et al. (2005) used
+a method that involved comparing sequences from triplets of related species. The
+earliest diverging species in each triplet can be used to give a direction to the amino
+acid substitutions occurring on the branches leading to the other two species. It is
+found that forward and backward substitution rates between pairs of amino acids
+are not equal, and that amino acids frequencies show an increasing or decreasing
+trend. dp/dt is the estimate of the rate of change of the amino acid frequencies.
+There are some limited points of agreement between dp/dt and p. The most
+rapidly decreasing amino acid is Ala in both cases, and the three most frequent
+early amino acids, Gly, Ala, and Asp, are all decreasing. Beyond that, there is little
+agreement: only seven amino acids have the same sign in both studies. We would
+expect early amino acids to be decreasing and late amino acids to be increasing.
+Thirteen amino acids have the right sign according to p, and 14 have the right
+sign according to dp/dt. This is suggestive but not fully convincing. McDonald
+(2006) has cast doubt on the Jordan et al. (2005) study on methodological grounds,
+and a second study of Brooks et al. (2004) produced results that differ from their
+previous study (Brooks et al., 2002) as to which amino acids are increasing and
+which decreasing. Our position is that trends in amino acid frequencies like this
+would have occurred over time and it makes sense to look for them. However, it
+is a long time since the LUCA and it may not be possible to see convincing trends
+above the noise.
+One observation of Brooks et al. (2004) is relevant to the extremophile theme
+of this book. They found that the estimated frequencies of amino acids in the
+LUCA were closer to those of hyperthermophiles than mesophiles, which might
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:13.
+
+84
+
+Protoplanetary disks, amino acids, and the genetic code
+
+suggest that LUCA was a hyperthermophile. It has also been argued that the genetic
+code was established at high temperature (Di Giulio, 2000) and high pressure
+(Di Giulio, 2005) based on comparison of amino acid frequencies in extremophiles
+and mesophiles. The hyperthermophile nature of LUCA is still controversial, and
+some cold water is poured on this idea in Chapter 8.
+
+4.9 Summary
+In this chapter, we have done our best to combine information from astrophysics,
+organic chemistry, molecular evolution, and bioinformatics. It became apparent to
+us that the strands of knowledge that link these diverse disciplines are becoming
+ever stronger and, indeed, are required to understand how life may have arisen
+in our Solar System and perhaps in others. The generality of planet formation
+and the universality of the organic chemistry (that is just starting to be explored)
+in protoplanetary disks is very encouraging. It suggests that the astrophysics of
+protoplanetary disks could play a major role in understanding how one goes from
+dust and gas to watery worlds equipped with the biomolecules that may have served
+as the ﬁrst building blocks of life. Beyond this, we have also shown that the
+abundance and distribution of early amino acids may have played an important
+role in the origin of the earliest genetic code and how it may have subsequently
+evolved.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+Acknowledgements
+We thank the many excellent speakers at the Origins Institute’s 2005 conference on
+‘Astrobiology and the Origins of Life’ for the inspiration for this chapter and book.
+
+References
+Akashi, H., and Gojobori, T. (2002) Metabolic efﬁciency and amino acid composition in
+the proteomes of Escherichia coli and Bacillis subtilis. Proc. Nat. Acad. Sci. USA,
+99, 3695–3700.
+Amend, J. P., and Shock, E. L. (1998) Energetics of amino acid synthesis in hydrothermal
+ecosystems. Science, 281, 1659–1662.
+Babjide, A., Hofacker, I. L., Sippl, M. J., and Stadler, P. F. (1997) Neutral networks in
+protein space: a computational study based on knowledge-based potentials of mean
+force. Fold Des., 2, 261–269.
+Bar-Nun, A., Nar-Nun, N., Bauer, S. H., and Sagan, C. (1970) Shock synthesis of amino
+acids in simulated primitive environments. Science, 168, 470–473.
+Bergin, E. A., Aikawa, Y., Blake, G. A., and van Dishoeck, E. F. (2006). The chemical
+evolution of protoplanetary disks, in Protostars and Planets V, eds. B. Reipurth,
+D. Jewitt, and K. Keil. Tucson: University of Arizona Press, in press.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:13.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+References
+
+85
+
+Bernstein, M. P., Dworkin, J. P., Sandford, S. A., Cooper, G. W., and Allamandola, L. J.
+(2002). Racemic amino acids from the ultraviolet photolysis of interstellar ice
+analogues. Nature, 416, 401–403.
+Brooks, D. J., Fresco, J. R., Lesk, A. M., and Singh, M. (2002). Evolution of amino acid
+frequencies in proteins over deep time: Inferred order of introduction of amino acids
+into the genetic code. Mol. Biol. Evol., 19, 1645–1655.
+Brooks, D. J., Fresco, J. R., and Singh, M. (2004). A novel method for estimating ancestral
+amino acid composition and its application to proteins of the last universal ancestor.
+Bioinformatics, 20, 2251–2257.
+Chiang, E. I., and Goldreich, P. (1997). Spectral energy distributions of T Tauri stars with
+passive circumstellar disks. Astrophys. J., 490, 368–376.
+Chakrabarti, S., and Chakrabarti, S. K. (2000). Can DNA bases be produced during
+molecular cloud collapse? Astron. Astrophys., 354, L6–L8.
+Chyba, C. F., and Sagan, C. (1992). Endogenous production, exogenous delivery and
+impact-shock synthesis of organic molecules: an inventory for the origins of life.
+Nature, 355, 125–132.
+Crick, F. H. C. (1968). The origin of the genetic code. J. Mol. Biol., 38, 367–379.
+Cronin, C. R., and Moore, C. B. (1971). Amino acid analyses of the Murchison, Murray
+and Allende carbonaceous chondrites. Science, 172, 1327–1329.
+D’Alessio, P., Canto, J., Calvet, N., and Lizano, S. (1998). Accretion disks around young
+objects I: the detailed vertical structure. Astrophys. J. 500, 411–427.
+Davidson, A. R., Lumb, K. J., and Sauer, R. T. (1995). Cooperatively folded proteins in
+random sequence libraries. Nat. Struct. Biol., 2, 856–864.
+Di Giulio, M. (2000). The late stage of genetic code structuring took place at high
+temperatures. Gene, 261, 189–195.
+Di Giulio, M. (2005). The ocean abysses witnessed the origin of the genetic code. Gene,
+346, 7–12.
+Di Giulio, M., and Medugno, M. (1999). Physicochemical optimization in the genetic
+code origin as the number of codiﬁed amino acids increases. J. Mol. Evol.,
+49, 1–10.
+Doi, N., Kakukawa, K., Oishi, Y., and Yanagawa, H. (2005). High solubility of random
+sequence proteins consisting of ﬁve kinds of primitive amino acids. Prot. Eng.
+Design and Selection, 18, 279–284.
+Dubruelle, C. P., Hollenbach, D., Kamp, I., and D’Alessio, P. (2006) Models of the
+structure and evolution of protoplanetary disks, in Protostars and Planets V, eds.
+B. Reipurth, D. Jewitt, and K. Keil. Tuscon: University of Arizona Press, in press.
+Dutrey, A., Guilloteau, S., and Guelin, M. (1997). Chemistry of protosolar-like nebulae:
+the molecular content of the DM Tau and GG Tau disks. Astron. Astrophys., 317,
+L55–L58.
+Dutrey, A., Guilloteau, S., and Ho, P. (2006). Interferometric spectro-imaging of
+molecular gas in proto-planetary disks, in Protostars and Planets V, eds. B. Reipurth,
+D. Jewitt, and K. Keil. Tuscon: University of Arizona Press, in press.
+Eigen, E., and Winkler-Oswatitsch, R. (1981). Transfer RNA, an early gene? Naturwiss.,
+68, 282–292.
+Engel, M. H., and Nagy, B. (1982) Distribution and enantiomeric composition of amino
+acids in the Murchison meteorite. Nature, 296, 837–840.
+Freeland, S. J., and Hurst, L. D. (1998). The genetic code is one in a million. J. Mol. Evol.,
+47, 238–248.
+Freeland, S. J., Wu, T., and Keulmann, N. (2003) The case for an error minimizing
+standard genetic code. Origins Life Evol. Biosph., 33, 457–477.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:13.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+86
+
+Protoplanetary disks, amino acids, and the genetic code
+
+Gaidos, E., and Selsis, F. (2006). From protoplanets to protolife: the emergence and
+maintenance of life, in Protostars and Planets V, eds. B. Reipurth, D. Jewitt, and
+K. Keil. Tuscon: University of Arizona Press, in press.
+Gilis, D., Massar, S., Cerf, N. J., and Rooman, M. (2001). Optimality of the genetic code
+with respect to protein stability and amino acid frequencies. Genome Biol., 2(11),
+49.1–49.12.
+Gutierrez, G., Marquez, L., and Marin, A. (1996). Preference for guanosine at ﬁrst
+position in highly expressed Escherichia coli genes. A relationship with
+translational efﬁciency. Nucl. Acids. Res., 24, 2525–2527.
+Hennet, R. J. C., Holm, N. G., and Engel, M. H. (1992). Abiotic synthesis of amino acids
+under hydrothermal conditions and the origin of life: a perpetual phenomenon.
+Naturwiss., 79, 361–365.
+Ikehara, K. (2005). Possible steps to the emergence of life: The GADV-protein world
+hypothesis. Chemical Record, 5, 107–118.
+Jeffares, D. C., Poole, A. M., and Penny, D. (1998). Relics from the RNA world. J. Mol.
+Evol., 46, 18–36.
+Jordan, I. K., Kondrashov, F. A., Adzhubel, I. A., et al. (2005). A universal trend of amino
+acid gain and loss in protein evolution. Nature, 433, 633–637.
+Joyce, G. F. (2002). The antiquity of RNA-based evolution. Nature, 418, 214–221.
+Kasting, J. F. (1993). Earth’s early atmosphere. Science, 259, 920–926.
+Kokubo, E., and Ida, S. (2002) Formation of protoplanet systems and diversity of
+planetary systems. Astrophys. J., 581, 666–680.
+Knight, R. D., Freeland, S. J., and Landweber, L. F. (2001). Rewiring the keyboard:
+evolvability of the genetic code. Nature Rev. Genet., 2, 49–58.
+Kvenvolden, K. A., Lawless, J. G., and Ponnamperuma, C. (1971). Nonprotein amino
+acids in the Murchison meteorite. Proc. Nat. Acad. Sci. USA, 68, 486–490.
+Lazcano, A., and Miller, S. L. (1996). The origin and early evolution of life: prebiotic
+chemistry, the pre-RNA world, and time. Cell, 85, 793–798.
+Lin, D. N. C., and Papaloizou, J. C. B. (1993). On the tidal interaction between protostellar
+disks and companions. Protostars and Planets III, 749–835.
+Lowe, C. U., Rees, M. W., and Markham, R. (1963). Synthesis of complex organic
+compounds from simple precursors: formation of amino acids, amino-acid polymers,
+fatty acids and purines from ammonium cyanide. Nature, 199, 219–222.
+MacLow, M.-M., and Klessen, R. S. (2004). Control of star formation by supersonic
+turbulence. Rev. Mod. Phys., 76, 125–195.
+Marshall, W. L. (1994). Hydrothermal synthesis of amino acids. Geochim. Cosmochim.
+Acta, 58, 2099–2106.
+Matsumura, S., Pudritz, R. E., and Thommes, E. W. (2007). Saving planetary systems:
+dead zones and planetary migration. Astrophys. J., 660, 1609–1623.
+Mayer, L., Quinn, T., Wadsley, J., and Stadel, J. (2002). Formation of giant planets by
+fragmentation of protoplanetary disks. Science, 298, 1756–1759.
+McCaughrean, M. J., and Stauffer, J. R. (1994). High resolution near-infrared imaging of
+the trapezium: a stellar census. Astron. J., 108, 1382–1397.
+McDonald, J. H. (2006). Apparent trend of amino acid gain and loss in evolution due to
+nearly neutral variation. Mol. Biol. Evol., 23, 240–244.
+Meyer, M. R., Backman, D. E., Weinberger, A. J., and Wyatt, M. C. (2006). Evolution of
+circumstellar disks around normal stars: placing our solar system in context, in
+Protostars and Planets V, eds. B. Reipurth, D. Jewitt, and K. Keil. Tuscon:
+University of Arizona Press, in press.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:13.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+References
+
+87
+
+Miller, S. L., and Orgel, L. E. (1974). The Origins of Life on the Earth. Englewood Cliffs:
+Prentice-Hall.
+Miyakawa, S., Yamanashi, H., Kobayashi, K., Cleaves, H. J., and Miller, S. L. (2002).
+Prebiotic synthesis from CO atmospheres: implications for the origins of life. Proc.
+Nat. Acad. Sci. USA, 99, 14628–14631.
+Moore, P. B., and Steitz, T. A. (2002). The involvement of RNA in ribosome function.
+Nature, 418, 229–235.
+Morbidelli, A., Chambers, J., Lunine, J. I., et al. (2000). Source regions and time scales
+for the delivery of water to Earth Meteorit. Planet. Sci., 35, 1309–1320.
+Munoz-Caro, G. M., Meierhenrich, U. J., Schutte, W. A., et al. (2002). Amino acids from
+ultraviolet irradiation of interstellar ice analogues. Nature, 416, 403–406.
+Natta, A., Testi, L., Calvet, N., et al. (2006) Dust in proto-planetary disks: properties and
+evolution, in Protostars and Planets V, eds. B. Reipurth, D. Jewitt, and K. Keil.
+Tuscon: University of Arizona Press, in press.
+Pascal, R., Boiteau, L., and Commeyras, A. (2005). From the prebiotic synthesis of
+α-amino acids towards a primitive translation apparatus for the synthesis of peptides.
+Top. Curr. Chem., 259, 69–122.
+Pierazzo, E., and Chyba, C. F. (1999). Amino acid survival in large cometary impacts.
+Meteoritics Planet. Sci., 34, 909–918.
+Pollack, J. B., Hubickyj, O., Bedenheimer, P., Lissauer, J. J., Podolak, M., and
+Greenzweig, Y. (1996). Formation of the giant planets by concurrent accretion of
+solids and gas. Icarus, 124, 62–85.
+Raymond, S. N., Quinn, T., and Lunine, J. I. (2004). Making other earths: dynamical
+simulations of terrestrial planet formation and water delivery. Icarus, 168, 1–17.
+Riddle, D. S., Santiago, J. V., Bray-Hall, S. T., et al. (1997). Functional rapidly folding
+proteins from simpliﬁed amino acid sequences. Nature Struct. Biol., 4, 805–809.
+Ronneberg, T. A., Landweber, L. F., and Freeland, S. J. (2000). Testing a biosynthetic
+theory of the genetic code: fact or artifact? Proc. Nat. Acad. Sci. USA, 97,
+13690–13695.
+Schreyer, K., Semenov, D., Henning, T., Pavlyuchenkov, Y., and Dullemond, C. (2005).
+The massive disk around the young B-star AFGL 490, in IAU Symposium 231:
+Astrochemistry – Recent Successes and Current Challenges. Cambridge: Cambridge
+University Press.
+Seligmann, H. (2003). Cost-minimization of amino acid usage. J. Mol. Evol., 56, 151–161.
+Sengupta, S., and Higgs, P. G. (2005). A uniﬁed model of codon reassignment in
+alternative genetic codes. Genetics, 170, 831–840.
+Sengupta, S., Yang, X., and Higgs, P. G. (2007). The mechanisms of codon reassignments
+in mitochondrial genetic codes. J. Mol. Evol., 64, 662–688.
+Sephton, M. A. (2002). Organic compounds in carbonaceous meteorites. Nat. Prod. Rep.,
+19, 292–311.
+Shapiro, R. (2006). Small molecule interactions were central to the origin of life. Quart.
+Rev. Biol., 81, 105–125.
+Shimoyama, A., Ponnamperuma, C., and Yanai, K. (1979). Amino acids in the Yamato
+carbonaceous chondrite from Antarctica. Nature, 282, 394–396.
+Simon, M., Dutrey, A., and Guilloteau, S. (2000). Dynamical masses of T Tauri stars and
+calibration of pre-main-sequence evolution. Astrophys. J., 545, 1034–1043.
+Tilley, D. A., and Pudritz, R. E. (2004). The formation of star clusters I: simulations of
+hydrodynamic turbulence. MNRAS, 353, 769–788.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:13.
+
+88
+
+Protoplanetary disks, amino acids, and the genetic code
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+Trifonov, E. N. (1987). Translation framing code and frame-monitoring mechanism as
+suggested by the analysis of messenger RNA and 16S ribosomal RNA nucleotide
+sequences. J. Mol. Biol., 194, 643–652.
+Trifonov, E. N. (2000). Consensus temporal order of amino acids and the evolution of the
+triplet code. Gene, 261, 139–151.
+Trifonov, E. N. (2004). The triplet code from ﬁrst principles. J. Biomol. Struct. Dynam.,
+22, 1–11.
+Urbina, D., Tang, B., and Higgs, P. G. (2006). The response of amino acid frequencies to
+directional mutation pressure in mitochondrial genome sequences is related to the
+physical properties of the amino acids and the structure of the genetic code. J. Mol.
+Evol., 62, 340–361.
+van Zadelhoff, G.-J., Aikawa, Y., Hogerheijde, M. R., and van Dishoeck, E. F. (2003).
+Axi-symmetric models of UV radiative transfer with applications to circumstellar
+disk chemistry. Astron. Astrophys., 397, 789–802.
+Weber, A. L. and Miller, S. L. (1981). Reasons for the occurrence of the twenty coded
+protein amino acids. J. Mol. Evol., 17, 273–284.
+Whittet, D. C. B. (1997). Is extraterrestrial organic matter relevant to the origin of life on
+Earth? Orig. Life Evol. Biosph., 27, 249–262.
+Wolf, S., and D’Angelo, G. (2005). On the observability of giant protoplanets in
+circumstellar disks. Astrophys. J., 619, 1114–1122.
+Wong, J. T. (1975). A coevolution theory of the genetic code. Proc. Nat. Acad. Sci. USA,
+72, 1909–1912.
+Wong, J. T. (2005). Coevolution theory of the genetic code at age thirty. BioEssays, 27,
+416–425.
+Wu, H. L., Bagby, S., and van den Elsen, J. M. H. (2005). Evolution of the genetic code
+via two types of doublet codons. J. Mol. Evol., 61, 54–64.
+Yarus, M., Caporaso, J. G., and Knight, R. (2005). Origins of the genetic code: the escaped
+triplet theory. Annu. Rev. Biochem., 74, 179–198.
+Yoshino, D., Hayatso, R., and Anders, E. (1971). Origin of organic matter in the early
+solar system – III. Amino acids: catalytic synthesis. Geochim. Cosmochim. Acta, 35,
+927–938.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:13.
+
+

@@ -1,0 +1,848 @@
+CHAPTER	4
+
+Prebiotic	Earth:
+First	Organic	Compounds	and	First
+Informational	Molecules
+	
+Where	the	hell	do	the	likes	of	us	come	from,	Hans	Thomas?	Have	you
+thought	about	that?
+—JOSTEIN	GAARDER,	The	Solitaire	Mystery	(1996)
+
+	
+s	we	saw	in	chapter	2,	Earth’s	atmosphere	4	billion	years	ago	was
+very	different	from	the	one	we	know	today.	There	was	no	oxygen,
+but	 other	 gases	 were	 present.	 In	 one	 scenario,	 these	 were
+methane	 (CH4),	 water	 vapor	 (H2O),	 nitrogen	 (N2),	 ammonia	 (NH3),	 hydrogen	 sulfide
+(H2S),	 and	 carbon	 dioxide	 (CO2).	 Primeval	 hydrogen	 (H2)	 and	 helium	 (He)	 were
+disappearing	fast	because	Earth’s	gravity	was	not	strong	enough	to	keep	them	in	the
+atmosphere.	 Traces	 of	 helium	 would	 always	 be	 present,	 however,	 thanks	 to	 the
+radioactive	 decay	 of	 elements,	 such	 as	 uranium,	 thorium,	 and	 radium,	 in	 Earth’s
+interior.	 There	 were	 also	 oceans,	 whose	 geography	 we	 would	 not	 recognize	 today,
+since	 plate	 tectonics	 has	 moved	 the	 continents	 around.	 Volcanic	 activity	 contributed
+water,	nitrogen,	carbon	dioxide,	sulfur	dioxide,	and	other	gases	to	the	atmosphere.
+The	 sight	 must	 have	 been	 awesome:	 the	 sky	 was	 red	 and	 the	 Sun	 looked	 bluish
+because	 nitrogen,	 which	 scatters	 blue	 light,	 was	 not	 yet	 the	 dominant	 gas	 in	 the
+atmosphere.	 The	 atmospheric	 pressure	 was	 ten	 times	 higher	 than	 it	 is	 today.	 There
+was	 of	 course	 no	 life	 but	 there	 was	 movement;	 the	 wind	 blew	 clouds	 and	 volcanic
+smoke	around	while	the	waves	lapped	at	beaches	made	of	solid	rock,	not	yet	sand.
+High	 tides	 took	 place	 every	 three	 hours	 and	 the	 Moon	 appeared	 four	 times	 closer
+than	 today.	 The	 temperature	 was	 much	 higher	 than	 now,	 perhaps	 as	 high	 as	 90°C,
+because	 of	 the	 greenhouse	 effect	 caused	 by	 atmospheric	 methane	 and	 carbon
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+A
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:57.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+dioxide.	 Nevertheless,	 this	 temperature	 was	 low	 enough	 for	 liquid	 water	 to	 exist.	 In
+the	absence	of	oxygen,	there	was	no	ozone	(O3)	layer	and	Earth	was	bombarded	by
+hard	ultraviolet	(UV)	radiation	from	the	Sun.
+Scientists	 have	 gained	 much	 information	 concerning	 Earth’s	 primitive	 atmosphere
+by	 studying	 our	 sister	 planet,	 Venus,	 whose	 atmosphere	 contains	 huge	 amounts	 of
+carbon	 dioxide	 (96	 percent),	 some	 nitrogen	 (3	 percent),	 and	 some	 sulfur	 dioxide
+(SO2),	 but	 no	 oxygen.	 However,	 being	 closer	 to	 the	 Sun,	 Venus	 receives	 twice	 as
+much	 radiation	 and	 heat,	 which,	 combined	 with	 the	 enormous	 greenhouse	 effect
+caused	by	the	vast	amount	of	CO2,	raises	the	surface	temperature	to	460°C.	This	is
+where	the	parallels	between	Venus	and	Earth	stop:	liquid	water	cannot	exist	on	Venus
+because	 it	 is	 too	 hot,	 so	 life	 is	 impossible	 on	 that	 planet.	 Mars	 has	 the	 opposite
+problem:	being	farther	from	the	Sun,	it	is	too	cold	for	liquid	water	to	exist.	However,
+its	present	tenuous	atmosphere	is	very	much	like	Venus’s,	without	the	sulfur	dioxide.
+Conceivably,	Venus	and	Earth	originally	had	similar	atmospheres,	composed	of,	in
+order	of	decreasing	abundance,	H2,	He,	CH4,	H2O,	N2,	NH3,	and	H2S.	What	happened
+to	 these	 gases	 on	 these	 planets?	 Today,	 Earth’s	 atmosphere	 is	 composed	 of	 about
+79	 percent	 nitrogen,	 21	 percent	 oxygen,	 and	 low	 amounts	 of	 a	 few	 other	 gases.
+Venus	 also	 lost	 many	 of	 its	 original	 gases.	 As	 we	 have	 seen,	 H2	 and	 He	 quickly
+escaped	 into	 space.	 The	 fate	 of	 the	 other	 gases	 (except	 N2)	 was	 sealed	 by	 the	 UV
+radiation	 from	 the	 Sun,	 which	 decomposed	 them	 through	 the	 phenomenon	 known	 as
+photolysis.	 On	 Venus,	 where	 liquid	 water	 did	 not	 exist,	 water	 vapor	 was	 quickly
+decomposed	into	hydrogen	(which	escaped)	and	free	oxygen,	which	rapidly	oxidized
+CH4	and	H2S	to	CO2	and	SO2.	The	oxidation	of	NH3	simply	produced	more	N2.
+On	 Earth,	 where	 liquid	 water	 did	 exist,	 H2O	 photolysis	 was	 not	 nearly	 as
+pronounced	because	UV-induced	water	decomposition	occurs	best	in	the	gas	phase.
+Nevertheless,	 photolysis	 of	 the	 primeval	 gases	 did	 take	 place,	 albeit	 more	 slowly,
+because	 Earth	 is	 farther	 from	 the	 Sun.	 Thus	 CH4,	 NH3,	 and	 H2S	 also	 gradually
+disappeared.	 There	 was	 one	 enormous	 difference	 between	 Earth	 and	 Venus,
+however:	 thanks	 to	 the	 presence	 of	 liquid	 water,	 the	 CO2	 and	 SO2	 generated	 by
+photolysis	 dissolved	 in	 the	 oceans,	 reacted	 with	 the	 minerals	 present	 there,	 and
+became	locked	in	rocks.	This	prevented	the	runaway	greenhouse	effect	that	occurred
+on	Venus	and	made	nitrogen	the	dominant	gas.	After	a	few	hundred	million	years,	the
+sky	finally	turned	blue.	Before	this	happened—that	is,	while	Earth’s	atmosphere	was
+still	 reducing	 (still	 containing	 appreciable	 amounts	 of	 H2,	 CH4,	 and	 NH3)—could	 it	 be
+that	 some	 of	 the	 building	 blocks	 of	 life	 were	 somehow	 assembled	 in	 the	 primeval
+gases?	After	all,	Earth’s	crust	and	the	oceans	at	that	time	could	not	have	held	much
+in	 terms	 of	 carbon-	 and	 nitrogen-containing	 compounds	 that	 make	 up	 living	 cells.
+Some	scientists	do	indeed	think	that	the	first	building	blocks	of	life	were	synthesized
+via	atmospheric	chemistry.
+
+ORGANIC	COMPOUNDS	FROM	EARTH’S	PUTATIVE
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:57.
+
+PRIMITIVE	ATMOSPHERE
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+In	 1953,	 Stanley	 Miller,	 working	 in	 the	 laboratory	 of	 Harold	 Urey	 (the
+Nobel	laureate	who	discovered	deuterium)	at	the	University	of	Chicago,	published	the
+results	 of	 a	 strange	 experiment	 that	 was	 based	 on	 the	 assumption	 that	 Earth’s
+atmosphere	 was	 once	 a	 reducing	 one.	 In	 a	 reducing	 atmosphere,	 free	 oxygen	 does
+not	 exist,	 and	 elements	 are	 present	 in	 a	 reduced,	 hydrogenated	 form	 such	 as	 CH4,
+H2O,	and	NH3,	and,	of	course,	H2.	Miller	knew	that	the	Russian	Alexander	Oparin	and
+the	 British	 J.	 B.	 S.	 Haldane	 had	 suggested	 several	 decades	 earlier	 that	 a	 reducing
+atmosphere	 could	 have	 allowed	 the	 synthesis	 of	 organic	 compounds	 (composed	 of
+carbon,	 hydrogen,	 nitrogen,	 and	 a	 few	 other	 elements)	 necessary	 for	 life	 to	 appear.
+However,	 they	 never	 did	 any	 experiments	 to	 test	 that	 idea.	 Miller,	 then	 a	 graduate
+student,	 decided	 to	 test	 this	 hypothesis,	 apparently	 with	 only	 reluctant	 support	 from
+his	boss,	Urey	(who	did	not	coauthor	the	article).
+Miller	built	an	apparatus	(figure	4.1),	made	of	glass,	into	which	he	introduced	liquid
+water,	 hydrogen,	 methane,	 and	 ammonia	 gases.	 (The	 air	 had	 previously	 been
+pumped	out	of	the	system	to	eliminate	oxygen.)	To	produce	water	vapor,	Miller	boiled
+water	 held	 in	 a	 flask;	 this	 had	 the	 further	 effect	 of	 circulating	 the	 mixture	 of	 gases
+present	 in	 the	 apparatus.	 To	 simulate	 rain,	 Miller	 added	 a	 cooled	 condenser	 to	 the
+system	and	trapped	the	condensed	water	in	a	U-shaped	tube.	The	condensed	water
+thus	represented	the	primitive	ocean.	Samples	from	this	tube	could	be	harvested	and
+analyzed	 for	 any	 water-soluble	 molecules	 that	 formed.	 Finally,	 the	 apparatus
+contained	another	large	glass	flask,	in	which	the	gases	circulated,	and	which	housed
+two	metal	electrodes	that	allowed	electrical	sparking	of	the	gas	mixture.	The	electric
+discharge	 simulated	 the	 lightning	 that	 undoubtedly	 must	 have	 occurred	 in	 the
+atmosphere	 (the	 atmosphere	 of	 Jupiter	 is	 witness	 to	 huge	 lightning	 discharges	 and
+contains	all	the	gases	used	by	Miller).
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:57.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+FIGURE	 4.1	 Schematic	 representation	 of	 the	 equipment	 used	 by	 Stanley	 Miller	 to	 produce	 organic
+molecules	under	abiotic	conditions.	The	air	from	the	glass	apparatus	is	first	evacuated	by	pumping.	Water	and	the
+gases	hydrogen,	methane,	and	ammonia	are	then	added	to	the	flask	at	the	lower	left.	Water	is	brought	to	a	boil	and
+water	vapor	starts	circulating	(black	dots)	in	the	apparatus.	Water	vapor	and	the	three	other	gases	then	fill	the	large
+glass	 chamber	 at	 upper	 right.	 The	 chamber	 is	 equipped	 with	 two	 electrodes	 connected	 to	 a	 power	 source,	 and
+sparking	is	initiated.	Water	vapor	and	compounds	resulting	from	the	action	of	sparking	are	then	condensed	by	the
+cooling	system	and	accumulate	in	the	trap.	Compounds	harvested	from	the	trap	are	then	analyzed	chemically.
+
+After	 several	 days	 of	 cycling	 the	 gases	 and	 sparking,	 Miller	 noticed	 that	 the
+condensed	 water	 in	 the	 tube	 had	 turned	 pink	 and	 subsequently	 orange-red.	 Clearly,
+some	 chemistry	 was	 taking	 place,	 as	 the	 original	 gases	 were	 completely	 colorless.
+Analysis	 of	 the	 solution	 revealed	 the	 presence	 of	 amino	 acids,	 the	 building	 blocks	 of
+proteins!	 Of	 the	 twenty	 amino	 acids	 found	 in	 proteins,	 ten	 were	 formed	 in	 Miller’s
+experiments.	The	chemistry	that	took	place	in	these	experiments	is	now	understood.
+For	 example,	 the	 simple	 amino	 acid	 glycine	 results	 from	 the	 condensation	 of
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:57.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+formaldehyde	(formed	from	the	sparked	gases)	with	ammonia	and	hydrogen	cyanide
+(also	 formed	 in	 the	 gas	 mixture)	 to	 produce	 the	 compound	 aminonitrile.	 Aminonitrile
+then	reacts	with	water	to	form	glycine	(figure	4.2).
+In	addition	to	amino	acids	that	make	up	proteins,	gas-discharge	experiments	have
+also	yielded	the	four	nitrogenous	bases,	adenine	(A),	cytosine	(C),	guanine	(G),	and
+uracil	 (U),	 the	 building	 blocks	 of	 RNA.	 Adenine	 for	 example,	 results	 from	 the
+condensation	 of	 five	 molecules	 of	 hydrogen	 cyanide	 (figure	 4.3).	 (It	 is	 unsettling	 to
+think	 that	 the	 poison	 used	 to	 execute	 prisoners	 in	 a	 gas	 chamber	 can	 lead	 to	 the
+synthesis	 of	 some	 of	 the	 building	 blocks	 of	 life!)	 Finally,	 many	 types	 of	 sugars	 were
+also	 synthesized	 in	 these	 experiments,	 including	 ribose,	 the	 sugar	 found	 in	 RNA.
+These	sugars	are	made	through	polymerization	of	formaldehyde,	itself	formed	in	the
+sparked	gases.	However,	ribose	is	made	in	small	amounts,	and	it	is	unclear	how	it,	as
+opposed	 to	 all	 other	 sugars,	 came	 to	 form	 RNA.	 We	 will	 see	 a	 possible	 answer	 to
+this	problem	later	in	the	chapter.
+The	 startling	 results	 of	 Miller’s	 experiments	 have	 led	 to	 the	 notion	 that	 Earth’s
+primitive	 oceans	 accumulated	 more	 and	 more	 of	 the	 building	 blocks	 of	 life,	 amino
+acids,	 nitrogenous	 bases,	 and	 sugars,	 and	 became	 some	 sort	 of	 primordial	 or
+prebiotic	 soup.	 (Instead	 of	 the	 term	 soup,	 which	 suggests	 a	 chunky	 mixture—think
+about	 split	 pea	 with	 ham	 or	 chicken	 noodle	 soup!—I	 prefer	 the	 word	 broth.)
+Primordial	broths	of	the	Miller	type	have	been	replicated	by	many	investigators	using
+similar	 gas	 mixtures	 exposed	 to	 short-wave	 UV	 light	 or	 silent	 electric	 discharge,	 all
+undoubtedly	present	on	primitive	Earth.
+Interestingly,	 free	 oxygen	 completely	 interfered	 with	 all	 the	 reactions	 just
+described.	Since	we	know	that	the	oldest	rocks	found	on	Earth	are	not	oxidized,	this
+supports	 the	 conclusion	 that,	 indeed,	 oxygen	 was	 not	 present	 in	 the	 primeval
+atmosphere	 and	 could	 not	 have	 blocked	 the	 chemical	 reactions	 observed	 by	 Miller
+and	others.	Thus	the	problem	seemed	solved:	the	building	blocks	of	proteins	and	RNA
+(but	 not	 DNA,	 as	 thymine	 was	 not	 formed	 in	 these	 reactions)	 were	 made	 in	 Earth’s
+reducing	atmosphere.1	But	was	the	problem	really	solved?	Perhaps	not.
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:57.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+FIGURE	4.2	The	two-step	synthesis	of	glycine	from	formaldehyde,	ammonia,	and	hydrogen	cyanide	in
+
+sparked	gases.
+
+There	 are	 indeed	 difficulties	 with	 Miller’s	 experiments.	 First,	 most	 scientists	 now
+concur	 that	 Earth’s	 atmosphere	 did	 not	 contain	 significant	 amounts	 of	 hydrogen,
+methane,	 and	 ammonia	 for	 the	 length	 of	 time	 sufficient	 to	 allow	 the	 formation	 of	 a
+primordial	 broth	 based	 on	 these	 compounds.	 For	 these	 dissenters,	 the	 atmosphere
+quickly	 evolved	 into	 one	 containing	 mostly	 carbon	 dioxide	 and	 nitrogen	 (plus	 water
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:57.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+vapor	and	unreactive	gases	such	as	argon	and	neon),	much	like	the	atmospheres	of
+Venus	and	Mars	today.	Indeed,	it	is	argued	that	Earth’s	primeval	atmosphere	(as	well
+as	those	of	Venus	and	Mars)	was	blown	off	as	our	Sun	ignited.	Another	contributing
+factor	 would	 have	 been	 the	 violent	 collision	 between	 young	 Earth	 and	 a	 Mars-sized
+object	 that	 became	 the	 Moon.	 A	 new	 atmosphere	 could	 then	 have	 been	 generated
+through	 volcanic	 activity.	 It	 turns	 out	 that	 volcanoes	 emit	 mostly	 water	 vapor,	 carbon
+dioxide,	and	nitrogen,	together	with	small	amounts	of	carbon	monoxide	and	hydrogen.
+No	 ammonia	 and	 methane	 are	 emitted	 by	 modern	 volcanoes.	 Therefore	 Earth’s
+primitive	atmosphere	may	have	been	much	less	reducing	than	imagined	by	Miller.
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:57.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+FIGURE	4.3	The	synthesis	of	adenine	from	the	condensation	of	six	hydrogen	cyanide	molecules.
+
+Furthermore,	 sparking	 mixtures	 of	 nitrogen,	 water,	 carbon	 dioxide,	 or	 carbon
+monoxide	 “à	 la	 Miller”	 gives	 somewhat	 disappointing	 results,	 albeit	 not	 entirely
+negative	 ones.	 Without	 hydrogen,	 CO2	 and	 N2	 cannot	 produce	 HCN,	 necessary	 for
+the	formation	of	amino	acids	and	nitrogenous	bases.	If,	however,	mixtures	of	CO2,	N2,
+and	 H2	 or	 mixtures	 of	 CO,	 N2,	 and	 H2	 are	 sparked,	 some	 amino	 acids,	 in	 reduced
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:57.
+
+numbers	and	yields,	are	produced.	Thus	a	strongly	reducing	atmosphere	is	necessary
+to	 produce	 the	 whole	 variety	 and	 large	 amounts	 of	 organic	 compounds	 found	 in	 a
+Miller-type	 of	 experiment.	 On	 the	 other	 hand,	 the	 nucleic	 acid	 base	 uracil	 could	 be
+produced	 by	 sparking	 mixtures	 of	 methane	 and	 nitrogen.	 Where	 was	 this	 methane
+coming	 from	 if	 it	 did	 not	 exist	 in	 the	 primeval	 atmosphere?	 It	 could	 have	 come	 from
+hydrothermal	vents	found	on	the	bottom	of	the	ocean	or	it	could	have	been	delivered
+by	cometary	impacts	(see	later).	HCN,	so	crucial	as	an	intermediate	in	the	synthesis
+of	 amino	 acids	 and	 bases,	 could	 have	 originated	 from	 the	 reaction	 of	 methane	 with
+nitrogen	to	produce	it	and	hydrogen.	This	reaction	could	have	been	catalyzed	by	UV
+light	 from	 the	 Sun.	 Hydrogen	 produced	 by	 this	 reaction,	 plus	 hydrogen	 emitted	 by
+volcanoes,	 would	 have	 made	 Earth’s	 atmosphere	 mildly	 reducing.	 In	 conclusion,	 the
+atmosphere	 was	 probably	 not	 as	 reducing	 as	 Miller	 thought,	 but	 reduced	 carbon	 in
+the	form	of	CH4	as	well	as	H2	gas	were	probably	present	in	modest	amounts.
+It	 was	 discovered	 in	 the	 early	 1960s	 that	 simple	 mixtures	 of	 ammonia	 and
+hydrogen	cyanide	in	water	also	form	amino	acids	and	large	amounts	of	adenine.	This
+suggested	 that	 bringing	 these	 three	 chemicals	 together	 somewhere,	 and	 not
+necessarily	on	Earth,	could	produce	some	of	the	building	blocks	of	life.	At	about	the
+same	time,	amino	acids,	as	well	as	the	bases	adenine	and	guanine,	were	detected	in
+meteorites.1	 Meteorites	 derive	 mostly	 from	 asteroids	 present	 between	 the	 orbits	 of
+Mars	 and	 Jupiter	 (some	 rare	 ones	 are	 of	 lunar	 or	 Martian	 origin).	 These	 meteorites
+were	 never	 exposed	 to	 any	 kind	 of	 atmosphere,	 reducing	 or	 oxidizing.	 How	 then	 do
+they	 contain	 organic	 compounds?	 These	 compounds	 would	 have	 had	 to	 have	 been
+made	 in	 space,	 possibly	 as	 a	 result	 of	 reactions	 between	 water,	 hydrogen	 cyanide,
+methane,	and	ammonia.	Do	these	chemicals	actually	exist	in	space?	Yes,	they	do.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+SPACE	CHEMISTRY	AND	THE	ORIGINS	OF	LIFE
+We	saw	in	chapter	2	that,	indeed,	large	interstellar	clouds	in	which	stars
+and	 planets	 are	 formed	 do	 contain	 these	 molecules,	 plus	 many	 others.	 Water	 ice	 is
+thought	 to	 be	 the	 most	 common	 solid	 in	 the	 universe,	 and	 even	 methanol	 (CH3OH;
+wood	 alcohol)	 and	 ethanol	 (C2H5OH;	 drinking	 alcohol)	 exist	 in	 deep	 space!	 What	 is
+more,	these	clouds	also	contain	cyanoacetylene	(HC3N),	 a	 chemical	 that	 reacts	 with
+hydrogen	cyanide	to	form	nitrogenous	bases	found	in	RNA.	Thus	gases	and	particles
+left	 over	 from	 the	 protoplanetary	 disc	 after	 its	 condensation	 into	 planets	 could	 have
+delivered	 significant	 amounts	 of	 organic	 materials	 to	 Earth’s	 surface	 in	 the	 form	 of
+meteorites	and	comets.
+Comets	 in	 particular	 are	 thought	 to	 be	 aggregates	 of	 primordial	 material	 much
+predating	 the	 formation	 of	 the	 solar	 system	 as	 we	 know	 it	 today.	 They	 are	 found	 in
+two	 systems	 orbiting	 the	 Sun.	 The	 first	 system	 is	 called	 the	 Kuyper	 belt	 and	 its
+members	orbit	the	Sun	between	the	orbits	of	Neptune	and	Pluto.	The	second	system,
+called	 the	 Oort	 cloud,	 forms	 a	 halo,	 well	 beyond	 the	 orbit	 of	 Pluto,	 around	 the	 solar
+system.	Once	in	a	while,	a	comet	is	knocked	off	its	orbit	because	of	the	gravitational
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:57.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+effect	of	the	planets	or	a	passing	star.	The	comet	then	has	a	chance	to	approach	the
+Sun	 at	 a	 much	 closer	 distance,	 with	 the	 result	 that	 some	 of	 its	 material	 evaporates
+and	forms	a	visible	tail.	The	tail	can	be	studied	and	its	spectrum	recorded,	either	from
+Earth	 or	 from	 spacecraft	 on	 a	 rendezvous	 mission.	 Results	 of	 all	 studies	 agree	 that
+comets	 are	 rich	 in	 organic	 material	 and	 water.	 Comet	 Halley	 was	 even	 shown	 to
+contain	 the	 bases	 found	 in	 RNA	 and	 DNA.	 Comets	 visible	 from	 Earth	 are	 not	 that
+frequent	today,	but	they	may	have	been	much	more	prevalent	in	the	vicinity	of	Earth	a
+few	billion	years	ago	when	the	solar	system	was	forming.	Collisions	with	young	Earth
+may	 have	 been	 frequent	 and	 would	 have	 resulted	 in	 the	 seeding	 of	 the	 planet	 with
+building	blocks	of	life	or	their	precursors.
+Similarly,	 meteorites,	 some	 of	 which	 contain	 organic	 compounds,	 as	 we	 have
+seen,	 still	 collide	 with	 Earth	 today	 and	 may	 have	 played	 the	 same	 role.	 It	 is	 known
+that	 planet	 Earth	 accumulates	 about	 100	 tons	 per	 day	 of	 meteoritic	 material	 in	 the
+form	of	micrometeorites.	These	micrometeorites	measure	about	0.1	mm	in	diameter
+and	are	carbon	rich	(up	to	7	percent	by	weight).	Micrometeorite	samples	have	been
+collected	in	the	“clean”	environment	of	antarctic	ice	and	have	been	shown	to	contain
+detectable	 amounts	 of	 organic	 molecules.	 It	 is	 quite	 possible	 that	 prebiotic	 Earth
+accumulated	 vast	 amounts	 of	 carbon-containing	 compounds	 by	 sweeping	 up
+micrometeoritic	material.
+If	comets	and	meteorites	and	their	cohort	of	organic	molecules	truly	originate	from
+primeval	 interstellar	 clouds	 (at	 a	 further	 stage	 of	 processing	 in	 the	 case	 of
+meteorites),	 these	 clouds	 should	 also	 contain	 molecules	 found	 in	 comets	 and
+meteorites.	Astronomical	observations	have	shown	that	this	is	the	case.	These	clouds
+contain,	in	addition	to	gases,	solid	material	in	the	form	of	dust.	Their	spectra	indicate
+that	this	dust	is	made	of	microscopic	silicate	granules	covered	with	ice	composed	of
+water,	 methanol,	 methane,	 carbon	 monoxide,	 carbon	 dioxide,	 and	 a	 class	 of	 organic
+molecules	called	 polycyclic	aromatic	 hydrocarbons.	Given	 that	interstellar	 clouds	are
+constantly	 bathed	 in	 UV	 light	 emitted	 by	 nearby	 stars,	 the	 potential	 for	 interstellar
+chemistry	is	great.
+Interstellar	 ice	 analogues	 have	 been	 created	 in	 the	 laboratory:	 the	 compounds
+known	to	exist	in	interstellar	clouds	were	sprayed	in	a	vacuum	chamber	kept	at	very
+low	 temperature	 to	 simulate	 conditions	 found	 in	 space.	 The	 ice	 grains	 thus	 formed
+were	illuminated	with	UV	light	to	mimic	starlight.	Analysis	of	these	ices	revealed	that
+complex	 organic	 molecules	 could	 be	 formed,	 including	 quinones	 (electron	 transfer
+intermediates	 in	 photosynthesis),	 amino	 acids,	 and	 long-chain	 hydrocarbons	 with
+properties	 similar	 to	 amphiphilic	 lipids	 found	 in	 the	 membranes	 of	 living	 cells	 (see
+chapter	 3).	 These	 amphiphilic	 hydrocarbons	 are	 able	 to	 form	 microscopic	 vesicles,
+presumably	 through	 bilayer	 formation,	 when	 dispersed	 in	 water.	 Intriguingly,	 similar
+compounds	are	found	in	some	meteorites	and	they,	too,	form	these	vesicles	in	water.
+Such	vesicles	are	able	to	trap	a	variety	of	chemicals,	and	by	keeping	these	chemicals
+in	 close	 contact,	 they	 may	 have	 initiated	 some	 of	 the	 chemical	 reactions	 that	 led	 to
+life.	Interestingly,	amphiphilic	hydrocarbons	are	not	formed	in	Miller-type	experiments.
+In	 conclusion,	 space	 contains	 a	 host	 of	 organic	 molecules	 able	 to	 generate,	 through
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:57.
+
+chemical	 reactions,	 some	 compounds	 necessary	 for	 life	 to	 appear.	 Furthermore,
+space	 chemistry	 seems	 able	 to	 produce	 molecules	 not	 found	 in	 gases	 submitted	 to
+electric	discharges.
+Another	objection	to	Miller’s	experiments	is	based	on	the	chirality	of	the	molecules
+he	 produced	 in	 his	 sparked	 gases.	 Chirality,	 also	 called	 handedness,	 refers	 to	 the
+three-dimensional	arrangement	of	atoms	in	a	molecule.	A	good	analogy	is	that	of	the
+symmetry	of	human	hands,	hence	the	word	handedness.	The	left	hand	and	the	right
+hand	are	directly	superimposable	when	pressed	palm	to	palm.	They	are	not	perfectly
+superimposable	 when	 pressed	 palm	 to	 knuckles.	 To	 achieve	 palm-to-palm	 contact,
+one	of	our	hands	must	be	rotated,	or	a	single	hand	can	be	directly	superimposed	with
+its	 mirror	 image.	 The	 same	 thing	 happens	 in	 nature:	 amino	 acids	 come	 in	 two
+varieties,	 left-handed	 and	 right-handed,	 which	 can	 be	 distinguished	 by	 their	 ability	 to
+rotate	 polarized	 light	 either	 to	 the	 left	 or	 to	 the	 right.	 It	 turns	 out	 that	 amino	 acids	 in
+living	 cells	 belong	 to	 the	 left-handed	 category.	 One	 of	 the	 criticisms	 of	 Miller-type
+experiments	 is	 that	 they	 produce	 equal	 amounts	 of	 left-handed	 and	 right-handed
+amino	acids,	something	not	found	in	living	systems.	In	contrast,	amino	acids	found	in
+meteorites	contain	slightly	more	left-handed	amino	acids	than	right-handed	ones.	This
+does	 not	 prove	 that	 life	 originated	 from	 meteorites,	 but	 it	 certainly	 does	 not	 rule	 out
+this	notion.
+Thus	 space	 itself,	 not	 necessarily	 Earth	 and	 its	 primitive	 atmosphere,	 may	 have
+been	responsible	for	the	synthesis	of	the	building	blocks	of	life.	Or	was	it?
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+OCEAN	FLOOR	CHEMISTRY
+As	we	saw	in	the	introduction	to	this	book,	science	constantly	questions
+and	 requestions	 received	 knowledge.	 That	 some	 scientists	 think	 that	 organic
+compounds	 important	 for	 life	 were	 formed	 in	 the	 atmosphere	 or	 were	 brought	 to
+Earth	by	comets	and	meteorites	does	not	make	it	so.	Other	hypotheses	can	always
+be	formulated.	A	third	hypothesis,	which	holds	that	the	first	organic	compounds	were
+made	 on	 Earth	 rather	 than	 in	 space	 or	 in	 the	 atmosphere,	 is	 the	 hydrothermal	 vents
+hypothesis.
+Earth’s	crust	is	particularly	thin	at	the	level	of	ocean	floors.	There,	tectonic	plates
+slowly	 slide	 on	 top	 of	 the	 magma	 and	 by	 doing	 so,	 create	 ridges	 and	 cracks	 in	 the
+crust.	Water	percolates	through	these	cracks,	becomes	superheated	by	contact	with
+the	 magma,	 and	 dissolves	 many	 of	 the	 minerals	 present	 there.	 The	 pressure	 is	 so
+high	that	the	water,	heated	to	several	hundred	degrees,	does	not	boil	but	is	spewed
+back	 through	 chimney-like	 structures	 called	 hydrothermal	 vents	 (figure	 4.4).	 These
+vents	are	often	surrounded	by	miniature	ecosystems,	where	many	types	of	bacteria,
+worms,	and	crabs	proliferate.
+Now,	high	pressure	and	temperature	can	create	some	interesting	chemistry.	Could
+it	 be	 that	 the	 building	 blocks	 of	 life	 were	 once	 synthesized	 from	 purely	 inorganic
+compounds	 in	 or	 near	 hydrothermal	 vents?	 Theoretical	 studies	 performed	 in	 the	 mid
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:57.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+1990s	 indicated	 that,	 yes,	 this	 is	 possible.	 The	 branch	 of	 chemistry	 called
+thermodynamics	 mathematically	 determines	 what	 chemical	 reactions	 are	 possible	 or
+impossible.	 Using	 this	 approach,	 scientists	 realized	 that	 in	 water,	 the	 synthesis	 of	 all
+amino	 acids	 and	 their	 linking	 to	 form	 small	 proteins	 was	 theoretically	 possible	 above
+100°C	 and	 under	 high	 pressure.	 The	 ingredients	 needed	 to	 achieve	 this	 synthesis
+were	 CO2,	 ammonia	 salts,	 and	 H2S	 (some	 amino	 acids	 contain	 sulfur).	 It	 turns	 out
+that	 both	 high	 temperature	 and	 these	 particular	 chemicals	 are	 found	 in	 oceanic
+hydrothermal	 vents.	 Therefore	 in	 theory,	 amino	 acids	 and	 proteins	 could	 have	 been
+formed	 at	 great	 depth	 under	 the	 surface	 of	 the	 ocean.	 Of	 course,	 such	 calculations
+did	 not	 prove	 that	 these	 reactions	 actually	 took	 place;	 some	 scientists	 used	 the
+derogatory	 term	 paper	 chemistry	 to	 characterize	 these	 studies.	 The	 hydrothermal
+vent	hypothesis	had	to	be	put	to	the	test.
+This	 was	 done	 using	 an	 instrument	 called	 a	 bomb,	 which	 is	 simply	 a	 reinforced
+container	 able	 to	 sustain	 high	 temperatures	 and	 pressures.	 It	 was	 shown	 that,
+indeed,	a	whole	catalog	of	organic	molecules,	including	amino	acids	and	pyruvic	acid
+(an	 important	 metabolite	 ubiquitous	 in	 living	 cells),	 could	 be	 formed	 at	 high	 pressure
+and	 temperature	 from	 H2S,	 CO,	 and	 CO2	 as	 well	 as	 ammonia	 (from	 nitrate)	 and
+nitrogenated	hydrocarbons.	Interestingly,	iron	sulfide	(FeS)	was	absolutely	necessary
+to	 catalyze	 these	 reactions,	 to	 generate	 hydrogen	 for	 reduction	 reactions,	 and	 to
+concentrate	and	stabilize	the	reaction	products.	This	mineral	is	abundant	in	the	earth’s
+crust	in	the	form	of	pyrrhotite.	Although	the	formation	of	nitrogenous	bases	as	found
+in	 RNA	 and	 DNA	 has	 not	 been	 reported,	 hydrothermal	 vent	 chemistry	 seems	 to	 be
+much	more	than	just	paper	chemistry.
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:57.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+FIGURE	4.4	An	oceanic	hydrothermal	vent.	(Courtesy	of	the	National	Oceanographic	and	Atmospheric
+Administration	via	the	Smithsonian	Institution.)
+
+In	summary,	no	one	of	the	three	hypotheses	aimed	at	explaining	the	origin	of	the
+building	 blocks	 of	 life	 is	 complete.	 Experiments	 “à	 la	 Miller”	 have	 not	 yielded	 longchain	 amphiphilic	 hydrocarbons	 like	 those	 found	 in	 cells,	 but	 amino	 acids	 and
+nitrogenous	 bases	 were	 produced.	 Space-based	 chemistry	 can	 produce	 the	 three
+types	 of	 compounds,	 but	 critics	 argue	 that	 organic	 molecules	 ferried	 by	 comets	 and
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:57.
+
+meteorites	colliding	with	Earth	could	not	have	survived	atmospheric	entry	and	impact
+because	 of	 the	 high	 heat	 generated.	 Finally,	 high	 temperature-high	 pressure
+chemistry,	 as	 is	 presumably	 taking	 place	 in	 hydrothermal	 vents,	 has	 so	 far	 not
+produced	 nitrogenous	 bases	 and	 long-chain	 lipids.	 How	 can	 this	 conundrum	 be
+solved?
+It	is	always	possible	that	more	research	on	the	preceding	three	systems	will	yield
+some	new	findings	and	solve	the	mystery.	On	the	other	hand,	it	is	also	possible	that
+life	did	not	need	amino	acids,	nitrogenous	bases,	and	long-chain	lipids	all	at	the	same
+time.	 One	 can	 imagine,	 for	 instance,	 a	 situation	 in	 which	 genetic	 information	 (in	 the
+form	of	bases	linked	together	to	form	a	nucleic	acid)	came	first,	and	that	this	genetic
+information	started	coding	for	some	form	of	primitive	metabolism.	Or	perhaps	another
+scenario	 occurred,	 in	 which	 mineral	 catalysts	 or	 primitive	 enzymes,	 made	 of	 amino
+acids	 synthesized	 in	 hydrothermal	 vents	 or	 elsewhere,	 started	 a	 “protometabolism”
+that	eventually	led	to	the	formation	of	nucleic	acids.	In	that	case,	genetic	information
+would	have	appeared	as	a	result	of	a	mineral-based	protometabolism	and,	possibly,
+after	 the	 products	 it	 now	 codes	 for,	 proteins.	 Yet	 another	 possibility	 is	 that	 life
+appeared	 as	 a	 result	 of	 a	 complicated	 cooperation	 between	 simple	 proteins	 and
+simple	nucleic	acids.	Scientists	have	not	yet	developed	this	third	scenario.	Therefore
+we	 will	 consider	 the	 “metabolism-first”	 world	 and	 the	 “RNA-first”	 world	 in	 that	 order,
+keeping	in	mind	that	these	two	models	are	not	necessarily	incompatible.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+PROTEINS	AND	METABOLISM	FIRST:	THE	IRON-SULFUR
+WORLD
+Two	of	the	most	prominent	proponents	of	the	idea	that	protometabolism
+was	 key	 to	 the	 appearance	 of	 life	 on	 Earth	 are	 the	 Nobel	 Prize	 winner	 Christian	 de
+Duve	 of	 Belgium	 and	 Günter	 Wächtershäuser	 of	 Germany.	 Some	 of	 their	 work	 is
+discussed	 later.	 Both	 espouse	 the	 view	 that	 iron-	 and	 sulfur-containing	 compounds
+were	 critical	 to	 the	 establishment	 of	 protometabolism	 in	 the	 prebiotic	 world	 (a	 world
+still	 devoid	 of	 life	 as	 we	 know	 it	 but	 poised	 to	 see	 its	 birth).	 Such	 a	 view	 hinges	 on
+two	 ideas:	 first,	 a	 source	 of	 energy	 was	 needed	 to	 make	 possible	 some	 prebiotic
+chemical	 reactions,	 and	 second,	 the	 formation	 of	 proteins	 may	 have	 happened
+spontaneously.
+As	 we	 saw	 in	 chapter	 3,	 a	 great	 number	 of	 chemical	 reactions	 taking	 place	 in
+living	 cells	 require	 an	 energy	 supply	 in	 the	 form	 of	 ATP,	 a	 combination	 of	 adenine,
+ribose,	 and	 three	 phosphate	 groups.	 Before	 life	 existed,	 there	 was	 no	 abundant
+source	 of	 ATP.	 What	 could	 possibly	 have	 been	 the	 source	 of	 energy	 that	 drove
+prebiotic	 reactions	 in	 the	 primeval	 broth?	 In	 addition,	 assuming	 that	 the	 primitive
+Earth’s	 atmosphere	 was	 not	 as	 reducing	 as	 thought	 by	 others,	 but	 that	 it	 contained
+carbon,	mostly	in	the	form	of	CO	or	CO2	(but	not	CH4),	and	no	longer	any	hydrogen,
+how	could	hydrogenated	(reduced)	forms	of	carbon	be	produced?	It	is	indeed	mostly
+reduced	 carbon	 that	 is	 present	 in	 biological	 molecules.	 A	 possible	 answer	 lies	 in	 a
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:57.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+combination	 of	 the	 effects	 of	 UV	 light	 from	 the	 Sun	 and	 the	 presence	 of	 iron	 on
+Earth’s	 surface.	 This	 is	 how	 things	 may	 have	 worked	 according	 to	 de	 Duve.	 Not
+surprisingly,	his	model	is	based	on	oxidation-reduction	reactions.
+Iron,	 in	 the	 form	 of	 oxides	 and	 salts,	 is	 a	 very	 common	 element	 on	 Earth.	 When
+chemically	combined	with	other	elements,	iron	becomes	ionized	(electrically	charged)
+and	its	ions	can	either	be	doubly	positively	charged	(Fe2+)	or	triply	positively	charged
+(Fe3+).	Fe2+	is	the	reduced	form	of	iron,	whereas	Fe3+	is	its	oxidized	form.	Both	forms
+currently	 exist	 naturally	 on	 Earth	 and	 must	 have	 existed	 in	 the	 distant	 past	 as	 well.
+Reduced	iron	is	soluble	in	water,	whereas	oxidized	iron	combined	with	oxygen	is	not.
+Thus	 in	 the	 absence	 of	 oxygen,	 prebiotic	 Earth’s	 waters	 must	 have	 contained
+significant	 amounts	 of	 reduced	 iron	 dissolved	 in	 water.	 Furthermore,	 water	 (H2O)
+always	 contains	 a	 certain	 amount	 of	 protons	 (H+)	 and	 hydroxyl	 radicals	 (OH').
+Remembering	 that	 oxidation-reduction	 reactions	 are	 accompanied	 by	 electron
+transfer	(see	chapter	3),	it	is	easy	to	understand	how	the	oxidation	of	iron	may	have
+powered	some	important	chemical	reactions	on	prebiotic	Earth.
+It	turns	out	that	under	the	influence	of	UV	light	(provided	by	the	Sun),	the	Fe2+	ions
+can	 react	 with	 the	 protons	 present	 in	 water	 to	 form	 Fe3+	 ions	 and	 hydrogen	 gas.	 In
+this	 reaction,	 reduced	 Fe2+	 donates	 an	 electron	 to	 each	 proton	 (H+)	 to	 give	 Fe3+	 (an
+additional	positive	charge	is	gained	because	an	electron	is	lost)	and	an	H	atom.	Two
+H	 atoms	 quickly	 combine	 to	 give	 hydrogen	 gas,	 H2,	 which	 escapes	 into	 the
+atmosphere.	The	Fe3+	so	generated	then	reacts	with	water	to	give	iron	oxide,	which
+precipitates	 out	 of	 solution	 as	 a	 black	 material.	 Thus	 iron	 is	 oxidized	 in	 this	 process
+while	 protons	 are	 reduced	 to	 hydrogen	 gas	 (figure	 4.5).	 This	 hydrogen	 may	 have
+rendered	the	atmosphere	more	reducing.
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:57.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+FIGURE	4.5	How	the	oxidation	of	iron	ions	in	water	irradiated	by	ultraviolet	(UV)	light	produces	hydrogen
+gas	that	escapes	into	the	atmosphere.	In	this	process,	reduced	iron	Fe2+	is	oxidized	into	Fe3+,	which	reacts	with
+water	to	produce	insoluble	magnetite.	The	electrons	lost	by	Fe2+	in	the	oxidation	reaction	are	captured	by	H+	ions,
+always	present	in	water,	to	give	neutral	hydrogen	atoms	that	quickly	combine	to	make	molecular	hydrogen	gas,	H2.
+(Adapted	from	de	Duve,	C.	1991.	Blueprint	for	a	Cell.	Burlington,	N.C.:	Neil	Patterson.)
+
+Furthermore,	 and	 again	 under	 the	 influence	 of	 UV	 light,	 iron	 ions	 could	 possibly
+have	 cycled	 back	 and	 forth	 between	 a	 reduced	 and	 an	 oxidized	 state	 while	 reacting
+with	 CO2.	 Carbon	 dioxide,	 a	 gas,	 is	 soluble	 in	 water.	 Therefore	 dissolved	 Fe2+	 ions
+could	have	donated	electrons	to	CO2,	which,	in	the	presence	of	H+,	would	have	been
+reduced	to	CH4	(methane)	or	══CH2	compounds	free	to	react	with	other	substances.
+In	 addition,	 some	 of	 the	 newly	 formed	 ══CH2	 compounds	 could	 have	 spontaneously
+reacted	with	Fe3+	 ions	 (before	 they	 precipitated)	 to	 regenerate	 Fe2+.	 The	 interesting
+thing	here	is	that	this	last	reaction	releases	energy	that	could	have	been	used	to	drive
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:57.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+other	reactions.	This	mechanism	is	called	the	iron	cycle	(figure	4.6).
+Thus	 iron	 chemistry	 allows	 for	 the	 formation	 of	 reduced	 carbon	 compounds,
+including	 methane,	 hydrogen,	 and	 possibly	 other	 reduced	 chemicals	 such	 as
+ammonia,	 hydrogen	 cyanide,	 and	 hydrogen	 sulfide.	 It	 also	 produces	 energy	 in	 the
+absence	 of	 ATP.	 This	 scenario	 shows	 that	 a	 native	 and	 strongly	 reducing	 primitive
+atmosphere	 may	 not	 have	 been	 needed;	 the	 iron	 cycle	 produced	 the	 necessary
+reduced	 ingredients	 in	 solution	 and	 these	 could	 have	 combined	 to	 form	 amino	 acids
+and	 nitrogenous	 bases	 to	 make	 up	 the	 prebiotic	 broth.	 On	 the	 other	 hand,	 if	 the
+primitive	 atmosphere	 was	 reducing,	 the	 iron	 cycle	 could	 have	 provided	 energy	 to
+achieve	reactions	involving	precursor	compounds	made	in	the	atmosphere.	Therefore
+the	 iron	 cycle	 and	 the	 formation	 of	 organic	 molecules	 in	 the	 atmosphere	 may	 have
+been	synergistic.
+Let	us	now	examine	how	the	iron	cycle	and	its	energy	production	could	have	been
+taken	 over	 by	 reactions	 that	 approximate	 living	 mechanisms	 (which	 the	 iron	 cycle
+does	not).	We	saw	in	chapter	3	that	the	universal	energy	donor	in	living	cells	is	ATP.
+Remember	 that	 it	 is	 the	 cleavage	 of	 one	 or	 two	 phosphate	 groups	 from	 ATP	 that
+generates	 energy	 usable	 by	 other	 reactions.	 Could	 the	 prebiotic	 broth	 have	 stored
+energy	in	compounds	containing	phosphorus	but	no	adenine	and	no	ribose	(assuming
+these	 two	 were	 either	 absent	 or	 present	 in	 very	 low	 concentrations)?	 Yes,	 and	 the
+following	reactions	explain	how.
+We	must	first	assume	that	a	class	of	molecules	called	carboxylic	acids	existed	in
+the	prebiotic	broth.	These	organic	acids	have	the	general	formula	R—COOH,	where
+R	 is	 a	 group	 that	 may	 be	 simply	 a	 hydrogen	 atom,	 or	 it	 may	 be	 a	 methyl	 group	 (—
+CH3)	 or	 a	 more	 complicated	 group	 of	 atoms.2	 It	 turns	 out	 that	 carboxylic	 acids	 are
+made	 abundantly	 in	 a	 sparked	 mixture	 of	 methane,	 water,	 hydrogen,	 and	 ammonia.
+They	 are	 also	 found,	 along	 with	 amino	 acids,	 in	 some	 meteorites.	 Then	 we	 must
+assume	 that	 another	 class	 of	 molecules,	 called	 thiols,	 also	 existed	 in	 the	 prebiotic
+broth.	Thiol	derives	from	the	Greek	word	for	sulfur,	and	the	general	formula	of	a	thiol
+is	R′—SH,	where	R′	can	be	H	(in	which	case	the	thiol	is	simply	H2S,	hydrogen	sulfide)
+or	a	group	containing	reduced	carbon,	such	as	—CH3,	to	make	methyl	thiol.	We	have
+seen	 that	 H2S	 was	 probably	 originally	 present	 in	 the	 atmosphere	 of	 prebiotic	 Earth
+and	if	not,	it	was	produced	by	hydrothermal	vents.	It	is	also	soluble	in	water.	It	could
+thus	have	easily	reacted	in	solution,	under	the	action	of	UV	light,	with	reduced	carbon
+formed	 from	 carbon	 dioxide	 through	 the	 iron	 cycle,	 to	 produce	 a	 variety	 of	 organic
+thiols.
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:57.
+
+FIGURE	4.6	The	iron	cycle.	As	Fe2+	is	being	oxidized	into	Fe3+,	CO2	dissolved	in	water	is	reduced	into
+
+—CH2	compounds	(hydrocarbons)	that	can	be	used	as	organic	building	blocks.	The	reoxidation	of	some	of	these
+══CH2	compounds	into	CO2,	coupled	with	the	reduction	of	Fe3+	back	to	Fe2+,	produces	energy	that	can	be	used	to
+drive	other	prebiotic	reactions.	The	cycle	is	catalyzed	by	UV	light.	(Adapted	from	de	Duve,	C.	1991.	Blueprint	for	a
+Cell.	Burlington,	N.C.:	Neil	Patterson.)
+
+Next,	 the	 carboxylic	 acids	 could	 have	 reacted	 with	 the	 thiols	 to	 form	 a	 class	 of
+compounds	named	thioesters:
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+R—COOH	+	R′—SH	→	R′—S~CO—R	+	H2O
+The	 ~	 sign	 in	 the	 thioester	 formula	 represents	 an	 energy-rich	 chemical	 bond.	 The
+energy	necessary	to	form	that	thioester	bond	could	have	come	from	the	iron	cycle,	or
+else	 this	 reaction	 could	 have	 occurred	 spontaneously	 at	 high	 temperature	 and	 high
+acidity	(perhaps	as	in	hydrothermal	vents?).	Finally,	we	must	assume	that	phosphate
+(H2PO4−)	 was	 present.	 Thus	 thioesters	 could	 have	 reacted	 with	 phosphate	 in	 the
+following	way:
+R′—S~CO—R	+	H2PO4−	→	R′—SH	+	R—CO—O~P—HO3
+and
+R—CO—O~P—HO3−	+	H2PO4−	→	R—COOH	+	H2P2O72−,
+where	 H2P2O72−	 is	 pyrophosphate.	 Pyrophosphate,	 like	 ATP,	 is	 an	 energy-rich,
+phosphate-containing	molecule,	and	it	could	have	played	a	role	in	protometabolism	in
+the	 absence	 of	 adenine	 and	 ribose.	 What	 is	 also	 remarkable	 about	 this	 set	 of
+reactions	 is	 that	 the	 carboxylic	 acid	 (R—COOH)	 and	 the	 thiol	 (R′—SH)	 are
+regenerated	 and	 can	 thus	 enter	 a	 new	 cycle	 of	 energy-rich	 pyrophosphate
+production.	 Taken	 together,	 the	 iron	 cycle	 and	 thioesters	 provide	 an	 interesting
+scenario	for	energy	transactions	in	the	prebiotic	broth.	The	author	of	this	scenario,	de
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:57.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+Duve,	 has	 called	 it	 the	 “iron-thioester	 world.”	 Needless	 to	 say,	 not	 everyone	 agrees
+with	 this	 scheme;	 particularly	 uncomfortable	 with	 it	 are	 those	 who	 think	 that
+protometabolism	is	a	consequence	of	the	appearance	of	genetic	information,	not	the
+other	way	around.
+Nevertheless,	 the	 iron-sulfur	 world	 has	 more	 to	 offer.	 Having	 tackled	 the	 energy
+problem,	proponents	of	this	view	also	think	that	protein	enzymes	may	have	appeared
+without	 genetic	 information.	 We	 saw	 in	 chapter	 3	 that	 proteins	 are	 made	 by	 the
+chemical	 linking	 of	 amino	 acids.	 This	 linking	 does	 not	 occur	 spontaneously	 and	 is
+performed	in	cells,	as	we	have	seen,	through	the	mechanism	of	translation,	involving
+not	 only	 the	 amino	 acids	 but	 also	 ribosomes	 and	 transfer	 RNAs.	 Assuming	 that
+ribosomes	and	transfer	RNAs	did	not	exist	in	the	iron-sulfur	world,	how	could	proteins
+have	formed?	Again,	thioesters	come	to	the	rescue.
+As	 their	 name	 indicates,	 amino	 acids	 are	 acids.	 Not	 only	 that,	 they	 are	 also
+carboxylic	 acids	 containing	 the	 —COOH	 group	 that	 we	 encountered	 before.	 Thus
+amino	 acids	 could	 have	 reacted	 with	 thiols	 (R′—SH)	 to	 form	 thioesters,	 too.
+Furthermore,	 it	 has	 been	 demonstrated	 that	 amino	 acid	 thioesters	 can	 polymerize
+(make	 long	 chains	 of	 linked	 amino	 acids)	 spontaneously,	 without	 ribosomes	 and
+tRNAs!	 Therefore	 the	 prebiotic	 broth	 may	 have	 contained	 a	 large,	 random	 set	 of
+different	 proteins,	 all	 potentially	 composed	 of	 many	 different	 amino	 acid	 sequences.
+And	these	proteins,	much	like	today’s	proteins	made	by	living	organisms,	could	have
+possessed	 enzymatic	 activity.	 These	 “protoenzymes”	 could	 have	 progressively
+synthesized	 the	 building	 blocks	 of	 nucleic	 acids	 (the	 nitrogenous	 bases),	 and	 they
+even	 could	 have	 diversified	 the	 pool	 of	 amino	 acids	 to	 form	 other	 types	 of
+protoenzymes.	 These	 many	 types	 of	 protoenzymes	 could	 then	 have	 been	 able	 to
+catalyze	 the	 synthesis	 of	 RNA	 or	 DNA—that	 is,	 genes.	 At	 this	 point,	 the	 prebiotic
+broth	would	have	become	informational.
+There	 are,	 of	 course,	 problems	 with	 this	 view.	 For	 example,	 we	 do	 not	 know
+whether	random	chains	formed	from	amino	acid	thioesters	have	any	kind	of	significant
+and	 relevant	 enzymatic	 activity.	 This	 must	 be	 tested	 in	 the	 laboratory.	 Then	 it	 is
+unclear	 whether	 these	 putative	 protoenzymes	 (with	 an	 assumed	 catalytic	 activity)
+would	have	been	able	to	coordinate	their	activities	to	produce	any	significant	amount
+of	 genetic	 material,	 RNA	 or	 DNA.	 Thus	 the	 iron-sulfur	 world	 is	 an	 interesting,
+falsifiable	hypothesis	that	must	be	buttressed	by	a	considerable	amount	of	lab	work.
+Nevertheless,	this	theory	is	attractive	because	it	does	provide	a	possible	path	to	RNA
+or	DNA.
+The	 Wächtershäuser	 model	 for	 the	 origin	 of	 protometabolism	 also	 relies	 on	 iron
+and	 sulfur	 chemistry.	 This	 scientist	 (who	 is	 also	 a	 patent	 lawyer)	 does	 away
+altogether	 with	 the	 notion	 of	 primordial	 broth.	 For	 him,	 Earth	 did	 not	 need	 a	 helping
+hand	from	space,	lightning,	or	a	reducing	atmosphere;	all	necessary	ingredients	were
+present	 from	 the	 beginning	 in	 volcanoes	 and	 hydrothermal	 vents.	 He	 considers	 that
+only	CO2,	CO,	H2S	(present	today	in	volcanic	emissions	and	hydrothermal	vents),	and
+FeS	(common	in	Earth’s	crust)	were	needed	to	get	protometabolism	started.
+This	 is	 how	 it	 would	 have	 worked.	 First,	 as	 in	 the	 de	 Duve	 model,	 a	 source	 of
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:57.
+
+energy	and	electrons	(to	achieve	reduction	reactions)	is	necessary.	This	source	could
+have	been	the	reaction	between	iron	sulfide	and	hydrogen	sulfide:
+FeS	+	H2S	→	FeS2	+	2	e−	+	2	H+,
+where	FeS2	is	pyrite.	In	addition	to	releasing	electrons	for	reduction,	this	reaction	also
+releases	energy.	The	mineral	pyrite	formed	in	this	reaction	has	interesting	properties,
+in	 that	 it	 can	 strongly	 bind	 to	 all	 sorts	 of	 electrically	 charged	 molecules.	 This,
+according	 to	 Wächtershäuser,	 would	 have	 allowed	 organic	 molecules	 to	 line	 up	 in
+close	 proximity	 on	 the	 mineral’s	 surface	 and	 undergo	 further	 chemical	 reactions,	 a
+protometabolism	 of	 sorts.	 For	 example,	 the	 universal	 metabolite	 pyruvic	 acid	 (see
+chapter	3)	can	actually	be	formed	in	a	sequence	of	three	reactions:
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+CO2	+	2FeS	+	2H2S	→	CH3—SH	+	2FeS2	+	2O
+CH3—SH	+	CO	→	CH3—CO—SH
+CH3—CO—SH	+	CO2	+	FeS	→	CH3—CO—COOH	+	FeS2,
+where	CH3—CO—COOH	is	pyruvic	acid.	Other	protometabolic	reactions	would	have
+occurred	 in	 a	 similar	 fashion,	 including	 the	 synthesis	 of	 amino	 acids	 and	 nucleotides,
+necessary	to	make	proteins	and	RNA,	respectively.	In	this	scenario,	there	is	no	need
+for	 thioesters	 (as	 in	 de	 Duve’s	 model).	 Nor	 is	 there	 need	 for	 organic	 material	 to	 be
+delivered	 from	 outer	 space	 or	 from	 a	 reducing	 atmosphere.	 On	 the	 other	 hand,	 this
+model	 provides	 no	 clue	 regarding	 the	 functions	 of	 putative	 protoenzymes	 and	 first
+nucleic	acids.
+Finally,	the	American	biochemist	Sydney	Fox	proposed	that	protein	enzymes	could
+have	been	produced	on	prebiotic	Earth	in	the	absence	of	genetic	information.	For	this,
+he	 first	 demonstrated	 that	 amino	 acids	 analogous	 to	 those	 found	 in	 a	 Miller-type	 of
+experiment	 could	 also	 be	 synthesized	 by	 simply	 heating	 aqueous	 solutions	 of
+formaldehyde	and	ammonia.	These	two	compounds	can	be	formed	under	a	variety	of
+plausible	 prebiotic	 scenarios.	 Next,	 he	 demonstrated	 that	 heating	 dry	 mixtures	 of
+amino	 acids	 leads	 to	 the	 production	 of	 polymers	 containing	 up	 to	 several	 hundred
+chemically	linked	amino	acids,	thus	mimicking	modern	proteins.	Fox	used	dry	heat	in
+these	 experiments	 for	 the	 following	 reason:	 the	 linking	 of	 amino	 acids	 to	 produce
+protein	polymers	cannot	happen	in	water	because	this	reaction	is	accompanied	by	the
+elimination	of	a	water	molecule.	Thus	in	an	aqueous	environment,	the	water	molecules
+present	 in	 the	 solution	 favor	 the	 reverse	 reaction—that	 is,	 the	 destruction	 of	 the
+bonds	linking	amino	acids.
+Fox	reasoned	that	some	of	the	primeval	aqueous	broth	with	its	amino	acids	could
+have	 been	 splashed	 by	 the	 wind	 or	 waves	 onto	 hot	 rocks,	 where	 the	 water
+evaporated	and	the	amino	acids	started	polymerizing.	This	effect	would	have	created
+a	 large	 variety	 of	 randomly	 formed	 protein-like	 molecules.	 Some	 of	 these	 molecules
+could	 have	 been	 endowed	 with	 enzyme	 activity	 and	 could	 have	 started	 a	 kind	 of
+protometabolism,	 as	 assumed	 by	 de	 Duve	 in	 the	 case	 of	 thioester	 enzymes.	 The
+question	then	is,	do	protein-like	polymers	“à	la	Fox”	made	in	the	laboratory	possess
+any	kind	of	enzyme	activity?	The	answer	is	yes,	they	do,	albeit	weakly.	Furthermore,
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:57.
+
+Fox’s	proteinoids,	as	they	are	called,	can	spontaneously	form	microscopic	spheres	in
+which	 molecules	 that	 will	 be	 acted	 upon	 by	 proteinoids	 can	 be	 trapped.	 Thus	 these
+microspheres	 could	 be	 seen	 as	 primitive	 cells,	 possibly	 performing	 some
+protometabolic	functions.
+The	 main	 line	 of	 criticism	 aimed	 at	 these	 results	 and	 interpretations	 is	 that	 such
+microspheres,	 even	 if	 they	 were	 formed	 and	 persisted	 (they	 are	 quite	 unstable	 and
+fragile	 under	 laboratory	 conditions),	 could	 not	 have	 evolved	 because	 they	 contain	 no
+genetic	information.	Of	course,	one	could	always	retort	that	proteinoid	microspheres
+could	 have	 become	 capable	 of	 synthesizing	 random	 nucleic	 acids	 that	 were
+themselves	 able	 to	 evolve.	 Fox	 died	 in	 1998	 and,	 to	 my	 knowledge,	 work	 on
+proteinoids	has	stopped.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+GENETIC	INFORMATION	FIRST:	THE	RNA	WORLD
+Not	everyone	is	buying	the	iron-sulfur	world	hypothesis	and	its	haphazard
+synthesis	 of	 protein	 catalysts	 in	 the	 total	 absence	 of	 genetic	 information.	 This
+skepticism	also	applies	to	Sydney	Fox’s	theory.	Many	scientists	(possibly	a	majority)
+prefer	to	think	that	genetic	information	came	first	and	that	proteins	followed	suit,	once
+some	 kind	 of	 transcription/translation	 mechanism	 had	 evolved.	 For	 this	 to	 have
+happened,	 it	 must	 be	 assumed	 that	 informational	 macromolecules	 such	 as	 DNA	 or
+RNA	must	have	been	somehow	synthesized	in	the	absence	of	protein	enzymes.	In	the
+late	1960s,	three	scientists,	Carl	Woese	of	the	United	States,	Leslie	Orgel	of	England
+(but	 working	 in	 San	 Diego),	 and	 Nobel	 laureate	 Francis	 Crick	 of	 England	 (also
+working	 in	 San	 Diego)	 independently	 proposed	 that	 RNA,	 not	 DNA,	 could	 have	 been
+the	first	genetic	material.
+There	 are	 four	 reasons	 for	 this.	 First,	 many	 viruses	 possess	 an	 RNA	 genome.
+Second,	 the	 synthesis	 of	 DNA	 building	 blocks,	 deoxyribonucleotides	 (consisting	 of
+nitrogenous	 bases	 linked	 to	 the	 sugar	 deoxyribose	 and	 to	 phosphate	 groups),
+proceeds	 via	 ribonucleotide	 (the	 building	 blocks	 of	 RNA)	 intermediates.	 Third,	 DNA
+replication	in	cells	is	“primed”	by	short	stretches	of	RNA.	And	fourth,	to	be	expressed,
+DNA	genes	must	first	be	transcribed	into	RNA	molecules,	which	are	then	decoded	by
+transfer	 RNAs	 on	 a	 ribosomal	 matrix	 composed	 of	 50	 percent	 RNA.	 These
+observations	 suggested	 that	 RNA	 may	 be	 more	 ancestral	 than	 DNA	 and	 may	 have
+constituted	the	very	first	genes.
+This	hypothesis	raises	several	questions.	The	first	one	pertains	to	the	likelihood	of
+synthesizing	the	building	blocks	of	RNA,	the	ribonucleotides,	made	of	the	bases	A,	U,
+G,	and	C,	the	sugar	ribose,	and	three	phosphate	groups.	The	second	question	deals
+with	linking	these	blocks	together	to	form	RNA	chains,	and	the	third	problem	is	how	to
+make	 these	 RNA	 chains	 replicate	 (multiply)	 to	 keep	 them	 going	 so	 that	 they	 evolve
+into	 genuine	 living	 cells.	 Today,	 all	 three	 mechanisms	 involve	 enzymes.	 In	 an	 RNA
+world,	 there	 were	 no	 enzymes,	 and	 it	 must	 thus	 be	 assumed	 that	 ribonucleotide
+synthesis,	polymerization,	and	RNA	replication	either	occurred	spontaneously	or	were
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:57.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+catalyzed	by	nonenzyme	catalysts.
+We	have	seen	that	the	four	bases	could	have	been	formed	from	hydrogen	cyanide
+or	 other	 carbon-	 and	 nitrogen-containing	 molecules	 under	 reducing	 conditions.
+Alternatively,	 these	 bases	 could	 have	 been	 brought	 to	 Earth	 by	 meteorites	 and
+comets	 (although	 cytosine	 has	 never	 been	 found	 in	 meteorites).	 The	 sugar	 ribose
+could	 have	 been	 formed	 from	 the	 polymerization	 of	 formaldehyde,	 also	 presumably
+abundant	 in	 the	 prebiotic	 broth,	 as	 it	 is	 in	 space.	 The	 problem	 here	 is	 that	 the
+polymerization	of	formaldehyde	produces	many	other	types	of	sugars	besides	ribose,
+and	 these	 other	 sugars	 also	 have	 a	 propensity	 to	 react	 with	 the	 four	 bases.	 Some
+authors	 have	 recently	 proposed	 that	 in	 the	 beginning,	 nucleic	 acids	 other	 than	 RNA
+may	 have	 been	 more	 prevalent.	 These	 include	 molecules	 formed	 with	 sugars
+containing	 six	 carbon	 atoms	 instead	 of	 the	 five	 found	 in	 the	 ribose	 ring,	 or	 a	 fivecarbon-containing	 sugar	 (called	 threose,	 hence	 the	 abbreviation	 TNA	 for	 the	 nucleic
+acids	containing	it)	with	a	structure	slightly	different	from	that	of	ribose.	Thus	it	is	not
+impossible	 that	 originally	 there	 was	 a	 whole	 family	 of	 nucleic	 acids	 whose	 members
+contained	 different	 sugars,	 with	 RNA	 finally	 taking	 over	 for	 unknown	 reasons.
+According	to	some,	phosphorus	could	have	originated	from	organic	phosphates	found
+in	meteorites.
+So	 far,	 linking	 the	 four	 RNA	 bases	 to	 sugars	 in	 the	 laboratory,	 under	 plausible
+prebiotic	 conditions,	 has	 been	 successful	 only	 with	 A	 and	 G.	 Such	 reactions	 with	 U
+and	 C	 have	 not	 been	 observed.	 This	 is	 definitely	 a	 nagging	 problem,	 because	 it	 is
+hard	to	visualize	RNA	synthesis	without	the	existence	of	ribo-U	and	ribo-C.	Can	these
+compounds	 be	 formed	 in	 the	 presence	 of	 special,	 and	 as	 yet	 undiscovered,
+catalysts?	Were	TNAs	involved?	We	simply	do	not	know.	On	the	other	hand,	adding
+phosphate	groups	to	preformed	combinations	of	bases	and	ribose	has	been	achieved
+with	 all	 four	 bases.	 The	 problem	 here	 is	 that	 many	 of	 the	 base-sugar-phosphate
+combinations	(called	nucleotides)	have	structures	that	would	not	allow	polymerization
+into	 RNA	 molecules.	 Clearly,	 much	 remains	 to	 be	 done	 to	 elucidate	 the	 mechanisms
+by	which	correct	structures	where	formed	in	prevalent	amounts.	One	possibility	is	that
+mineral	 catalysts	 favored	 the	 formation	 of	 correct	 molecular	 structures,	 but	 such
+catalysts	 have	 not	 yet	 been	 discovered.	 Alternatively,	 it	 might	 be	 imagined	 that	 the
+correct	 molecules	 were	 formed	 with	 the	 help	 of	 protoenzymes	 and	 pyrophosphate
+previously	made	in	an	iron-sulfur	world.
+Also,	 sugars	 found	 in	 modern	 nucleic	 acids	 pose	 a	 handedness	 problem,	 just	 as
+seen	 with	 amino	 acids.	 The	 sugars	 present	 in	 RNA	 and	 DNA	 are	 right-handed.
+However,	 prebiotic	 sugars	 must	 have	 been	 made	 in	 the	 right-	 and	 left-handed
+configurations	 in	 equal	 amounts.	 We	 do	 not	 know	 how	 right-handed	 sugars	 were
+eventually	 selected	 for	 the	 synthesis	 of	 nucleic	 acids.	 Nevertheless,	 assuming	 that
+pools	 of	 nucleotides	 with	 the	 correct	 structure	 came	 into	 existence,	 it	 is	 now
+necessary	 to	 link	 these	 nucleotides	 together	 to	 form	 RNA	 chains.	 Interestingly,	 this
+has	been	achieved	in	the	laboratory	by	simply	incubating	nucleotides	in	the	presence
+of	 minerals	 such	 as	 lead	 salts,	 uranium	 salts,	 zinc	 salts,	 or	 even	 clay.	 RNA	 chains
+consisting	 of	 up	 to	 fifty	 bases	 linked	 together	 were	 synthesized	 on	 a	 clay
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:57.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+(montmorillonite)	 substrate.	 Quite	 certainly,	 these	 findings	 make	 plausible	 the
+synthesis	of	RNA	chains	under	prebiotic	conditions.
+But	 then	 there	 remains	 the	 problem	 of	 replicating	 these	 RNA	 molecules.	 Without
+replication,	the	genetic	information	present	in	an	RNA	molecule	will	be	lost	as	soon	as
+this	molecule	degrades.	Furthermore,	without	replication	and	errors	in	the	replication
+process,	 RNA	 molecules	 once	 formed	 cannot	 change—they	 cannot	 evolve.	 Perhaps
+surprisingly,	 RNA	 replication	 in	 the	 absence	 of	 enzymes	 may	 not	 have	 been	 as
+daunting	 a	 challenge	 as	 was	 once	 thought.	 Clues	 to	 the	 prebiotic	 copying	 of	 RNA
+molecules	were	provided	by	the	discovery	of	ribozymes,	RNA	enzymes.
+Until	 1983,	 that	 all	 biological	 catalysts	 were	 protein	 enzymes	 was	 a	 firmly
+entrenched	 notion.	 That	 year,	 Thomas	 Cech	 and	 Sidney	 Altman	 independently
+discovered	 that	 this	 dogma	 was	 wrong.	 They	 both	 received	 the	 Nobel	 Prize	 for	 this
+discovery.	 Their	 findings	 unexpectedly	 showed	 that	 RNA	 too	 possesses	 catalytic,
+enzymatic	activity,	hence	the	name	ribozyme	(a	combination	of	the	words	ribonucleic
+acid	 and	 enzyme).	 What	 kind	 of	 enzymatic	 activities	 are	 displayed	 by	 RNA
+molecules?	First,	there	are	conditions	under	which	living	cells	“cut”	some	of	their	RNA
+molecules	 by	 cleaving	 their	 ribose-phosphate	 backbone	 at	 predetermined	 positions
+(figure	 4.7).	 This	 cutting	 is	 done	 by	 the	 RNA	 itself,	 with	 no	 help	 whatsoever	 from
+protein	 enzymes.	 Next,	 it	 was	 discovered	 that	 ribozymes	 could	 actually	 copy
+themselves	and	thus	replicate,	again,	in	the	total	absence	of	protein	enzymes!	It	must
+be	 cautioned,	 however,	 that	 only	 short	 RNA	 molecules,	 a	 few	 dozen	 nucleotides	 in
+length,	 can	 be	 replicated	 that	 way	 in	 the	 laboratory.	 And	 finally,	 it	 was	 recently
+discovered	that	ribosomal	RNA	(present	in	the	ribosomes,	where	protein	synthesis	is
+taking	place	in	cells)	is	responsible	for	the	polymerization	of	amino	acids	into	proteins.
+In	 other	 words,	 it	 is	 not	 a	 ribosomal	 protein	 enzyme	 that	 hooks	 up	 amino	 acids
+together	to	make	protein	chains;	ribosomal	RNA	itself	does	the	job.	Some	ribozymes
+even	have	the	ability	to	splice	short	RNA	molecules	together	to	produce	longer	ones.
+Finally,	 RNA	 chains	 consisting	 of	 as	 few	 as	 twenty	 nucleotides	 have	 been	 shown	 to
+possess	ribozyme	activity.	This	number	is	well	within	the	ability	of	clay	to	catalyze	the
+synthesis	of	RNA	chains.
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:57.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+FIGURE	 4.7	 A	 ribozyme	 cutting	 another	 RNA	 molecule.	 A	 natural	 ribozyme,	 called	 the	 hammerhead
+ribozyme,	 binds	 to	 a	 target	 RNA	 through	 base	 pair	 formation	 (short	 vertical	 and	 horizontal	 stripes).	 The	 sugarphosphate	 backbone	 of	 the	 target	 RNA	 is	 cut	 to	 the	 right	 of	 the	 base	 designated	 X	 (which	 can	 be	 any	 base).
+(Adapted	from	Breaker,	R.	R.	2000.	Making	Catalytic	DNAs.	Science	290:2095–2096.)
+
+The	 discoveries	 that	 certain	 RNA	 molecules	 can	 cut	 themselves	 and	 other	 RNA
+molecules,	 that	 they	 can	 join	 RNA	 molecules	 together,	 that	 some	 ribozymes	 can
+replicate,	and	that	certain	RNA	molecules	can	catalyze	the	formation	of	proteins	have
+given	 credence	 to	 a	 putative	 RNA	 world.	 In	 this	 prebiotic	 world,	 primitive	 RNA
+genomes	 could	 replicate,	 become	 processed	 by	 cutting	 and	 splicing,	 and	 help	 make
+proteins	that	later	could	become	genuine	enzymes,	taking	over	some	of	the	ribozyme
+properties	 and	 creating	 an	 integrated	 metabolic	 circuitry.	 Before	 this	 could	 happen,
+RNA	 genomes	 had	 to	 evolve	 through	 replication	 and	 replication	 errors	 in	 order	 to
+generate	genetic	diversity,	much	as	natural	selection	does	in	the	world	today.	We	will
+see	how	this	may	have	happened	in	the	next	chapter.
+
+CONCLUSIONS
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:57.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+We	do	not	know	how	the	building	blocks	of	life	appeared	on	Earth.	They
+may	 have	 originated	 from	 organic	 material	 present	 in	 interstellar	 clouds,	 from
+meteorites	and	comets,	from	hydrothermal	vents,	from	a	reducing	atmosphere,	from
+all	 four,	 or	 from	 sources	 we	 have	 not	 yet	 imagined.	 Whether	 proteins	 antedated
+nucleic	 acids	 in	 an	 iron-sulfur	 world	 or	 whether	 an	 RNA	 world	 gave	 birth	 to	 the	 first
+proteins	is	equally	unknown.	Perhaps	even	the	iron-sulfur	and	RNA	worlds	cooperated
+to	get	life	started.	We	have	several	scenarios	but	we	do	not	know	which	one	or	ones
+prevailed.	What	this	chapter	has	shown,	however,	is	that	scientists	do	not	suffer	from
+a	 lack	 of	 imagination.	 The	 hypotheses	 presented	 here	 are	 testable,	 and	 new
+discoveries,	such	as	the	catalytic	properties	of	RNA,	will	continue	to	provide	material
+for	further	research	and	hypothesis	formulation.
+In	1998,	the	British	Broadcasting	Corporation	released	a	video	entitled	“The	Origin
+of	 Life:	 Researching	 the	 Possibilities.”	 I	 highly	 recommend	 it	 to	 readers,	 not	 only	 for
+its	 informational	 content	 and	 its	 general	 quality	 but	 also	 for	 its	 humorous	 look	 at	 the
+problem.	 The	 program	 features	 among	 others,	 Stanley	 Miller	 (in	 front	 of	 his	 famous
+“gas	zapper”)	and	Günter	Wächtershäuser	(handling	a	block	of	his	cherished	pyrite).
+Consciously	 or	 unconsciously,	 some	 of	 the	 scientists	 appear	 as	 enthusiastic	 nerds3
+(one	 of	 them,	 unable	 to	 find	 a	 chalkboard	 to	 explain	 something	 to	 the	 interviewer,
+casually	and	very	naturally	uses	his	office	door	to	write	on),	vindictive	prima	donnas,
+or	self-assured	wise	men.	This	video	is	also	a	lesson	in	the	sociology	of	science.
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:15:57.
+
+

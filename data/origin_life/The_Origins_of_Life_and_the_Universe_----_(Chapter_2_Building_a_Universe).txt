@@ -1,0 +1,652 @@
+CHAPTER	2
+
+Building	a	Universe
+	
+The	most	incomprehensible	thing	about	the	universe	is	that	it	is
+comprehensible.
+—ALBERT	EINSTEIN
+
+	
+wentieth-century	 physics,	 with	 its	 precise	 description	 of	 matter,
+energy,	 and	 radiation,	 was	 merged	 with	 astronomical	 observations
+to	provide	an	account	of	the	birth	of	the	universe	consistent	with	the
+laws	 of	 nature.	 These	 efforts	 resulted	 in	 the	 Big	 Bang	 model	 for	 the	 creation	 of	 the
+cosmos.	Since	we	do	not	(yet)	know	how	to	create	a	universe	in	the	laboratory,	some
+of	 the	 Big	 Bang	 theory	 relies	 on	 mathematical	 and	 computer	 models.	 However,	 the
+sciences	 of	 astrophysics	 and	 high-energy	 particle	 physics	 provide	 much	 empirical
+evidence	to	support	the	theory	in	its	entirety.	In	this	chapter	we	will	see	how	the	Big
+Bang	 model	 works.	 We	 will	 also	 see	 that	 the	 formation	 of	 stars	 and	 planets	 was	 a
+direct	 consequence	 of	 the	 stabilization	 of	 matter,	 once	 the	 temperature	 of	 the
+universe	 had	 dropped	 sufficiently,	 after	 a	 significant	 period	 of	 expansion	 of	 the
+universe.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+T
+
+COSMOLOGY:	THE	BIG	BANG	MODEL
+We	saw	in	chapter	1	that	Einstein’s	general	relativity	predicts	an	unstable
+universe	beginning	with	a	singularity	characterized	by	zero	space	and	infinite	energy.
+Using	 the	 equations	 of	 general	 relativity,	 the	 Belgian	 priest	 and	 university	 professor
+Georges	 Lemaître	 suggested	 in	 1927	 that	 the	 universe	 could	 have	 started	 from	 a
+rapidly	 expanding	 “primeval	 atom,”	 as	 he	 called	 it.	 By	 this	 he	 meant	 a	 very	 small
+region	 of	 expanding	 superdense	 time-space	 from	 which	 all	 matter	 and	 radiation
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:16:15.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+originated.	 This,	 however,	 did	 not	 solve	 the	 question	 of	 infinite	 energy.	 Infinities	 are
+not	welcome	in	science.	In	fact,	nobody	knows	what	infinite	energy	is.	Therefore	the
+Lemaître-Einstein	 model,	 interesting	 as	 it	 may	 be,	 cannot	 be	 used	 to	 make
+predictions	 regarding	 the	 properties	 of	 space-time	 at	 time	 zero,	 the	 moment	 of	 the
+Big	 Bang.	 Nonetheless,	 1927	 should	 be	 considered	 the	 birth	 year	 of	 the	 Big	 Bang
+model,	even	though	nobody	called	it	that	when	this	hypothesis	was	first	put	forth.	Let
+us	first	consider,	then,	what	happened	a	very	short	time	after	time	zero	and	avoid	for
+now	the	infinite	energy	problem.	We	will	return	to	speculations	regarding	time	zero	at
+the	end	of	this	section.
+An	 extremely	 important	 clue	 to	 the	 birth	 of	 the	 universe	 was	 revealed	 when	 the
+temperature	of	the	cosmos	was	measured.	The	temperature	of	intergalactic	space	is
+not	 zero	 Kelvin	 (K).	 Space	 is	 actually	 pervaded	 by	 a	 background	 radiation	 of	 2.7	 K,
+with	an	energy	distribution	like	that	of	a	blackbody,	and	a	peak	wavelength	of	2	mm
+corresponding	 to	 a	 photon	 energy	 of	 0.00062	 electron	 volts	 (eV),	 placing	 this
+radiation	 in	 the	 microwave	 range	 (remember	 that	 any	 temperature	 above	 0	 K	 is
+characterized	 by	 a	 given	 electromagnetic	 radiation	 wavelength).	 This	 very	 weak
+cosmic	 microwave	 background	 radiation	 is	 uniformly	 distributed	 in	 all	 directions
+around	 us	 and	 thus	 fills	 the	 universe.	 Human	 eyes	 are,	 of	 course,	 unable	 to	 detect
+electromagnetic	radiation	below	the	range	of	visible	light,	but	our	radio	antennae	are
+able	 to	 do	 so,	 which	 is	 how	 scientists	 discovered	 this	 universal	 microwave
+background.	 What	 is	 its	 origin?	 How	 is	 it	 that	 microwave	 photons	 are	 filling	 the
+universe?	 Is	 there	 a	 correlation	 between	 this	 radiation	 and	 the	 beginning	 of	 the
+universe?
+As	 covered	 in	 chapter	 1,	 we	 know	 that	 the	 universe	 is	 expanding	 (remember
+galactic	redshifts).	If	we	were	hypothetically	to	run	the	expansion	clock	backward,	we
+would	 see	 that	 as	 the	 universe	 became	 smaller	 and	 smaller,	 the	 microwave
+background	 radiation	 density	 would	 become	 higher	 and	 higher,	 until	 it	 reached	 an
+enormous	value.	Also,	since	space	would	be	shrinking,	the	microwave	radiation	would
+be	blue-shifted	and	gain	more	and	more	energy,	until	it	too	would	reach	an	enormous
+level.	In	a	shrinking	universe,	the	microwave	background	would	turn	into	infrared	light,
+then	 into	 visible	 light,	 and	 subsequently	 into	 short-wavelength	 light	 that	 human	 eyes
+cannot	perceive.	Since	the	energy	density	of	the	universe	would	increase	drastically,
+so	would	its	temperature.	We	can	even	imagine	a	point	at	which	the	temperature	and
+energy	density	would	be	so	high	that	matter	particles	could	no	longer	exist	stably.	If
+we	 mentally	 reverse	 the	 process,	 in	 an	 expanding	 universe	 starting	 from	 very	 high
+photon	density	and	energy,	the	radiation	becomes	weaker	and	weaker	as	time	goes
+by.	 The	 photon	 density	 decreases	 and	 so	 does	 the	 energy	 associated	 with	 these
+photons	because	of	the	redshift	caused	by	expansion.	Consequently,	the	temperature
+of	the	universe	drops,	and	at	a	certain	point,	stable	matter	can	exist.
+Thinking	 along	 these	 lines,	 the	 cosmic	 background	 radiation	 must	 represent	 the
+“ashes,”	 the	 “afterglow”	 of	 the	 Big	 Bang!	 At	 one	 point	 in	 time,	 the	 young	 universe
+must	 have	 been	 a	 reservoir	 of	 enormously	 intense	 radiation	 at	 extremely	 high
+temperature.	This	raises	the	question	of	how	old	the	universe	is.	Based	on	the	rate	of
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:16:15.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+expansion,	 itself	 calculated	 from	 the	 velocity	 of	 the	 most	 distant	 galaxies	 observable
+today,	 the	 age	 of	 the	 universe	 is	 about	 12	 to	 15	 billion	 years	 (see	 appendix	 3).
+Extrapolating	 back	 in	 time,	 it	 is	 then	 possible	 to	 calculate	 the	 temperature	 of	 the
+universe	 when	 it	 was	 extremely	 small,	 fractions	 of	 a	 second	 after	 the	 Big	 Bang.
+Avoiding	 infinities	 “à	 la	 Einstein,”	 we	 can	 calculate	 that	 10−43	 second	 after	 the	 Big
+Bang,	the	temperature	of	the	universe	was	1031	K	and	its	radius	was	3	×	10−35	meter.
+This	is	many	orders	of	magnitude	smaller	than	the	radius	of	a	proton,	putting	the	justborn	 universe	 squarely	 in	 the	 submicroscopic	 realm	 of	 quantum	 theory.	 Also,	 as
+matter	 cannot	 exist	 at	 such	 a	 high	 temperature,	 it	 is	 present	 as	 very	 energetic
+radiation	(or,	more	precisely,	the	conversion	of	radiation	into	matter	does	not	lead	to
+stable	 matter	 because	 the	 temperature	 is	 too	 high).	 Nevertheless,	 calculations
+indicate	 that	 at	 that	 time,	 the	 force	 of	 gravity	 was	 already	 separated	 from	 the	 three
+other	forces	(strong,	weak,	and	electromagnetic),	even	though	stable	matter	did	not
+yet	exist.
+It	may	surprise	the	reader	that	gravity	existed	from	the	beginning,	in	the	absence
+of	 stable	 matter	 particles.	 However,	 we	 must	 remember	 that	 energy	 possesses
+mass.	Therefore	at	extremely	high	energies,	we	find	a	considerable	amount	of	mass,
+hence	 the	 existence	 of	 gravity.	 Also,	 at	 such	 a	 high	 energy	 density,	 the	 curvature	 of
+the	universe	must	have	been	enormous	and	we	must	also	remember	that	curvature	of
+space	 is	 gravity.	 Gravity	 was	 the	 first	 force	 to	 separate,	 because	 as	 temperature
+decreased,	the	mass-energy	present	in	the	expanding	volume	decreased	as	well.
+The	 rest	 of	 the	 timetable	 then	 goes	 as	 shown	 in	 the	 following	 table,	 where	 the
+radius	 is	 that	 of	 the	 universe	 in	 meters,	 H	 represents	 hydrogen,	 D	 is	 deuterium	 (the
+heavy	isotope	of	hydrogen)	and	He	is	helium:
+
+	
+As	expansion	and	cooling	proceeded,	the	three	other	forces	(with	their	associated
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:16:15.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+field	 particles)	 separated.	 Then	 matter	 particles	 with	 highest	 mass	 energy	 started
+stabilizing,	followed	by	those	with	less	mass	energy.	This	is	because	matter	is	stable
+when	 temperature	 is	 below	 its	 energy	 equivalent	 divided	 by	 1.5k,	 where	 k	 is	 the
+Boltzmann	constant,	a	number	relating	energy	and	temperature.	Thus	the	stabilization
+temperature	 is	 T	 =	 E/1.5k.	 Knowing	 that	 E	 =	 mc2,	 and	 knowing	 m,	 the	 mass	 of
+elementary	particles,	one	can	calculate	their	energy	equivalent.	This	value	of	E	is	then
+used	 to	 calculate	 T.	 Since	 quarks	 are	 more	 massive	 than	 baryons	 (protons	 and
+neutrons),	which	in	turn	are	more	massive	than	electrons,	quarks	stabilized	first	after
+the	 Big	 Bang	 (when	 the	 universe	 was	 only	 80	 cm	 in	 diameter,	 the	 size	 of	 a	 large
+beach	 ball),	 followed	 by	 the	 baryons	 and	 finally	 the	 electrons	 as	 the	 universe
+expanded	further	and	its	temperature	dropped	accordingly.	It	may	come	as	a	surprise
+that	 baryons,	 composed	 of	 three	 quarks,	 are	 less	 massive	 than	 quarks	 themselves.
+This	 is	 because	 quarks,	 as	 they	 unite	 to	 form	 baryons,	 release	 energy—and	 hence
+mass—in	 the	 process.	 The	 same	 principle	 is	 at	 work	 in	 nuclear	 fusion	 (see	 the	 next
+section).
+It	should	be	noted	that	experimental	results	have	been	gathered	up	to	energies	of
+200	GeV	(corresponding	to	a	temperature	of	2	×	1015	K)	in	particle	accelerators.	This
+temperature	 corresponds	 to	 about	 10−10	 second	 after	 the	 Big	 Bang.	 Therefore	 it	 is
+fair	 to	 say	 that	 we	 understand	 quite	 a	 bit	 of	 the	 physics	 involved	 in	 the	 transition
+between	radiation	and	matter	in	the	very	young	universe.	What	happened	before	that
+time	can	presently	be	assessed	only	by	theory,	as	we	will	see	later.
+The	timetable	of	the	creation	of	the	universe	contains	several	interesting	features.
+First,	 it	 should	 be	 realized	 that	 protons	 constitute	 hydrogen	 nuclei.	 H	 is	 the	 simplest
+element,	with	one	proton	surrounded	by	a	single	electron.	Deuterium	is	an	isotope	of
+hydrogen;	 it	 contains	 a	 single	 proton	 and	 a	 single	 neutron	 in	 its	 nucleus.	 D	 has	 only
+one	 electron,	 just	 like	 H,	 and	 it	 has	 the	 same	 chemical	 properties	 as	 its	 lighter
+isotope.	 The	 second	 simplest	 element	 is	 helium,	 composed	 of	 two	 protons	 and	 two
+neutrons	(in	its	most	abundant	form)	surrounded	by	two	electrons.	D	nuclei	stabilized
+10−3	 second	 after	 the	 Big	 Bang,	 whereas	 He	 nuclei	 stabilized	 after	 100	 seconds.	 It
+can	 also	 be	 seen	 that	 formation	 of	 H,	 D,	 and	 He	 neutral	 atoms	 took	 place	 when	 the
+universe	was	400,000	years	old,	when	the	temperature	had	become	low	enough	for
+atoms	to	exist.
+It	 is	 also	 at	 that	 time	 that	 the	 universe	 became	 transparent.	 Indeed,	 before	 that
+time,	starting	at	10−9	second,	the	universe	was	a	plasma	of	independent	particles	and
+radiation.	In	a	plasma,	light	cannot	travel	very	far	because	of	strong	interactions	with
+particles.	 Therefore	 the	 superhot	 young	 universe	 may	 have	 looked	 like	 a	 dense,
+luminous	fog.
+The	table	thus	mentions	only	two	elements	created	in	the	Big	Bang:	hydrogen	and
+helium	[a	third	element,	lithium	(Li),	with	three	protons	and	three	neutrons	was	formed
+in	trace	amounts].	It	turns	out	that	calculations	based	on	quantum	mechanics	predict
+that	a	hot	Big	Bang	should	produce	these	two	elements	in	a	precise	ratio:	76%	H	and
+24%	 He	 (with	 traces	 of	 D	 and	 Li).	 And	 lo	 and	 behold,	 this	 is	 exactly	 the	 H/He	 ratio
+found	 in	 the	 universe	 at	 large	 today	 (plus	 the	 traces	 of	 D	 and	 Li)!	 This	 observation
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:16:15.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+clearly	reinforces	the	notion	that	the	universe’s	birth	conforms	to	the	Big	Bang	model.
+Figure	 2.1	 provides	 a	 graphic	 representation	 of	 the	 major	 transitions	 that	 have
+occurred	in	the	universe	since	the	Big	Bang.
+How	 does	 one	 explain	 this	 76:24	 ratio?	 Protons	 and	 neutrons	 are	 made	 in	 equal
+amounts	 in	 the	 Big	 Bang	 and	 stabilize	 at	 about	 1012	 K.	 At	 this	 temperature,	 the
+nuclear	 force	 is	 not	 strong	 enough	 to	 allow	 stable	 proton-neutron	 interactions.
+However,	 as	 has	 been	 demonstrated	 experimentally,	 starting	 at	 about	 1010	 K,	 these
+stable	 interactions	 are	 made	 possible.	 But	 neutrons	 are	 slightly	 more	 massive	 than
+protons	 (by	 about	 1.3	 million	 eV),	 meaning	 that	 the	 balance	 between	 neutrons	 and
+protons	 will	 shift	 toward	 the	 latter	 as	 the	 temperature	 of	 the	 universe	 drops.	 This	 is
+because	 the	 conversion	 of	 protons	 into	 neutrons	 and	 vice	 versa	 favors	 protons	 at
+lower	 temperatures.	 By	 the	 time	 the	 nuclear	 force	 allows	 proton-neutron	 binding,
+there	 are	 only	 twelve	 neutrons	 left	 for	 eighty-eight	 protons.	 The	 twelve	 neutrons	 will
+unite	with	twelve	protons	to	make	six	helium	nuclei,	each	actually	originating	from	the
+fusion	 of	 two	 deuterons	 (deuterium	 nuclei),	 each	 containing	 one	 proton	 and	 one
+neutron.	 This	 step	 is	 called	 nucleosynthesis	 because	 atomic	 nuclei	 are	 being
+synthesized.	 Then	 the	 remaining	 seventy-six	 protons	 will	 remain	 alone	 and	 will
+become	 hydrogen	 nuclei	 that	 later	 will	 form	 the	 76	 percent	 hydrogen	 atoms	 once
+these	 protons	 each	 capture	 an	 electron.	 The	 formation	 of	 nuclei	 heavier	 than	 helium
+(other	 than	 the	 traces	 of	 D	 and	 Li)	 cannot	 proceed	 because	 the	 expansion	 of	 the
+universe,	and	hence	a	great	decrease	in	particle	density,	prevents	further	interactions
+between	nuclei.	This	also	means	that	the	synthesis	of	elements	of	atomic	mass	higher
+than	4	(i.e.,	He)	must	have	taken	place	elsewhere,	and	not	in	the	Big	Bang.	This	point
+will	be	discussed	in	the	next	section.
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:16:15.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+FIGURE	2.1	Diagram	showing	the	major	transitions	that	have	taken	place	in	the	universe	since	its	birth.
+The	top	portion	shows	the	separation	of	what	is	sometime	called	supergravity	(a	single	force	that	existed	briefly	at
+the	 time	 of	 the	 Big	 Bang)	 into	 gravity	 and	 a	 “grand	 unified	 force.”	 The	 grand	 unified	 force	 then	 separates	 into	 the
+strong	force	and	the	electroweak	force.	Subsequently,	the	electroweak	force	separates	into	the	weak	force	and	the
+electromagnetic	 force.	 The	 field	 particles	 that	 mediate	 the	 action	 of	 the	 four	 forces	 are	 also	 represented.	 The
+bottom	 portion	 of	 the	 diagram	 shows	 the	 timetable	 for	 the	 appearance	 of	 matter	 particles	 and	 first	 atoms
+(neutrinos	have	been	ignored	for	simplicity).	The	time	and	temperature	scales	are	not	linear.	Photon	decoupling	from
+matter	indicates	the	time	and	temperature	at	which	the	universe	became	transparent	to	light.
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:16:15.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+Taken	 together,	 Einstein’s	 unstable	 universe,	 the	 cosmic	 microwave	 background
+radiation,	 the	 redshift,	 and	 the	 precise	 H:He	 ratio	 predicted	 by	 theory	 make	 an
+extremely	 solid	 case	 for	 the	 creation	 of	 the	 universe	 through	 a	 hot	 Big	 Bang.	 Some
+competing	theories,	such	as	a	steady-state	universe	that	is	expanding	but	has	existed
+for	 all	 eternity,	 have	 been	 presented.	 However,	 these	 theories	 do	 not	 agree	 with
+observations	 (nor	 can	 they	 explain	 the	 microwave	 background	 radiation)	 and	 hence
+must	be	rejected.
+For	 a	 variety	 of	 reasons,1	 including	 the	 fact	 that	 there	 exist	 in	 the	 universe	 stars
+and	galaxies,	not	just	the	two	gases	H	and	He	in	a	uniform	and	dispersed	state,	many
+scientists	now	accept	the	idea	of	an	inflationary	period	that	took	place	between	10−33
+and	 10−32	 second	 after	 the	 Big	 Bang.	 This	 rapid	 inflation	 brought	 the	 size	 of	 the
+universe	from	3	×	10−27	m	to	10	cm.	At	the	end	of	inflation,	the	universe	had	ceased
+to	 be	 a	 quantum	 object.	 By	 stretching	 the	 nascent	 universe	 so	 quickly,	 it	 is	 thought
+that	 any	 subtle	 preexisting	 patchiness	 in	 the	 energy	 distribution	 would	 have	 been
+maintained	because	full	thermal	equilibrium	would	have	been	prevented.	Once	energy
+converted	 into	 matter,	 this	 patchiness	 was	 kept,	 and	 it	 is	 recognized	 today	 as	 stars
+and	 galaxies.	 If	 there	 was	 indeed	 inflation	 that	 led	 to	 a	 nonuniform	 distribution	 of
+matter,	 the	 cosmic	 microwave	 background	 radiation	 should	 also	 show	 subtle
+nonuniformity	 because	 this	 would	 reflect	 the	 presence	 of	 heterogeneities	 from
+practically	 the	 beginning.	 This	 was	 actually	 demonstrated	 by	 microwave	 detection
+equipment	carried	by	satellites	and	high-altitude	balloons;	the	microwave	background
+radiation	is	very	smooth,	but	it	is	not	completely	smooth.
+In	 summary,	 the	 standard	 model	 for	 the	 creation	 of	 the	 universe	 is	 very	 solid.
+Quantum	physics	and	relativity	provide	consistent	explanations	regarding	the	creation
+of	space-time,	matter,	forces,	and	radiation.	Inflation	seems	to	explain	the	properties
+of	 the	 universe	 as	 we	 know	 it	 today.	 However,	 most	 people	 want	 to	 know	 what
+happened	at	the	Big	Bang	and	what	caused	it.	I	was	told	that	one	of	my	colleagues
+once	 said	 in	 an	 introductory	 biology	 class,	 “The	 Big	 Bang,	 eh!	 Who	 pulled	 the
+trigger?”	 Doubtlessly,	 he	 was	 being	 facetious.	 Nevertheless,	 people	 and	 scientists
+want	 to	 know,	 if	 not	 who	 pulled	 the	 trigger,	 at	 least	 what	 pulled	 the	 trigger.
+Unfortunately,	 no	 simple	 explanation	 can	 be	 provided	 yet.	 What	 happened	 at	 time
+zero	 and	 how	 it	 happened	 are	 two	 questions	 at	 the	 ultimate	 frontiers	 of	 science.
+Theorists	 are	 quite	 active	 in	 this	 area	 and	 the	 following	 are	 some	 propositions	 they
+have	devised:
+First,	 the	 universe	 at	 the	 Big	 Bang	 may	 not	 have	 had	 a	 size	 of	 zero.	 This
+possibility	would	violate	the	uncertainty	principle	of	quantum	mechanics.	The	minimum
+possible	 size	 in	 the	 universe’s	 timetable,	 1.62	 ×	 10−35	 m,	 is	 called	 the	 Planck	 length,
+and	it,	together	with	the	Planck	time,	5.39	×	10−44	second	after	the	Big	Bang,	are	the
+smallest	 “knowable”	 parameters	 for	 the	 nascent	 universe.2	 Thus	 time	 “zero”	 is	 not
+really	 zero,	 and	 the	 same	 holds	 true	 for	 zero	 space.	 This	 avoids	 the	 problem	 of
+infinite	energy	in	a	purely	Einsteinian	universe.
+Next,	 the	 uncertainty	 principle	 allows	 the	 universe	 to	 have	 been	 created	 from
+nothing!	 As	 we	 have	 seen,	 Heisenberg’s	 principle	 can	 be	 written	 ∆E	 ·	 ∆t	 ≥	 h/2π.
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:16:15.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+Following	this,	if	the	energy	content	of	the	universe	is	zero,	the	indeterminacy	of	E	is
+also	zero.	The	consequence	of	this	concept	is	mindboggling,	because	if	∆E	=	0,	then
+∆t	≥	(h/2π)/0,	meaning	that	∆t	 ≥	 ∞,	 which	 is	 an	 infinity	 (because	 any	 number	 divided
+by	zero	is	an	infinity)!	Thus	the	universe	could	exist	for	an	infinite	time	(not	necessarily
+in	 its	 present	 form,	 but	 still	 composed	 of	 matter	 and	 radiation)	 provided	 it	 contained
+zero	energy.	But	is	the	universe’s	energy	content	zero?	Many	cosmologists	think	that
+this	is	the	case	and	that	matter-energy	(that	is,	the	energy	equivalent	of	all	matter	in
+the	 universe)	 is	 exactly	 balanced	 by	 negative	 gravitational	 energy.	 Even	 though
+gravitation	 is	 always	 attractive,	 it	 can	 be	 thought	 of	 as	 a	 form	 of	 negative	 energy
+because	it	binds	matter	together.	Therefore	in	an	expanding	universe,	where	matter	is
+being	dispersed,	gravitation	has	a	negative	sign.	The	idea	of	creating	a	universe	from
+nothing	is	not	completely	wild;	we	have	seen	that	a	vacuum	is	full	of	virtual	particles,
+as	demonstrated	by	the	Casimir	effect.	In	a	similar	scenario,	the	universe	could	have
+been	 born	 from	 quantum	 fluctuations	 of	 the	 vacuum,	 with	 the	 universe	 tunneling	 (see
+chapter	 1)	 into	 existence.3	 In	 that	 picture,	 there	 is	 no	 trigger:	 nothing	 but	 chance
+caused	the	Big	Bang.
+Then	 there	 is	 the	 question	 of	 what	 happened	 before	 the	 Big	 Bang.	 For	 many
+scientists	 this	 is	 a	 philosophical	 rather	 than	 a	 scientific	 question.	 And	 we	 have	 seen
+that	the	Planck	time	limits	our	ability	to	go	back	to	true	zero.	At	any	rate,	it	would	be
+extremely	 difficult,	 if	 not	 impossible,	 to	 see	 what	 the	 universe	 looked	 like	 before	 it
+reached	 an	 age	 of	 about	 400,000	 years.	 We	 have	 a	 chance	 to	 glimpse	 at	 what	 the
+universe	 looked	 like	 after	 this	 time,	 by	 devising	 more	 and	 more	 powerful	 telescopes
+that	 can	 reach	 farther	 and	 farther	 into	 the	 distant	 universe	 at	 higher	 and	 higher
+redshift.	 For	 this,	 light	 from	 these	 distant	 objects	 needs	 to	 reach	 us,	 and	 we	 have
+seen	 that	 the	 universe	 was	 not	 transparent	 to	 light	 until	 400,000	 years	 after	 its
+creation.	Events	before	that	time	are	hidden	in	a	quantum	fog.4
+Nevertheless,	 theorists	 are	 speculating	 on	 the	 properties	 of	 the	 universe	 around
+the	 Planck	 time	 and	 have	 come	 up	 with	 models	 describing	 “bubble	 universes”	 (or
+“multiverse”),	 in	 which	 our	 own	 universe	 is	 but	 a	 corner	 of	 a	 total	 cosmos	 containing
+multiple,	isolated	universes.	These	bubble	universes	could	be	seen	as	tunneling	out	of
+preexisting	 universes.	 Others	 think	 that	 time	 really	 had	 no	 beginning	 at	 all.	 In	 that
+view,	space-time	itself	is	curved.	This	allows	for	space-time	to	be	finite	(as	imposed
+by	a	model	involving	a	beginning	for	the	universe)	yet	to	have	no	boundary.	A	familiar
+analogy	is	that	of	the	surface	of	a	sphere,	which	is	curved	and	finite	and	yet	has	no
+boundaries.	 In	 that	 sense,	 the	 idea	 of	 a	 singularity	 at	 the	 beginning	 of	 space-time
+disappears.	 This	 concept	 reduces	 even	 further	 the	 need	 for	 a	 trigger	 and,	 together
+with	 the	 uncertainty	 principle,	 does	 away	 with	 causality.	 In	 that	 sense,	 the	 universe
+simply	is.
+At	any	rate,	this	is	not	the	place	for	cosmological	speculations.	We	are	interested
+in	the	origin	of	matter,	because	living	things	are	made	of	matter,	and	so	far,	we	have
+seen	 that	 the	 creation	 of	 matter	 is	 a	 direct	 consequence	 of	 the	 Big	 Bang.	 However,
+the	 Big	 Bang	 created	 only	 two	 elements,	 hydrogen	 and	 helium.	 Hydrogen	 is	 very
+abundant	 in	 living	 matter	 (representing	 63	 percent	 of	 the	 human	 body	 by	 number	 of
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:16:15.
+
+atoms),	while	helium	is	completely	absent	from	molecules	that	constitute	life.	In	fact,
+helium	is	a	very	unreactive	gas	and	could	not	have	become	one	of	the	constituents	of
+living	 cells.	 But	 then	 where	 did	 all	 the	 other	 elements,	 such	 as	 carbon,	 oxygen,
+nitrogen,	 and	 several	 metals	 such	 as	 calcium,	 iron,	 and	 magnesium,	 so	 prevalent	 in
+living	cells,	come	from?	We	now	know	their	origin:	they	were	made	in	stars.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+THE	GENESIS	OF	STARS	AND	PLANETS
+The	 mechanism	 by	 which	 stars	 emit	 light	 is	 well	 understood.	 It	 can	 be
+replicated	 on	 Earth	 by	 detonating	 nuclear	 fusion	 bombs,	 the	 most	 destructive
+weapons	 known	 to	 humans.	 Much	 as	 fission	 bombs	 (the	 regular	 A-bombs)	 are	 the
+result	 of	 an	 understanding	 of	 the	 mass-energy	 relationship	 provided	 by	 special
+relativity,	 so	 fusion	 bombs	 (H-bombs)	 are	 unfortunately	 a	 direct	 spinoff	 of	 our
+understanding	 of	 the	 way	 stars	 shine.	 Nuclear	 fusion,	 as	 in	 H-bombs,	 is	 the	 process
+by	 which	 atomic	 nuclei	 are	 forced	 to	 fuse	 under	 high	 pressure	 and	 high	 temperature
+conditions.	 This	 process	 results	 in	 the	 release	 of	 tremendous	 amounts	 of	 energy,
+because	 atomic	 nuclei	 possess	 less	 energy	 than	 the	 free	 baryons	 composing	 them.
+When	these	baryons	(protons	and	neutrons)	are	forced	together	to	form	new	nuclei,
+the	 whole	 contains	 less	 energy	 than	 the	 parts.	 This	 excess	 energy	 is	 released	 in	 Hbombs	 as	 electromagnetic	 radiation	 and	 heat	 (another	 form	 of	 electromagnetic
+radiation).	 This	 is	 also	 exactly	 the	 way	 stars	 function:	 they	 fuse	 atomic	 nuclei	 and
+release	fusion	energy	and	light	into	space.
+In	the	young	universe,	after	hydrogen	and	helium	were	synthesized,	nuclear	fusion
+would	 not	 have	 been	 possible	 without	 concentrating	 these	 gases	 in	 parts	 of	 the
+expanding	 universe.	 This	 is	 where	 the	 consequences	 of	 inflation	 may	 have	 played	 a
+role.	 The	 slight	 variations	 seen	 in	 the	 distribution	 of	 the	 microwave	 background
+radiation	 possibly	 correspond	 to	 heterogeneities	 of	 matter	 as	 well,	 these
+heterogeneities	forming	a	considerable	time	before	stars	and	galaxies	appeared.	It	is
+thought	 that	 these	 heterogeneities	 gave	 rise	 to	 large	 clouds	 of	 hydrogen	 and	 helium
+synthesized	 after	 the	 Big	 Bang.	 These	 clouds,	 called	 protogalaxies,	 underwent
+gravitational	 contraction	 between	 about	 400,000	 and	 150	 million	 years	 after	 the	 Big
+Bang.	The	general	temperature	of	the	universe	dropped	from	3000	K	to	16	K	during
+that	period.
+However,	 as	 the	 protogalaxies	 contracted,	 their	 temperature	 increased	 because
+the	 kinetic	 energy	 of	 the	 infalling	 gas	 was	 converted	 into	 heat.	 This	 temperature
+increase	 is	 not	 to	 be	 confused	 with	 the	 general	 temperature	 of	 the	 universe,	 which
+eventually	 dropped	 to	 2.7	 K.	 The	 temperature	 increase	 occurred	 locally,	 inside	 the
+protogalaxies	only.	Over	time,	it	must	be	assumed	that	the	protogalaxies	fragmented
+into	 smaller	 contracting	 clouds,	 the	 protostars.	 When	 the	 temperature	 inside	 the
+contracting	 protostars	 reached	 15	 million	 K,	 the	 repulsive	 force	 between	 protons	 (H
+nuclei	 stripped	 by	 heat	 of	 their	 electrons)	 was	 overcome	 and	 protons	 collided	 and
+then	 fused	 to	 form	 helium	 nuclei.	 The	 stars	 lit	 up.	 Now,	 helium	 made	 in	 stars	 by	 the
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:16:15.
+
+fusion	of	two	hydrogen	nuclei	contains	two	protons	but	also	two	neutrons.	Where	are
+the	 latter	 coming	 from?	 The	 hydrogen	 fusion	 mechanism	 has	 been	 elucidated	 and
+looks	like	this:
+H1	+	H1	→	D2	+	β++	ν,
+where	H1	represents	a	proton,	D2	is	a	deuterium	nucleus	composed	of	a	proton	and	a
+neutron,	 β+	 is	 a	 positive	 electron	 (also	 called	 antielectron	 or	 positron),	 and	 ν	 is	 a
+neutrino.	This	means	that	in	the	reaction,	one	proton	is	conserved	and	the	other	one
+is	 converted	 into	 a	 neutron	 by	 emission	 of	 a	 positron	 and	 a	 neutrino	 (through	 the
+action	of	the	weak	force).	The	superscripts	represent	the	number	of	baryons	present
+in	each	nucleus.
+Then	the	reaction	proceeds	as	follows:
+D2	+	H1	→	He3	+	γ,
+where	He3	is	the	light	isotope	of	helium,	containing	two	protons	and	one	neutron,	and
+γ	 is	 electromagnetic	 radiation	 of	 very	 high	 frequency.	 In	 the	 next	 step	 two	 of	 these
+helium	nuclei	fuse:
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+He3	+	He3	→	He4	+	2H1,
+where	 He4	 is	 the	 isotope	 of	 helium	 containing	 two	 protons	 and	 two	 neutrons.	 This
+series	 of	 reactions	 is	 called	 the	 pp-chain.	 In	 other	 words,	 stars	 fuse	 hydrogen	 to
+make	 helium,	 and	 large	 amounts	 of	 energy	 are	 also	 produced.	 The	 fusion	 reaction
+has	two	important	consequences:	first,	the	energy	provided	by	the	reaction	stabilizes
+the	 star	 and	 prevents	 gravitational	 collapse	 under	 its	 own	 weight.	 Second,	 it	 is
+expected	 that,	 as	 a	 star	 ages,	 its	 H:He	 ratio	 will	 decrease,	 as	 hydrogen	 is	 being
+consumed	 to	 synthesize	 helium.	 Scientists	 have	 actually	 observed	 this	 process.	 The
+helium	content	of	the	Sun’s	core,	for	example,	is	very	far	from	the	primeval	H:He	ratio
+of	76	percent	to	24	percent.	The	Sun,	which	is	about	5	billion	years	old,	contains	38
+percent	H	and	62	percent	He	in	its	core.	Another	chain	of	reactions,	called	the	carbon
+cycle,	also	powers	stars,	and	it,	too,	results	in	the	fusion	of	hydrogen	into	helium	with
+release	of	energy.	It	is	called	the	carbon	cycle	because	its	initial	step	is	to	fuse	one
+carbon	 nucleus	 with	 one	 hydrogen	 nucleus	 to	 make	 a	 nitrogen	 nucleus.	 Carbon	 is
+regenerated	at	a	later	stage	and	cycled	back	into	the	chain.
+In	 fact,	 nuclear	 fusion	 in	 stars	 does	 not	 stop	 at	 the	 formation	 of	 helium.	 It	 has
+been	 shown	 that	 all	 elements	 up	 to	 iron	 are	 synthesized	 in	 the	 core	 of	 stars.	 This
+happens	after	the	star	has	exhausted	its	hydrogen	and	starts	using	helium	as	nuclear
+fuel.	This	process	is	made	possible	by	the	gravitational	contraction	of	the	helium	core,
+which	brings	its	temperature	to	100	million	K	and	allows	helium	fusion.	The	first	step
+is	 the	 fusion	 of	 three	 helium	 nuclei	 to	 make	 carbon.	 Through	 a	 complicated	 chain	 of
+reactions,	more	helium	nuclei	fuse	with	the	newly	synthesized	carbon	to	form	heavier
+elements,	 such	 as	 neon,	 sodium,	 and	 magnesium,	 until	 iron	 is	 reached.	 Iron,	 which
+contains	 twenty-six	 protons	 (and	 a	 variable	 number	 of	 neutrons,	 depending	 on	 the
+isotope)	 is	 the	 most	 stable	 element	 and	 can	 be	 fused	 with	 other	 nuclei	 only	 under
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:16:15.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+temperature	 conditions	 not	 found	 in	 normal	 stars.	 However,	 iron	 is	 certainly	 not	 the
+heaviest	 possible	 element;	 elements	 containing	 up	 to	 103	 protons	 have	 been
+identified.	Where	do	these	come	from?	To	understand	their	origin,	one	must	first	learn
+about	the	fate	of	stars.
+Our	Sun	is	about	5	billion	years	old	and	has	enough	fuel	left	to	shine	for	another	8
+billion.	 However,	 it	 will	 not	 remain	 the	 same	 for	 the	 rest	 of	 its	 life.	 As	 hydrogen	 is
+being	 exhausted,	 and	 as	 helium	 fusion	 starts	 proceeding,	 the	 inner	 core	 of	 a	 star
+heats	up,	as	we	saw	earlier.	One	consequence	of	this	higher	core	temperature	is	the
+expansion	of	the	outer	shell	of	the	star,	which	becomes	cooler.	Such	stars	are	called
+red	 giants	 because	 their	 diameter	 expands	 enormously	 and	 their	 cooler	 outer	 layer
+emits	 light	 in	 the	 less	 energetic	 red	 region	 of	 the	 spectrum.	 The	 Sun	 will	 eventually
+become	a	red	supergiant,	engulfing	and	incinerating	Earth.	When	fusion	in	the	core	of
+a	red	supergiant	stops,	the	star	collapses	and	becomes	a	white	dwarf,	whose	fate	is
+to	become	an	extinguished	star	once	all	fusion	reactions	stop.
+Stars	that	are	significantly	more	massive	than	the	Sun	experience	a	very	different
+fate.	When	such	a	star	reaches	the	end	of	its	red	supergiant	state,	its	core	collapse,
+because	of	its	higher	mass,	is	extremely	violent	and	quick.	Instead	of	a	white	dwarf,
+the	core	is	turned	into	an	extremely	dense	neutron	star	(where	protons	are	fused	with
+electrons)	 or	 an	 even	 more	 dense	 black	 hole	 (so	 called	 because	 the	 density	 and
+gravity	 of	 such	 an	 object	 are	 so	 high	 that	 even	 light	 cannot	 escape	 it).	 This	 violent
+collapse	 causes	 a	 shock	 wave	 that	 makes	 the	 outer	 layers	 of	 the	 star	 explode	 and
+blow	out	into	space	(figure	2.2).	 This	 phenomenon	 is	 called	 a	 supernova.	 The	 shock
+wave	 brings	 the	 star’s	 outer	 layers	 to	 extremely	 high	 temperature,	 high	 enough	 to
+force	atomic	nuclei	to	fuse	and	synthesize	elements	heavier	than	iron.	(This	is	a	great
+simplification	of	the	actual	mechanisms	leading	to	the	synthesis	of	heavy	elements.)
+Thus	this	is	where	chemical	elements	other	than	hydrogen	and	helium	come	from:
+they	are	made	in	stars	and	released	into	space	through	the	violent	death	of	the	stars.
+The	 amount	 of	 matter	 released	 into	 space	 by	 a	 supernova	 explosion	 is	 numbered	 in
+the	billions	of	billions	of	billions	of	tons	(about	1027	tons	or	more).	For	reference,	the
+mass	 of	 Earth	 is	 only	 about	 6	 ×	 1021	 tons.	 Therefore	 a	 single	 supernova	 explosion
+releases	 into	 space	 the	 equivalent	 of	 1,000,000	 Earths	 or	 more.	 Supernova	 events
+are	not	rare;	they	occur	about	once	every	100	years	in	the	average	galaxy.	It	is	this
+star	 dust	 that	 is	 at	 the	 origin	 of	 planets	 and	 second-generation	 stars—that	 is,	 stars
+formed	from	the	remnants	of	supernova	explosions	mixed	with	primeval	hydrogen	and
+helium.	The	Sun	is	such	a	second-generation	star.
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:16:15.
+
+FIGURE	2.2	Ring	of	ejected	stellar	debris	surrounding	the	remnant	of	a	star	that	became	a	supernova	in
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+1987	in	the	Large	Magellanic	Cloud.	The	ring	is	expanding	at	6	million	miles	per	hour.	Photo	taken	by	the	Hubble
+Space	Telescope.	(Courtesy	of	the	National	Aeronautics	and	Space	Administration.)
+
+Interestingly,	 deep	 space	 observations	 with	 the	 Hubble	 space	 telescope	 (named
+after	 the	 discoverer	 of	 the	 galactic	 redshift-distance	 correlation)	 have	 revealed	 that
+the	galaxies	at	high	redshift,	as	far	away	from	Earth	as	10	billion	light-years,	do	not
+show	 the	 complex	 chemistry	 observed	 in	 nearer	 galaxies.	 This	 is	 because	 these
+galaxies	 were	 formed	 only	 2	 billion	 years	 after	 the	 Big	 Bang	 and	 have	 not	 yet	 had
+time	 (as	 we	 see	 them	 today)	 to	 produce	 much	 in	 terms	 of	 elements	 heavier	 than
+hydrogen	and	helium.	The	existence	of	life	in	these	galaxies	(again,	as	we	see	them
+today)	is	therefore	unlikely.
+First-generation	 stars	 are	 those	 that	 were	 created	 directly	 from	 the	 primeval
+hydrogen	 and	 helium	 clouds.	 These	 stars	 are	 called	 iron-poor	 because	 they	 contain
+less	 iron	 than	 another	 class	 of	 stars,	 called	 second-generation	 stars,	 which	 contain
+more	 iron	 (and	 many	 other	 elements)	 than	 first-generation	 stars	 because	 they
+originate	 from	 the	 debris	 of	 supernova	 explosions.	 This	 debris,	 containing	 gases,
+metals,	 and	 silicates	 in	 the	 form	 of	 dust,	 forms	 visible	 clouds	 in	 the	 universe	 (figure
+2.3),	 and	 these	 clouds	 are	 the	 birthplace	 of	 second-generation	 stars.	 These	 clouds
+can	 collapse	 and	 concentrate,	 perhaps	 through	 the	 shock	 wave	 of	 a	 nearby
+supernova,	 to	 form	 rotating,	 further	 collapsing	 discs.	 As	 the	 center	 of	 the	 disc
+reaches	 fusion	 ignition	 temperature,	 the	 second-generation	 star	 lights	 up.	 However,
+this	 does	 not	 mean	 that	 the	 whole	 dust	 disc	 is	 involved	 in	 star	 formation.	 In	 fact,	 a
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:16:15.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+good	 portion	 of	 the	 disc	 remains	 separated	 from	 the	 newborn	 star	 and	 can	 actually
+be	seen	as	an	opaque	halo	around	the	star.	Astronomers	have	detected	this	type	of
+structure	 around	 several	 nearby	 stars	 (figure	 2.4);	 it	 is	 called	 a	 protoplanetary	 disc
+because	it	is	thought	that	planets	originate	from	the	coalescence	of	the	outer	regions
+of	the	disc.
+In	 addition	 to	 H,	 He,	 metals,	 and	 silicates,	 a	 protoplanetary	 disc	 contains
+molecules	commonly	found	in	space,	such	as	molecular	hydrogen	(H2),	water	(H2O),
+nitrogen	(N2),	hydrogen	cyanide	(HCN),	carbon	monoxide	(CO),	and	ammonia	(NH3),
+which	can	all	be	identified	by	their	specific	spectra.	These	compounds,	together	with
+many	metals,	are	found	in	comets	that	sometimes	go	under	the	familiar	name	of	“dirty
+snowballs.”	Comets	are	thought	to	be	composed	of	the	primordial	matter	that	formed
+the	protoplanetary	disc	that	at	one	time	surrounded	the	Sun.	In	the	case	of	the	solar
+system,	 the	 protoplanetary	 disc	 broke	 up	 into	 ten	 rings,	 representing	 the	 nine	 future
+planets	 and	 the	 asteroid	 belt	 found	 between	 Mars	 and	 Jupiter.	 According	 to	 one
+model,	the	heat	of	the	Sun	liquefied	the	frozen	gases,	with	the	result	that	the	grains	of
+protoplanetary	 matter	 became	 moist	 and	 agglomerated	 (accreted)	 into	 chunks	 of
+material.	 These	 chunks,	 called	 planetisimals,	 started	 colliding	 with	 one	 another
+through	 gravitational	 attraction	 and	 accordingly	 grew	 larger,	 forming	 the	 planets	 and
+their	 satellites.	 Computer	 simulations	 show	 that	 this	 process	 of	 accretion	 may	 have
+taken	 100	 million	 years.	 This	 view	 was,	 however,	 challenged	 recently	 by	 the
+observation	 of	 star	 and	 planet	 formation	 in	 the	 Orion	 nebula	 (visible	 with	 the	 naked
+eye	as	the	middle	“star”	of	Orion’s	knife).	These	telescope	observations	indicate	that
+planets	could	form	in	as	little	time	as	10	million	years.
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:16:15.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+FIGURE	 2.3	 Dust	 clouds	 with	 star	 formation:	 the	 Eagle	 Nebula.	 Photo	 taken	 by	 the	 Hubble	 Space
+Telescope.	(Courtesy	of	the	National	Aeronautics	and	Space	Administration.)
+
+The	 energy	 stored	 by	 accreting	 planetisimals	 (the	 result	 of	 the	 kinetic	 energy
+possessed	 by	 colliding	 planetisimals)	 must	 have	 been	 considerable	 and,	 combined
+with	 the	 heat	 of	 decaying	 radioactive	 elements	 present	 in	 them,	 may	 have	 liquefied
+the	 growing	 planets.	 As	 a	 result,	 the	 metals,	 which	 are	 more	 dense	 than	 silicates,
+sank	 to	 the	 center	 of	 the	 newly	 formed	 planets,	 while	 silicates	 and	 other	 minerals
+floated	 toward	 the	 surface.	 At	 the	 same	 time,	 the	 planets	 degassed	 and	 acquired
+their	 original	 atmospheres	 consisting	 perhaps	 of	 hydrogen,	 helium,	 methane,	 water
+vapor,	 nitrogen,	 ammonia,	 and	 hydrogen	 sulfide	 (plus	 small	 amounts	 of	 the	 inert
+gases	 argon,	 neon,	 krypton,	 and	 xenon).	 Some	 of	 these	 gases	 were	 generated
+through	 volcanic	 activity	 and	 the	 others	 corresponded	 to	 primeval	 galactic	 gases.
+Note	that	there	was	no	oxygen	as	gas	(O2)	anywhere	in	the	solar	system.	The	small
+planetary	bodies,	like	the	Moon	and	Mercury,	quickly	lost	their	atmospheres,	while	the
+larger	 ones	 retained	 them.	 The	 process	 of	 planet	 formation	 in	 the	 solar	 system
+stopped	3.8	billion	years	ago,	as	shown	by	the	study	of	lunar	rocks	that	still	hold	the
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:16:15.
+
+traces	 of	 the	 heavy	 bombardment	 period	 that	 corresponded	 to	 the	 end	 of	 planetary
+accretion.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+FIGURE	 2.4	 Protoplanetary	 dust	 disks	 obscuring	 light	 emitted	 by	 young	 stars.	 Photos	 taken	 by	 the
+Hubble	Space	Telescope	and	by	the	IRAS	satellite.	(Courtesy	of	the	National	Aeronautics	and	Space	Administration.)
+
+Until	 recently	 there	 was	 no	 evidence	 that	 planetary	 systems	 exist	 around	 stars
+other	 than	 the	 Sun.	 This	 view	 has	 changed	 considerably	 since	 1995,	 the	 date	 of	 the
+discovery	of	the	first	extrasolar	planet	in	orbit	around	the	star	51	Pegasi.	At	the	end
+of	 the	 year	 2000,	 about	 four	 dozen	 extrasolar	 planets	 had	 been	 discovered.	 Our
+present	 instruments	 can	 detect	 only	 large	 extrasolar	 planets,	 the	 size	 of	 our	 Jupiter
+(the	 largest	 planet	 in	 the	 solar	 system)	 or	 larger	 (figure	 2.5).	 Quite	 unexpectedly,
+several	of	these	very	large	extrasolar	planets	have	orbits	around	their	stars	that	are
+smaller	than	Earth’s	orbit	around	the	Sun.	These	planets	have	thus	been	dubbed	“hot
+Jupiters.”	We	do	not	know	the	composition	of	these	planets,	but	what	we	do	know	is
+that	our	theory	of	planet	formation	may	have	to	be	revised	once	we	learn	more	about
+them.	 Indeed,	 until	 1995,	 the	 only	 planetary	 system	 we	 had	 been	 able	 to	 study	 was
+our	 own,	 and	 in	 our	 case,	 smaller	 planets	 like	 Mercury,	 Venus,	 Earth,	 and	 Mars	 are
+closest	 to	 the	 Sun.	 The	 gas	 giants—Jupiter,	 Saturn,	 Uranus,	 and	 Neptune—have
+much	larger	orbits.	We	do	not	yet	understand	how	the	hot	Jupiters	could	have	formed
+and	 remain	 stable	 so	 close	 to	 their	 stars	 in	 the	 extrasolar	 systems.	 This	 not	 to	 say
+that	hot	Jupiters	are	gas	giants;	we	simply	have	no	information	on	them	yet.
+The	 formation	 of	 planets	 begs	 the	 question	 of	 how	 life	 can	 appear	 on	 them.	 In
+other	 words,	 under	 what	 conditions	 is	 a	 planetary	 body	 able	 to	 generate	 life?	 Since
+the	 only	 life	 we	 know	 is	 based	 on	 carbon,	 hydrogen,	 oxygen,	 nitrogen,	 phosphorus,
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:16:15.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+sulfur,	 and	 a	 few	 other	 minor	 elements,	 these	 elements	 must	 be	 present	 on	 the
+planet.	This	should	not	be	a	problem	with	planets	revolving	around	second-generation
+stars.	Then	there	is	the	question	of	the	atmosphere.	This	problem	will	be	discussed	in
+chapter	4.	For	now	let	us	just	say	that	there	is	general	agreement	on	the	absence	of
+oxygen	 gas	 in	 the	 atmosphere	 of	 the	 young	 Earth.	 This	 should	 not	 have	 been	 an
+impediment	to	the	appearance	of	life.	Indeed,	we	know	today	of	many	living	species
+that	do	not	require	oxygen	for	proliferation	and	for	whom,	in	fact,	oxygen	is	very	toxic.
+Hence,	 oxygen	 in	 the	 atmosphere	 is	 not	 a	 prerequisite	 for	 life.	 Other	 gases	 such	 as
+methane,	 carbon	 monoxide,	 carbon	 dioxide,	 ammonia,	 and	 hydrogen	 sulfide	 can
+perfectly	well	sustain	certain	life-forms,	as	we	will	see	in	the	next	chapter.
+For	life	to	exist,	liquid	water	should	be	present,	at	least	part	of	the	time.	We	know
+of	life	forms	deeply	embedded	in	Antarctic	ice,	but	these	cells	still	do	depend	on	the
+percolation	of	liquid	surface	water	between	ice	crystals.	The	same	holds	true	for	cells
+living	deep	inside	Earth’s	crust.	The	presence	of	liquid	water	directly	depends	on	the
+planet’s	 distance	 from	 its	 star,	 hence	 its	 surface	 temperature	 and	 also	 its	 mass.	 A
+planet	too	close	to	the	Sun,	such	as	Venus,	cannot	have	liquid	water	because	it	is	too
+hot,	while	the	Moon’s	gravity	is	too	low	to	hold	any	kind	of	gas	(including	water	vapor,
+if	 it	 was	 ever	 present).	 Mars	 may	 have	 had	 abundant	 water	 in	 its	 distant,	 warmer
+past,	 but	 this	 water	 is	 now	 locked	 into	 polar	 caps,	 where	 it	 sublimates	 rather	 than
+melts	and	is	eventually	lost	to	space	as	a	result	of	low	gravity	and	decomposition	by
+ultraviolet	 light.	 The	 gas	 giants	 of	 the	 solar	 system	 have	 atmospheres	 composed
+mainly	 of	 hydrogen	 and	 helium.	 Methane,	 water,	 hydrogen	 sulfide,	 ammonia,	 and
+nitrogen	are	also	present,	making	their	atmospheric	chemistry	a	potentially	interesting
+one.	 Not	 enough	 of	 this	 chemistry	 is	 known,	 including	 temperature	 gradients	 in	 the
+atmospheres	 of	 these	 gas	 giants,	 to	 preclude	 the	 existence	 of	 life,	 or	 precursors
+thereof,	or	to	disprove	it.
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:16:15.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+FIGURE	2.5	Top:	Representation	of	an	extrasolar	planet	eclipsing	its	star.	Bottom:	This	 graph	shows
+the	drop	in	the	star’s	brightness	as	the	planet	transits	in	front	of	it.	The	star	is	the	sun-like	HD	209458.	(Adapted
+from	Doyle,	L.	R.,	H.-J.	Deeg,	and	T.	M.	Brown.	2000.	Searching	for	shadows	of	other	Earths.	Scientific	 American
+283:58–65.)
+
+Thus	 a	 planet	 must	 meet	 certain	 orbital	 characteristics	 to	 be	 able	 to	 host	 life.
+Suitable	 orbits	 may	 vary	 greatly,	 depending	 on	 the	 surface	 temperature	 of	 the	 star
+itself	 and	 the	 age	 of	 the	 star.	 Old,	 first-generation	 stars	 may	 not	 have	 any
+accompanying	 planets	 at	 all	 because	 of	 a	 lack	 of	 heavy	 elements	 in	 the	 protostars
+that	generated	them.	On	the	other	hand,	young	stars	may	not	have	any	planets	either,
+because	 their	 protoplanetary	 discs	 have	 not	 had	 enough	 time	 to	 accrete.
+Furthermore,	massive	hot	stars,	known	as	blue	supergiants,	burn	their	fuel	at	a	very
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:16:15.
+
+high	rate	and	shine	for	only	a	few	million	years.	In	all	likelihood,	this	time	is	too	short
+for	planets	to	form	and	life	to	appear.	Stars	with	masses	close	to	that	of	the	Sun	or
+less	 (such	 as	 red	 dwarfs)	 can	 sustain	 nuclear	 fusion	 for	 many	 billions	 of	 years	 and
+are	thus	good	candidates	for	planetary	systems	harboring	life.	A	planet	hospitable	to
+life	 orbiting	 a	 relatively	 cool	 red	 dwarf	 would	 have	 a	 smaller	 orbit	 than	 a
+corresponding	 planet	 orbiting	 a	 yellow,	 hotter	 star	 like	 the	 Sun.	 Finally,	 about	 two
+thirds	 of	 the	 stars	 exist	 as	 binary	 or	 higher-order	 systems.	 This	 means	 that	 these
+stars	 have	 companions,	 all	 orbiting	 a	 common	 center	 of	 mass.	 The	 mutual
+gravitational	 pulls	 of	 multiple	 stars	 may	 prevent	 the	 formation	 of	 planets	 from	 dust
+discs	 or	 force	 putative	 planets	 into	 complicated	 orbits	 bringing	 them	 too	 close	 and
+then	too	far	from	their	stars.	Nevertheless,	it	has	been	calculated	that,	depending	on
+the	 masses	 of	 the	 stars	 in	 the	 system	 and	 their	 distance	 from	 each	 other,	 orbits
+compatible	with	life	can	exist.	If	the	appearance	of	life	is	a	direct	consequence	of	star
+and	planet	formation,	it	is	not	impossible	that	millions	of	planets	in	the	Milky	Way	are
+hosts	to	some	form	of	life.
+
+Copyright © 2003. Columbia University Press. All rights reserved.
+
+CONCLUSIONS
+At	its	beginning,	the	universe	was	a	very	small	object,	much	smaller	than
+the	 size	 of	 a	 single	 proton.	 This	 object,	 however,	 contained	 an	 enormous	 amount	 of
+energy.	 Possibly	 through	 a	 quantum	 fluctuation	 allowed	 by	 the	 uncertainty	 principle,
+this	object	inflated	at	tremendous	velocity	for	a	very	small	fraction	of	a	second,	during
+which	 all	 four	 forces	 of	 nature	 appeared.	 Following	 this	 rapid	 inflation,	 the	 rate	 of
+expansion	 decreased	 and	 subatomic	 particles	 were	 created,	 as	 soon	 as	 the
+decreasing	temperature	of	the	nascent	universe	allowed	it.	Protons	(hydrogen	nuclei)
+stabilized	1/100,000	of	a	second	after	the	Big	Bang,	and	at	100	seconds,	the	nuclei
+of	 the	 second	 element	 made	 in	 the	 Big	 Bang,	 helium,	 stabilized.	 It	 took	 an	 extra
+400,000	years	for	matter	to	cease	to	exist	as	a	plasma,	the	time	at	which	electrons
+were	captured	by	atomic	nuclei.	By	then	the	radius	of	the	universe	had	reached	about
+1/100,000	of	its	present	size.
+Clouds	of	primeval	hydrogen	and	helium	condensed	into	stars	perhaps	as	early	as
+100	million	years	after	the	Big	Bang,	and	stars	started	synthesizing	all	other	elements
+found	 today	 in	 the	 universe.	 The	 Sun,	 a	 second-generation	 star	 originating	 from
+reprocessed	 supernova	 debris,	 formed	 about	 9	 billion	 years	 after	 the	 Big	 Bang,	 and
+its	 protoplanetary	 disc	 then	 started	 accreting	 into	 planets	 and	 their	 satellites.
+Atmospheres	 were	 generated	 through	 hot	 (at	 least	 plastic,	 perhaps	 liquid)	 planet
+degassing	in	the	case	of	planetary	bodies	close	enough	to	their	star.	At	the	end	of	the
+heavy	bombardment	period,	about	3.8	billion	years	ago,	Earth	was	ready	for	life.	But
+first,	 to	 understand	 the	 past,	 we	 must	 study	 the	 present	 and	 know	 what	 life	 is	 and
+how	 it	 works.	 It	 is	 now	 time	 to	 leave	 the	 realm	 of	 physics	 and	 cosmology	 and	 enter
+that	of	biology.
+
+Lurquin, Paul F.. The Origins of Life and the Universe, Columbia University Press, 2003. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=909310.
+Created from claremont on 2017-11-13 14:16:15.
+
+

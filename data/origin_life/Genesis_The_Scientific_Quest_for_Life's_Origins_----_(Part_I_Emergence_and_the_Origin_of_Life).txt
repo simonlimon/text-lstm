@@ -1,0 +1,2539 @@
+Part I
+Emergence and the Origin of Life
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+A
+
+ll origin-of-life researchers face the baffling question of how the
+biochemical complexity of modern living cells emerged from a
+barren, primordial geochemical world. The only feasible approach is
+to reduce biological complexity to a comprehensible sequence of chemistry experiments that can be tackled in the human dimensions of space
+and time—a lab bench in a few weeks or months. George Cody, Hat
+Yoder, and I were eager to continue our hydrothermal experiments,
+but what should come next? We knew that the simplest living cell is
+intricate beyond imagining, because every cell relies on the interplay
+of millions of molecules engaged in hundreds of interdependent
+chemical reactions. Human brains seem ill suited to grasp such multidimensional complexity.
+Scientists have devised countless sophisticated chemical protocols,
+and laboratories are overflowing with fancy analytical apparatus.
+Chemists have learned to synthesize an astonishing array of paints,
+glues, cosmetics, drugs, and a host of other useful products. Yet when
+confronted with the question of life’s ancient origin, it’s easy to become mired in the scientific equivalent of writer’s block. How does
+one begin to tackle the chemical complexity of life?
+One approach to understanding life’s origin lies in reducing the
+living cell to its simpler chemical components, the small carbon-based
+molecules and the structures they form. We can begin by studying relatively simple systems and then work our way up to systems of greater
+complexity. In such an endeavor, the fascinating new science of emergence points to a promising research strategy.
+
+9
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+1
+The Missing Law
+It is unlikely that a topic as complicated as emergence will
+submit meekly to a concise definition, and I have no such
+definition.
+John Holland, Emergence: From Chaos to Order, 1998
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+H
+
+ot coffee cools. Clean clothes get dirty. Colors fade. People age
+and die. No one can escape the laws of thermodynamics.
+Two great laws, both codified in the nineteenth century by a small
+army of scientists and engineers, describe the behavior of energy. The
+first law of thermodynamics establishes the conservation of energy.
+Energy, which is a measure of a system’s ability to do work, comes in
+many different forms: heat, light, kinetic energy, gravitational potential, and so forth. Energy can change from any one form to another
+over and over again, but the total amount of energy does not change.
+That’s the first law’s good news.
+The bad news is that nature places severe limitations on how we
+can use energy. The second law of thermodynamics states that heat
+energy, for example, always flows from warmer to cooler regions, never
+the other way, so the concentrated heat of a campfire or your car’s
+engine gradually radiates away. That dissipated heat energy still exists,
+but you can’t use it to do anything useful. By the same token, all natural systems tend spontaneously to become messier—they increase in
+disorder, or “entropy.” So any collection of atoms—be it your shiny
+new shoes or your supple young body—gradually deteriorates. The
+second law of thermodynamics is more than a little depressing.
+But look around you. You’ll find buildings, books, automobiles,
+bees—all of them exquisitely ordered systems. Despite the second law’s
+11
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+12
+
+GENESIS
+
+dictum that entropy increases, disorder is not the only end point in the
+universe. Observations of such everyday phenomena as sand dunes,
+seashells, and slime mold reveal that the two laws of thermodynamics
+may not tell the entire story. Indeed, some scientists go so far as to
+claim that a fundamental law of nature, the law describing the emergence of complex ordered systems (including every living cell), is missing from our textbooks.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+THE LAWS OF NATURE
+The discovery of a dozen or so natural laws represents the crowning
+scientific achievement of the past four centuries. Newton’s laws of motion, the law of gravity, the laws of thermodynamics, and Maxwell’s
+equations for electromagnetism collectively quantify the behavior of
+matter, energy, forces, and motions in almost every human experience.
+The power of these laws lies in their universality. Each law can be expressed as an equation that applies to an infinite number of events,
+from the interactions of atoms to the formation of galaxies. Armed
+with these laws, scientists and engineers confidently analyze almost any
+physical system, from steam engines to stars.
+So sweeping and inclusive are these natural laws that some scholars of the late nineteenth century suggested that the entire theoretical
+framework of science had been deduced. All that remained to be discovered were relatively minor details, like filling in the few remaining
+gaps in a stamp collection. Though this turned out not to be the case—
+modern physics research has revealed new phenomena at the relativistic scales of the very small, the very fast, and the very massive—the
+classic laws do indeed still hold sway in our everyday lives.
+Yet in spite of centuries of labor by many thousands of scientists,
+we do not fully understand one of nature’s most transforming phenomena—the emergence of complexity. Systems as a whole do tend to
+become more disordered with time, but at the local scale of a cell, an
+ant colony, or your conscious brain, remarkable complexity emerges.
+In the 1970s, the Russian-born chemist Ilya Prigogine recognized that
+these so-called complex emergent systems arise when energy flows
+through a collection of many interacting particles. The arms of spiral
+galaxies, the rings of Saturn, hurricanes, rainbows, sand dunes, life,
+consciousness, cities, and symphonies all are ordered structures that
+emerge when many interacting particles, or “agents”—be they mol-
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+THE MISSING LAW
+
+13
+
+ecules, stars, cells, or people—are subjected to a flow of energy. In the
+jargon of thermodynamics, the formation of patterns in these systems
+helps to speed up the dissipation of energy as mandated by the second
+law. Scientists and nonscientists alike tend to value the surprising order and novelty of such emergent systems.
+The recognition and description of such emergent systems provides a foundation for origin-of-life research, for life is the quintessential emergent phenomenon. From lifeless molecules emerged the first
+living cell. If we can understand the principles governing such systems,
+we may be able to apply those insights to our experimental programs.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+DESCRIBING EMERGENT SYSTEMS
+If you want to enunciate a law that characterizes emergent systems,
+then the first step is to examine everyday examples. You can observe
+emergent behavior in countless systems all around us, including the
+interactions of atoms, or of automobiles, or of ants. This universal
+tendency for systems to display increased order when lots of objects
+interact, while fully consistent with the first and second laws of thermodynamics, is not addressed explicitly in either of those laws. We
+have yet to discover if all emergent systems possess a unifying mathematical behavior, though our present ignorance should not seem too
+unsettling. It took more than a half-century for each of the first two
+laws of thermodynamics—describing the behavior of energy and entropy, respectively—to develop from qualitative ideas into quantitative laws. I suspect that a mathematical formulation of emergence will
+be discovered much sooner than that, perhaps within the next decade
+or two.
+Scientists have already identified key aspects of the problem. Many
+familiar natural systems lie close to equilibrium—that is, they are stable
+and unchanging—and thus they do not display emergent behavior.
+Water gradually cooled to below the freezing point equilibrates to become a clear chunk of ice. Water gradually heated above the boiling
+point similarly equilibrates by converting to steam. For centuries, scientists have documented such equilibrium processes in countless carefully controlled scientific studies.
+Away from equilibrium, dramatically different behavior occurs.
+Rapidly boiling water, for example, displays complex, turbulent convection. Water flowing downhill in the gravitational gradient of a river
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+14
+
+GENESIS
+
+valley interacts with sediments to produce the emergent landform patterns of braided streams, meandering rivers, sandbars, and deltas.
+These patterns arise as energetic water moves.
+Emergent systems seem to share this common characteristic: They
+arise away from equilibrium when energy flows through a collection of
+many interacting particles. Such systems of agents tend spontaneously
+to become more ordered and to display new, often surprising behaviors. And as patterns arise, energy is dissipated more efficiently, in accord with the second law of thermodynamics. Ultimately, the resulting
+behavior appears to be much more than the sum of the parts.
+Emergent patterns in water and sand may seem a far cry from living organisms, but for scientists studying life’s origins there’s a big payoff in understanding such simple systems: Of all known emergent
+phenomena, none is more dramatic than life, so studies of simpler
+emergence can provide a conceptual basis, a jumping-off point, for
+origin-of-life research.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+QUANTIFYING THE COMPLEXITY OF
+EMERGENT SYSTEMS
+Even though emergent systems surround us, a rigorous definition
+(much less a precise mathematical formulation) remains elusive. If we
+are to discover a natural law that describes the behavior of emergent
+systems, then we must first identify the essential properties of such
+systems. But what characteristics distinguish emergent systems from
+other less interesting collections of interacting objects?
+All emergent systems display the rather subjective characteristic of
+“complexity”—a property that thus far lacks a precise quantitative definition. In a colloquial sense, a complex system has an intricate or patterned structure, as in a complex piece of machinery or a Bach fugue.
+“Complexity” may also refer to information content: An advanced textbook contains more detailed information, and is thus more complex,
+than an elementary one. In this sense, the interactions of ants in an ant
+colony or neurons in the human brain are vastly more complex than
+the behavior of a pile of sand or a box of Cheerios.
+Such complexity is the hallmark of every emergent system. What
+scientists hope to find, therefore, is an equation that relates the properties of a system on the one hand (its temperature or pressure, for example, expressed in numbers), to the resultant complexity of the
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+THE MISSING LAW
+
+15
+
+system (also expressed as a number) on the other. Such an equation
+would in fact be the missing “law of emergence.” But before that is
+possible we need an unambiguous, quantitative definition of the complexity of a physical system. How to proceed?
+A small band of scientists, many of them associated with the Santa
+Fe Institute in New Mexico, have thought long and hard about complex systems and ways to model them mathematically. But their efforts
+yield surprisingly diverse (some would say divergent) views on how to
+approach the subject.
+John Holland, an ace at computer algorithms and a revered
+founder of the field of emergence, models emergent systems as computer programs with a fixed set of operating instructions. He suspects
+that any emergent phenomenon, including sand ripples, ant colonies,
+the conscious brain, and more, can be reduced to a set of selection
+rules. Holland and his followers have made great strides in mimicking
+natural phenomena with a few lines of computer code. Indeed, for
+Holland and his followers the complexity of a system is closely related
+to the minimum number of lines of computer code required to mimic
+that system’s behavior.
+A delightful example of this approach is BOIDS, a simple program
+written by California programmer Craig Reynolds that duplicates the
+movements of flocking birds, schooling fish, swarming insects, and
+other collective animal behaviors with astonishing accuracy. (To check
+it out on the Internet, just Google “BOIDS.”) Lest you think that this
+effort is idle play, remember that computer programmers of video
+games and Hollywood special effects have made a bundle on this type
+of simulated emergent behavior. Think of BOIDS the next time you
+watch dinosaur herds on the run in Jurassic Park, swarming locusts in
+The Mummy, or schools of fish in Finding Nemo.
+Physicist Stephen Wolfram, a mathematical prodigy who made
+millions in his twenties from the elegant, indispensable computer package Mathematica, provides a complementary vision of emergent complexity from simple rules. Like Holland, Wolfram was captivated by
+the power of simple instructions to generate complex visual patterns.
+Sensing a new paradigm for the description and analysis of the natural
+world, he has spent the past 20 years developing what he calls “a new
+kind of science” (NKS for short). A mammoth tome by that title published in 2002 and an elaborate Web site (www.wolframscience.com)
+illustrate some of the stunning ways whereby geometric complexity
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+16
+
+GENESIS
+
+may arise from simple rules. Perhaps, Wolfram argues, the complex
+evolution of the physical universe and all it contains can be modeled as
+a set of sequential instructions.
+Many other ways to view complex systems have been proposed.
+The late Danish physicist Per Bak described complex systems in terms
+of a mathematical characteristic called “self-criticality.” These systems
+evolve by repeatedly achieving a critical point at which they falter and
+regroup, like a growing pile of sand that avalanches over and over again
+as new grains are added. Santa Fe theorist Stuart Kauffman proposes
+another tack, focusing on the emergence of chemical complexity via
+competitive “autocatalytic networks,” by which collections of chemical compounds catalyze their own formation. And Nobel laureate
+Murray Gell-Mann, who also works at the Santa Fe Institute, has recently introduced a new parameter he calls “nonextensive entropy”—
+a measure of the intrinsic complexity of a system—as a path to
+understanding complex systems.
+All these approaches and more inform the search for a law of emergence; all provide a glimpse of the answer. Yet each seems too abstract
+to apply to benchtop chemical experiments on the origin of life. An
+experimentalist needs to decide on the nitty-gritty details: What should
+be the starting chemicals at what concentrations; how acidic or basic
+the solution; what run temperatures, pressures, and times? Is there any
+way that the ideas of emergence can help?
+A classic scientific approach to discovering general principles and
+laws is to examine the behavior of specific systems. The study of simple
+systems that display emergent behavior may well point to physical factors that lead to patterning in much more complex systems, including
+life. We can hope that observations of specific systems will eventually
+point to more general rules.
+PATTERNS IN THE SAND
+You don’t need a laboratory to observe emergent phenomena. In fact,
+you can’t go on a hike without seeing dozens of examples of emergence in action. Among my favorite emergent phenomena are interactions of water and sand, which provide a convenient and comprehensible example of structures arising from the energetic interactions
+of lots of agents (not to mention a great excuse to spend the day at the
+shore). When moving water (or wind, for that matter) flows across a
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+THE MISSING LAW
+
+17
+
+flat layer of sand, new patterns arise. Periodic sand ripples appear, as
+sand grains are sorted by size, shape, and density. The system thus
+becomes more orderly and patterned as energy—the flow of wind or
+water—dissipates.
+My favorite emergent sandy system lies at the base of the fossilrich hundred-foot-tall cliffs that border the Chesapeake Bay’s western
+shore in Calvert County, Maryland. Fifteen-million-year-old whale
+bones, razor-sharp sharks’ teeth, branching bleached corals, and robust fist-sized clamshells abound in the wash zone, where waves constantly wear away the soft sediments. Walks along those majestic
+formations often lead to thoughts about the factors that contribute to
+complexity.
+At times of unusually low tide, especially near a new moon in the
+cold clear winter months, receding waters expose a gently sloping pavement of ancient sediments below the base of the cliff—a formation
+called blue marl. Treacherously slippery when wet, this firm flat surface commonly accumulates a thin layer of sand—particles that display emergent patterns when subjected to the wash of shallow water.
+Over the years, I’ve noticed four distinct factors that contribute to the
+emergence of complex sand patterning.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+Factor 1: The Concentration of Agents
+The first obvious factor in achieving a patterned, complex system is
+simply the density of sand grains—that is, the number of interacting
+particles per square centimeter of the blue marl’s surface. It’s easy to
+estimate this number by collecting almost every grain of sand from an
+area 10 centimeters square, about the size of a small paper napkin. I
+collect the sand in a plastic bag or bottle, take it back to the lab, dry it,
+and weigh the sample. Using a microscope, I count out 100 grains from
+the sample and then weigh that batch. As it turns out, the total number
+of grains per square centimeter is approximately equal to the total
+weight of sand from the 100 square-centimeter (10 × 10) area divided
+by the weight of 100 sand grains.
+I find that with fewer than about 100 sand grains per square centimeter, the dusting of particles is too sparse for any noticeable patterns
+to emerge. Given the minute size of the average sand grain, typically
+less than half a millimeter in diameter, 100 grains per square centimeter provides a sparse coverage over less than 10 percent of the smooth
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+18
+
+GENESIS
+
+A
+
+B
+
+C
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+Patterns in sand grains emerge as the concentration of grains increases. At about a
+thousand grains per square centimeter (A) small, black-topped piles are observed; at
+a few thousand grains per square centimeter (B) discontinuous bands arise; and
+above 10,000 grains per square centimeter (C) continuous ripples cover the surface.
+
+blue marl surface. Increase the sand concentration to about 1,000
+grains per square centimeter, however, and an intriguing pattern of
+regularly spaced sand piles, each a centimeter or two across, appears
+on the hard blue surface. What’s more, a small circle of darker sand
+grains typically crowns each little tan pile. Evidently a minimum concentration of several hundred grains per square centimeter is required
+to initiate patterning in sand.
+Increase the sand concentration slightly to a few thousand grains
+per square centimeter and you get discontinuous short bands of sand
+at right angles to the gentle back-and-forth wave motion of the shallow water. As with the mini-sandpiles, each tan band is topped by a
+line of darker grains. And as sand concentration exceeds 10,000 grains
+per square centimeter, continuous, evenly spaced, black-capped ripples
+form across the hard pavement. I’ve seen this classic rippled surface
+cover hundreds of square meters of shallow water in patterns so hypnotically regular that I hesitated to disturb the symmetry by walking
+on it.
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+THE MISSING LAW
+
+19
+
+And that’s it. Higher concentrations of sand simply provide a
+deeper base for the regular ripples. Buried sand grains don’t participate in the process so no new structures arise beyond the elegant, wavelike, periodic forms on the surface.
+This systematic behavior suggests that the concentration of interacting agents plays a fundamental role in the emergent complexity of a
+system. Below a critical threshold, no patterns are seen. As particle concentrations increase, so too does complexity, but only to a point. Above
+a critical saturation of agents, we find no new behaviors.
+Similar observations have been made about other emergent systems. One ant species—Eciton burchelli, the army ant—stays close to
+home as long as the colony consists of fewer than about 80,000 individuals. Exceed that number of army ants, however, and the colony
+exhibits new emergent behavior; like a bursting dam, the ants pour out
+in a massive “swarm raid” to attack adjacent colonies. At higher populations, half of the ants may spontaneously leave to form a new colony.
+Studies of termite colonies also reveal that the construction of pillartype mounds requires a critical density of individuals.
+At a much greater scale, spiral galaxies require a minimum number of about 100 million stars to trigger development of the familiar
+spiral arm structure. According to theoretical models of astrophysicists, the majestic arms form as a result of gravitational instabilities
+caused in part by a large central mass of stars.
+Human consciousness and self-awareness also emerge from the
+interactions of trillions of neurons. Sadly, as those of us who watch
+friends and relatives afflicted with Alzheimer’s disease must observe,
+when a critical number of cells and their connections are destroyed,
+self-awareness fades away.
+These findings suggest that the emergence of life might have depended on achieving some minimal concentration of biomolecules,
+the essential agents of cellular life. Too few molecules, no matter how
+friendly the environment, and life could not arise. That’s a useful idea
+to bear in mind when designing origin-of-life experiments.
+Factor 2: The Interconnectivity of Agents
+Sand grains influence each other by direct contact, the simplest local
+way to interact. A rounded grain at the surface of a sandpile typically
+touches about a half-dozen adjacent grains. The balance between these
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+20
+
+GENESIS
+
+stabilizing contacts and gravity on the one hand, and the restless, disruptive flow of water on the other, leads to a controlled shuffling of
+grains and ultimately to the rippled patterning of sand. By contrast,
+ants in an ant colony interact over much greater distances, by marking
+the ground with a variety of pheromones, which are chemical signals
+that point other ants to food, alert them to danger, and provide other
+vital information. In this way, any given ant has the potential to interact with thousands of colony mates in varied ways. These differences
+in interconnectedness provide part of the reason why ant colonies are
+more complex than water-shaped sandpiles.
+The conscious brain, the most complex system we know, is also
+the most complexly interconnected. Each of the trillions of neurons in
+your brain interacts with hundreds of other nearby cells through a
+branching network of dendrites. Electrical signals between any two
+neurons, furthermore, may be stronger or weaker, like the current controlled by the dimmer switch on your lamp. Interconnections of the
+brain are vastly more intricate than those of sand or ants.
+These observations of emergent systems suggest that life’s origin
+must have relied on a wide repertoire of chemical interactions. Experiments that optimize the number and type of molecular contacts might
+thus be more likely to display emergent behaviors of interest.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+Factor 3: Energy Flow Through the System
+Regardless of how many sand grains or ants or neurons are present, no
+pattern can emerge without a flow of energy through the system. Sand
+grains will not start hopping without a certain minimum water-wave
+speed (typically about 1/2 to 1 meter per second along the shores of the
+Chesapeake Bay). More energetic waves with greater speed and amplitude move grains more easily and generate sand patterns more quickly,
+though these patterns do not appear to differ fundamentally in their
+shapes.
+But every complex patterned system has a limit to the magnitude
+of energy flow it can tolerate. During energetic storms, crashing waves
+obliterate sand ripples and other local sedimentary features. Black and
+tan sand grains become jumbled and all signs of emergent patterning
+disappear.
+The human brain exhibits strikingly similar behavior in terms of
+energy flow. During normal waking hours, the brain maintains a mod-
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+THE MISSING LAW
+
+21
+
+erate level of electrical impulses—the normal healthy flow of energy
+through the neural system. Deepest sleep corresponds to a sharp drop
+in electrical activity as we slip from consciousness, whereas the excessive electrical intensity of an epileptic seizure thwarts conscious action
+by scrambling the usual patterned electrical flow.
+The emergence of complex patterns evidently requires energy flow
+within rather restrictive limits: Too little flow and nothing happens;
+too much flow and the system is randomized—entropy triumphs. This
+conclusion is important for the experimental study of life’s chemical
+origins. A reliable source of energy is essential, to be sure, but lightning, ultraviolet radiation, and other intense forms of ionizing energy
+can blast molecules apart and may be too extreme to jump-start life.
+We must look for gentler chemical energy sources, like the steady, reliable chemical potential energy stored in a flashlight battery, to sustain
+the metabolism of primitive life.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+Factor 4: Cycling of Energy Flow
+Many natural systems are subject to cycles of energy: day and night,
+summer and winter, high tide and low tide. Such cycles may play a
+fundamental role in the evolution of emergent systems, though it’s often difficult to document the effects of these subtle cycles in nature.
+Laboratory wave tanks, though considerably less scenic than the
+Chesapeake Bay in January, facilitate the study of sand-ripple formation under controlled conditions. Recent research on natural patterned
+systems reveals that cycling of energy flow through a system is a fascinating and previously unrecognized fourth factor in generating complex sand patterns. In 2001, physicist Jonas Lundbek Hansen at the
+Niels Bohr Institute and his Danish colleagues announced this surprising wrinkle in the mechanics of ripple formation. Most previous experiments had involved fixed wave amplitudes (that is, wave height)
+and frequencies (how many waves pass a given point in a second). Such
+studies typically generate perfectly spaced, straight ripples. Instead,
+Hansen and his colleagues wondered what might happen if they cycled
+these variables. Over periods of several minutes, they increased and
+then decreased the amplitude or the frequency of their water waves.
+The results were breathtaking. Rather than simple parallel sand ripples,
+they produced elegant intertwined and branching sand structures.
+These new patterns appear remarkably similar to sand features that
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+22
+
+GENESIS
+
+commonly arise along the Chesapeake Bay when the water is only a
+few inches deep—conditions that apparently favor periodic fluctuations in wave amplitude.
+Alert to the potential power of energy cycling, PhD student Mark
+Kessler and Professor Brad Werner of the University of California, San
+Diego, recently analyzed amazing stone circles and other so-called “patterned grounds” in Alaskan Arctic terrain that is subject to cyclical
+freezing and thawing. With each thaw, rounded boulders shift slightly,
+interacting with one another over many years to produce remarkable
+fields covered by natural circles of stone. [Plate 2]
+The role of cycling in the emergence of patterns represents a frontier area of study that is keenly watched by some origin-of-life investigators. After all, the primitive Earth was subject to many cycles—
+day/night, high tide/low tide, wet/dry, and more. Perhaps such cycles,
+which can be duplicated in a controlled experimental environment,
+contributed to the emergence of life itself.
+FORMULATING EMERGENCE
+So what might a mathematical law of emergence look like? My guess is
+that the expression will take the form of a mathematical inequality,
+something like this:
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+C ≤ f[n,i,∇E(t)]
+That’s a short-hand way of saying that the emergent complexity of
+a system, denoted by the letter C (for “complexity”), is a number less
+than or equal to some value that is a mathematical function (f) of the
+concentration of interacting particles (n), the degree of those particles’
+interconnectivity (i), the time-varying energy flow through the system
+[∇E(t)], and perhaps other variables as well.
+At least two daunting impediments thwart the completion of this
+potentially simple formulation. First, as previously noted, we lack a
+precise definition of complexity. It’s impossible to quantify something
+when you don’t really know what that something is. And second, we
+are woefully ignorant of the exact mathematical relationships between
+complexity and the three possible key factors: the concentration of interacting agents, the interconnectivity of those agents, and the cyclical
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+THE MISSING LAW
+
+23
+
+energy flow. Simple systems yield tantalizing clues, but we are still a
+long way from any definitive formula.
+
+
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+This quest to characterize emergent phenomena, though initially
+couched in mathematical abstraction, is not ultimately an abstract exercise. Emergent systems frame every aspect of our experience. Our
+environment, our bodies, our minds, the patterns of our lives and our
+culture—all display emergent complexity. A comprehensive theory of
+emergence will foster applications to myriad problems in everyday
+technology: long-range weather prediction, computer network design,
+traffic control, the stabilization of ecosystems, the control of epidemics, perhaps even the prevention of war. Armed with such a law, we will
+acquire a deeper understanding of any system of many interacting
+agents—indeed, even of the origin of life itself.
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+2
+What Is Life?
+I know it when I see it.
+Justice Potter Stewart, 1964
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+A
+
+recent origin-of-life text features an appendix with scientific definitions of life written by 48 different authorities. The entry contributed by the distinguished evolutionary biologist John Maynard
+Smith describes life as “any population of entities which has the properties of multiplication, heredity and variation.” Alternatively, information theorist Stuart Kauffman claims that “life is an expected,
+collectively self-organized property of catalytic polymers.” Other
+equally renowned experts propose that “Life is the ability to communicate,” “Life is a flow of energy, matter and information,” “Life is a selfsustained chemical system capable of undergoing Darwinian
+evolution.” The definitions go on and on. Remarkably, no two definitions are the same.
+This lack of agreement represents an obvious problem for those
+who search for signs of living organisms on other worlds, as well as for
+origin-of-life researchers. It is difficult to be sure that you’ve discovered life—or deduced the process of life’s origin, for that matter—when
+you can’t define what it is. In spite of generations of work by hundreds
+of thousands of biologists, in spite of countless studies of living organisms at every scale from molecules to continents, we still have no widely
+accepted definition.
+This frustrating lack is not particularly surprising. For one thing,
+the question “What is life?” is asked in different contexts by different
+professions. Theologians hotly debate it in relation to the beginning of
+human life. Does life start at the moment of conception, when the fetal
+25
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+26
+
+GENESIS
+
+brain first responds, or when the unborn heart first beats? In some
+theologies, life commences not with a physical process, but at the unknowable supposed instant of ensoulment. At the other end of the human journey, doctors and lawyers require a definition of life in order
+to deal ethically with patients who are brain dead or otherwise terminally unresponsive.
+In contrast to these ethically complex and emotionally charged issues are the more abstract scientific efforts to define life. Biologists rely
+on straightforward genetic analysis—tests for DNA or diagnostic proteins—to identify the presence of life-forms on Earth today. But a more
+general definition that distinguishes all imaginable living objects from
+the myriad nonliving ones remains elusive. We know relatively little
+about the diversity of cellular life on Earth, not to mention the vast
+range of plausible noncellular life-forms that might await discovery
+elsewhere in the universe. Endorsing a sweeping definition of life based
+on such scanty knowledge is akin to defining “music” after listening to
+a single recording of Bach’s solo cello suites over and over again. The
+suites are a sublime example of music, but hardly sufficient to characterize the entire genre.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+“TOP-DOWN” VERSUS “BOTTOM-UP”
+Scientists crave an unambiguous definition of life, and they adopt two
+complementary approaches in their efforts to distinguish that which is
+alive from that which is not. Many scientists adopt the “top-down”
+approach. They scrutinize all manner of unambiguous living and fossil
+organisms to identify the most primitive entities that are, or were, alive.
+For origin-of-life researchers, primitive microbes and ancient microfossils have the potential to provide relevant clues about life’s early
+chemistry. This strategy is limited, however, because all known lifeforms, whether living or fossil, are based on biochemically sophisticated cells containing DNA and proteins. Any definition of life based
+on top-down research is correspondingly limited.
+By contrast, a small army of investigators pursues the so-called
+“bottom-up” approach. They devise laboratory experiments to mimic
+the emergent chemistry of ancient Earth environments. Eventually, the
+bottom-up goal is to create a living chemical system in the laboratory
+from scratch—an effort that might clarify the transition from nonlife
+to life. Such research leads to an amusing range of passionate opinions
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+WHAT IS LIFE?
+
+27
+
+regarding what is alive, because each scientist tends to define life in
+terms of his or her own chosen specialty. One group will focus on the
+origin of cell membranes; to them, life began when the first encapsulating membrane appeared. Another team studies the emergence of
+metabolic cycles, so naturally for them the origin of life coincided with
+the origin of metabolism. Still other groups investigate primordial
+RNA (DNA’s presumed precursor genetic material), viruses, or even
+artificial intelligence, and each group hawks its own definition of life’s
+first appearance.
+Into this mix, philosophers and theologians inject a more abstract
+view and speculate on the full range of phenomena that might be said
+to be alive—robotic life, computer life, even a self-aware Internet. Such
+debates can at times sound like a science fiction convention, but defining life is no idle exercise. The scientific community, with the full support of NASA and other governmental agencies, holds regular meetings
+to debate the question. After all, one of NASA’s prime missions is to
+look for life on other worlds, so a clear definition is essential for planning future missions.
+It’s amazing how the “What is life?” question sparks arguments
+and fosters hard-line positions. Scientists excel at many things, but
+compromise is not always one of them. Nevertheless, Gerald Joyce of
+The Scripps Research Institute, serving on a NASA Exobiology panel,
+proposed a widely cited “working definition” for life in the context of
+space exploration. “Life is a self-sustained chemical system capable of
+undergoing Darwinian evolution,” he suggested.
+According to this opinion, life combines three distinctive characteristics. First, any form of life must be a chemical system. Computer
+programs, robots activated with microchips, or other electronic entities are not alive according to this definition. Life also grows and sustains itself by gathering energy and atoms from its surroundings—the
+essence of metabolism. Finally, living entities must display variation.
+Natural selection of the more fit individuals will inevitably lead to evolution and the emergence of more complex entities. This NASAinspired definition is probably as general, useful, and concise as any we
+are likely to come up with—at least until we discover more about what
+is actually out there.
+Even armed with this functional definition, it’s difficult to know
+what Earth’s very first life-form was like. Our planet’s earliest life may
+have been vastly different from anything we know today. Many experts
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+28
+
+GENESIS
+
+suspect that the first living entity was not a single isolated cell as we
+know it, for even the simplest cell incorporates astonishing chemical
+complexity. That first life-form probably did not use DNA, given the
+exceedingly intricate genetic mechanism of life on Earth today. It may
+not even have used proteins, the chemical workhorses of cellular life.
+Experts in different fields propose different ideas regarding Earth’s
+first life-form. As a geologist, trained in the ways of rocks, my favorite
+theory is that the very first entity to fit NASA’s trial definition may have
+been an extremely thin molecular coating on rock surfaces. Such “flat
+life” would have spread across mineral grains in a layer only a few billionths of a meter thick, exploiting energy-rich mineral surfaces while
+slowly spreading like a lichen from rock to rock.
+Whatever the first life-form looked like, it must have arisen from
+chemical reactions of ocean, atmosphere, and rocks. Yet the overarching problem with studying life’s origin is that even the simplest known
+life-form is vastly more complex than any nonliving components that
+might have contributed to it. How does such astonishing, intricate
+complexity arise from lifeless raw materials? Emergence can help.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+ORIGINS AND EMERGENCE
+French anthropologist Claude Lévi-Strauss, who investigated the mythologies of many cultures, identified a deep-seated human tendency
+to reduce complex situations to oversimplified dichotomies: friend and
+enemy, heaven and hell, good and evil. The history of science reveals
+that scientists are in no way immune to this mindset. In the eighteenth
+century, the neptunists, who favored a watery origin for rocks, fought
+with the plutonists, who favored heat as the causative agent. Both, it
+turns out, were right. A similar contentious and ultimately misleading
+dichotomy raged between the eighteenth-century catastrophists and
+uniformitarians, the former espousing a brief and cataclysmic geological history for Earth and the latter holding that geological processes are
+gradual and ongoing. Once-doctrinal distinctions between plants and
+animals or between single-celled and multicellular organisms have become similarly blurred.
+Attempts to formulate an absolute definition that distinguishes
+between life and nonlife represents a similar false dichotomy. Here’s
+why. The first cell did not just appear, fully formed with all its chemical
+sophistication and genetic machinery. Rather, life must have arisen
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+WHAT IS LIFE?
+
+29
+
+through a sequence of emergent events—diverse processes of organic
+synthesis, followed by molecular selection, concentration, encapsulation, and organization into diverse molecular structures. The emergence of self-replicating molecules of increasing complexity and
+mutability led to molecular evolution through the process of natural
+selection, driven by competition for limited raw materials. That sequential process is an organizing theme of this book.
+What appears to us as a yawning divide between nonlife and life
+obscures the fact that the chemical evolution of life occurred in this
+stepwise sequence of successively more complex stages of emergence.
+When modern cells emerged, they quickly consumed virtually all traces
+of the earlier stages of chemical evolution. “Protolife” became a rich
+source of food, wiped clean by the consuming cellular life, like a clever
+murderer leaving the scene of the crime.
+Our challenge, then, is to play detective—to establish a progressive
+hierarchy of emergent steps leading from a prebiotic Earth enriched in
+organic molecules, to functional clusters of molecules perhaps arranged on a mineral surface, to self-replicating molecular systems that
+copy themselves using resources in their immediate environment, to
+encapsulation in membranes—that is, to cellular life. (Recall the words
+of Harold Morowitz: “The unfolding of life involves many, many
+emergences.”) The nature and sequence of these steps may vary in different environments, and we may never know the exact sequence (or
+sequences) that occurred on the early Earth. Yet many of us suspect
+that the inexorable direction of the chemical path is similar on any
+habitable planet or moon.
+Such a stepwise scenario informs attempts to define life. To define
+the exact point at which such a system of gradually increasing complexity becomes “alive” is intrinsically arbitrary. Where you, or I, or
+anyone else chooses to draw such a line is more a question of perceived
+value than of science. Do you value the intrinsic isolation of each
+living thing? Then for you, life’s origin may correspond to the entrapment of chemicals by a flexible cell-like membrane. Or is reproduction—the extraordinary ability of one creature to become two and
+more—your thing. Then self-replication becomes the demarcation
+point. Many scientists value information as the key and argue that life
+began with a genetic mechanism that passed information from one
+generation to the next.
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+30
+
+GENESIS
+
+“What is life?” is fundamentally a semantic question, a subjective
+matter of taxonomy. Nature holds a rich variety of complex, emergent
+chemical systems, and scientists increasingly are learning to craft such
+systems in the laboratory. No matter how curious or novel their behavior, none of these systems comes with an unambiguous label: “life” or
+“nonlife.”
+To be sure, labels are important and scientists convene earnest conferences and appoint august committees to decide on taxonomic issues. Valid taxonomy is vital for effective communication and provides
+a foundation for any scientific pursuit. The problem facing us today,
+however, is that valid taxonomies rely on a minimum level of understanding. Early attempts at classifying animals purely by color, shape,
+or other superficial features ultimately failed. Similarly, the classification of chemical elements by their physical state—solid, liquid, or gas—
+was unhelpful in developing a predictive chemical theory.
+Recently, the philosopher Carol Cleland of the University of Colorado and the planetary scientist Christopher Chyba of the SETI (Search
+for Extraterrestrial Intelligence) Institute compared current attempts
+to define life with similar eighteenth-century efforts to characterize
+water. Before the discovery of molecules and atomic theory, water could
+be characterized only by a series of non-unique traits. Water is clear
+and wet, but so are many oils (and muddy water isn’t all that clear).
+Water sustains life, but so do many foods (and water with a few invisible pathogens can kill you). Water freezes when it gets cold, water soaks
+into wood, water flows downhill, on and on the list grows; but none of
+these traits, nor any combination of these traits, is both necessary and
+sufficient. No definition devised in the eighteenth century could have
+captured the true essence of water—the molecule with two hydrogen
+atoms and one oxygen atom.
+By the same token, they argue, scientists in the early twenty-first
+century are in no position to define life. We have yet to articulate the
+theoretical underpinnings of biology; we have nothing analogous to
+the periodic table for living entities. And with only one unambiguous
+example, cellular life on Earth, we are in no position to lock ourselves
+into any precise definition. Better, therefore, to keep an open mind and
+simply describe the characteristics of whatever we find.
+I suspect that any universal theory of life will rest, at least in part,
+on the ideas of emergence. If life arose as a sequence of emergent steps,
+then each of those steps represents a taxonomically distinct, funda-
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+WHAT IS LIFE?
+
+31
+
+mentally important stage in life’s molecular synthesis and organization. Each step deserves its own label.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+AN EXPERIMENTAL STRATEGY
+Ultimately, the key to defining the progressive stages between nonlife
+and life lies in experimental studies of relevant chemical systems under
+plausible geochemical environments. The concept of emergence simplifies this experimental endeavor by reducing an immensely complex
+historical process to a more comprehensible succession of measurable
+steps. Each emergent step provides a tempting focus for laboratory experimentation and theoretical modeling.
+This nontraditional view of life’s definition as a stepwise transition from chemistry to biology is of special relevance to the search for
+life elsewhere in the universe. It’s plausible, for example, that Mars,
+Europa, and other bodies in our solar system progressed only part way
+along the path to cellular life. If so, that’s crucial to know, at least from
+NASA’s point of view. If each step in life’s origin produced distinctive
+and measurable isotopic, molecular, and structural signatures in its
+environment, and if such markers can be identified, then these chemical features become observational targets for planned space missions.
+It’s possible, for example, that primitive prebiotic isotopic, molecular,
+and structural forms are inevitably eaten by more advanced cells
+and survive as “fossils” only if cellular life never developed in their
+environs. Thus prebiotic features may serve as extraterrestrial “abiomarkers”—clear evidence that molecular organization and evolution
+never progressed beyond a certain precellular stage. As scientists search
+for life elsewhere in the universe, they may be able to characterize extraterrestrial environments according to their degree of emergence
+along this multistep path.
+Consider Saturn’s recently visited moon Titan as a choice example.
+Cloud-enshrouded Titan possesses an atmosphere one-and-a-half
+times thicker than Earth’s and is rich in methane and ammonia. Organic molecules, which color the atmosphere a hazy orange, rain onto
+the surface to form thick accumulations of organic gunk. Lakes of
+methane and ethane occur side-by-side with frozen expanses of rockhard water ice, though conditions are generally much too cold for liquid water or significant chemical progress toward life.
+From time to time, however, the impact of a large comet or aster-
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+32
+
+GENESIS
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+oid may have melted regions of ice on Titan. For periods of hundreds
+or even thousands of years, gradually cooling ice-covered lakes might
+have supported the first chemical steps in the path toward life, only to
+become frozen again. Such primitive biochemistry, though lost forever
+on Earth’s scavenged surface, might conceivably survive in the deepfreeze of Titan.
+But so much for speculation and conjecture. Observations of the
+living world, coupled with relevant experiments, will illuminate the
+emergence of life both here on Earth and even elsewhere in our solar
+system.
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+3
+Looking for Life
+Scientists turn reckless and mutter like gamblers who cannot
+stop betting.
+Alan Lightman, Einstein’s Dreams, 1993
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+T
+
+he profound difficulty in crafting an unambiguous definition of
+what is (or was) alive came into dramatic focus in 1996 with the
+discovery of supposed cellular fossils in a meteorite from Mars. Of
+the countless thousands of meteorites that have been collected on
+Earth’s surface, only a precious two dozen or so came to us from Mars.
+In the 1980s, chemists deduced the distant origins of these rocks from
+the diagnostic composition of gas trapped inside them—gas that
+matches perfectly the known idiosyncrasies of the Martian atmosphere.
+Theorists maintained that giant asteroid impacts on Mars could easily
+have hurled rocky debris into orbit around the Sun. And while the Sun
+and Jupiter, the two most massive objects in our solar system, eventually (often after millions of years) sweep up most of that Martian detritus,
+a tiny fraction of the rubble inevitably finds its way to Earth. With the
+discovery of Martian meteorites, scientists could, for the first time,
+investigate actual pieces of another planet.
+Naturally, these nondescript chunks of dark-colored rock are
+highly prized and receive the closest examination by earthbound scientists. Most of them are hunks of ancient igneous formations—material formed from once-molten rock near the Martian surface. We
+expect such meteorites to be devoid of life. But one Mars meteorite
+proved strikingly different from the others, and it naturally attracted
+extra close scrutiny. Collected in 1984 from the Allan Hills region of
+Antarctica (hence its now famous designation, ALH84001), this mete33
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+34
+
+GENESIS
+
+orite held a suite of minerals that suggested to some scientists the possibility of ancient interactions with liquid water.
+A team of biologists, planetary scientists, and meteorite experts
+led by NASA’s David McKay subjected pieces of the two-pound rock to
+a battery of analytical tests. They probed the meteorite with X-rays,
+lasers, gamma rays, and beams of electrons, recording characteristics
+as small as a billionth of an inch across. No one had ever expected to
+find hard evidence for Martian life, but even a hint of freely flowing
+water on Mars would constitute a major discovery. Yet gradually, as the
+data piled up, McKay and his colleagues began to believe that they had
+found the smoking gun for Martian life.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+LIFE ON MARS: THE ALLAN HILLS STORY
+On August 7, 1996, the Allan Hills team publicly claimed the discovery
+of tiny elongated objects that were once alive. “LIFE ON MARS!”
+screamed the headlines, while the prestigious periodical Science published an article with the equally giddy title (at least for a scientific
+journal), “Search for Past Life on Mars: Possible relic biogenic activity
+in Martian meteorite ALH84001.” President Clinton got into the act by
+holding a national press conference, during which he basked in the
+reflected glory of NASA’s triumph.
+McKay and his eight co-workers pointed to five separate types of
+data, which they presented point by point like a zealous prosecutor at a
+jury trial. Point number one: The meteorite was found to contain a
+suite of organic molecules, including carbon-based compounds called
+PAHs (polycyclic aromatic hydrocarbons). These sturdy, long-lasting
+molecules, which feature interlocking rings of six carbon atoms, often
+arise when once-living cells are subjected to high temperature. Since
+carbon is the key element of life as we know it, its presence in
+ALH84001, which distinguished that specimen from the other Martian meteorites, was of extraordinary significance.
+Point two: The meteorite held microscopic globules of carbonate
+minerals, similar to those that make the graceful formations on the
+walls of caves on Earth. Such carbonates are often deposited through
+the action of liquid water passing through a system of cracks and fissures. Liquid water is the presumptive medium of all cells and thus a
+necessary condition for life. What’s more, their tiny structures, about a
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+LOOKING FOR LIFE
+
+35
+
+ten-thousandth of an inch in diameter, reminded some observers of
+minerals precipitated by microbes on Earth.
+The third and fourth points relied on sophisticated analytical
+tools. The NASA team used an electron microscope to discover and
+characterize two iron-bearing minerals, an iron sulfide called pyrrhotite and an iron oxide called magnetite. Of particular interest were the
+curious chainlike arrays of minuscule magnetite crystals. Magnetite is
+a magnetic mineral found in abundance in rocks of all types, but the
+perfect shape of these alien crystals and their unusual chemical purity,
+coupled with their distinctive linear arrangements, seemed unlike anything ever seen except in a few remarkable types of bacteria. These
+“magnetotactic” microbes tend to live in thin layers of sediment where
+chemical conditions change rapidly with depth, and they use their internal magnets to distinguish “up” from “down,” by sensing the inclination of Earth’s magnetic field. So sensitive are these organisms to
+their vertical position that magnetotactic bacteria from the Northern
+Hemisphere move in the wrong direction and die when placed in
+Southern Hemisphere soils, where magnetic “up” and “down” are reversed. The NASA scientists claimed that no known inorganic process
+could have produced such an ordered crystalline array.
+Finally, the fifth point: ALH84001 holds myriad tiny sausageshaped objects reminiscent of some species of terrestrial bacteria.
+Though much smaller than any known Earthly microbes, these suggestive forms provided the public with its most convincing evidence
+for Mars life. Hundreds of newspapers and magazines reproduced the
+NASA electron microscope images with captions identifying them as
+“Martian microbes.”
+The main text of the McKay et al. six-page article in Science conveyed a sober and reasoned discussion of their findings, and they acknowledged that no single line of evidence was enough to trumpet the
+discovery of alien life. But the concluding sentence shifted tone and
+pushed the limits of most readers’ credibility: “Although there are alternative explanations for each of these phenomena taken individually,
+when they are considered collectively, particularly in view of their spatial association, we conclude that they are evidence for primitive life on
+early Mars.”
+To paraphrase the late Carl Sagan, extraordinary claims require
+extraordinary proof. Predictably, controversy exploded around the
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+36
+
+GENESIS
+
+NASA scientists’ bold claim. Experts pored over the paper, which was
+aggressively challenged on every point.
+Point number one: PAHs and other carbon molecules litter the
+cosmos, notably in the interstellar dust that forms comets and asteroids—the raw materials that formed Mars. What’s more, such molecules would have formed in abundance by natural chemical processes
+at or near the primitive surface of Mars. And PAHs are among the
+most common constituents of pollution on Earth; the meteorite could
+have become contaminated while sitting on the ice. There’s no reason
+to conclude that these PAHs represent the remains of living cells.
+Point two: The carbonate minerals could have formed in many
+ways other than by circulating water. Carbonates can occur in reactions of rock with carbon dioxide, the most common Martian atmospheric gas. Carbonates commonly grow as alteration products, long
+after the host rock forms, or directly from melts by igneous processes.
+Indeed, a number of researchers reanalyzed the minerals and found
+evidence that they had formed at temperatures well above the boiling
+point of water.
+Skeptical experts also argued that the minute magnetite crystals
+prove nothing, since they are common constituents of meteorites that
+bear no possible signs of life. The chainlike arrays of exceptionally pure
+magnetite crystals are unusual, to be sure, but most observers feel that
+magnetite grains are insufficient by themselves to prove the existence
+of Martian life. Magnetotactic bacteria, furthermore, would have required a moderately strong Martian magnetic field—perhaps stronger
+than geophysical evidence suggests.
+Finally, the purported fossil microbes are too small—an order of
+magnitude smaller than any known Earthly bacteria. In fact, they are
+so small that they could contain no more than a few hundred
+biomolecules—not nearly enough for a living cell. And there’s no reason to characterize them as fossils, since inorganic processes (including sample processing in the lab) are known to produce similar
+elongated shapes.
+The story became even more confused when scientists began examining other meteorites, Martian and otherwise, in the same meticulous detail afforded the Allan Hills specimen. Surprisingly, all
+meteorites reveal signs of life—Earth life. Meteorites smash into Earth,
+where our planet’s ubiquitous microbes inevitably contaminate them.
+Almost every meteorite ever found has lain on the ground for periods
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+LOOKING FOR LIFE
+
+37
+
+ranging from several days to many thousands of years. Once found,
+they are usually handled, breathed on, and otherwise exposed to more
+contamination. Unless hermetically sealed almost immediately, any
+meteorite will be compromised. In a matter of months, microbes migrate deep into a meteorite’s interior, exploiting every crack and crevice in a search for the chemical potential energy that is stored in the
+meteorite’s minerals. Given such a messy environment, how could anyone ever be sure about ALH84001?
+One of the most vocal critics of the Martian claim was UCLA paleontologist J. William Schopf. A leading expert on microfossils and an
+authority on Earth’s most ancient life, Schopf was outraged at what he
+regarded as the NASA team’s shoddy analysis and unwarranted conclusions. At the well-publicized August 1996 NASA press conference to
+discuss the discovery, Schopf was invited to participate as an objective,
+dissenting voice. “I was like Daniel in the lion’s den,” he recalls. Not
+wanting to publicly denigrate the NASA crowd, he may have pulled his
+punches in that public forum (“I had tried to be reasonable, even
+gentle”), but he underscored his criticisms of the NASA work in a
+scathing addendum to his popular book, Cradle of Life (1999). There
+he attacked the NASA team with a withering analysis, which he intensified by juxtaposing his critique of ALH84001 with stories of the most
+egregious paleontological blunders of all time. Of the late famed meteorite, he wrote: “The minerals can’t prove it. The PAHs can’t either.
+The ‘fossils’ could—but they don’t, and there are good reasons to question whether they are in any way related to life.”
+Schopf concluded on a more philosophical note: “There are fine
+lines between what is known, guessed, and hoped for, and because science is done by real people these lines are sometimes crossed. But science is not guessing.” Little did he suspect that within a few years those
+righteous proclamations would come back to haunt him.
+EARTH’S OLDEST FOSSILS—
+THE SCHOPF–BRASIER CONTROVERSY
+The top-down approach to life’s origins requires that we ferret out and
+characterize Earth’s most ancient fossil life. Those fragile, fragmentary
+clues may help us bridge the gulf between geochemistry and biochemistry, and thus deduce key steps in life’s emergence.
+Fossil microbial life should be vastly easier to detect in Earth’s an-
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+38
+
+GENESIS
+
+cient rocks than in the handful of meteoritic fragments from Mars.
+After all, we can collect tons of specimens, scrutinize their geological
+setting, and check any critical measurements in many different laboratories. No matter how remote the rocks or treacherous the journey, it’s
+well worth the effort, for Earth’s earliest fossils not only provide a
+glimpse of the size and shape of ancient life but also reveal the timing
+of life’s opening act.
+Planet Earth formed about 4.5 billion years ago as a giant, molten,
+red-hot glowing sphere—the result of the accumulation of countless
+comets, asteroids, and other cosmic debris. For another few hundreds
+of millions of years, an incessant meteoritic bombardment pulverized
+every square inch of Earth’s surface. What’s more, every few million
+years an epic impact of an object a hundred kilometers or more across
+punctuated the steady rain of smaller boulders. Such catastrophic
+events would have repeatedly vaporized any nascent oceans and blasted
+much of the primitive atmosphere into space. No imaginable life-form
+could have survived the hellish onslaught of that so-called Hadean eon.
+We don’t know exactly when cellular life arose, but the window of
+opportunity appears to have been surprisingly short. It’s almost certain that life could not have persisted before about 4 billion years ago,
+when the last of the great globe-sterilizing events is estimated to have
+occurred. It’s always possible that life began several times before that,
+only to be snuffed out by the periodic impact of devastating asteroids.
+In any case, chemical evidence for life in Earth’s oldest known rocks—
+formations 3.5 to 3.8 billion years old from Greenland, South Africa,
+and Australia—seem to establish a remarkably ancient lower age limit
+for life. Such a narrow time window suggests that life’s emergence was
+rapid, at least on a geological timescale.
+Paleontologists devote their lives to scrutinizing fragmentary signs
+of life in rocks. It’s not always a glamorous business, mucking about in
+inhospitable, remote landscapes, but there’s always the possibility for
+making a big splash. Paleontologists, perhaps more than scientists in
+any other discipline, can generate gripping headlines. Discoveries of
+history’s biggest shark, most massive dinosaur, or oldest human inspire the public imagination. We live in an age of Guinness-style
+records; we are obsessed with superlatives. One recent report in USA
+Today even trumpeted the discovery of the oldest known fossilized penis in a 400-million-year-old crustacean!
+With such a fossil-obsessed press corps, it’s little wonder that pale-
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+LOOKING FOR LIFE
+
+39
+
+ontologist Schopf made the evening news (and Guinness World
+Records) in April 1993 with his announcement in Science of the discovery of Earth’s oldest fossils (“Microfossils of the Early Archean Apex
+Chert: New Evidence of the Antiquity of Life”). Schopf claimed to have
+identified actual single cells, preserved in the 3.465-billion-year-old
+Apex Chert from the sun-baked northwestern corner of Western Australia. Even more surprising, these cells occurred in filament-like chains
+strongly reminiscent of those formed by modern photosynthesizing
+microbes—cells with the relatively advanced chemical capability to
+harvest sunlight.
+As in the subsequent ALH84001 incident, the claims were extraordinary and consequently demanded extraordinary proof. In this case,
+however, the geological community was generally quick to accept
+Schopf ’s assertions, because he had established a reputation as one of
+the world’s leading experts in finding and describing ancient singlecelled microbes. Schopf and his students had already catalogued dozens of new microbial species from 2-billion-year-old rocks around the
+world, while establishing rigorous standards for the cautious identification and conservative reporting of new finds. The latest fossils merely
+pushed back the record for the world’s oldest life a few hundred million years.
+A straightforward UCLA protocol had become standard for the
+maturing field of micropaleontology. Visit Earth’s geological formations of the Archean eon (4 billion to 2.5 billion years ago), identify
+layers of sediment that were deposited in ocean environments, and
+scour the region for outcrops of distinctive carbon-rich rocks called
+black chert. Field-workers collect hundreds of pounds of Archean
+rocks, break off hunks of the most promising specimens, and ship them
+back to California, where they are sliced into 2 × 3-inch transparent
+thin sections, a few hundredths of an inch thick.
+The research protocol for finding ancient microbes can be exceptionally tedious. Graduate students are coaxed and coerced into spending thousands of hours examining every part of every slide, micron by
+eye-straining micron. It turns out that black chert isn’t really black at
+all. Illuminated from beneath and viewed in a powerful microscope,
+thin sections provide a window on the ancient world. The typical
+cherty matrix is chockablock full of little black blobs and smudges.
+Most black chert is seemingly barren of life, but once in a while a thin
+section reveals a host of tiny spheres, disks, rods, and chains—dead
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+40
+
+GENESIS
+
+ringers for modern bacteria. Schopf was fortunate that in 1986 one
+especially sharp-eyed and conscientious student, Bonnie Packer, scrutinized the most promising Australian specimens. Most thin sections
+yielded nothing of interest, but her discovery of unambiguous microfossils in several ancient units led to a prominent publication and set
+the stage for the Apex controversy.
+Appearances can be deceiving. Lots of inorganic processes produce round specks and enigmatic squiggles. It’s all too tempting to see
+what you want to see in an ancient rock. That’s why Schopf and his
+colleagues had developed an arsenal of confirmatory tests. For one
+thing, size matters. Single-celled organisms can’t be too small or too
+big (though some remarkable ancient single-celled organisms are
+monsters by modern standards). Even more critical, microbial populations tend to cluster tightly around one preferred size, in contrast to
+the more random sizes of structures produced by nonbiological processes. Consequently, a statistical analysis of size distributions often
+accompanied Schopf ’s papers. Uniformity of shape is another key; no
+fair photographing one or two suggestively contoured black bits while
+ignoring a multitude of shapeless blobs. Schopf also demanded rigor
+in the description of local geologic setting and in the proper dating of
+his samples. As a result, his work on the Apex Chert was initially accepted; he had established a solid reputation for cautious, conservative science.
+But one aspect of Schopf ’s 1993 study—the claim that some of the
+microbes were photosynthetic and hence oxygen-producing—remained puzzling. Geochemical evidence from Earth’s oldest rocks
+points to an oxygen-poor atmosphere prior to about 2.2 billion years
+ago, a time that most researchers identify with the rise of photosynthesis. How could oxygen-producing microbes be present more than a
+billion years earlier? Nevertheless, within a few years Schopf ’s claims
+for the earliest fossils were standard textbook fare; his pictures of Apex
+fossils had become among the most frequently reproduced of all paleontological images. Schopf himself highlighted the historic findings in
+Cradle of Life. [Plate 2]
+Controversy erupted in March 2002, after Oxford paleontologist
+Martin Brasier and a team of seven British and Australian colleagues
+conducted a careful reexamination of the original type specimens of
+the Apex Chert fossils, which had been deposited at the Natural History Museum in London. Brasier employed a microscopic technique
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+LOOKING FOR LIFE
+
+41
+
+called image montage, which allowed him to use sharp images of the
+original thin sections at many different levels within the rock slice to
+reveal three-dimensional details that were not previously obvious.
+Brasier’s microscopic investigation cast the Apex fossils in a new
+light. Their 3-D structures seemed to differ sharply from those of any
+known cellular assemblages. In some cases the “filaments” appeared to
+be more like irregular planes or sheets. In others they branched, a feature never observed with cells. Brasier gave some of the more curious
+shapes nicknames like “wrong trousers” and “Loch Ness monster.”
+What’s more, the thin sections with the most convincing cell-like objects contained numerous additional black shapes that bore no resemblance at all to cells—forms that Schopf must have seen but failed to
+detail in his Science paper.
+Further study by Brasier’s geological colleagues in Australia
+pointed to other discrepancies. Schopf had visited the site only briefly
+and, based on the linear character of the outcrop, reported a classic
+layered sedimentary sequence with the black chert lying between other
+layers—a typical ocean-floor scenario. But after detailed field mapping
+of the site, Australian geologists Martin van Kranendonk and John
+Lindsay realized that the geological setting of the Apex Chert was much
+more complex than the simple layered formation Schopf had described. Indeed, the Apex Chert formed at the site of significant hydrothermal activity, where hot volcanic fluids circulated through cracks
+and fissures. According to their reinterpretation, the black chert formed
+as a consequence of fluids circulating through this dynamic system as
+part of a cross-cutting vein. Given this relationship, with the vein of
+chert cutting across older rocks, the exact age of the Apex Chert was
+called into question. More damning still, the hydrothermal setting suggested that the chert formed at temperatures far above the permissible
+limits for life.
+Brasier et al. challenged Schopf’s claims in an article titled “Questioning the evidence for Earth’s oldest fossils,” published in 2002 in the
+widely read journal Nature. Their bold conclusion: “We reinterpret the
+purported microfossil-like structure as secondary artifacts.” The article was a very public attack on Schopf ’s credibility.
+In an unusual move, the editors of Nature had delayed the Brasier
+et al. article for more than a year, to allow Schopf time to prepare a
+rebuttal, “Laser-Raman imagery of Earth’s earliest fossils.” The two conflicting articles appeared back-to-back in the March 7, 2002, issue. An
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+42
+
+GENESIS
+
+accompanying “News and Views” analysis by Nature staffer Henry Gee
+emphasized the irony of Schopf ’s predicament.
+Seldom has a scientific debate held such high drama. Schopf had
+made his reputation in part by staking claim to Earth’s oldest life, while
+cutting no slack for the questionable claims of others. More than any
+other scientist, he had thrown cold water on the NASA pronouncement of life on Mars. He reveled in reminding the public of past paleontological follies. No wonder then that science journalists were quick
+to highlight the controversy: “CRADLE OF LIFE OR CAULDRON OF
+CRUD?” one news headline asked.
+This debate came to a head on April 9, 2002, at the second biennial
+NASA Astrobiology Science Conference, with Schopf and Brasier
+squaring off like graying, bespectacled wrestlers. The entertaining spectacle took place deep inside the gargantuan antique dirigible hanger of
+Moffett Field, 30 miles south of San Francisco, which is home to the
+NASA Ames Research Center. A sturdy lectern embossed with the
+NASA logo stood on the stage, to the left of a large projection screen
+about 12-feet square. Both speakers were seated on the stage, before a
+rapt audience of several hundred scientists.
+Schopf spoke first. A flamboyant presenter even under the calmest
+of circumstances, Bill Schopf was fighting to preserve his scientific
+reputation. Barely controlling his anger, his voice booming, he lectured
+Brasier as if the Englishman were a recalcitrant schoolchild. Step by
+step, in a talk rich in withering rhetorical questions and exaggerated
+dramatic pauses, he reviewed the dozen or so necessary and sufficient
+criteria to establish the authenticity of ancient fossil cells. Step by step,
+he provided the data to back up his Apex claim, though he did soften
+his assertion that the microbes were oxygen-producing cyanobacteria.
+After 15 minutes or so, the moderator gestured that Schopf ’s allotted time was almost up. Like a magician pulling a rabbit out of a hat,
+Schopf concluded by displaying new analytical data that he claimed
+would prove his case once and for all. The smudgey black Apex Chert
+“fossils” are composed principally of carbon, the essential element of
+life. Carbon concentrations may arise by both biological and nonbiological processes, so carbon in and of itself is not diagnostic of life.
+However, Schopf claimed, there is a difference: The carbon remains of
+fossil cells are less perfectly ordered than crystalline carbon deposited
+as a lifeless mineral. The degree of crystallinity, furthermore, can be
+revealed by the established technique of Raman spectroscopy. Schopf
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+LOOKING FOR LIFE
+
+43
+
+grandly presented a suite of Raman spectra: Indeed, sharp spiky peaks
+characteristic of inorganic carbon stood in sharp contrast to the “obviously biological” broad humps in the Raman spectra from the Apex
+Chert. Schopf concluded by summing up all the evidence he had mustered: “If it fits with all other evidence of life, well follks, most likely it’s
+life.” [Plate 3]
+Brasier gently ascended the stage and began his rebuttal with a
+dismissive putdown of his rival’s presentation: “Well, thank you, Bill,
+for a truly hydrothermal performance. More heat than light, perhaps.”
+In soft-spoken Oxford English, the tone in sharp contrast to what had
+come before, he began to cast doubt on Schopf ’s case. The most damning evidence were the fossils themselves. With the right lighting, field
+of view, and level of focus, the Apex features do look like strings of
+cells. The size is right, the shape more than a little convincing, and
+there are even regularly spaced dark divisions that look like cell walls.
+But raise or lower the focus slightly, or shift to another field of view,
+and doubts arise. What are all those shapeless black blobs next to the
+“fossil?” How can that supposed straight chain of cells suddenly branch
+like a “Y”?
+As Brasier warmed to his task, an agitated Schopf stood up and
+began to pace distractingly a dozen feet behind the podium. Back and
+forth he walked, hunched over, hands clasped firmly behind his back—
+a tense backdrop to Brasier’s staid delivery.
+Ignoring these diversionary tactics, Brasier fired salvo after salvo.
+Schopf had the geology all wrong, he claimed. A new detailed geological map of the Apex area suggested that the black chert filled a crosscutting vein—evidence that the chert had formed much later than the
+surrounding rocks, through the agency of hot circulating water. He
+outlined chemical experiments that produced cell-like chains of precipitates in a purely inorganic setting—nonliving structures similar to
+the supposed Apex fossils form with ease under the right chemical circumstances. He demonstrated how carbon-rich deposits might have
+formed nonbiologically through a familiar industrial process called the
+Fischer–Tropsch synthesis. He even showed his own Raman spectroscopic data of inorganic carbon that had the same broad features as the
+purported biological carbon of Schopf ’s fossils.
+As Brasier calmly outlined his arguments, the scene on stage shifted
+from awkwardly tense to utterly bizarre. We watched amazed as Schopf
+paced forward to a position just a few feet to the right of the speaker’s
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+44
+
+GENESIS
+
+podium. He leaned sharply toward Brasier and seemed to glare, his
+eyes boring holes in the unperturbed speaker. After a few seconds,
+Schopf retreated to the back of the stage, only to return and stare again.
+Perhaps Schopf was just trying to hear the soft-spoken Brasier in the
+echoing hall, but the audience was transfixed by the scene.
+The two presentations ended in due course and, after an extended
+period for audience questions and comments, the session concluded.
+Many of us breathed a sigh of relief that no blows had been exchanged,
+and then we tried to figure out who won. We all knew, of course, that
+science isn’t about winning. The black smudges in the Apex Chert were
+either the remains of ancient microbes or they weren’t. Eventually, we
+all assumed, the truth would be found out. A debate like the Schopf–
+Brasier bout did little but outline the problem and establish our collective state of ignorance. Still, we wondered: Who won?
+To be sure, Schopf ’s intense delivery and unconventional antics
+hadn’t won him any points among my acquaintances. Many scientists
+were also struck by the sudden softening of his previous claims that his
+fossils were cyanobacteria. Such waffling undermined a decade of confident, highly public interpretations. But Schopf is also a fine scientist
+with a long track record; and his systematic point-by-point analysis of
+the fossils, however quirky in its delivery, appeared both logical and
+persuasive.
+Brasier’s cool detachment, by contrast, seemed calculated to provide a veneer of objectivity, yet that very lack of passion and intensity
+may have cost him some points. So much of the Apex story relied on
+interpretation of fuzzy objects in a fuzzier context. As doubtful as
+Schopf ’s claims might be, it was equally difficult to disprove any biological activity by pointing to irregular black shapes. We have no way
+of knowing what 3.5 billion years of decay might have done to ancient
+microbes, and in many ways Brasier’s arguments were just as subjective as Schopf ’s. Rather than providing the audience with the smoking
+gun that would thoroughly discredit Schopf, Brasier seemed merely to
+have raised a number of serious doubts—knotty technical issues that
+deserved further study.
+Meanwhile, paleontologists around the world, Schopf and Brasier
+included, keep searching thin sections of ancient rocks in hopes of finding Earth’s earliest fossils.
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+LOOKING FOR LIFE
+
+45
+
+
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+If there is a moral to the Allan Hills meteorite and Apex Chert controversies, it is that unambiguous identification of ancient life from microscopic structures is fraught with difficulty. Tiny rods and spheres
+are not always useful indicators of biology. The older the rock, the more
+difficult the interpretation of such vague features becomes. If fossils
+are to provide any clues about life’s ancient emergence, then we have to
+look beyond microscopic structures to the tiniest fossils of all.
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+4
+Earth’s Smallest Fossils
+Millions of brutal years of burial and resurfacing, akin to
+repeated pressure cooking, permitted very few fossilized cells to
+survive. . . . Often geologists must instead rely on other signs of
+life, or biosignatures—including rather subtle ones, such as
+smudges of carbon with skewed chemical compositions unique
+to biology.
+Sarah Simpson, 2004
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+E
+
+ven as the Schopf–Brasier battle raged, a small cadre of less publicized researchers labored to craft a convincing case for fossils even
+more ancient than Apex. This new breed of paleontologist doesn’t depend on questionable black blobs. They probe rocks for fossils far
+smaller than microscopic cell-like spheres or segmented filaments. Remarkably, the fossils they seek consist of the very atoms and molecules
+of once-living organisms.
+When a cell dies, its vital chemical structures quickly fragment and
+decay. Almost always the essential atoms of biochemistry—carbon,
+hydrogen, oxygen, nitrogen, and more—disperse and return to the environment. Earth’s vast but nevertheless finite reservoirs of life-sustaining atoms play their parts over and over and over again. Most of
+the atoms in your body were once part of mastodons, dinosaurs, trilobites, even the earliest living cells. Take a moment to look at the palm
+of your hand and imagine the fantastic yet unknowable histories of its
+countless trillions of atoms. Earth’s biosphere is the ultimate recycling
+machine.
+Atoms almost always recycle, but once in a great while, under an
+unusual concatenation of geological circumstances, a dying organism
+will find itself encased in an impermeable rock tomb. If a worm is
+47
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+48
+
+GENESIS
+
+swept away and buried in a sudden mudslide, if a colony of deep-sea
+microbes solidifies in chert, if a winged insect dies ensnared in sticky
+tree sap, then it’s just possible that some of the organism’s original
+atoms and molecules will become trapped as well. Such a trapped fossil animal or microbe may persist through eons in its original form, or
+it may decay to a shapeless dark splotch. Nevertheless, its hermetically
+sealed atoms and molecules are the remains of past life, so they qualify
+as fossils just as legitimate as the most elegant coiled ammonite or massive dinosaur.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+FOSSIL ATOMS
+It’s an amazing feeling to hold a 3-billion-year-old rock that once
+teemed with living organisms—a sample that contains the very atoms
+and molecules of cells from the dawn of life. Such rare and precious
+samples demand a new approach to the study of fossils; traditional
+descriptive paleontology must morph into analytical chemistry.
+A casual conversation during the summer of 1997 with longtime
+friend Andrew Knoll, professor of paleontology at Harvard University,
+led me into this fascinating field. Andy and I were attending a Gordon
+Research Conference on the origin of life, held at New England College
+in Henniker, New Hampshire. He’s an engaging, articulate, and friendly
+speaker, and the author of richly illustrated articles and lectures on the
+diversity of microbial fossils in Earth’s oldest rocks—presentations that
+opened a new world to me.
+When most people hear the word “fossil,” they think of the bones
+of a dagger-toothed Tyrannosaurus rex or the spiny shell of a trilobite—hard parts that survive the rigors of decay and burial. By contrast, the soft cellular tissues of animals, plants, and microbes almost
+always rot away without a trace. Only occasionally will an organism die
+and be buried in rock fast enough to preserve cellular detail. For a
+micropaleontologist like Andy Knoll, whose specialty is ancient microbes, those rare cellular fossils provide the raw material for a career
+in science.
+The very earliest fossil cells are nondescript objects and difficult to
+identify, but geologists have documented dozens of localities with numerous clearly identifiable microfossils dating from about 2.9 billion
+years on. Distinctive bumpy rods and symmetrically spiky spheres,
+chainlike filaments of repeated rectangles, and curious corkscrew spi-
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+EARTH’S SMALLEST FOSSILS
+
+49
+
+rals form a panorama of primitive life. Andy’s work surveys the saga of
+life’s evolution, culminating in the first enigmatic multicellular organisms about a billion years ago.
+Throughout our conversations at the Gordon conference, I was
+struck by the fact that many ancient microscopic fossil forms are preserved in black chert or shale—impermeable rocks that have the potential to preserve chemical traces of the original bacteria. Over a beer,
+I asked Andy if paleontologists ever analyzed their microfossils with
+the kind of machines that we mineralogists routinely employed to characterize the atoms and isotopes of our samples. He shook his head and
+admitted that, while there had been a few pioneering studies, most
+paleontologists worried almost exclusively about the sizes and shapes,
+not the chemistry, of their bugs. Then came his deceptively innocent
+question: “Do you want to collaborate? I’ve got a couple of students
+with really interesting samples. . . .”
+My own research on life’s emergence had to that point focused on
+bottom-up chemical experiments, trying to synthesize life’s molecular
+building blocks, but the top-down approach also has great appeal. I’ve
+always loved fossils and was more than happy to associate myself with
+a real paleontological pro, albeit in a modest support capacity. Agreeing to the offer, I immediately envisioned an arsenal of microanalytical
+tools that might be brought to bear on the problem. Our conversation
+soon turned to technical details: the number of samples, their size, the
+degree of chemical alteration, and more.
+The first samples arrived at Carnegie’s Geophysical Laboratory
+from Harvard within a few months, and many more followed. A suite
+of 400-million-year-old plants from Canada, slices of ancient black
+soils from Australia, 3-billion-year-old microbial mats from South Africa, bizarre spiky spores from a billion-year-old Chinese formation—
+wonderful fossils holding some of the secrets of life’s past. Our
+Carnegie team quickly confirmed that ancient fossils have the potential to provide three important types of microanalytical data: chemical
+elements, isotopes, and molecules. Of the three, the composition of
+chemical elements is arguably the easiest to measure.
+The mineralogist’s tool of choice for analyzing chemical elements
+is the electron microprobe, a costly but indispensable piece of hardware in geology departments around the world. The machine works by
+firing a narrowly focused beam of electrons at a highly polished piece
+of rock, typically an inch or so across. The energetic electron beam
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+50
+
+GENESIS
+
+excites the rock’s atoms, which in turn emit a spray of X-rays. It turns
+out that every element of the periodic table produces its own slightly
+different suite of X-rays of different wavelengths. The task, then, is to
+capture these X-rays and measure their diagnostic wavelengths.
+Microprobe analysis of most elements has become routine and
+automated. The machine is a workhorse, operating 24 hours a day for
+analyses of silicon, magnesium, iron, and other rock-forming elements.
+But the lightest elements, including the one of greatest interest to us—
+the key biochemical element carbon—pose a severe analytical challenge. Lighter elements tend to be rather inefficient at producing
+X-rays, while the relatively few X-rays that are produced have rather
+low energies. Both of these factors complicate carbon analysis. What’s
+more, we routinely use carbon to coat rock samples prior to probing,
+in order to make them electrically conductive. The coat is essential to
+prevent the sample from building up an electric charge while being
+bombarded by electrons, but it can mask any carbon in our samples. In
+short, the Lab’s usual microprobe procedures wouldn’t work. We’d have
+to devise new protocols.
+The Geophysical Lab’s deviser of protocols is Christos Hadidiacos,
+microprobe jockey extraordinaire. For more than 30 years, Chris has
+maintained and upgraded the Lab’s electron microprobe. He knows
+every trick in the book and constantly invents new ones to push the
+limits of analysis. Complex circuit diagrams, cryptic numerical tables,
+and other papers decorate his office, while technical manuals and electronics catalogs fill his bookcases and rows of volleyball trophies line
+the shelves above.
+I explained the carbon analytical problem to him—one he had
+never faced before. The Geophysical Laboratory probe had been used
+almost constantly for decades but almost always to study rocks and
+experimental run products—samples with mostly heavier elements.
+But it took Chris less than a minute to figure out a possible fix. “We can
+try raising the current,” he said. “That might work.” He began asking
+detailed questions about the expected amount of carbon and what
+other elements might be present. Then a frown. “We’re not going to be
+able to use a carbon coat, are we?”
+I shook my head, knowing that this was a potential deal killer. We
+needed an electrically conductive coating, and that meant a metal. But
+a carbon coat would mask our fossils, and most metals absorb X-rays
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+EARTH’S SMALLEST FOSSILS
+
+51
+
+so efficiently that we’d never see the low-energy carbon X-ray signal.
+“Any ideas?” I asked.
+Again, it took him less than a minute. “Maybe we could use aluminum. Just vaporize a bit of aluminum foil.” He was smiling again,
+pleased at the simplicity of his solution. Aluminum, element 15, should
+be light enough itself to allow most of the carbon signal through. It
+was definitely worth a try.
+I handed over the first of my fossil specimens, a pair of 2 × 3-inch
+rectangular thin sections of 400-million-year-old plant fossils from
+Rhynie, Scotland, a classic chert locality. The samples had been collected many years ago as isolated flinty boulders in old stone walls; no
+rock outcrop has ever been found. The precious thin sections arrived
+courtesy of Kevin Boyce, a bright-eyed, soft-spoken grad student in
+Andy Knoll’s group. Kevin had trolled through Harvard’s somewhat
+neglected paleobotany collection as part of his thesis work on the evolution of leaves. He hoped that the Rhynie samples, which preserve
+cellular structures of some of the oldest known land plants, might reveal clues about the chemical evolution of plants.
+The first step was to apply the thin aluminum coating. Our antiquated but serviceable vacuum coating system consists of a well-worn
+metal housing about the size of a washing machine with vacuum
+pumps and hoses arranged inside. A 4-inch-square platform with wire
+electrodes sits on top, while vacuum gauges and control valves project
+from the side.
+Chris snipped a 1-centimeter-square piece of aluminum foil,
+crumpled it up and placed it in a small wire basket attached to the
+electrodes. He arranged the two Rhynie chert thin sections on the metal
+platform, and then lowered a 2-foot-tall dome-topped bell jar so that
+its rubber-lined base made an airtight seal. The old pumping system
+labored for a quarter of an hour to achieve the desired vacuum, but
+then it took only a fraction of a second to apply an electric current and
+vaporize the aluminum foil. Aluminum atoms flew off in all directions, coating everything inside the bell jar, including our samples.
+Chris released the vacuum, raised the bell jar, and the fossils were ready
+for the probe.
+The Geophysical Lab electron microprobe is an awkward-looking
+tabletop machine that sits in its own small room. [Plate 3] Two chairs
+flank the workbench, which is dominated by a 4-foot-high cylindrical
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+52
+
+GENESIS
+
+tower that looks like a model of some futuristic fortification. The tower
+houses the electron gun, the heart of the probe. At the tower’s top, a
+coiled tungsten filament generates electrons; a series of ring-shaped
+electromagnets focus the electrons into a narrow beam as they accelerate downward onto the sample. The base of the tower is cluttered with
+five boxlike attachments, called spectrometers, that measure X-rays,
+plus various vacuum lines, power cables, and viewing ports.
+A curious combination of instrument panels controls the electron
+gun hardware and X-ray detectors. To the right, a computer monitor
+displays all the machine’s vital statistics—beam current, spectrometer
+settings, sample position, and more. In sharp contrast, a 1980s-vintage
+slant-front console, sporting two antiquated 6-inch black-and-white
+video screens and more than a dozen plastic knobs reminiscent of a
+classic Star Trek set, dominates the central table. Like an old house that
+has undergone decades of renovation, the Geophysical Lab probe has
+been through a lot of upgrades.
+I carefully secured one of the thin fossil sections into a shiny metal
+sample holder, closed the sample port, and waited a couple of minutes
+for the machine to achieve the high vacuum necessary to stabilize the
+electron beam. Meanwhile, Chris fiddled with the computer controls,
+raising the electron current to about ten times its normal settings. It
+took him a few moments to center and focus the intense beam onto a
+carbon-rich portion of our sample. We were about to discover whether
+or not we could detect fossil carbon atoms.
+It worked! A carbon signal of 600 X-ray counts per second stood
+out sharply from the 30-count-per-second background. We were in
+business. It was a simple matter to select half a dozen areas, each about
+a fiftieth of an inch square, to map. Slowly but surely, the microprobe
+beam scanned across the sample, measuring the carbon concentration
+point by point. It took about 3 hours to produce one map. We put the
+probe on automatic, happy with our rapid progress, and headed outside to the Lab’s sand court for our afternoon game of volleyball.
+The analytical procedures took a bit of tweaking. The initial aluminum coatings were too thick, the beam settings not quite optimal.
+But within a few weeks, we were producing a steady stream of colorful
+maps; regions rich in carbon atoms from ancient life-forms stood out
+boldly against the carbon-poor fossil matrix. Cellular features less than
+a ten-thousandth of an inch across were clearly visible. Armed with
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+EARTH’S SMALLEST FOSSILS
+
+53
+
+these maps, Kevin Boyce, with his sophisticated botanical eye, was able
+to describe and interpret cellular detail never previously seen. [Plate 3]
+Making these carbon maps, watching the fine details emerge, is
+great fun. Each map is formed from a two-dimensional array of point
+analyses, just like the pixels on your computer screen. We typically employ a quick 400 × 400-point array for reconnaissance, while slower
+500 × 500-point arrays yield beautifully detailed maps with colors representing the concentration of carbon—red for the highest carbon content, followed by orange, yellow, and the other spectral colors. We play
+with map colors like a high-tech video game to heighten the contrast
+and highlight features of special interest.
+Maps of the distribution of fossil carbon atoms can be dramatic
+and surprising as well as beautiful, revealing subtle cellular-scale details not previously recognized. In a sense, though, this analytical effort
+is little more than an extension of past morphological studies of fossil
+size and shape—a slightly more elaborate way to image the specimens.
+These carbon-rich fossils preserve far more information than just the
+chemical elements that make them up. That’s why, for more than three
+decades, geologists have examined ancient life for fossil isotopes.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+FOSSIL ISOTOPES
+The fascinating discipline of atomic-scale paleontology has blossomed
+primarily because all living cells perform a wonderful repertoire of
+distinctive chemical tricks. Life transforms any collection of its constituent atoms in subtle and surprising ways. Carbon atoms, for example, come in two common varieties—isotopes dubbed carbon-12
+and carbon-13. Every carbon atom has exactly six massive positively
+charged particles called protons in its nucleus; that atomic number, 6,
+is the chemical definition of “carbon.” The distinction between the
+two common carbon isotopes lies in the number of neutrons, a second kind of massive particle that also resides in the atomic nucleus.
+Carbon-12 has six neutrons, while carbon-13 has seven.
+The number of neutrons has no bearing whatsoever on carbon’s
+chemical behavior. You could live equally well on a pure carbon-12
+diet or a pure carbon-13 diet. But there is one important physical difference: Carbon-13, with its extra neutron, is about 8 percent more
+massive than carbon-12. (An average-sized person whose cells were
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+54
+
+GENESIS
+
+made entirely with carbon-13 atoms would weigh about 2 pounds
+more than the same person made entirely with carbon-12 atoms.) As a
+consequence of this small mass difference, carbon-13 atoms are also a
+little more sluggish than carbon-12 atoms when taking part in some
+chemical reactions. So when living cells process carbon-bearing food,
+they become slightly enriched in the lighter isotope, carbon-12. That
+characteristic isotopic signature of life can be preserved for billions of
+years in rock.
+Analytical studies of countless carbon-bearing rocks reveal a sharp
+dichotomy. Most of Earth’s carbon is locked into mineral deposits,
+notably the abundant carbonates that adorn the landscape with bold
+limestone cliffs and dissolve to open sublime limestone caverns.
+Worldwide, this mineral-locked carbon has a well-defined uniform
+ratio of carbon-12 to carbon-13 of about 99:1—the standard reference value, which is designated as 0. By contrast, living cells are invariably isotopically lighter, with a higher proportion of carbon-12 than
+in limestone. This difference between limestone and life arises from
+chemical reactions in cells, which more readily incorporate the lighter
+carbon isotope.
+On the geochemist’s peculiar scale, a 1 percent deficiency of carbon-13 relative to standard limestone is called “–10 per mil,” a 2 percent drop “–20 per mil,” and so on. Such “light” carbon in a rock sample
+thus carries a negative number value and with it a strong presumption
+of biological activity. Thousands of ancient fossil specimens, from
+mammoth bones (about –21) to the 3.1-billion-year-old microbial
+mats in South African sandstones and the fossils in Western Australian
+chert (between –25 and –27), bear out this simple relationship. So does
+fossil coal, the transformed remains of 300-million-year-old swamp
+life, which typically ranges from –24 to –25. Carbon isotope studies of
+soft-bodied fossils from the Burgess Shale, a 540-million-year-old British Columbian locality, made famous by Stephen Jay Gould’s Wonderful Life, display a similarly narrow range of values between –25 and
+–27. The conclusion: If a rock holds an ancient inventory of carbon
+atoms from once-living cells, then the carbon invariably will be light,
+even if all morphological signs of life are gone.
+The most ancient microbial samples, which often consist of black,
+carbon-rich splotches in limestone, shale, or other sedimentary rock,
+have received special attention in recent years. Dozens of studies on
+billion-year-old rocks from Africa, Australia, Europe, and North
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+EARTH’S SMALLEST FOSSILS
+
+55
+
+America reveal consistently negative carbon isotope values, but they
+also point to a significant scatter among the dozens of known microbial fossils more than a billion years old. Photosynthetic microbes,
+which live on sunlight, tend to lie in the –20 to –30 range. These organisms have dominated the fossil record since about 2 billion years ago,
+when Earth’s atmosphere became oxygen-rich. However, many types
+of more primitive single-celled organisms that live off the Earth’s
+chemical energy are much more efficient at concentrating the light carbon isotope, carbon-12. Values as low as –50 have been found in 3.8billion-year-old sediments. While these differences help paleontologists
+interpret the varied lifestyles of ancient microbes, all unambiguous cellular fossils contain some proportion of light carbon.
+It’s amazing how nerve-wracking waiting for a machine to produce a single isotope value can be. I was given my most memorable
+carbon-rich sample in the summer of 2002, during a lecture tour to
+Australia. A side trip to Sydney’s northwestern suburbs brought me to
+the campus of Macquarie University. There, in beautiful green landscaped grounds, is the home of the Australian Centre for Astrobiology,
+whose director is paleontologist Malcolm Walter.
+Walter’s work on ancient Australian microfossils was well known
+to me, and it was a delight to meet him. He welcomed me with a strong
+handshake, keen eyes, and ready smile and gave me a quick tour of the
+facility, a tweed jacket his only protection from the mild Sydney winter.
+My research was unknown to him, though he was well aware of the
+well-funded NASA Astrobiology Institute, of which I was part. He listened as I described our various research projects, but his ears really
+perked up when I recounted my collaborations at Carnegie with Andy
+Knoll and his students. I outlined our procedures for mapping carbon
+atoms and described some recent carbon-isotope results.
+“You might be interested in this,” he said, handing me a small cloth
+bag containing several black rock fragments. “It’s Strelley Pool Chert, a
+new find from Trendall in Western Australia. It’s almost as old as the
+Apex.”
+The chance to hold, much less study, one of Earth’s oldest rocks is
+a rare privilege. My response was rather pointed and less than subtle:
+“We’d be happy to do the carbon work, if you’d like. I could do it next
+week when I get back.” Few laboratories in Australia had the facilities
+to analyze the ancient rock, while Carnegie was set up and ready to go.
+A brief cloud of concern seemed to pass across Walter’s face, but
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+56
+
+GENESIS
+
+he hesitated only a moment before extracting a thumbnail-sized
+sample, a tiny fraction of the valuable hoard. “Perhaps you could have
+a look at this,” he said, and told me that he was eager to find out as
+soon as possible whether or not the rock’s carbon was light. I slipped it
+into my pocket, hardly believing my good fortune in having acquired a
+piece of Earth’s earliest history. The sample would be a top priority on
+my return, I assured him, and any data would be his to announce or
+publish as he wished. Our conversation shifted to less scientific matters: the constant stress of raising money for the Institute, and the glories of his sheep farm in the countryside, where he spends his weekends.
+For the rest of that Australian trip, the tiny, 3-ounce sample
+weighed heavily on my mind, and it rose right to the top of a long “to
+do” list on my return. When I need a carbon-isotope analysis at the
+Carnegie Institution, I turn to Marilyn Fogel, a biologist who has
+amassed an impressive arsenal of analytical hardware. Marilyn and her
+group study the cycling of elements through ecosystems, and there’s
+no better way to track an element than with isotopes. Carbon and nitrogen isotopes, both of which get progressively lighter as you move up
+through the food chain, are her specialty. Fogel’s field areas tend to be
+exotic: the crocodile-infested mangrove swamps of Belize, the parched
+outback of Australia, the boiling springs of Yellowstone Park. Her growing scientific reputation and thoughtful mentoring style attract a steady
+stream of postdocs and visitors.
+I grabbed the stone and headed down the hallway mid-morning.
+After the requisite niceties I got directly to the point: “I met Malcolm
+Walter in Sydney.” I reached into my pocket and handed her the piece
+of black chert. “Take a look at this.”
+“Apex?” she asked. We all had been following the Schopf controversy, and she knew that Apex Chert samples were pretty hard to
+come by.
+“Nope, this is apparently new. Same area but different. He’d like a
+carbon-isotope value.”
+Marilyn doesn’t generally betray excitement, but she immediately
+knew the significance. This black fragment was one of the oldest rocks
+on Earth. “Wow, that’s pretty neat!” She turned the object over in her
+hands. “Yes, I think the machine is available this afternoon.” She paused.
+“Why don’t you come by around two.”
+I passed the time by breaking off a small piece of the chert, crushing it in a mortar, immersing the powder in oil, and peering at the tiny
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+EARTH’S SMALLEST FOSSILS
+
+57
+
+glassy shards through a powerful microscope. How curious it was—
+unlike any rock I’d seen before. Myriad tiny black specks, each a few
+ten-thousandths of an inch across, clouded the otherwise clear, colorless chert matrix. Unlike typical fossil microbes, which tend to occur in
+clumps and filaments, these dots were uniformly dispersed. They certainly looked like carbon, but were they cells? Would they show a negative isotopic signature?
+At two o’clock I showed up at Marilyn Fogel’s lab, as arranged.
+Isotope experts rely on mass spectrometry, the experimental technique
+of choice for measuring a sample’s isotopic ratio. Marilyn’s mass spectrometer for carbon-isotope analyses sits in one corner of a 20 × 40foot room crowded with scientific hardware. Little space is wasted, and
+you have to exercise care not to bump into sensitive hardware when
+squeezing between the various experimental stations. These days, mass
+spectrometers tend to be highly automated and incredibly precise machines, though they still require meticulous maintenance and rigorous
+standardization procedures to yield reliable results. With a machine
+like Fogel’s, carbon-isotope analyses are relatively straightforward.
+[Plate 4]
+The mass spectrometer is a conceptually elegant analytical tool
+grounded on two of the great physical laws of nature. Newton’s second
+law of motion, F = ma (force equals mass times acceleration), enables
+the separation of two atoms of different mass. As noted, carbon-12
+and carbon-13 differ by about 8 percent in their mass, so if the two
+isotopes are subjected to an identical force, then the carbon-12 atom
+will accelerate about 8 percent faster than the carbon-13 atom. Mass
+spectrometers accomplish this acceleration by applying a second fundamental law, related to electricity and magnetism: Magnetic fields
+exert forces on electrically charged particles. The analytical technique
+is to ionize the carbon atoms: Strip an electron from each—by zapping them with a laser, for example—to yield carbon atoms with a
+positive electric charge, then subject the ionized atoms to a powerful
+magnetic field. In some mass spectrometers, a massive horseshoeshaped magnet bends the stream of carbon atoms (bending is a kind
+of acceleration, as you discover when you ride a twisting roller coaster).
+Carbon-12 atoms curve in a tighter arc than carbon-13, so the beam
+of carbon atoms separates into two. Two detectors placed side-by-side
+measure the relative amounts of the two isotopes. Alternatively,
+sensitive electronic detectors measure the time of each ion’s flight:
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+58
+
+GENESIS
+
+carbon-12 atoms arrive at a target a fraction of a second before
+carbon-13 atoms.
+Fogel’s mass spectrometer works best with a small powdered
+sample, so I had crushed and ground a chip of chert to specifications.
+Rocks are generally a lot easier to prepare than plant and animal tissues, which must be freeze-dried first. In duplicate, I carefully weighed
+about a milligram of rock powder and tightly wrapped the powder
+into a tiny ball of inert tin metal foil. Marilyn inserted a series of welldocumented carbon-isotope reference standards along with my
+samples, each a crumpled metal sphere about the size of a BB, into
+ports of the mass spectrometer’s automated sample holder. Then a
+computer control system took over and we had to sit back and wait for
+that one tantalizing number.
+It takes only a few minutes per sample, but it seemed longer. The
+standards always come first, of course; we have to make sure everything is working properly. Finally, the machine spewed out a single
+printed sheet of white paper, crammed with columns of numbers. One
+number at the bottom was the key: –25.7 ± 0.5. The carbon was light—
+just what we’ve learned to expect from ancient microbes! The analysis
+also indicated that about a tenth of a percent of the chert’s mass was
+carbon. The duplicate run soon followed: –25.9—satisfyingly consistent results.
+But even as we saw these enticing numbers, a nagging doubt remained about the biological origin of the carbon. The oddly uniform
+distribution of black specks in the chert looked nothing like fossil
+forms. Indeed, the uniform spacing suggested a more chemical process—a segregation of carbon from chert as oil drops separate from
+water. Might there be nonbiological pathways to such a light carbon
+signature? All known life-forms have a negative isotope signature, but
+does a negative isotope value provide unambiguous proof of life? We
+were convinced that the Australian chert had a fascinating story to tell.
+I e-mailed Malcolm Walters right away with the exciting data and
+a quick analysis of their possible significance. It would take a bit more
+work, I thought, but these were certainly publishable results. His reply
+came slowly, and with a disappointing surprise. Please stop working
+on the samples, he asked. Evidently, Walter’s Australian colleague, paleontologist Roger Summons, had been promised the chance to analyze the new find. Summons, a pioneer at extracting biomolecules from
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+EARTH’S SMALLEST FOSSILS
+
+59
+
+old rocks, had recently accepted a professorship at MIT and had already lined up a graduate student to do the work. It wouldn’t do for
+our efforts to undermine that thesis project.
+A deal’s a deal. I put aside the chert and went back to the seemingly
+endless list of other projects. But it sure was fun while it lasted.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+EARTH’S OLDEST “FOSSILS”?
+What does a negative carbon-isotope value tell us about an ancient
+rock? This question came into focus following a surprising announcement in the November 7, 1996, issue of Nature of the discovery of
+Earth’s most ancient fossil carbon. The Earth’s oldest known rocks,
+3.85-billion-year-old banded-iron outcrops from the remote island of
+Akilia off the southwest coast of Greenland, reveal not the slightest
+trace of anything that looks like a fossil. Nevertheless, these rocks may
+contain a modest store of carbon. Even though the rocks have experienced severe alteration through the ravages of temperature, pressure,
+and time, some of that carbon is encased in the protective mineral
+apatite. When Scripps Institution of Oceanography geochemist
+Stephen J. Mojzsis (now at the University of Colorado) and his colleagues collected those rocks and performed the first carbon-isotope
+analysis at UCLA in 1996, they were delighted to find light carbon, on
+average a dramatic 3.7 percent lighter than reference limestone. No
+known abiotic process produces that kind of value. That simple number, –37, was enough to convince many geologists that life had achieved
+a firm foothold by that ancient date.
+Such a result did much more than establish a world record for
+ancient life. The work of Mojzsis and his colleagues seemed to narrow
+the window for life’s origin, which presumably couldn’t have emerged
+until after the last global sterilizing asteroid impact, roughly 4 billion
+years ago. If signs of life persist in 3.85-billion-year-old rocks, then life
+arose very quickly indeed.
+But, as it turned out, the Akilia rocks posed problems. Earth’s oldest rocks have been through a lot: heated and squeezed and contorted
+beyond belief. Billions of years inevitably alter the fabric of a rock.
+Mojzsis interpreted the Akilia formation, with its appearance of intensely folded layers, as metamorphosed oceanic sediments—a perfectly reasonable residence for early cellular life. But when geologists
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+60
+
+GENESIS
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+Christopher Fedo of George Washington University and Martin
+Whitehouse of the Swedish Museum of Natural History performed a
+more detailed geological analysis of the carbon-bearing outcrop, the
+rocks proved to be an ancient molten igneous mass that gradually solidified deep underground from temperatures approaching 1,000°C.
+The carbon deposits must have formed under extreme metamorphic
+conditions deep in the crust. Under no circumstance could those rocks
+have contained life at the time of their formation.
+Scientists quickly came up with a range of plausible explanations
+for the light carbon. Heating experiments, which preferentially release
+recent organic contaminants, revealed that some of the rocks’ carbon
+is modern. It’s also possible that some natural nonbiological processes
+also generate light carbon. Today much of the carbon cycle is regulated
+by life, and all carbon compounds derived from living organisms are
+isotopically light. But before the first microbial life, there could have
+been equally vigorous geochemical processes that separated carbon-12
+from carbon-13. If so, then isotopes alone can provide scant help in
+recognizing life in Earth’s most ancient formations—or from rocks on
+other worlds, for that matter.
+At best, the isotopic evidence from Greenland is ambiguous. And
+so, in their search for unambiguous proof of ancient life, paleontologists have had to turn to even more elusive fossils—fragments of life’s
+oldest biomolecules.
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+5
+Idiosyncrasies
+The ability of the major atomic components of the cell to
+combine into molecules of considerable complexity . . . is
+enormous. However, the actual number of compounds that
+are used in biology is relatively small, comprising only
+hundreds of compounds.
+Noam Lahav, Biogenesis, 1999
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+I
+
+n a sense, you are what you eat. Nutrition labels on the side of every
+packaged food underscore this biochemical fact: Fats, carbohydrates,
+and proteins satisfy life’s energy requirements (i.e., calories) and provide life’s most basic molecular building blocks as well.
+Carbon, the essential element of life, combines with other atoms
+in every living cell to form the molecules of life. Even as ancient rocks
+can entomb the original carbon isotopes from cells, so too, under the
+right circumstances, they can preserve larger fragments of life’s
+biomolecules. Such molecular remnants hold great promise for identifying ancient life, because terrestrial life is so remarkably, uniquely idiosyncratic in its choice of chemical building blocks.
+SYNTHETIC QUIRKINESS
+Consider the example of life’s hydrocarbons, the molecular family that
+includes waxes, soaps, oils, and all manner of fuels, from gasoline to
+Sterno. All cells require a rich variety of these molecules, which incorporate long, chainlike segments of carbon and hydrogen atoms. Hydrocarbons, which we eat in the form of fats and oils, serve many
+cellular functions, including the production of flexible cell membranes,
+efficient energy storage, varied internal support structures, and more.
+61
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+62
+
+GENESIS
+
+In life and in commerce, long hydrocarbon molecules are usually
+made by linking smaller pieces end-to-end. When industrial chemists
+want to synthesize hydrocarbons, or when these molecules arise by
+natural nonbiological processes, the molecular chains are usually
+lengthened one carbon group at a time. This process ordinarily yields a
+suite of molecules with many different lengths, from just a few to many
+dozens of carbon atoms long, but all formed by the same stepwise
+mechanism.
+Life builds hydrocarbons differently and in a strikingly idiosyncratic way. In each cell an amazing tool kit featuring half-a-dozen different protein catalysts, collectively called the “fatty acid synthase,”
+facilitates the assembly of hydrocarbon chains by adding units of three
+carbon atoms to a growing chain and then stripping one away. The net
+result is carbon addition by pairs. So life’s biochemistry is often characterized by a preponderance of hydrocarbon chains with an even
+number of carbon atoms: chains of 12, 14, or 16 carbon atoms occur
+in preference to 11, 13, or 15. As a result, given a suite of molecules
+from some unknown source and a mass spectrometer that can analyze
+the size distribution of those molecules, it’s not too difficult to tell
+whether the hydrocarbons came from living cells or from nonbiological processes.
+Polycyclic compounds, an even more dramatic example of life’s
+molecular idiosyncrasies, include a diverse group of carbon-based
+molecules with several interlocking 5- and 6-member rings. A variety
+of cyclic molecules are found everywhere in our environment. Even
+before Earth was born, they were produced abundantly by chemical
+reactions in interstellar space and during star formation—processes
+that littered the cosmos and seeded the primitive Earth with cyclic organic molecules. The PAHs (polycyclic aromatic hydrocarbons) found
+in the Martian meteorite ALH84001 are examples of these ubiquitous
+compounds. Cyclic molecules continue to be synthesized on Earth as
+an inescapable by-product of all sorts of burning: They are found in
+the soot of fireplaces and candles, the smoke of incinerators and forest
+fires, and the exhaust of diesel engines. Travel to the remotest places on
+Earth—the driest deserts of North Africa, deep ocean sediments, even
+Antarctic ice—and you’ll find PAHs.
+Every living cell manufactures a variety of polycyclic carbon compounds but, as with hydrocarbon chains, the polycyclic compounds
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+63
+
+IDIOSYNCRASIES
+
+produced by life are much less varied than those produced by inorganic processes. The 4-ring molecules called sterols, including cholesterol, steroids, and a host of other vital biomolecules, underscore this
+point. Literally hundreds of different 4-ring molecules are possible, yet
+while the relatively random processes of combustion or interstellar synthesis yield a complex mixture of cyclic compounds, life zeroes in almost exclusively on sterols and their by-products.
+Again, cells employ a remarkably quirky synthesis pathway. The
+first step in forming a sterol is to manufacture lots of isoprene, a 5carbon branching molecule (which the cell makes from three smaller
+molecules). Six isoprene molecules line up end-to-end to form
+
+CH3
+
+=
+
+—
+
+A
+
+CH2 = C – CH2 = CH2
+Isoprene
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+B
+Squalene
+
+C
+
+Cholesterol
+Cells manufacture polycyclic molecules in an idiosyncratic three-step process. First,
+three small molecules link together to form isoprene (A). Then six isoprene molecules line up end-to-end to make squalene (B). Finally, squalene folds up into the 4ring cholesterol molecule (C). In these and subsequent drawings of molecules, each
+short line segment represents a chemical bond between two carbon atoms.
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+64
+
+GENESIS
+
+squalene, with 30 carbon atoms—24 of them in a chain, with six single
+carbon atoms branching off at regular intervals. This long molecule
+then folds up into the 4-ring sterol backbone.
+Biochemical textbooks describe dozens of other examples of elaborate synthetic pathways: photosynthesis to make the sugar glucose, glycolysis (splitting glucose) to make the energy-rich molecule ATP
+(adenosine triphosphate), metabolism via the citric acid cycle, the production of urea, and countless other vital chemical processes. Over and
+over, we find that cells zero in on a few key molecules. DNA and RNA,
+which carry the genetic code, rely on ribose and deoxyribose alone,
+eschewing the dozens of other 5-carbon sugars. Proteins are constructed from only 20 of the hundreds of known amino acids. What’s
+more, sugars and amino acids often come in mirror-image pairs—socalled “right-handed” and “left-handed” variants—but life uses righthanded sugars and left-handed amino acids almost exclusively.
+The take-home lesson is that life is exceedingly choosy about its
+chemistry. Of the millions of known organic molecules with up to a
+dozen carbon atoms, cells typically employ just a few hundred. This
+selectivity is perhaps the single most diagnostic characteristic of living
+versus nonliving systems. If an ancient rock is found to hold a diverse
+and nondescript suite of organic molecules, then there’s little we can
+conclude, yea or nay, about its biological origins. It may once have held
+life, or it may simply represent an abiotic accumulation of organic junk.
+If, on the other hand, an old rock holds a highly selective suite of carbon-based molecules—predominantly even-numbered hydrocarbon
+chains or left-handed amino acids, for example—then that’s strong
+evidence that life was involved.
+A crucial requirement, if this logic is to be implemented in the
+search for life here or on other worlds, is that biomolecules must be
+stable over time spans of billions of years. Large protein molecules
+won’t last that long, and neither will the 20 amino acids that comprise
+the building blocks of proteins. Nor will most carbohydrates or hydrocarbon chains. Over time, water attacks the bonds of these
+biomolecules, breaking them into smaller fragments of no diagnostic
+use. But polycyclic compounds, like sterols, degrade more slowly and
+might survive over geological spans of time. Therein lies a possible
+top-down path to the discovery of life that is distant in space or time.
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+IDIOSYNCRASIES
+
+65
+
+THE HOPANE STORY
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+Once in a very great while, extremely old rocks are found to hold microscopic droplets of a petroleum-like black residue—hydrocarbons
+that represent the remains of ancient marine algae. When such droplets were first discovered, decades ago, most scientists discounted the
+possibility that these organic remains were very old; no oil could survive billions of years of geological processing, they said. But subsequent discoveries and improved analytical techniques have convinced
+the geological community that a hardy breed of organic hydrocarbons
+can survive in ancient rock provided that temperatures never got too
+high.
+In their quest for life signs, a group of Australian scientists has
+focused upon what are perhaps the ideal biomarkers—distinctive sterol-derived polycyclic hydrocarbon molecules called hopanes. This
+group of elegant 5-ring molecules is known in nature only from the
+biochemical processes of cellular life, where it concentrates in protective cell membranes. Furthermore, different variants of hopanes point
+to specific groups of microbes with distinctive biochemical lifestyles. If
+an ancient rock happens to encase and preserve hopane-related molecular fragments with the diagnostic structures of once-living
+biomolecules, then we have convincing evidence of ancient life.
+In 1999, a team of scientists led by Roger Summons (then at the
+Australian Geological Survey Organisation) presented compelling evidence for the survival of hopanes in a sequence of 2.7-billion-year-old
+
+This 5-ring structure is characteristic of hopane, a distinctive biomolecule whose
+backbone may be preserved for billions of years in ancient sediments.
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+66
+
+GENESIS
+
+sedimentary rocks called the Pilbara Craton, in Western Australia. The
+black, carbon-rich shale layers in question came from a section of drill
+core extracted from a depth of about 700 meters. The mineralogy of
+the shale revealed that it had never experienced a temperature higher
+than about 300°C—an unusually benign history for such an ancient
+deposit.
+Hopanes have been common biomolecules for a long time, so the
+Australian team’s principal challenge was ruling out contamination
+from more recent life. The rocks might have been contaminated hundreds of millions of years ago by subsurface microbes, or by groundwater carrying biomolecules from the surface, or perhaps even by oil,
+seeping from some other sedimentary horizon. Summons and his colleagues discounted the last of these possibilities because they found no
+trace of petroleum in adjacent sediment layers. Modern contamination from living cells, which abound in the lubricants that scientists
+use to drill their deep holes in the host rock, was also a concern. The
+team ruled out such contamination, too, because the suite of molecules
+preserved in the shale was “mature,” containing none of the fragile organic species that would point to recent lubricants and accompanying
+microbial activity.
+Summons and his co-workers had to develop meticulous procedures to expose and clean unadulterated fresh rock surfaces: Break the
+rock, wash the surface, and measure the wash for contamination. They
+resorted to smaller and smaller rock fragments to avoid the inevitable
+impurities that had seeped in along cracks. Summons found that properly prepared powdered shale contained a distinct suite of ancient hydrocarbon molecules at hundreds of times higher concentrations than
+in adjacent chert and basalt layers from the same drill core. Nevertheless, the amount of hopanes was minuscule: of all the carbon-rich material extracted from the rock, no more than a precious few hundred
+parts per million were hopanes and related polycyclic molecules. Still,
+the very presence of hopanes provided evidence for ancient microbial
+life.
+Having overcome daunting hurdles, Summons and his colleagues
+announced their finding in August 1999, in two remarkable papers,
+one in Science and the other in Nature. The Science article detailed extraction of hopanes from 2.7-billion-year-old shale—results that broke
+the previous record for the oldest molecular biomarker by about a billion years. The Nature article described the discovery of hopanes from
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+IDIOSYNCRASIES
+
+67
+
+2.5-billion-year-old Australian black shale—a younger nearby formation, but with a twist. That formation included 2-methylhopanoid, a
+hopane variant known to occur in cyanobacteria, which are the primitive photosynthetic microbes responsible for generating Earth’s oxygen-rich atmosphere. The Australian team had found suggestive
+evidence that cyanobacteria were thriving long before 2 billion years
+ago, when Earth’s atmosphere is thought to have achieved modern levels of oxygen.
+By extracting and identifying unambiguous biomarkers in ancient
+rocks, Summons and colleagues had made a major advance in detecting and characterizing ancient life. They also helped close the gap in
+our ignorance of life’s emergence by embellishing the top-down story
+and pushing it just a little bit further back in time.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+BIOSIGNATURES AND ABIOSIGNATURES
+The quest for unambiguous “biosignatures,” including hopanes and
+other distinctive molecules, represents an effective strategy in the
+search for ancient life on Earth and other worlds. However, the identification of “abiosignatures”—chemical evidence that life was never
+present in a particular environment—might also prove important in
+constraining models of life’s emergence.
+Abiosignatures hold special significance to astrobiologists, who
+search for life in Martian meteorites and other exotic specimens. Are
+there physical or chemical tests that might preclude the presence of
+past life in those specimens? “NO LIFE ON MARS!” would be a bummer of a headline, but would nevertheless carry great scientific, not to
+mention philosophical, implications about the frequency of life’s
+emergence.
+Hopanes not only represent biosignatures for ancient life on Earth,
+but they also point to a search strategy for other worlds, especially our
+nearest neighbor, Mars. Based on what we now know about life and its
+fossil preservation, we are unlikely to find unambiguous Martian fossils of single cells, much less animals or plants, at least not any time
+soon. A Mars sample return mission won’t happen for at least a dozen
+years, while human exploration of the red planet is many decades away.
+And even with such hands-on exploration, we’d be incredibly lucky to
+find a convincing fossil. We’re much more likely to find local concentrations of carbon-based molecules, from which we can determine the
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+68
+
+GENESIS
+
+carbon-isotopic composition. However, as the Greenland incident reveals, a simple isotopic ratio may not be sufficient to distinguish
+nonbiological chemical systems from those that were once living.
+Suites of carbon-based molecules, if we can find them, hold much
+greater promise. An array of molecular fragments derived from a
+colony of cells, if not too degraded, will differ fundamentally from a
+geochemical suite synthesized in the absence of life. For now, molecules
+represent our best hope of finding proof of life both here and elsewhere in our solar system.
+The ideal molecular biosignatures—and abiosignatures as well—
+must display three key characteristics. First, biosignatures should consist of distinctive molecules or their diagnostic fragments that are
+essential to cellular processes. Similarly, abiosignatures should consist
+of molecules that clearly point to nonbiological processes.
+The second criterion is stability: biosignatures—and abiosignatures as well—must be molecules able to survive through geological
+time. Even the least altered ancient sediments have been subjected to
+billions of years of temperatures greater than the boiling point of water—conditions that significantly alter the chemical characteristics of
+any suite of organic molecules, whether biological or not. This criterion of stability, consequently, focuses our attention on unusually
+stable molecules.
+Finally, the molecules must occur commonly and in reasonable
+abundance. A molecular biosignature or abiosignature is of no use unless it can be detected by mass spectrometry or other standard analytical techniques.
+Hopanes, and the related sterols, are unquestionably excellent diagnostic biosignatures from the standpoint of stability, and they’re reasonably easy to analyze. Many ancient deposits yield traces of these
+molecules, and they will continue to be a tempting target for analysis,
+as well as a model for finding other biosignatures. But hopanes are
+probably not the ultimate answer in the search for signs of life: They
+seldom occur in abundance, and their absence cannot be taken as a
+reliable abiosignature.
+An alternative to the search for reliable biosignatures and
+abiosignatures might be to identify diagnostic ratios of molecular fragments, akin to the carbon-12/carbon-13 isotopic ratio. However, we’re
+confronted with a vast multitude of possible molecule pairs. Which
+pair of molecules should we study?
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+IDIOSYNCRASIES
+
+69
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+My first foray into the search for biomarkers occurred in the summer of 2004. Preliminary studies by George Cody on organic compounds in meteorites prompted us to look at the ratio of two of the
+commonest PAHs: anthracene and phenanthrene. These 3-ring polycyclic molecules, both made up of 14 carbon atoms and 10 hydrogen
+atoms (C14H10), differ only in the arrangement of the rings: In anthracene the rings form a line, in phenanthrene a dogleg. We realized
+that the ratio of these two molecules might fulfill the essential
+biomarker requirements: Both are distinctive, relatively stable, common in the geological record, and easy to detect in trace amounts.
+Phenanthrene and anthracene form in abundance through a variety of nonbiological processes, including any burning process that produces soot. These cyclic compounds are also synthesized in deep space,
+where they contribute to the molecular inventory of the carbon-rich
+meteorites called carbonaceous chondrites. The most celebrated of
+these is the Murchison meteorite, which fell to Earth in a cow field
+outside the small town of Murchison, about 100 miles north of
+Melbourne, Australia, on September 28, 1969. Meteorites hit Earth all
+the time, but the Murchison fall was special. For one thing, it was big—
+several kilograms of rock. For another, it was fresh and relatively un-
+
+Phenathrene (top) and anthracene are 3-ring polycyclic molecules that differ only
+in their shape. The ratio of these two molecules differs in abiotic and biological
+systems.
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+70
+
+GENESIS
+
+contaminated—a number of pieces were collected while they were still
+warm. But, most important, the Murchison was a carbonaceous chondrite, containing more than 3 percent by weight of organic molecules.
+That black, resinous matter, formed billions of years ago in dense molecular clouds and protoplanetary disks, held a treasure trove of the
+molecules that could have accumulated on the prebiotic Earth.
+George Cody had found that such meteorites often display about
+a 1:1 ratio of phenanthrene to anthracene. But biochemical processes
+seem to produce a different ratio. Many polycyclic biomolecules—including sterols and the varied hopanes—incorporate a 3-ring dogleg,
+so phenanthrene is a common and expected biomolecular fragment,
+and it should persist in rocks and soils, even when larger molecules
+break down. But for some reason, life almost never uses anthracene’s
+linear arrangement of three rings. Anthracene would thus seem to be
+correspondingly rare as a biomolecular fragment. Cody had found that
+biogenic coals typically hold 10 times more phenanthrene than
+anthracene.
+Is the ratio of phenanthrene to anthracene a useful biomarker?
+Testing this idea required measuring the ratios of cyclic compounds in
+lots of samples, so that was the task I gave to Rachel Dunham, a bright
+and energetic undergraduate summer intern from Amherst College.
+Over the course of her 10-week stay in Washington, Rachel assembled
+dozens of natural and synthetic PAH-containing samples from around
+the world, analyzed them with our gas chromatograph/mass spectrometer, and managed to track down many more analyses from the vast
+coal and petroleum literature, since it turns out that PAHs are especially abundant in some fossil fuels.
+The first few data points seemed to support the hypothesis. The
+Murchison and Allan Hills meteorites showed phenanthrene-to-anthracene ratios of 1.7:1 and 2:1, respectively. The biogenic Burgess
+Shale and a mature coal, on the other hand, yielded much higher ratios, close to 15:1. But then results began to scatter. Some low-grade
+coals had ratios less than 5:1, while the black, fossil-rich Enspel Shale
+was only about 2:1. The promising hypothesis began to crumble.
+After several weeks of effort, and a thorough review of the published literature, Rachel discovered that we were simply reinventing
+the wheel. Coal experts have long known that anthracene is slightly
+less stable than phenanthrene. Consequently, “high-grade” coals that
+have experienced prolonged high temperatures and pressures have a
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+IDIOSYNCRASIES
+
+71
+
+higher ratio of phenanthrene to anthracene, topping 20:1 in some
+specimens. Such a high ratio in any sample may have resulted from
+prolonged heating and have nothing at all to do with a biogenic past.
+Our only useful conclusion was that unambiguously biological
+specimens never seem to display ratios less than about 2. So a lower
+ratio of phenanthrene to anthracene, as found in meteorites, syntheticrun products, and soot from burning carbon, may provide a valid
+abiomarker.
+The next step? Perhaps we’ll try another PAH ratio, such as that of
+phenanthrene to pyrene, a particularly stable diamond-shaped molecule with four interlocking rings (C16H10). One thing is certain: we’ll
+never run out of molecules to try.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+LOOKING FOR LIFE ON MARS
+The most exciting, important, and potentially accessible field area to
+look for ancient alien life is Mars, which, like Earth, formed some 4.5
+billion years ago. A mass of new data points to an abundance of surface
+water during the planet’s first billion years, dubbed the Noachian epoch by Mars geologists. Sunlit lakes, hydrothermal volcanic systems,
+and a benign temperature and atmosphere might have sparked life and
+made Mars habitable long before Earth. Perhaps fossils, molecular and
+otherwise, litter the surface.
+The quest for Martian life has a checkered history. A century ago,
+American astronomer Percival Lowell reported observations of a network of canals on the red planet—evidence of an advanced civilization, he thought. Such speculation fueled the imaginations of science
+fiction writers, but hardened the scientific community to such unsubstantiated claims. NASA’s remarkable Viking Mars lander of the mid1970s carried an array of experiments designed to find organic
+compounds and to detect cellular activity, but ambiguous results
+merely led to more controversy. Hot debates over purported fossils in
+the Allan Hills Martian meteorite represent just one more chapter in
+this contentious saga. Given such a troubled context, NASA will choose
+its next round of life detection experiments with the greatest of care.
+Humans aren’t going to set foot on Mars anytime soon, but that’s
+what NASA’s amazing rovers are for. Sojourner, Spirit, Opportunity, and
+other robotic vehicles provide the experimental platform; they haul
+the instruments across the desolate Martian surface to probe tantaliz-
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+72
+
+GENESIS
+
+ing rocks and soils. The key to finding life (or the lack thereof) is to
+design and build a flight-worthy chemical analyzer for life. That has
+been the occupation of Andrew Steele throughout much of his career.
+“Steelie,” my ebullient colleague at the Geophysical Laboratory, is
+a microbial ecologist who got his start studying the microbial corrosion of stainless steel in nuclear reactors. British Nuclear Fuels Ltd.
+sponsored his PhD thesis, which is still largely classified and unpublished. Radioactive isotopes often contaminate the thin outer layer of
+stainless steel that lines nuclear reactors—a difficult and costly cleanup problem. Steelie invented new microscopic techniques to study the
+steel surfaces, and he found that some microbes secrete biofilms that
+rapidly eat away steel, thus stripping off the affected layers and greatly
+simplifying decontamination. [Plate 4]
+In 1996, just two weeks after defending his PhD thesis in England,
+the Allan Hills meteorite story broke. The timing was perfect, and
+Steelie was hooked. Setting his sights on nonradioactive ecosystems, he
+became obsessed with attempts to detect ancient life from the faint
+molecular traces in rocks. He contacted the NASA team, who were lacking in microbiology expertise and thus eager for his help. David McKay
+sent him a sample of the precious Martian rock, and within a year
+Steele had applied his microscopic techniques to investigations of the
+purported microbes. He made a memorable presentation at NASA’s
+annual Lunar and Planetary Science Conference in Houston and
+landed himself a job as a NASA microbiologist working at the Johnson
+Space Center under McKay’s guidance.
+Steelie’s assignment at NASA was to head the JSC Blue Team (consisting of Steele and a fellow gadfly), who were to try out every possible
+idea to disprove the hypothesis of Martian life in the Allan Hills meteorite. McKay led the significantly larger competing Red Team. McKay’s
+strategy of examining both sides of the issue was laudable and in the
+best tradition of scientific objectivity, but it may have backfired when
+Steelie did his job too well. He performed a series of high-resolution
+microscope studies and by 1998 had discovered that the Allan Hills
+specimen (like virtually every other meteorite he had ever examined)
+was riddled with contaminating Earth microbes. McKay was
+unconvinced and continued to promote his original interpretation of
+ALH84001. Discouraged at the cool reception accorded his findings,
+and missing his wife and family in England, Steele left his steady NASA
+employment in early 1999 for a hectic schedule of visiting professor-
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+IDIOSYNCRASIES
+
+73
+
+ships and research jobs at the Universities of Montana, Oxford, and
+Portsmouth, along with more NASA consulting.
+About the time that Andrew Steele’s research was making him
+something of a persona non grata at the Johnson Space Center, the
+Carnegie Institution’s Geophysical Laboratory found itself under new
+leadership. Wes Huntress, the former associate administrator of the
+NASA Office of Space Science (and the man who introduced the term
+“astrobiology” to the NASA community), had been hired to shake
+things up and expand Carnegie’s fledgling astrobiology effort. In a bold
+and welcome move, Huntress made Steele his first staff appointment
+in 2001. Steelie’s peripatetic scientific lifestyle seemed unsuited to the
+traditional academic world, but his unconventional background was
+just the ticket for the Geophysical Lab.
+He arrived like a whirlwind, his shoulder-length blond hair and
+open tie-dyed lab coat flying behind him as he dashed between office
+and lab. Crates and boxes arrived by the dozen at his second-floor domain, two doors down from my own office. He crammed his lab space
+with DNA sequencers, chip writers and chip readers (benchtop machines that prepare and read slides), and a bewildering array of other
+microbiological hardware, most of which none of us geologists had
+ever seen before. A small army of bustling postdocs followed and the
+corridor took on new life. Chemist Mark Friese brought his collection
+of orchids to grace one alcove with a forest of exotic blooms. Molecular biologist Jake Maule maintained his pro-level golf game by challenging all comers to putting contests—a regular stream of golf balls
+began rolling past my open doorway.
+In such an environment, new ideas fly thick and fast. Steelie had a
+master plan. He wanted to build a life-detecting machine to fly to
+Mars—a huge interdisciplinary project, given how much we still don’t
+know. On the scientific side, he had to figure out what constitutes a
+legitimate biosignature, so Steelie embarked on various paleontology
+projects, principally with German postdoc Jan Toporski, who happens
+to be his brother-in-law and soccer buddy. (There are also a lot of soccer balls and other soccer paraphernalia in the corridor.) They focused
+on a 25-million-year-old fossil lake in Enspel, Germany, where wellpreserved fish, tadpoles, and other animals are found. Studies of their
+molecular preservation would provide important hints about life’s
+most stable and diagnostic molecular markers.
+Then there was the detection part. It was essential to develop an
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+74
+
+GENESIS
+
+unambiguous procedure to find the tiniest amounts of any target molecule. That’s where Jake Maule came in. An aspiring astronaut trained
+in clinical medical technology, Jake’s job was to develop molecular antibodies—proteins with specialized shapes that would lock onto only
+one type of target molecule. [Plate 4]
+Jake focused on producing hopane antibodies for use in a rapid
+and sensitive field test for microbes. His procedure involved injecting
+mice with hopanes and letting their immune systems do most of the
+work. Hopanes are too small to evoke an immune response by themselves, so Jake attached hopane molecules to a big protein called BSA
+(for bovine serum albumin). He injected 30 mice with a hopane–BSA
+solution, waited a week, and gave each a booster shot. In about three
+weeks, the mice manufactured a suite of hopane-sensitive antibodies.
+From each mouse, Jake extracted a syringe full of blood, which was
+centrifuged to separate out the red and white blood cells from the watery fluid that held the antibodies. Ultimately, each mouse yielded one
+tiny, precious droplet of that antibody-rich fluid.
+Armed with hopane antibodies, Maule was ready to analyze ancient rocks, in an elegant four-step process.
+Step 1: He crushed various promising rock samples and washed
+them in a solvent, which concentrated any hopane residues. Those solutions were loaded into the chip writer, a sleek benchtop machine
+about the size of a breadbox that placed an array of tiny dots of the
+solutions (some containing hopane and others not) and various standards onto a glass slide.
+Step 2: With the chip writer, he applied a tiny amount of hopane
+antibody onto each of the sample spots, then rinsed. Some spots then
+retained hopanes with attached antibodies, while other spots were
+washed clean.
+Step 3: He then treated each spot with another solution, this one
+containing a second antibody that locks onto any mouse antibody and
+is also highly fluorescent. All the spots with hopanes attached to mouse
+antibodies would thus fluoresce.
+Step 4: Finally, he took the glass slide with its array of spots and
+put it into a second sleek machine, the chip reader, which, as its name
+suggests, recorded which spots fluoresced and which spots didn’t. Like
+microscopic lightbulbs, his antibodies glowed when hopanes were
+present in the rock sample.
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+IDIOSYNCRASIES
+
+75
+
+Jake had devised a fast, automated process for identifying hopanes.
+But all that work and more was mere prelude to the most crucial aspect of a flight-ready analytical instrument—the design and engineering. Concepts and benchtop demonstrations were one thing, but an
+instrument on Mars has to be absolutely reliable, shock resistant, and
+very, very small. Steelie began dealing with nitty-gritty questions of
+how to collect a soil sample, how to introduce a small amount of sterile
+solvent to dissolve the target molecules, how to excite a fluorescent
+signal, and how to relay the information home to Earth, all in a tiny
+box. Soon, armed with a million dollars of NASA funding, he planned
+to fly the instrument on NASA’s 2013 mission to Mars.
+Steelie’s baby is called MASSE—the Microarray Assay for Solar
+System Exploration. Adapting the latest in chip writer/chip reader
+technology, his team is building both flight-ready and handheld devices that use antibodies to detect trace amounts of dozens of diagnostic biomolecules: hopanes, sterols, DNA, amino acids, a variety of
+proteins, even rocket exhaust. Carnegie is not alone in developing such
+an instrument, and given the intense competition of other dedicated
+design teams, there’s no guarantee that MASSE will ever fly. Steelie is
+also competing against a seductive sample-return mission—a technically challenging effort to return a soda can-sized canister of Martian
+rock and soil to Earth on the same 2013 mission. Only one instrument
+package will be selected. Even if MASSE does fly, there’s no guarantee
+that it will arrive safely, and if it does arrive safely that it will find
+anything of interest. Of course, Steelie and his group are learning lots
+of fascinating stuff along the way. And I’ve never seen scientists have
+so much fun.
+
+
+In our quest to understand life’s emergence, fossils provide essential
+clues. Even lacking morphological evidence, fossil elements, isotopes,
+and molecules point to the nature of primitive biochemical processes.
+These microscopic remains also reveal a diversity of life-supporting
+environments and help to constrain the timing of life’s genesis. What’s
+more, if we’re lucky, fossils from Mars or some other extraterrestrial
+body may eventually provide the best evidence that life has emerged
+more than once in the universe.
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+76
+
+GENESIS
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+And yet, valuable as these insights may be, all known fossils represent remains of advanced cellular organisms similar to those alive today. Few, if any, clues remain regarding the emergent biochemical steps
+that must have preceded cells. To understand how life arose, therefore,
+we must go back to the beginning and approach the question of origins from the bottom up.
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:26.
+
+

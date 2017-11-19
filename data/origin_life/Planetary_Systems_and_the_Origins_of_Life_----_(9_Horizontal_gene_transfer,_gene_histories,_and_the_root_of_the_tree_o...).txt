@@ -1,0 +1,873 @@
+9
+Horizontal gene transfer, gene histories, and the
+root of the tree of life
+Olga Zhaxybayeva
+Dalhousie University
+
+and
+
+J. Peter Gogarten
+University of Connecticut
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+9.1 Introduction
+Tracing organismal (species) histories on large evolutionary timescales remains
+a big challenge in evolutionary biology. Darwin metaphorically labelled these
+relationships the ‘tree of life’, but in his notebook he expressed unhappiness with
+this label, because in the ‘tree of life’ depicting species evolution only the tips of
+the branches are alive; this layer of living organisms rests on dead ancestors and
+extinct relatives. Darwin mused that therefore the term ‘coral of life’ would be
+more appropriate (B26 in Darwin (1987)); however, this alternative label did not
+gain popularity. Different markers have been utilized to elucidate the relationship
+among different lineages: from morphological characters to complete genomes.
+Since complete genomes are now available for organisms from all three domains of
+life, it is possible to use large amounts of data to attempt to decipher the relationships
+between all known organisms.
+Many comparative genome analyses have shown that different genes in genomes
+often have different evolutionary histories (e.g., Hilario and Gogarten (1993),
+Nesbo et al. (2001), and Zhaxybayeva et al. (2004)), which implies that the tree of
+life metaphor (and a bifurcating tree as a model for evolutionary relationships in
+general) might be no longer adequate (Doolittle, 1999). The incongruence between
+gene histories can be attributed to many factors, one of which is horizontal gene
+transfer (HGT). Simulations based on coalescence have shown that HGT can affect
+not only the topology of an inferred phylogeny (and therefore inferences of last
+common ancestors), but also divergence times (Zhaxybayeva and Gogarten, 2004;
+Zhaxybayeva et al., 2005). In this chapter we review challenges in multigene
+analyses in light of HGT and discuss the consequences for inferring the position of
+the root of the tree/coral of life.
+
+Planetary Systems and the Origins of Life, eds. Ralph E. Pudritz, Paul G. Higgs, and Jonathon R. Stone.
+Published by Cambridge University Press. © Cambridge University Press 2007.
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:09:31.
+
+9.2 How to analyse multigene data?
+
+179
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+9.2 How to analyse multigene data?
+In addition to different models and methods for sequence analyses (see Chapter 8
+for an overview), many methodologies exist for the analysis of multiple genes.
+One approach is to combine individual genes into a single dataset to extract
+phylogenetic information that might be distributed over many gene families; this
+so-called ‘supermatrix approach’ is often cited as a way to improve the resolution
+of the inferred phylogeny (Brown et al., 2001; Delsuc et al., 2005). In this
+approach, the individual gene alignments are concatenated into one superalignment,
+if the individual gene histories are found to have compatible (non-conﬂicting)
+phylogenetic histories. Then the superalignment is analysed as if it were one gene
+alignment, but with an advantage of containing a larger number of sites informative
+for phylogenetic analysis.
+A problem with direct concatenation is the selection of data to include. This
+selection is complicated by the fact that the absence of evidence for transfer cannot
+be taken as evidence for the absence of transfer. If one applies a stringent measure
+for the detection of conﬂict, nearly all genes agree with each other within the limits
+of conﬁdence. The amount of conﬂict detected depends on the chosen limits of
+conﬁdence and on the extent of taxon sampling (Snel et al., 2002; Daubin et al.,
+2003; Mirkin et al., 2003; Ge et al., 2005; Kunin et al., 2005).
+Testing the compatibility between different trees and the alignments from
+which these trees were derived using the Shimodaira–Hasegawa (Shimodaira and
+Hasegawa, 1999) or approximately unbiased (AU) test (Shimodaira, 2002) has
+become the preferred tool for assessing potential conﬂict between individual gene
+families (e.g., Lerat et al. (2003)). In these tests, the ﬁt of alternative topologies to
+an alignment is evaluated and the trees under which the data have a signiﬁcantly
+worse probability are rejected and considered as incompatible with the data. (The
+probability of observing the data given a model of evolution and a phylogenetic tree
+is also known as the likelihood of a phylogenetic tree.) However, the failure to reject
+a tree should not be mistaken for evidence for congruence with a tree (Bapteste
+et al., 2004). A gene might indeed have evolved with a different history, and this
+history might be different from the consensus phylogeny, but the individual gene
+family contains too little phylogenetically useful information to make the likelihood
+of the two phylogenies signiﬁcantly different. This is analogous to the failure in
+detecting a signiﬁcant correlation between fat intake and cancer (Prentice et al.,
+2006): it does not prove that the correlation does not exist; it only says that the
+correlation was not signiﬁcant in the dataset, possibly because too small a sample
+was studied.
+Another challenge to inferences based on concatenation may come from hidden,
+or unrecognized, paralogy in lineages that went through frequent gene duplication
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:09:31.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+180
+
+Horizontal gene transfer, gene histories, and the root of the tree of life
+
+and aneupolyploidization (i.e., having multiple, albeit each incomplete, sets of
+chromosomes). Especially in animals with metameric organization (i.e., with the
+body divided into a number of similar segments), gene and genome duplications
+have long been postulated to have created the regulatory complexity necessary
+for the different bodyplans (e.g., Nam and Nei (2005)). Multiple whole genome
+duplications were inferred for the early evolution of plants (Cui et al., 2006)
+and vertebrates (Escriva et al., 2002; Meyer and Van de Peer, 2005). These gene
+duplications have led to gene families with often astounding diversity (e.g., Foth
+et al. (2006)).
+However, it is not the complexity of the gene families in itself that generates
+problems in phylogenetic reconstruction; rather, the frequent loss of one or the
+other paralogue (Hughes and Friedman, 2004; Nam and Nei, 2005) can lead to
+the inclusion of unrecognized paralogues in the datasets, with the result that some
+of the events in the genes’ histories reﬂect gene duplication and not speciation
+events. For example, analysing the homeobox gene superfamily in 11 genomes,
+Nam and Nei (2005) inferred 88 homeobox genes to have been present in the
+ancestor of bilateral animals. Thirty–forty of these were completely lost in one of
+the 11 species analysed, and many of the ones still represented underwent frequent
+gene duplications, especially in vertebrates, where more than 200 homeobox
+genes are found per haploid genome. In a study of four animal genomes,
+Hughes and Friedman (2004) observe massive (19–20% of gene families present
+in common ancestor) parallel loss in Caenorhabditis elegans and Drosophila
+melanogaster.
+An alternative to the supermatrix approaches (Delsuc et al., 2005) is to analyse
+genes individually and to combine the resulting trees (or the bipartitions/embedded
+quartets constituting the trees) into a consensus signal (i.e., the phylogenetic signal
+supported by at least a plurality of genes) by using supertree methods (Beiko et al.,
+2005), bipartition plotting (Zhaxybayeva et al., 2004), or quartet decomposition
+(Zhaxybayeva et al., 2006). As an example, Figure 9.1A shows bipartition analysis
+of 678 gene families present in ten cyanobacterial genomes (see Zhaxybayeva
+et al. (2004) for more details). A bipartition plot shows all bipartitions signiﬁcantly
+supported by at least one gene family and allows us to extract quickly the plurality
+signal as well as gene families conﬂicting with it. Notably, for cyanobacteria,
+only three compatible bipartitions are supported by the plurality of genes, resulting
+in a not very resolved plurality consensus (Figure 9.1B). And even those three
+bipartitions are conﬂicted strongly by 13 gene families (i.e., these genes support a
+conﬂicting partition with >99% bootstrap support; see Figure 9.1 legend for the list
+of gene families). An advantage of the bipartition plotting approach is that only the
+signal retained in the plurality of datasets is used to synthesize the consensus; the
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:09:31.
+
+9.2 How to analyse multigene data?
+
+181
+
+B
+
+A
+
+Prochlorococcus sp. MIT9313
+
+500
+
+Number of Gene Families
+
+marine Synechococcus WH8102
+
+Prochlorococcus sp. CCMP1375
+0
+
+Prochlorococcus sp. MED4
+Nostoc punctiforme
+Anabaena sp. PCC7120
+
+–500
+
+Trichodesmium erythraeum
+70%
+
+Synechocystis sp. PCC6803
+
+80%
+–1000
+
+90%
+95%
+
+Thermosynechococcus elongatus
+
+99%
+
+Gloeobacter violaceus
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+Bipartitions
+
+Fig. 9.1. Bipartition plot analysis of 678 gene families in ten cyanobacterial
+genomes. An unrooted phylogenetic tree can be represented as a set of bipartitions
+(or splits). If a branch of a tree is removed, the tree ‘splits’ into two sets of leaves.
+A bipartition of an unrooted phylogenetic tree is deﬁned as a division of the tree
+into two mutually exclusive sets of leaves. A. Plot of bipartitions with at least
+70% bootstrap support. Each column represents the number of gene families that
+support (columns that are pointing upwards) or conﬂict (columns that are pointing
+downwards) a bipartition. The columns are sorted by number of gene families
+supporting each bipartition. The level of bootstrap support is coded by different
+shades of gray. For details of phylogenetic analyses see Zhaxybayeva et al. (2004).
+B. Plurality consensus reconstructed from the three most supported partitions.
+The genes that are in conﬂict with the consensus at >99% bootstrap support
+encode ribulose bisphosphate carboxylase large subunit, cell division protein
+FtsH, translation initiation factor IF-2, ferredoxin, geranylgeranyl hydrogenase,
+amidophosphoribosyltransferase, photosystem II protein D2, photosystem II
+CP43 protein, photosystem II CP47 protein, photosystem I core protein A2,
+photosystem I core protein A1, photosystem II manganese-stabilizing protein, and
+5 -methylthioadenosine phosphorylase.
+
+disadvantage is that individual gene analyses often suffer from a lack of resolution
+due to an insufﬁcient number of phylogenetically informative positions.
+Regardless of the method used to arrive at the consensus, the question still
+remains: what does the signal inferred from multigene data mean? Does it serve
+as a proxy for an organismal phylogeny? Does it sometimes reﬂect grouping by
+ecotypes? In the next section we explore these questions by considering an example
+of four marine cyanobacteria.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:09:31.
+
+182
+
+Horizontal gene transfer, gene histories, and the root of the tree of life
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+9.3 What does the plurality consensus represent? Example of small
+marine cyanobacteria
+At the time of the analysis, four genomes of small coccoid marine cyanobacteria
+of broadly similar lifestyles had been completely sequenced: Prochlorococcus
+marinus CCMP1375 (also known as SS120), Prochlorococcus marinus MED4,
+Prochlorococcus marinus MIT9313, and marine Synechococcus WH8102.
+Members of the Prochlorococcus genus have only been discovered quite recently
+due to their small size and anomalously low ﬂuorescence (Chisholm et al., 1988).
+Marine Synechococcus and Prochlorococcus are proposed to diverge from a
+common phycobilisome-containing ancestor (Ting et al., 2002). The phycobilisome
+is a light-harvesting complex associated with photosystem II and is used as
+a light-harvesting antenna in most cyanobacteria. Phylobilisomes, in contrast
+to the light-harvesting complexes of higher plants, are not embedded in the
+photosynthetic membrane, and they contain phycobilins as pigments, which give
+the cyanobacteria their typical blue-green colour. While marine Synechococcus still
+uses phycobilisomes as light-harvesting antennae (an ancestral trait), members of
+the Prochlorococcus genus lack phycobilisomes and utilize a different chlorophylcontaining antenna complex (Pcb). Prochlorococcus also possess derivatives of
+chlorophyll a and b pigments that are unique to this genus (see Partensky et al.
+(1999) for a review). In addition, marine Synechococcus and Prochlorococcus
+are adapted to different ecological niches: marine Synechococcus is prevalent in
+coastal waters, while Prochlorococcus is ubiquitous in open subtropical and tropical
+ocean. Within Prochlorococcus marinus two ‘ecotypes’are differentiated: low-light
+adapted and high-light adapted types (Rocap et al., 2003). In the 16S rRNA tree,
+low-light adapted Prochlorococcus spp. form a paraphyletic clade with respect to
+high-light adapted Prochlorococcus spp. (Ting et al., 2002). Beiko et al. (2005)
+reported more than 250 HGT events among these marine cyanobacteria. In their
+supertree as well as in our bipartition analyses (Zhaxybayeva et al., 2004) the
+marine cyanobacteria cluster into two clades: P. marinus CCMP1375 (‘low-light’
+adapted) groups with P. marinus MED4 (‘high-light’), and P. marinus MIT9313
+(‘low-light’) groups with marine Synechococcus WH8102 (Beiko et al. (2005)
+and Figure 9.1B). Interestingly, the relationship among these four genomes as
+captured by the supertree and bipartition analyses does not support the relationship
+inferred from phylogenetic analyses of 16S rRNA (e.g., Ting et al., 2002), or the
+groupings based on proposed ecotypes (Ting et al., 2002; Rocap et al., 2003),
+or the many derived characteristics shared between the three Prochlorococcus
+species. These results are conﬁrmed through independent analyses of cyanobacteria
+utilizing embedded quartets (Zhaxybayeva et al., 2006). One explanation for the
+conﬂict between the genome consensus, and the many complex derived characters
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:09:31.
+
+9.4 Where is the root of the ‘tree of life’?
+
+183
+
+is rampant gene ﬂow among these genomes, such that the plurality consensus no
+longer reﬂects the ecotype, physiology, and organismal history. In support of this
+hypothesis, cyanophages infecting marine cyanobacteria have been reported to
+contain genes important for photosynthesis (Mann et al., 2003; Lindell et al., 2004;
+Millard et al., 2004; Sullivan et al., 2005; Zeidner et al., 2005), and likely mediate
+transfer and recombination of these genes among the marine cyanobacteria (Zeidner
+et al., 2005).
+Notably, such an observation is not limited to prokaryotes. For example,
+in incipient species of Darwin’s ﬁnches frequent introgression can make some
+individuals characterized as belonging to the same species by morphology and
+mating behaviour genetically more similar to a sister species (Grant et al., 2004).
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+9.4 Where is the root of the ‘tree of life’?
+In phylogenetic analysis using molecular sequences external information is required
+to identify the root of an inferred tree, i.e., the node from which all other nodes
+of the tree are descended. Usually, an outgroup is needed to root a tree, i.e., a
+taxon which is known to diverge earlier than the group of interest. However, this
+methodology becomes inapplicable to the problem of rooting the tree of life (since
+all organisms are part of the group of interest). One method of determining the
+root of the tree of life from molecular data is to use ancient duplication events.
+If a gene duplication event has occurred before the divergence of all extant
+organisms, then the phylogenetic tree containing both gene duplicates will be
+symmetrical, and one set of duplicated genes can be used as an outgroup to the
+other. In the past, several pairs of anciently duplicated genes have been detected and
+analysed. The analyses produced a variety of controversial results as summarized
+in Table 9.1. A large-scale comparison of anciently duplicated genes did not bring
+any consensus (Zhaxybayeva et al., 2005), as possible locations of the root were
+observed in various places (Zhaxybayeva et al., 2005). If some groups of organisms
+evolve slower than others in molecular and physiological characteristics, then their
+phenotype might be considered as reﬂecting the phenotype of the most recent
+common ancestor (MRCA) (Woese, 1987; Xue et al., 2003; Ciccarelli et al., 2006).
+However, these presumably primitive characteristics do not allow us to place the
+ancestor in the tree of life, because they do not inform us about the relationship
+between the slow and fast evolving groups (Cejchan, 2004).
+Inspecting phylogenies based on molecular characters one often forgets that
+the deeper parts of the tree of life are formed by only those lineages that have
+extant representatives. However, these lineages were not the only ones present in
+earlier times. Many lineages became extinct, or at least their extant representatives have not been discovered. It is reasonable to assume that at the time of the
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:09:31.
+
+184
+
+Horizontal gene transfer, gene histories, and the root of the tree of life
+
+Table 9.1. Different points of view on the location of the root of the tree of life
+Location of the root
+
+Phylogenetic marker used
+
+Citations
+
+on the branch leading
+to the bacterial
+domain
+on the branch leading
+to the bacterial
+domain
+on the branch leading
+to the bacterial
+domain
+on the branch leading
+to the bacterial
+domain
+on the branch leading
+to the bacterial
+domain
+on the branch leading
+to the bacterial
+domain
+
+V- and F-type ATPases
+catalytic and
+regulatory subunits
+translation elongation
+factors EF-tu/1 and
+EF-G/2
+Val/Ile amino-acyl
+tRNA synthetases
+
+Gogarten et al. (1989)
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+inconclusive results:
+Archaea do not
+appear as a
+monophyletic group
+on the branch leading
+to the bacterial
+domain
+inconclusive results:
+no statistical support
+for the best tree
+topology
+within Gram-negative
+bacteria
+on the branch leading
+to the eukaryotic
+domain
+on the branch leading
+to the bacterial
+domain, but the
+authors think it is an
+artefact due to LBA
+
+Iwabe et al. (1989)
+Brown and Doolittle
+(1995)
+
+Tyr/Trp amino-acyl
+tRNA synthetases
+
+Brown et al. (1997)
+
+internal duplication in
+carbamoyl phosphate
+synthetase
+components of signal
+recognition particle –
+the signal
+recognition particle
+SRP54 and its signal
+receptor alpha SRα
+components of signal
+recognition particle –
+the signal
+recognition particle
+SRP54 and its signal
+receptor alpha SRα
+aspartate and ornithine
+transcarbamoylases
+
+Lawson et al. (1996)
+Gribaldo and
+Cammarano (1998)
+
+Kollman and Doolittle
+(2000)
+
+Labedan et al. (1999)
+
+histidine biosynthesis
+genes hisA/hisF
+
+Charlebois et al. (1997)
+
+membrane architecture
+
+Cavalier-Smith (2002)
+
+translation elongation
+factor proteins,
+EF-1alpha and EF-2
+elongation factors,
+ATPases, tRNA
+synthetases,
+carbamoyl phosphate
+synthetases, signal
+recognition particle
+proteins
+
+Forterre and Philippe
+(1999); Lopez et al.
+(1999)
+Philippe and Forterre
+(1999)
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:09:31.
+
+9.5 Use of higher order characters: example of ATPases
+
+185
+
+Table 9.1. (cont.)
+Location of the root
+
+Phylogenetic marker used
+
+Citations
+
+between Archaea and
+Bacteria
+
+structural features of
+Gln/Glu tRNA
+synthetases
+16S rRNA
+transfer RNAs
+various characteristics
+
+Siatecka et al. (1998)
+
+within Archaea
+within Archaea
+under aboriginal
+trifurcation
+inconclusive results
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+conceptual difﬁculties
+
+RNA secondary
+structure
+–
+
+Lake (1988)
+Xue et al. (2003)
+Woese et al. (1978)
+Caetano-Anolles (2002)
+Bapteste and Brochier
+(2004)
+
+organismal MRCA many other organisms were in existence as well (Figure 9.2). If
+the processes of speciation and extinction can be approximated by a random process,
+coalescence theory would be an appropriate tool to describe lineages through time
+plots (Zhaxybayeva and Gogarten, 2004).
+Due to the vast time spans needed for the lineages to coalesce to their MRCA,
+the individual phylogenies from extant lineages usually have two longest branches
+leading to the MRCA, and therefore these phylogenetic analyses will be subject to
+potential long branch attraction (LBA) artefacts. Therefore, additional higher order
+shared derived characters (synapomorphies) are helpful to reinforce the inferred
+position of the root. Larger insertions/deletions or derived structural features
+are considered rare and mostly irreversible and may serve as synapomorphies
+(e.g., see Gupta (2001) for the application of presumably unique insertions/deletions
+to organismal classiﬁcation). For example, the domain architecture differences
+between β and β  RNA polymerase subunits were used to polarize the tree of
+bacterial RNA polymerases (Iyer et al., 2004). In another study, the position of the
+root in the Glx-tRNA synthetase family tree was inferred from structural differences
+in anticodon binding domains between GlnRS and GluRS (Siatecka et al., 1998).
+Below we examine in detail the use of additional characters in supporting the
+position of the root in the phylogenetic tree of ATPases.
+9.5 Use of higher order characters: example of ATPases
+The use of ATPase catalytic and non-catalytic subunits to root the tree of life was
+originally introduced by Gogarten et al. (1989). This pair of anciently duplicated
+genes places the root on the branch leading to Bacteria with high conﬁdence
+(see Figure 9.3). Either the catalytic or the non-catalytic subunits can be considered
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:09:31.
+
+186
+
+Horizontal gene transfer, gene histories, and the root of the tree of life
+Present
+
+Steady State:
+Rate of speciation
+approx. balanced by
+rate of extinction
+
+Most
+Recent
+Common
+Ancestor
+
+Diversification/
+Expansion
+
+Origin of Life
+
+Prebiotic Evolution
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+Fig. 9.2. Schematic depiction of a model for the tree/corral of life highlighting the
+position of the most recent common ancestor. Extinct lineages are shown in grey.
+Extant lineages at the tip of the tree are traced back to their last common ancestors
+(in black).
+
+as the ingroup, and the outgroup is provided by the paralogous subunits. The
+outgroup, a set of sequences rather divergent from the ingroup, joins the ingroup
+on the longest internal branch. While this placement of the root is recovered
+using different methods and evolutionary models (Gogarten et al., 1989; Iwabe
+et al., 1989), it also coincides with the place where the root would be located
+as the result of the LBA artefact (Philippe and Forterre, 1999; Gribaldo and
+Philippe, 2002). However, in the case of the ATPases higher order characters
+exclude placing the outgroup within the archaeal/eukaryotic ATPases subunits
+(no higher order characters have been recognized for bacterial F-ATPases). The
+archaeal vacuolar ATPase non-catalytic subunits have lost the canonical Walker
+motif GxxGxGKT in their ATP binding pocket (Gogarten et al., 1989). This motif
+is present in the orthologous F-ATPase non-catalytic subunits as well as in all of the
+ancient paralogues, including the paralogous Rho transcription termination factors
+(Richardson, 2002) and ATPases involved in assembly of the bacterial ﬂagella
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:09:31.
+
+9.5 Use of higher order characters: example of ATPases
+
+187
+
+Bacterial
+F-ATPase
+Alpha subunit
+Non-Catalytic
+Subunits
+
+Archaea/
+Eukaryotes
+ATPase subunit B
+GxxGxGKT
+
+Bacterial
+F-ATPase
+Beta subunit
+
+Catalytic
+Subunits
+Archaea/
+Eukaryotes
+ATPase subunit A
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+unique region
+
+Fig. 9.3. Schematic tree showing the evolution of catalytic and non-catalytic
+subunits of ATPases (for detailed phylogeny see Fig. 2 in Zhaxybayeva et al.
+(2005)). Higher order characters are mapped to the branch leading to the clade
+where all the members of the clade possess the character. See text for more details.
+
+(Vogler et al., 1991). Similarly, the catalytic subunits of the archaeal and of the
+eukaryotic vacuolar typeATPase contain a faster evolving ‘non-homologous’region
+that has no counterpart in the catalytic F-ATPase subunits, nor is this region found in
+any of the non-catalytic subunits (Zimniak et al., 1988; Gogarten et al., 1989). The
+absence of the canonical Walker motif in the regulatory subunits and the presence
+of the non-homologous region in the catalytic subunits thus are shared derived
+characters of the vacuolar and archaeal ATPases that preclude moving the root of
+the ATPase phylogeny to a place within the clade constituted by the archaeal and
+eukaryotic ATPases.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:09:31.
+
+188
+
+Horizontal gene transfer, gene histories, and the root of the tree of life
+
+9.6 Conclusions
+Consideration of gene transfer makes the analysis of species evolution among
+prokaryotes similar to population genetics.As is the case for within species analyses,
+gene trees for diverse groups of prokaryotes do not coalesce to the same ancestor,
+and the organisms that carried the molecular ancestors often lived at different times.
+For example, the human Y chromosome of all human males is traced back to an
+MRCA (‘Adam’) who lived approximately 50 000 years ago (Thomson et al., 2000;
+Underhill et al., 2000), while mitochondrial genes trace back to an MRCA (‘Eve’)
+who lived about 166 000–249 000 years ago (Cann et al., 1987; Vigilant et al., 1991).
+Many thousand years separate ‘Adam’ and ‘Eve’ from each other. The analogy to
+gene trees in recombining populations suggests that no single last common ancestor
+contained all the genes ancestral to the ones shared between the three domains of
+life. Each contemporary molecule traces back to an individual molecular MRCA,
+but these molecular ancestors were likely to be present in different organisms at
+different times. Therefore, even with more accurate phylogenetic reconstruction
+methods, one should not expect different molecular phylogenies to agree with one
+another on the placement of the MRCA of all living organisms. Adaptation of
+population genetics methodology may provide more fruitful results in studying
+early evolutionary events.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+Acknowledgements
+Olga Zhaxybayeva is supported through Canadian Institute of Health Research
+Postdoctoral Fellowship and is an honorary Killam Postdoctoral Fellow at
+Dalhousie University. This work was supported through the NASA Exobiology,
+NASA Applied Information Systems Research, and NSF Microbial Genetics
+(MCB-0237197) grants to J. Peter Gogarten.
+References
+Bapteste, E., and Brochier, C. (2004). On the conceptual difﬁculties in rooting the tree of
+life. Trends Microbiol., 12, 9–13.
+Bapteste, E., Boucher, Y., Leigh, J., and Doolittle, W. F. (2004). Phylogenetic
+reconstruction and lateral gene transfer. Trends Microbiol., 12, 406–411.
+Beiko, R. J., Harlow, T. J., and Ragan, M. A. (2005). Highways of gene sharing in
+prokaryotes. Proc. Natl. Acad. Sci. USA, 102, 14332–14337.
+Brown, J. R., and Doolittle, W. F. (1995). Root of the universal tree of life based on
+ancient aminoacyl-tRNA synthetase gene duplications. Proc. Natl. Acad. Sci. USA,
+92, 2441–2445.
+Brown, J. R., Douady, C. J., Italia, M. J., Marshall, W. E., and Stanhope, M. J. (2001).
+Universal trees based on large combined protein sequence data sets. Nat. Genet., 28,
+281–285.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:09:31.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+References
+
+189
+
+Brown, J. R., Robb, F. T., Weiss, R., and Doolittle, W. F. (1997). Evidence for the early
+divergence of tryptophanyl- and tyrosyl-tRNA synthetases. J. Mol. Evol., 45,
+9–16.
+Caetano-Anolles, G. (2002). Evolved RNA secondary structure and the rooting of the
+universal tree of life. J. Mol. Evol., 54, 333–345.
+Cann, R. L., Stoneking, M., and Wilson, A. C. (1987). Mitochondrial DNA and human
+evolution. Nature, 325, 31–36.
+Cavalier-Smith, T. (2002). The neomuran origin of archaebacteria, the negibacterial root
+of the universal tree and bacterial megaclassiﬁcation. Int. J. Syst. Evol. Microbiol.,
+52, 7–76.
+Cejchan, P. A. (2004). LUCA, or just a conserved Archaeon? Comments on Xue et al.
+Gene, 333, 47–50.
+Charlebois, R. L., Sensen, C. W., Doolittle, W. F., and Brown, J. R. (1997). Evolutionary
+analysis of the hisCGABdFDEHI gene cluster from the archaeon Sulfolobus
+solfataricus P2. J. Bacteriol., 179, 4429–4432.
+Chisholm, S. W., Olson, R. J., Zettler, E. R., et al. (1988). A novel free-living
+prochlorophyte abundant in the oceanic euphotic zone. Nature, 334, 340–343.
+Ciccarelli, F. D., Doerks, T., von Mering C., et al. (2006). Toward automatic
+reconstruction of a highly resolved tree of life. Science, 311, 1283–1287.
+Cui, L., Wall, P. K., Leebens-Mack J. H., et al. (2006). Widespread genome duplications
+throughout the history of ﬂowering plants. Genome. Res., 16, 738–749.
+Darwin, C. (1987). Charles Darwin’s Notebooks, 1836–1844. Cambridge: Cambridge
+University Press.
+Daubin, V., Moran, N. A., and Ochman, H. (2003). Phylogenetics and the cohesion
+of bacterial genomes. Science, 301, 829–832.
+Delsuc, F., Brinkmann, H., and Philippe, H. (2005). Phylogenomics and the
+reconstruction of the tree of life. Nat. Rev. Genet., 6, 361–375.
+Doolittle, W. F. (1999). Phylogenetic classiﬁcation and the universal tree. Science, 284,
+2124–2129.
+Escriva, H., Manzon, L., Youson, J., and Laudet. V. (2002). Analysis of lamprey and
+hagﬁsh genes reveals a complex history of gene duplications during early vertebrate
+evolution. Mol. Biol. Evol., 19, 1440–1450.
+Forterre, P., and Philippe, H. (1999). Where is the root of the universal tree of life?
+Bioessays, 21, 871–879.
+Foth, B. J., Goedecke, M. C., and Soldati, D. (2006). New insights into myosin evolution
+and classiﬁcation. Proc. Natl. Acad. Sci. USA, 103, 3681–3686.
+Ge, F., Wang, L.-S., and Kim, J. (2005). The cobweb of life revealed by genome-scale
+estimates of horizontal gene transfer. PLoS Biology, 3, e316.
+Gogarten, J. P., Kibak, H., Dittrich P., et al. (1989). Evolution of the vacuolar H+-ATPase:
+implications for the origin of eukaryotes. Proc. Natl. Acad. Sci. USA, 86, 6661–6665.
+Grant, P. R., Grant, B. R., Markert, J. A., Keller, L. F., and Petren, K. (2004). Convergent
+evolution of Darwin’s ﬁnches caused by introgressive hybridization and selection.
+Evolution Int. J. Org. Evolution., 58, 1588–1599.
+Gribaldo, S., and Cammarano, P. (1998). The root of the universal tree of life inferred
+from anciently duplicated genes encoding components of the protein-targeting
+machinery. J. Mol. Evol., 47, 508–516.
+Gribaldo, S., and Philippe, H. (2002). Ancient phylogenetic relationships. Theor. Popul.
+Biol., 61, 391–408.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:09:31.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+190
+
+Horizontal gene transfer, gene histories, and the root of the tree of life
+
+Gupta, R. S. (2001). The branching order and phylogenetic placement of species from
+completed bacterial genomes. based on conserved indels found in various proteins.
+Int. Microbiol., 4, 187–202.
+Hilario, E., and Gogarten, J. P. (1993). Horizontal transfer of ATPase genes – the tree of
+life becomes a net of life. Biosystems, 31, 111–119.
+Hughes, A. L., and Friedman, R. (2004). Differential loss of ancestral gene families as a
+source of genomic divergence in animals. Proc. Biol. Sci., 271 suppl 3,
+S107–S109.
+Iwabe, N., Kuma, K., Hasegawa, M., Osawa, S., and Miyata, T. (1989). Evolutionary
+relationship of archaebacteria, eubacteria, and eukaryotes inferred from phylogenetic
+trees of duplicated genes. Proc. Natl. Acad. Sci. USA, 86, 9355–9359.
+Iyer, L. M., Koonin, E. V., and Aravind, L. (2004). Evolution of bacterial RNA
+polymerase: implications for large-scale bacterial phylogeny, domain accretion, and
+horizontal gene transfer. Gene, 335, 73–88.
+Kollman, J. M., and Doolittle, R. F. (2000). Determining the relative rates of change for
+prokaryotic and eukaryotic proteins with anciently duplicated paralogs. J. Mol. Evol.,
+51, 173–81.
+Kunin, V., Goldovsky, L., Darzentas, N., and Ouzounis, C. A. (2005). The net of life:
+reconstructing the microbial phylogenetic network. Genome Res., 15, 954–959.
+Labedan, B., Boyen, A., Baetens, M., et al. (1999). The evolutionary history of
+carbamoyltransferases: A complex set of paralogous genes was already present in the
+last universal common ancestor. J. Mol. Evol., 49, 461–73.
+Lake, J. A. (1988). Origin of the eukaryotic nucleus determined by rate-invariant analysis
+of rRNA sequences. Nature, 331, 184–186.
+Lawson, F. S., Charlebois, R. L., and Dillon, J. A. (1996). Phylogenetic analysis of
+carbamoylphosphate synthetase genes: complex evolutionary history includes an
+internal duplication within a gene which can root the tree of life. Mol. Biol. Evol., 13,
+970–977.
+Lerat, E., Daubin, V., and Moran, N. A. (2003). From gene trees to organismal phylogeny
+in prokaryotes: the case of the gamma-Proteobacteria. PLoS Biol., 1, 19.
+Lindell, D., Sullivan, M. B., Johnson, Z. I., et al. (2004). Transfer of photosynthesis genes
+to and from Prochlorococcus viruses. Proc. Natl. Acad. Sci. USA, 101, 11013–11018.
+Lopez, P., Forterre, P., and Philippe, H. (1999). The root of the tree of life in the light of
+the covarion model. J. Mol. Evol., 49, 496–508.
+Mann, N. H., Cook, A., Millard, A., Bailey, S., and Clokie, M. (2003). Marine ecosystems:
+bacterial photosynthesis genes in a virus. Nature, 424, 741.
+Meyer, A., and Van de Peer, Y. (2005). From 2R to 3R: evidence for a ﬁsh-speciﬁc
+genome duplication (FSGD). Bioessays, 27, 937–945.
+Millard, A., Clokie, M. R., Shub, D. A., and Mann, N. H. (2004). Genetic organization of
+the psbAD region in phages infecting marine Synechococcus strains. Proc. Natl.
+Acad. Sci. USA, 101, 11007–11012.
+Mirkin, B. G., Fenner, T. I., Galperin, M. Y., and Koonin, E. V. (2003). Algorithms for
+computing parsimonious evolutionary scenarios for genome evolution, the last
+universal common ancestor and dominance of horizontal gene transfer in the
+evolution of prokaryotes. BMC Evol. Biol., 3, 2.
+Nam, J., and Nei, M. (2005). Evolutionary change of the numbers of homeobox genes in
+bilateral animals. Mol. Biol. Evol., 22, 2386–2394.
+Nesbo, C. L., Boucher, Y., and Doolittle, W. F. (2001). Deﬁning the core of
+nontransferable prokaryotic genes: the euryarchaeal core. J. Mol. Evol., 53, 340–350.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:09:31.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+References
+
+191
+
+Partensky, F., Hess, W. R., and Vaulot, D. (1999). Prochlorococcus, a marine
+photosynthetic prokaryote of global signiﬁcance. Microbiol. Mol. Biol. Rev., 63,
+106–127.
+Philippe, H., and Forterre, P. (1999). The rooting of the universal tree of life is not
+reliable. J. Mol. Evol., 49, 509–523.
+Prentice, R. L., Caan, B., Chlebowski, R. T., et al. (2006). Low-fat dietary pattern and risk
+of invasive breast cancer: the Women’s health initiative randomized controlled
+dietary modiﬁcation trial. JAMA, 295, 629–642.
+Richardson, J. P. (2002). Rho-dependent termination and ATPases in transcript
+termination. BBA – Gene Struct. Expr., 1577, 251–260.
+Rocap, G., Larimer, F. W., Lamerdin J., et al. (2003). Genome divergence in two
+Prochlorococcus ecotypes reﬂects oceanic niche differentiation. Nature, 424,
+1042–1047.
+Shimodaira, H. (2002). An approximately unbiased test of phylogenetic tree selection.
+Syst. Biol., 51, 492–508.
+Shimodaira, H., and Hasegawa, M. (1999). Multiple comparisons of log-likelihoods with
+applications to phylogenetic inference. Mol. Biol. Evol., 16, 1114–1116.
+Siatecka, M., Rozek, M., Barciszewski, J., and Mirande, M. (1998). Modular evolution of
+the Glx-tRNA synthetase family-rooting of the evolutionary tree between the
+bacteria and archaea/eukarya branches. Eur. J. Biochem., 256, 80–87.
+Snel, B., Bork, P., and Huynen, M. A. (2002). Genomes in ﬂux: the evolution of archaeal
+and proteobacterial gene content. Genome. Res., 12, 17–25.
+Sullivan, M. B., Coleman, M. L., Weigele, P., Rohwer, F., and Chisholm, S. W. (2005).
+Three Prochlorococcus cyanophage genomes: signature features and ecological
+interpretations. PLoS Biol., 3, e144.
+Thomson, R., Pritchard, J. K., Shen, P., Oefner, P. J., and Feldman, M. W. (2000). Recent
+common ancestry of human Y chromosomes: evidence from DNA sequence data.
+Proc. Natl. Acad. Sci. USA, 97, 7360–7365.
+Ting, C. S., Rocap, G., King, J., and Chisholm, S. W. (2002). Cyanobacterial
+photosynthesis in the oceans: the origins and signiﬁcance of divergent
+light-harvesting strategies. Trends Microbiol., 10, 134–142.
+Underhill, P. A., Shen, P., Lin, A. A., et al. (2000). Y chromosome sequence variation and
+the history of human populations. Nat. Genet., 26, 358–361.
+Vigilant, L., Stoneking, M., Harpending, H., Hawkes, K., and Wilson, A. C. (1991).
+African populations and the evolution of human mitochondrial DNA. Science, 253,
+1503–1507.
+Vogler, A. P., Homma, M., Irikura, V. M., and Macnab, R. M. (1991). Salmonella
+typhimurium mutants defective in ﬂagellar ﬁlament regrowth and sequence
+similarity of FliI to F0F1, vacuolar, and archaebacterial ATPase subunits.
+J. Bacteriol., 173, 3564–3572.
+Woese, C. R. (1987). Bacterial evolution. Microbiol. Rev., 51, 221–271.
+Woese, C. R., Magrum, L. J., and Fox, G. E. (1978). Archaebacteria. J. Mol. Evol., 11,
+245–251.
+Xue, H., Tong, K. L., Marck, C., Grosjean, H., and Wong, J. T. (2003). Transfer RNA
+paralogs: evidence for genetic code-amino acid biosynthesis coevolution and an
+archaeal root of life. Gene, 310, 59–66.
+Zeidner, G., Bielawski, J. P., Shmoish, M., et al. (2005). Potential photosynthesis gene
+recombination between Prochlorococcus and Synechococcus via viral intermediates.
+Environ. Microbiol., 7, 1505–1513.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:09:31.
+
+192
+
+Horizontal gene transfer, gene histories, and the root of the tree of life
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+Zhaxybayeva, O. and Gogarten, J. P. (2004). Cladogenesis, coalescence and the evolution
+of the three domains of life. Trends Genet., 20, 182–187.
+Zhaxybayeva, O., Gogarten, J. P., Charlebois, R. L., et al. (2006). Phylogenetic analyses
+of cyanobacterial genomes: quantiﬁcation of horizontal gene transfer events.
+Genome Res., 16, 1099–1108.
+Zhaxybayeva, O., Lapierre, P., and Gogarten, J. P. (2005). Ancient gene duplications and
+the root(s) of the tree of life. Protoplasma, 227, 53–64.
+Zhaxybayeva, O., Lapierre, P., and Gogarten, J. P. (2004). Genome mosaicism and
+organismal lineages. Trends Genet., 20, 254–560.
+Zimniak, L., Dittrich, P., Gogarten, J. P., Kibak, H., and Taiz, L. (1988). The cDNA
+sequence of the 69-kDa subunit of the carrot vacuolar H+- ATPase. Homology to the
+beta-chain of F0F1-ATPases. J. Biol. Chem., 263, 9102–9112.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:09:31.
+
+

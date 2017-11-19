@@ -1,0 +1,1759 @@
+Part II
+The Emergence of Biomolecules
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+T
+
+he top-down study of life’s origin—via the examination of ancient
+fossils—doesn’t tell us much about early biochemistry. Fossil cells,
+molecules, and isotopes are indistinguishable from those of contemporary life-forms; consequently, from them we can gain detailed
+knowledge only of the final state—modern cellular life.
+Nevertheless, common sense points to the essential first step in
+life’s emergence—the synthesis and accumulation of abundant organic
+(that is, carbon-based) molecules, such as amino acids, sugars, and
+other vital molecules of which life would eventually be made. In the
+beginning, life’s raw materials consisted of water, rock, and the simplest and most basic volcanic gases—carbon dioxide, nitrogen, and
+maybe a little methane and ammonia. Add energy to the mix and organic molecules emerge.
+The experimental pursuit of this ancient process, arguably the best
+understood aspect of life’s chemical origins, began in earnest just over
+a half-century ago, with the pioneering studies of University of Chicago graduate student Stanley Miller and his distinguished mentor,
+Harold Urey. Together they demonstrated the organic synthesis that
+occurred as Earth’s primitive atmosphere and ocean were subjected to
+bolts of lightning and the Sun’s intense radiation. Chemical processes
+in deep space, in the solar nebula, during asteroid and comet impacts,
+and even within the pressure cooker of Earth’s deep interior, also generated abundant organic molecules. By 4 billion years ago, Earth’s
+globe-spanning ocean must have become a complex, albeit dilute, soup
+of life’s building blocks. Though not alive, this chemical system was
+poised to undergo a sequence of increasingly complex stages of molecular organization and evolution.
+
+81
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+6
+Stanley Miller’s Spark of Genius
+The idea that the organic compounds that serve as the basis of
+life were formed when the earth had an atmosphere of
+methane, ammonia, water, and hydrogen instead of carbon
+dioxide, oxygen, and water was suggested by Oparin and has
+been given emphasis recently by Urey and Bernal. In order to
+test this hypothesis an apparatus was built. . . .
+Stanley L. Miller, Science, May 15, 1953
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+T
+
+he experimental investigation of life’s origin is a surprisingly recent game. Two centuries ago, many scientists accepted the intuitively reasonable idea, championed by Aristotle and a pantheon of
+other ancient scholars, that a life force permeates the cosmos. A central
+precept of this doctrine, known as vitalism, is that life arises spontaneously all around us, all the time. The question of life’s origin wasn’t
+asked—at least not in the modern experimental sense.
+Think about your own experience and you’ll see why this idea of
+spontaneous generation isn’t such a strange notion. Mold seems to
+grow spontaneously on bread, maggots appear as if by magic in old
+meat, and every spring new plants sprout and grow in the season of
+renewal. It’s not surprising that so many people, for so long, accepted
+unquestioningly the spontaneous generation of life.
+This view continued well into the nineteenth century, though not
+without a number of respected dissenters and considerable debate. The
+seventeenth-century invention of the microscope and the subsequent
+realization that microscopic life abounds complicated the story, but
+failed to resolve the controversy. Those who favored spontaneous generation saw microbes as just another manifestation of the life force;
+
+83
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+84
+
+GENESIS
+
+those opposed saw microscopic life as an obvious source of experimental contamination.
+The interpretation of experiments is rarely unambiguous, as highlighted by a delicious eighteenth-century exchange. The noted Italian
+physiologist Lazzaro Spallanzani explored spontaneous generation by
+comparing the behavior of boiled and unboiled sealed flasks, each filled
+with bacteria-infested, nutrient-rich water. He found that flasks boiled
+for an hour remained sterile indefinitely as long as they remained
+sealed, whereas unboiled flasks quickly became cloudy with microbes.
+Spallanzani concluded that ubiquitous microscopic life-forms contaminate any unsterilized experiment.
+Englishman John Needham, an astute amateur experimenter who
+conducted his own fragrant experiments on hot mutton gravy, came to
+a different conclusion. Needham agreed that boiling kills microbes, but
+microbes soon reappeared in abundance when his gravy cooled. He
+argued that these cells arose by spontaneous generation. Spallanzani
+countered that Needham’s microbes came from airborne contamination and, to prove his point, he undertook a new series of experiments
+in which he demonstrated that no microbes appeared when he pumped
+air out of his flasks and then boiled the water. Needham disagreed: A
+property of the air, not the water, must carry the life force, he said.
+We react to this historical incident with a biased worldview. Of
+course Spallanzani’s conclusions about microbial contamination were
+right and Needham’s support of spontaneous generation was wrong,
+we are tempted to say. But a naïve and impartial observer of the time,
+faced with these conflicting claims, would have had a difficult time
+choosing between invisible microbes and an invisible life force. Both
+arguments were internally consistent, so doubts remained.
+The influential French chemist Louis Pasteur helped to abolish vitalism and the theory of spontaneous generation once and for all with
+his own brilliant series of experiments on sterilization. He prepared a
+nutrient-rich sugar solution and poured it into several beakers. One
+set of beakers was tightly sealed to prevent any contact with the ambient air. Other beakers were left open with a narrow twisting neck, so
+that the sugar solution was in contact with the ambient air, but unlikely to be contaminated by stray microbes, which were unable to
+traverse the long glass passage. As a control, he left other beakers wide
+open or deliberately contaminated them with ordinary dust. He
+showed that boiled water, if isolated from airborne microbes, remained
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+STANLEY MILLER’S SPARK OF GENIUS
+
+85
+
+sterile indefinitely. Only microbial contamination causes new growth,
+not spontaneous generation—a result of tremendous practical as well
+as theoretical consequence. His discoveries proved of immense importance in reducing the incidence of infectious diseases, while his development of the pasteurization process transformed the production and
+preservation of food and, perhaps more important to French merchants, beer.
+In the course of his elegant work, Pasteur also contributed directly to the study of life’s origin. By introducing the dictum that no
+life can occur without prior life, his findings pushed back life’s origin
+to an inconceivably remote time and place. How could anyone make
+observations or perform experiments to study an event so ancient and
+inaccessible?
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+SPECULATION
+In 1871, Charles Darwin penned a speculative letter to his friend, the
+botanist Joseph Hooker. “If (and Oh! What a big if !),” he wrote, “we
+could conceive in some warm little pond, with all sorts of ammonia
+and phosphoric salts, light, heat, electricity, etc., present, that a protein
+compound was chemically formed ready to undergo still more complex changes. . . .” Many contemporary chemists must have agreed that
+life’s origin, wherever and however it occurred, depended on three key
+resources.
+First and foremost, terrestrial life requires liquid water, the essential growth medium for all living things. All living cells, even those that
+survive in the driest desert ecosystem, are formed largely of water. Our
+bodies are typically 70 percent water, while many foods are even more
+water-rich. Surely the first cells arose in a watery environment.
+Life also needs a ready source of energy. The radiant energy of the
+Sun provides the most obvious supply for life today, but bolts of lightning, asteroid impacts, Earth’s inner heat, and the chemical energy of
+certain unstable minerals have also been invoked as life-triggering energy sources.
+And, third, life depends on a variety of chemical elements. All
+known living organisms consume atoms of carbon, oxygen, hydrogen,
+and nitrogen, with a bit of sulfur and phosphorus and other elements
+as well. Atoms of these elements combine in graceful geometries to
+form essential biomolecules.
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+86
+
+GENESIS
+
+In spite of the intrinsic importance of the topic, Darwin’s private
+musings about a chemical origin of life (which he never published)
+flew in the face of conventional theology. “In the beginning, God created” was sufficient for most people, including a majority of the most
+distinguished scholars of the time. Not until the 1920s did such scientific speculation take a more formal guise.
+Most notable among that pioneering modern school of origin
+theorists was the Russian biochemist Alexander Oparin. In 1922, while
+still in his twenties and under the scrutiny of the Soviet hierarchy,
+Oparin elaborated on the idea that life arose from a body of water that
+gradually became enriched in organic molecules—the so-called
+“Oparin Ocean” or the “primordial soup.” Somehow, he posited, life
+emerged as these molecules clustered together and self-organized into
+a chemical system that could duplicate itself. In many other cultures,
+where religious doctrine colored thinking on origins, these revolutionary ideas would have been seen as heretical, but Oparin’s ideas resonated with the materialist philosophical worldview of the Soviet
+leadership.
+Many of Oparin’s postulates were echoed in 1929 in the independent ideas of British biochemist and geneticist J. B. S. Haldane.
+Haldane, himself a Marxist activist, contributed a brief, perceptive
+(many contemporaries would have said radical) article entitled “The
+Origin of Life” to the eclectic secularist British periodical The Rationalist Annual. He speculated on the production of large carbon-based
+molecules under the influence of the Sun’s ultraviolet radiation. Given
+such a chemical environment, Haldane envisioned the first living objects as self-replicating, specialized molecules.
+Oparin and Haldane offered original and intriguing ideas. More
+important, their ideas were subject to experimental testing, but for
+some reason Oparin and his contemporaries didn’t try. It wasn’t until
+after World War II, a time of exuberant, can-do scientific optimism,
+that two chemists demonstrated a systematic experimental approach
+to prebiotic chemistry.
+EXPERIMENTS
+The apparently universal requirements of water, energy, and chemicals
+hint at a simple experimental approach for studying the origin of life.
+Such landmark experiments were devised early in the 1950s by Univer-
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+STANLEY MILLER’S SPARK OF GENIUS
+
+87
+
+sity of Chicago chemist Harold Urey, a Nobel Prize winner of great
+renown, and his unknown second-year graduate student, the 23-yearold Stanley Miller.
+Jeffrey Bada, a Miller student in the 1960s and an unswerving proponent of his teacher’s ideas in subsequent years, reveals some of the
+behind-the-scenes context of the historic Chicago work in his 2000
+book (coauthored with Christopher Wills), The Spark of Life. Urey
+planted the seed for the now classic experiment in the fall of 1951,
+when he presented a seminar attended by Miller, who was a beginning
+graduate student. In that lecture and related publications, Urey proposed that life-triggering organic molecules might have been produced
+in abundance in a plausible primitive atmosphere of hydrogen, methane, and other relatively reactive gases.
+A year later, after trying his hand at an unsuccessful project in
+nuclear theory, Miller asked Urey if he could attempt an experiment
+with the hopes of synthesizing amino acids, the building blocks of proteins. At first, so the story goes, Urey was reluctant and wanted Miller
+to try an easier, safer research project. But after continued pressure
+from Miller, Urey relented and gave his student a limit of one year to
+make headway.
+Scientists revere simple, elegant experiments, and that’s exactly
+what Miller and Urey devised—a primitive Earth sitting on a tabletop
+in a sealed glass vessel. [Plate 5] To the lower left, Miller positioned
+a 5-inch-diameter (300-milliliter) flask filled two-thirds with water—
+the primitive ocean. Glass tubing linked that flask to a 10-inchdiameter (5-liter) gas-filled flask, situated above and to the right.
+Miller’s atmosphere consisted of the relatively reactive gases methane
+(CH4, sold commercially as natural gas), ammonia (NH3, the strongsmelling component of ammonia-based cleaners), and hydrogen (H2,
+the explosive lighter-than-air gas of Hindenberg fame). Two pointed
+metal electrodes penetrated the upper flask to simulate “lightning” by
+sparking, and a flame gently heated the water-filled flask to mimic the
+ocean’s continuous evaporation. Sending sparks through a potentially
+explosive mix of hydrogen and methane is not for the faint of heart,
+nor would Miller’s unshielded glass apparatus have stood up to today’s
+government safety standards. But it was an elegant experimental
+design.
+Following academic tradition, Miller the student performed the
+experiments, while his mentor waited in the wings. Miller began by
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+88
+
+GENESIS
+
+tungsten
+electrode
+stopcock for
+admitting H2,
+CH2, NH3
+
+condenser
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+stopcock for
+withdrawing
+samples
+
+water
+(“ocean”)
+
+heat
+The Miller–Urey experiment used a tabletop glass apparatus to mimic the early
+Earth’s ocean and atmosphere, while electric sparks simulated lightning. This device
+rapidly transformed simple gases into essential biomolecules (after Trefil and Hazen,
+1992).
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+STANLEY MILLER’S SPARK OF GENIUS
+
+89
+
+pumping out the system to remove any traces of atmospheric oxygen.
+Then he filled his apparatus with water and a 2:2:1 gas mixture of
+methane, ammonia, and hydrogen. He heated the water, set off tiny
+electric sparks in the gases to simulate lightning, and waited.
+When the experiment began, the water was pure and clear, but
+within a couple of days the solution had turned yellowish and a black
+residue had begun to accumulate near the electrodes. It’s easy to imagine Stanley Miller’s excitement as he cut his first experiment short to
+analyze the tantalizing products. Had he produced amino acids?
+Organic chemical analysis was no easy chore in the early 1950s.
+Miller resorted to paper chromatography, a classic and relatively quick
+technique that separates different molecules into discrete colored spots
+on absorbent paper. Miller opened the valve and removed the yellow
+solution. Concerned that microbes might begin to grow in the liquid
+and confuse his results, he added a lethal dose of mercury chloride to
+preclude any bacterial contamination. Then, after the tedious routine
+of drying down and concentrating his sample, he placed a small drop
+of concentrated run product near one corner of the chromatography
+paper. It dried as a small yellow dot.
+Miller suspended the paper above a narrow trough filled with a
+freshly made alcohol–water solution. He carefully lowered the paper so
+that one edge close to the yellow spot just barely dipped into the clear
+solution, which gradually soaked into the paper and rose up the sheet
+by capillary action. As the alcohol solution moved, it carried the unknown molecules along with it. Within a few minutes the chemical
+spot had been smeared out into a narrow, 3-inch-long streak of unknown, mostly invisible chemicals.
+Miller let his paper dry, rotated it 90 degrees, and repeated the
+process with a second solvent, this time a phenol solution. Molecules
+move differently through paper under the influence of different solvents, so this second step spread the 3-inch streak of chemicals into a
+diagnostic two-dimensional pattern of spots. After a second drying,
+Miller’s final step was to treat the paper with ninhydrin, a chemical
+that stains otherwise invisible amino acids into distinctive colors.
+Almost immediately a discrete purple spot appeared exactly at the
+expected position for glycine (C2H5NO2), the simplest of life’s amino
+acids. Starting with nothing more than water and a few simple gases,
+Miller had made one of life’s essential biomolecules. The graduate stu-
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+90
+
+GENESIS
+
+dent and his advisor were elated, for the tabletop experiment had
+worked much faster than they expected.
+Miller repeated the entire experiment for a week’s duration, cranking up the heat to a slow boil. The results were amazing. The water
+quickly yellowed, then gradually turned intriguing shades of pink and
+eventually to a deep red, while black gunk oozed down the sides of the
+larger flask. This time when Miller analyzed the contents of the flask,
+he found a complex mixture of organic molecules including at least a
+half-dozen different amino acids. Reactions of water and air had produced organic molecules in abundance.
+Harold Urey encouraged the young investigator to write up his
+results immediately. Miller obliged and submitted a short manuscript
+to the high-profile journal Science in mid-February 1953, a scant five
+months since the project’s inception. Urey also generously withdrew
+his name from the paper so that the graduate student, not the Nobelist,
+would receive the lion’s share of credit.
+Stanley Miller’s first publication was a bombshell. His two-page
+article in the May 15, 1953, issue of Science announced “A Production
+of Amino Acids Under Possible Primitive Earth Conditions.” The press
+had a field day. The New York Times printed a feature story, LIFE AND
+A GLASS EARTH, while tabloids speculated about synthetic life crawling out of test tubes.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+THE COTTAGE INDUSTRY OF PREBIOTIC CHEMISTRY
+The Miller–Urey experiment transformed the science of life’s chemical
+origins. For the first time, an experimental protocol mimicked plausible life-forming processes. For decades to come, Miller and his students would dominate the origin-of-life community.
+Given such an exciting result, other groups jumped at the chance
+to duplicate the amino acid feat. Independent confirmation of Miller’s
+claims came within a few years from chemists at the University of
+Bristol in England and at the Carnegie Institution in Washington, D.C.
+(A careful search of the scientific literature also turned up a remarkably similar series of experiments that had been conducted decades
+earlier by the German chemist Walter Löb.) Thousands of subsequent
+experiments during the past half century have outlined the promise, as
+well as the limitations, of this idea that life arose as a chemical process
+at the surface of the Earth. Time and time again, variations of the
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+STANLEY MILLER’S SPARK OF GENIUS
+
+91
+
+Miller–Urey process, including experiments using ultraviolet radiation,
+different gas mixtures, powdered minerals, and more, have demonstrated the synthesis of life’s most basic building blocks. Relatively easy
+to run, and now a relative cinch to analyze, these experiments continue
+to be a sort of cottage industry in origin-of-life research circles.
+This genre of experiments yields amazing results. Dozens of amino
+acids have been synthesized from scratch, along with membraneforming hydrocarbons, energy-rich sugars and other carbohydrates,
+and metabolic acids. The early inventories even included some of the
+building blocks of the genetic molecules DNA and RNA, though at
+first the 5-carbon sugar ribose (the “R” of RNA) and the two purines
+essential to both, adenine (C5H5N5) and guanine (C5H5ON5), were
+notably absent.
+Much of this molecular diversity occurs because electric sparks
+and ultraviolet radiation trigger the formation of highly reactive
+chemical species, such as hydrogen cyanide (HCN) and formaldehyde
+(CH2O), which readily link to other molecules. Miller suspected, for
+example, that most of the amino acids produced in his experiments
+arose by a chemical process known as Strecker synthesis, in which hydrogen cyanide reacts with formaldehyde and ammonia.
+Enthusiasm grew as other scientists discovered promising
+new chemical pathways. In 1960, John Oró of the University of Houston turned scientific heads when he discovered that a concentrated
+hydrogen–cyanide solution, when heated, produced lots of adenine,
+one of the missing purines and a crucial biomolecule that also plays a
+role in metabolism. Other chemists conducted similar experiments,
+starting with relatively concentrated solutions of formaldehyde
+(CH2O), a molecule thought to be common in some prebiotic environments. These experiments produced a rich, though random, variety of sugars, including a modest yield of ribose. Gradually, through
+such specialized experiments, gaps in the prebiotic inventory of life’s
+molecules were filled in.
+The experiments of Oró and others, relying as they did on relatively concentrated solutions of reactive organic molecules, raised some
+eyebrows. The Miller-type spark experiments by themselves had never
+yielded hydrogen cyanide in sufficient concentrations to produce much
+adenine, or enough formaldehyde to make much ribose. But discoveries in the mid-1960s in the lab of Salk Institute pioneer Leslie Orgel
+pointed to a plausible fix. The early Earth was not uniformly hot; it
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+92
+
+GENESIS
+
+probably had ice caps and may have periodically experienced more
+extensive “ice ages,” as well. Orgel realized that such conditions might
+promote intriguing organic reactions. When an organic-rich water solution freezes, pure water ice crystals grow, while the dwindling reservoir of residual liquid becomes an increasingly concentrated organic
+brine (and recall that a higher concentration of “agents” may facilitate
+emergence).
+Orgel and co-workers exploited this idea by slowly freezing flasks
+of dilute HCN solutions to –20°C. The procedure produced tiny volumes of extremely concentrated hydrogen cyanide, which reacted over
+weeks to months to produce small linkages of up to four HCN molecules. This curious phenomenon became the inspiration for one of
+the longest experiments in the history of origins research. Sometime in
+the mid-1970s, Miller, now a professor at the University of California,
+San Diego, and his co-workers repeated the Orgel protocol and stored
+their frozen flasks in the back of a freezer. In the late 1990s, more than
+two decades later, they removed the frozen solutions, which had developed curious dark concentrated clumps that were rich in organics.
+Analysis revealed an abundant production of adenine. It takes a lot of
+time for reactions to proceed at ultracold temperatures, but the primitive Earth had time to spare.
+These remarkable results seem to defy convention: Heat, not cold,
+normally drives chemical reactions. You don’t make a cake by freezing
+batter. Nevertheless, additional freezing experiments have produced
+amino acids and other interesting biomolecules by this counterintuitive process of concentration. In this curious way, prebiotic cycles of
+freezing and thawing may have enhanced the emergence of biomolecules and thus provided a pathway to life.
+DOUBTS
+As exciting and important as the Miller–Urey results may be, seemingly intractable problems remain. Within a decade of Miller’s triumph, serious doubts began to arise about the true composition of
+Earth’s earliest atmosphere. Miller and Urey had exploited a highly reactive atmosphere of methane, ammonia, and hydrogen, which seemed
+a plausible early atmosphere to them. But by the 1960s, new geochemical calculations along with data from ancient rocks pointed to a much
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+STANLEY MILLER’S SPARK OF GENIUS
+
+93
+
+less reactive early atmosphere of nitrogen and carbon dioxide, two
+gases that do almost nothing of interest in a Miller–Urey apparatus.
+Miller and his supporters continue to counter with a pointed argument, difficult to dismiss. Life’s biomolecules match those of the
+original Miller–Urey experiment with great fidelity, they say. Doesn’t
+that fact alone argue for an atmosphere rich in reactive methane?
+Harold Urey is said to have often quipped, “If God did not do it this
+way, then He missed a good bet.” Nevertheless, most geochemists now
+discount the possibility of more than a trace of atmospheric methane
+or ammonia at the time of life’s emergence.
+Added to this atmospheric concern is the fact that the molecular
+building blocks of life created by Miller and his colleagues represent
+only tiny steps on the long road to life. Living cells require that such
+small molecules be carefully selected and then linked together into
+vastly more complex structures—cell membranes, protein catalysts,
+DNA, RNA, and other so-called macromolecules. The prebiotic ocean
+was an extremely dilute solution of many thousands of different
+organic molecules, most of which play no known role in life. By
+what emergent processes were just the right molecules selected and
+organized?
+The Miller–Urey scenario suffers from yet another nagging problem. Macromolecules tend to fragment, rather than form, when subjected to the energetic insults of lightning and the Sun’s ultraviolet
+light. These so-called ionizing forms of energy are great for making
+reactive molecular fragments that combine into modest-sized molecules like amino acids. Combining many amino acids into an orderly
+chainlike protein, however, is best accomplished in a less destructive
+energy domain. Emergent complexity relies on a flow of energy, to be
+sure, but not too much energy. Could life have emerged in the harsh
+glare of daylight, or was there perhaps a different, more benign origin
+environment?
+Faced with such an impasse, a few maverick scientists began to
+look at other plausible venues for the cradle of life.
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+7
+Heaven or Hell?
+It is we who live in the extreme environments.
+Thomas Gold, The Deep Hot Biosphere, 1999
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+F
+
+or centuries the primary source of life’s energy has been as well
+established as any precept in biology. Every high-school textbook
+proclaims what we all have accepted as intuitively obvious: All life depends ultimately on the Sun’s radiant energy. Nor has there been reason to doubt that claim until recently. But new discoveries of deep
+life—life-forms at the darkest ocean depths and microbes buried miles
+beneath Earth’s surface in solid rock, forever beyond the Sun’s influence—have toppled this comfortable certainty.
+If science has taught us anything, it’s that cherished notions about
+our place in the natural world often turn out to be dead wrong. We
+observe that the Sun rises in the morning and sets at night. An obvious
+conclusion, reached by almost all observers until relatively recently in
+human history, is that the Sun circles the Earth. Yet we now know that
+sunrise and sunset are consequences of Earth’s rotation; Earth orbits
+the Sun, and we are not at the physical center of the universe. We observe mountains and oceans as grand unchanging attributes of the
+globe—on the scale of a human life, these features are for all intents
+and purposes permanent. Yet we have learned that through the inexorable processes of plate tectonics, every topographic feature on Earth is
+transient over geological time and that our war-contested political
+boundaries are destined eventually to disappear.
+The great power of science as a way of knowing is that it leads us to
+conclusions about the physical universe that are not self-evident. Repeatedly, the history of science has been punctuated by the overthrow
+95
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+96
+
+GENESIS
+
+of the obvious. Could our intuitive view of life’s original energy source
+be in error as well?
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+ENERGY
+All living cells require a continuous source of energy. Without energy,
+organisms cannot seek out and consume food, manufacture their cellular structures, or send nerve impulses from one place to another.
+Lacking energy, they cannot grow, move, or reproduce. Reliable energy
+input is also essential to maintain the genetic infrastructure of cells,
+which are constantly subjected to damage by nuclear radiation, toxic
+chemicals, and other environmental hazards.
+Metabolism, the means by which organisms obtain and use energy, is an ancient chemical process that takes place in every living cell,
+including all of the tens of trillions of cells in our bodies. Until recently, scientists claimed that the metabolic pathways of virtually all
+life-forms rely directly or indirectly on photosynthesis. At the base of
+the food web, we find plants and a host of one-celled organisms that
+use the Sun’s light energy to convert water and carbon dioxide into the
+chemical energy of sugar molecules (carbohydrates) plus oxygen.
+Plants manufacture carbohydrates, such as the starch of potatoes and
+the cellulose of celery, to build leaves, stems, roots, and other physical
+structures. They also process sugar molecules to provide a source of
+chemical energy that powers the plant cell’s molecular machinery.
+While plants synthesize their own carbohydrates, animals and
+other nonphotosynthetic life higher up the food chain must find another source of sugar. That’s why we eat plants, or eat animals that eat
+plants. Plants synthesize sugar molecules and oxygen from water plus
+carbon dioxide. Our bodies convert sugar molecules along with the
+oxygen we breathe to produce water plus the waste gas carbon dioxide.
+There’s an elegant chemical symmetry to this story; the biological
+world seemed much simpler when the Sun was life’s only important
+energy source.
+DEEP ECOSYSTEMS
+Our view of life on Earth changed forever in February 1977, when Oregon State University marine geologist Jack Corliss and two crewmates
+guided the submersible Alvin to the deep volcanic terrain of the East
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+HEAVEN OR HELL?
+
+97
+
+Pacific Rise, 8,000 feet down. This undersea ridge off the Galápagos
+Islands was known to be a zone of constant volcanic activity associated
+with the formation of new ocean crust. Oceanographers have documented thousands of miles of similar volcanic ridges, including the
+sinuous Mid-Atlantic Ridge that bisects the Atlantic Ocean—the longest mountain range on Earth.
+On this particular dive, just one of hundreds that Alvin had logged,
+the scientists hoped to locate and examine a submarine hydrothermal
+vent, a kind of submarine geyser where hot water jets upward into the
+cool surrounding ocean. What Corliss and crew discovered was a vibrant and totally unexpected ecosystem with new species of spindly
+albino crabs, football-sized clams, and bizarre 6-foot tubeworms. Onecelled organisms also abounded, coating rock surfaces and clouding
+the water. These communities, thriving more than a mile and a half
+beneath the sea, never see the light of the Sun.
+In these deep undersea zones, microbes serve as the primary energy producers, playing the same ecological role as plants do on Earth’s
+sunlit surface. These one-celled vent organisms exploit the fact that the
+cold oxygen-infused ocean water, the hot volcanic water, and the sulfur-rich mineral surfaces over which these mixing fluids flow are not
+in chemical equilibrium. This situation is similar to the disequilibrium
+between a piece of coal and the oxygen-rich air. Just as you can heat
+your house or power machinery by burning coal (thus combining unstable carbon and oxygen to make stable carbon dioxide), so too can
+these deep microbes obtain energy by the slow alteration of unstable
+minerals.
+The unexpected discovery of this exotic ecosystem was news
+enough, but Corliss and his Oregon State colleagues soon tried to push
+the story further. They saw in the vents an ideal environment for the
+origin of life. Details of this story have become clouded by more than
+20 years of sometimes revisionist history. Corliss claims the idea for
+himself: “I began to wonder what all this might mean, and this sort of
+naïve idea came to me,” he told an interviewer more than a decade
+later. “Could the hydrothermal vents be the site of the origin of life?”
+[Plate 5]
+A different history emerges from others close to the story. According to John Baross, a former faculty colleague of Corliss and an expert
+on microbes in extreme environments, the hydrothermal vent theory
+of life’s origin was first proposed and developed by a perceptive Or-
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+98
+
+GENESIS
+
+egon State graduate student named Sarah Hoffman. She wrote the basic outlines of the hypothesis in 1979, as a project for a biological
+oceanography seminar taught by Charles Miller, another OSU oceanographer. Hoffman, in frequent consultation with Baross, developed
+the novel idea as it would appear in print. The two of them claim that
+the more senior Corliss seized the paper as his own, allowing them, as
+his coauthors, to expand and polish the prose to conform to the conventions of scientific publishing, after which he submitted the work
+and placed his name first on the author list. With three coauthors—
+Corliss, Baross, and Hoffman—the paper would forever be known as
+“Corliss et al.” Corliss would get the fame, while Hoffman and Baross
+were effectively relegated to footnote status.
+Whoever deserves the credit, the hydrothermal-origins thesis is elegantly simple and correspondingly influential. Modern organisms do,
+in fact, thrive in deep hydrothermal ecosystems. Fossil microbes recovered from 3.5-billion-year-old hydrothermal deposits reinforce this
+observation. Even without the energy of sunlight, nutrients and chemical energy abound in hydrothermal systems. The OSU scientists saw
+hydrothermal systems as “ideal reactors for abiotic synthesis,” and they
+proposed a sequence of chemical steps for the potentially rapid emergence of life.
+The controversial manuscript was not eagerly received; it bounced
+around for the better part of a year. First it was rejected by Nature, then
+by Science. At the time, Stanley Miller and his protégés dominated the
+origin-of-life research game, which had seen more than its fair share of
+quacks and crackpot theories. They were not about to let such unsupported speculation sully their field. Hydrothermal temperatures were
+much too hot for amino acids and other essential molecules to survive,
+they said. “The vent hypothesis is a real loser,” Miller complained to a
+reporter for Discover magazine. “I don’t understand why we even have
+to discuss it.”
+Miller’s followers found other good reasons to attack the paper.
+Corliss and co-workers had the ancient ocean chemistry all wrong, they
+said. Modern hydrothermal ecosystems rely on oxygen-rich ocean water, whose composition is an indirect consequence of plants and photosynthesis. The prebiotic ocean would not have been oxygen-rich, so
+the proposed life-sustaining chemical reactions would have proceeded
+slowly, if at all. The bottom line? Decades of Miller-type experiments
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+HEAVEN OR HELL?
+
+99
+
+confirm what is intuitively obvious: Life began at the surface, so why
+confuse the issue?
+Eventually the Corliss, Baross, and Hoffman manuscript was published, in a supplement to the relatively obscure periodical
+Oceanologica Acta, a journal that not one in a hundred origin-of-life
+researchers would see. Nevertheless, good ideas have a life of their own,
+and copies of the paper, entitled “An Hypothesis Concerning the Relationship Between Submarine Hot Springs and the Origin of Life on
+Earth,” began circulating. I have seen dog-eared underlined photocopies of copies of copies on several colleagues’ desks, and I have a
+pretty battered copy of my own.
+New support for the idea gradually consolidated, as hydrothermal
+ecosystems were found to be abundant along ocean ridges in both the
+Atlantic and Pacific. It was realized that at a time when Earth’s surface
+was blasted by a continuous meteorite bombardment, deep-ocean ecosystems would have provided a much more benign location than the
+surface for life’s origin and evolution. New discoveries of abundant
+primitive microbial life in the deep continental crust further underscored the viability of deep, hot environments. By the early 1990s, the
+deep-origin hypothesis had become widely accepted as a viable, if unsubstantiated, alternative to the Miller surface scenario.
+Of the three authors, only John Baross remains active and influential in the field. In 1985, he accepted a professorship at the University
+of Washington, where he has developed a leading research program on
+hydrothermal life. His work on deep-sea-vent microbes, often in collaboration with his wife, Jody Deming, who is also a professor of oceanography at the University of Washington, has placed Baross at the
+forefront of the highly publicized research field of “extremophile” microbes. Sarah Hoffman’s graduate work in geochemistry was interrupted by illness, and, after her recovery, she pursued a singing career.
+As for Corliss, always a bit idiosyncratic, in 1983 he left Oregon for the
+Central European University in Budapest, where he worked briefly on
+the deep-origins hypothesis, but soon took up research in the more
+abstract field of complex systems. After a 3-year stint as director of
+research at the controversial Biosphere 2 environmental station in Arizona, he returned to Budapest, having abandoned studies of the deep
+ocean.
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+100
+
+GENESIS
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+LIFE IN ROCKS
+Following the revolutionary hydrothermal-origins proposal, numerous scientists began the search for life in deep, warm, wet environments. Everywhere they looked, it seems—in deeply buried sediments,
+in oil wells, even in porous volcanic rocks more than a mile down—
+microbes abound. Microbes survive under miles of Antarctic ice and
+deep in dry desert sand. These organisms appear to thrive on mineral
+surfaces, where interactions between water and chemically unstable
+rocks provide the chemical energy for life.
+One of the most dramatic and difficult pursuits involves deep drilling for life in solid rock. The oil industry has perfected the practice of
+deep drilling, thanks to decades of experience and vast infusions of
+cash. They can penetrate several miles into the Earth, drill at angles
+and around obstacles, and cut through the hardest known rock formations in their quest for black gold. So the problem for geoscientists
+looking for microbes a mile or more down isn’t how to get there, it’s
+how to get there without contaminating the drill hole with hoards of
+surface bugs. Bacteria are everywhere—in the air, in the water, and in
+the muck used to lubricate and cool diamond drill bits as they cut
+through layers of rock. It’s relatively easy to bring up rock cores from a
+couple of miles down, but those slender cylinders of rock will have
+already been exposed to surface life by the drilling process. What to do?
+The commonest retrieval trick is to add a colorful dye or other
+distinctive chemical tracer to the lubricating fluid. When drillers extract a deep core, it becomes obvious whether or not the rock has been
+contaminated in the process. Porous sediments or highly fractured formations soak up the dye and thus prove unsuitable for analysis, but
+many rocks turn out to be impermeable and thus are ideal for recovering deep life.
+The search for subsurface microbes began in earnest in 1987, when
+the Department of Energy decided to drill several 500-meter-deep
+boreholes in South Carolina near the Savannah River nuclear processing facility. As cores were brought to the surface, drillers quickly isolated them in a sterile plastic enclosure with an inert atmosphere.
+Researchers then cut away the outer rind of the drill core to reveal
+pristine rock samples, which were shipped to analytical facilities across
+the country. The results were spectacular. The deep South Carolina
+sediments were loaded with microbes that had never seen the light of
+day.
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+HEAVEN OR HELL?
+
+101
+
+Subsequent drilling studies have revealed that microbes live in every imaginable warm, wet, deep environment—in granite, in basalt on
+land and basalt under the ocean, in all variety of sediments, and also in
+metamorphic rocks that have been altered by high temperature and
+pressure. Anywhere you live, drill a hole down a mile and the chances
+are you’ll find an abundance of microscopic life.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+MINING FOR MICROBES
+Earth’s deep mining and tunneling operations provide the new breed
+of geobiologist with an invaluable complement to drilling. Mine tunnels have the advantage that researchers can visit microbial populations in their native habitat. Earth’s deepest mines, the fabled gold
+mines of South Africa’s Witwatersrand District, have thus become the
+site of the heroic and potentially dangerous efforts of Princeton geologist Tullis Onstott.
+The East Driefontein Mine, located about 60 miles southwest of
+Johannesburg, is a vast network of underground workings, reaching
+more than 2 miles into the crust. A small army of miners labor around
+the clock for gold. Despite one of the largest air-conditioning systems
+in the world, these deep tunnels remain at an oppressive 140°F from
+the heat of Earth’s interior, while air pressure is twice that of the surface. Onstott learned the dangers of the place on his first descent: “It
+was ‘Don’t step there, don’t touch that,’” he told a writer for the
+Princeton Weekly Bulletin. “All I knew is that it was deep and dark and
+hot.”
+Every so often, as miners blast new adits, a small flow of water
+appears—groundwater that has spent countless thousands of years filtering down from the surface and has accumulated in small cracks and
+fissures, nurturing a tenuous ecosystem of microbial life. Onstott’s
+team, typically a half-dozen young and hearty students and postdocs,
+camp at the surface with a functional array of sterile sample-collection
+hardware at hand. When news of a fresh water flow comes in, they
+scramble to the site, though the miles of elevators and tunnels can take
+almost an hour to traverse. They have to work fast, both to avoid disruption of the mining routine and because prolonged exposure to the
+hellish conditions can kill them.
+They photograph the site, record its location and geological setting, and collect as many gallons of water as possible fresh from the
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+102
+
+GENESIS
+
+point of flow. They benefit from the seep’s positive water pressure,
+which prevents much back contamination from the miners’ activities
+or their own collection efforts. Exhausted and sweating profusely,
+they lug the heavy water-filled bottles to the surface for further
+investigation.
+Remarkably, every single sample from Earth’s deepest mines holds
+microbes that have never seen light, surviving on a meager supply of
+underground chemical energy. Such deep life lives at a sluggish pace
+that defies our experience. Isotopic measurements reveal that a single
+cell may persist for thousands of years, “doing” almost nothing before
+dividing into two. Colonies of organisms commonly remain isolated
+from the surface for millions of years. So tenuous are the chemical
+resources of these deep rocks that reproduction and growth are luxuries seldom indulged. By the same token, deep rocks provide an
+unvarying safe and reliable environment: no predators, no surprises—
+unless of course a miner happens to blast into your rocky home of a
+million years!
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+THE DEEP HOT BIOSPHERE
+The abundance of subterranean one-celled creatures, thriving far from
+the light of the Sun, inspires the imagination and hints at novel scenarios for life’s origin. Of all the scientists in pursuit of deep life, none
+displayed greater imagination than the late brilliant and pugnacious
+iconoclast Thomas Gold.
+Austrian-born Tommy Gold began his scientific career as an astrophysicist in Britain, but in 1959 he was lured to Cornell University
+to head the Center for Radiophysics and Space Research. He would
+achieve lasting scientific fame with his inspired theory that pulsars,
+steady pulsating radio sources discovered in 1967, are actually rapidly
+rotating neutron stars. Many honors, including election to the Royal
+Society of London and the National Academy of Sciences, soon
+followed.
+Most scientists would have been content to excel in one chosen
+area, but Gold throughout his career repeatedly ventured into new and
+controversial academic domains. In the 1940s, he conducted experiments on hearing and the structure of the mammalian inner ear.
+Speculative papers on dramatic instabilities of Earth’s rotation axis, on
+steady-state cosmological models of the universe, and on the potential
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+HEAVEN OR HELL?
+
+103
+
+danger to astronauts of deep powdery lunar soils peppered his lengthy
+curriculum vitae.
+In 1977, Gold, by then a safely tenured professor at Cornell, rattled
+the well-established field of petroleum geology. Geologists had long
+declared that petroleum is a fossil fuel, formed when huge quantities
+of decaying cells accumulate over millions of years, to be buried and
+processed by Earth’s heat and pressure. The evidence is overwhelming:
+Petroleum occurs in sedimentary layers that once held abundant life;
+petroleum is rich in distinctive biological molecules; petroleum’s carbon isotopes also point to a biological source. Armed with these and a
+dozen other lines of evidence, the case for fossil fuels was open and
+shut.
+Gold disagreed. Petroleum holds lots of distinctive biomolecules,
+to be sure, but oil fields also contain, along with methane, an abundance of helium gas—a light gas that quickly escapes into space and so
+could only come from deep within the Earth. How could one reconcile
+the mixing of deep helium with surface biology? Gold’s conclusion:
+The organic molecules that eventually become petroleum are produced
+deep underground by purely chemical processes and are then modified by the action of subsurface microbes.
+In this scenario, vast sources of primordial hydrocarbons—the
+major molecular components of oil—exist in Earth’s mantle. Because
+they are lighter than the surrounding rocks, these hydrocarbons slowly
+but surely rise toward the surface, constantly refilling petroleum reservoirs. In Gold’s heretical view, oil is thus a renewable resource instead
+of a finite one built up over millions of years by the burial and decay of
+once-living cells. In an extraordinary move, Gold first published this
+novel idea as an op-ed piece in the June 8, 1977, issue of the Wall Street
+Journal. An oil-hungry nation in the midst of an energy crisis took
+considerable notice of the radical hypothesis.
+A scientific theory is useful only if it is testable, and Gold soon
+proposed a test of dramatic proportions. Gold’s oil-from-below hypothesis predicts that great oil fields should arise equally in many different types of rock, but all known petroleum has been found in layers
+of exactly the kind of sedimentary formations that would have collected abundant remnants of past life. Gold countered, logically, that
+petroleum geologists never look for oil anywhere but in those sedimentary formations. Perhaps, he suggested, immense new oil fields
+were waiting to be found in igneous and metamorphic rock.
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+104
+
+GENESIS
+
+Armed with his provocative theory and a persuasive, dynamic oratorical style, he presented a simple (and expensive) proposal to the
+Swedish State Power Board in 1983. Drill an oil well in solid granite—
+the last place on Earth a petroleum geologist would look. He had targeted a unique and tempting granitic mass, the Siljan Ring impact site
+in central Sweden. This highly fractured granite body, formed 368 million years ago when an asteroid shattered the crust, holds tantalizing
+hints of petroleum in the form of carbon-filled cracks and flammable
+methane seeps. Gold’s enticing rhetoric, amplified by increasing optimism from Dala Deep Gas, the company formed to do the drilling,
+lured energy-poor Swedes into spending millions of dollars on exploratory holes.
+Seven years and $40 million later, a 6.8-kilometer-deep hole had
+produced only modest amounts of oil-like hydrocarbons and methane
+gas—a small enough yield for oil experts to say “I told you so,” but
+large enough to convince Gold that his theory was right. Where else, he
+asked, could that trace of organic molecules have come from? Nevertheless, most scientists saw the Siljan experiment as a failure, and no
+one is likely to drill for oil in granite again, at least anytime soon.
+The modest production of methane gas and smelly, oily sludge
+from the Swedish wells inspired Gold to elaborate on his theory. Extrapolating far beyond his peers, he described “the deep hot biosphere”
+in several articles and a popular 1998 book of that title. The vast, deep
+hydrocarbon reserves at the heart of Gold’s 1977 hypothesis provide a
+wonderful food source for deep microbes, which coincidently leave
+their biological overprint on the otherwise abiotic oil. In entertaining
+prose, he reviewed the growing and accepted body of evidence for deep
+life in many types of rock—all very reasonable stuff. Gold’s conclusion: Deep microbial life, much of it nourished by upwelling hydrocarbons, accounts for fully half of Earth’s total biomass. Though living
+cells represent a tiny fraction of Earth’s total rock mass, the volume of
+rock is so vast—a few billion cubic kilometers—that it shelters astronomical numbers of microbes. Inevitably, our view of life has been
+skewed because these microscopic life-forms lie completely hidden
+from everyday view.
+In April 1998, I invited Gold to visit the Geophysical Lab and
+present his ideas at our regular Monday morning seminar. Seemingly
+unfazed by more than two decades of impassioned objections to his
+views, he delivered a polished and forceful account of many lines of
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+HEAVEN OR HELL?
+
+105
+
+evidence that petroleum is abiotic and rises from the depths. Geology,
+biology, thermodynamics, experiments on organic molecules, carbon
+isotopes, observations of diamonds, and, of course, the chemical properties of petroleum itself all came into play. Knowing our special interest in life’s origins, he underscored the possible role of this deep
+hydrocarbon source in supplying critical molecules for prebiotic processes. Perhaps, he posited, life arose from those deep sources of organic molecules. Throughout the entertaining lecture, he bolstered his
+controversial conclusions with rhetorical flourishes more suited to a
+courtroom than a scientific seminar (“the only possible explanation,”
+“no question remains,” the evidence “persuades one completely,” and
+the like).
+I doubt that anyone was persuaded completely, but we had to admire his creativity and conviction. And Tommy Gold helped to remind
+us all, once again, how much we don’t know about the interior of our
+planet just a few miles beneath our feet.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+HEAVEN VERSUS HELL
+If so many organisms exist beyond the Sun’s radiant reach, then geothermal energy, and the abundant chemically active mineral surfaces
+that are synthesized in geothermal domains, must be considered as a
+possible triggering power source for life. To be sure, sunlight remains
+the leading contender for life’s original energy source. The vast majority of known life-forms do rely, directly or indirectly, on photosynthesis. In many scientific circles, a surface origin of life in a nutrient-rich
+ocean, under a bright Sun, remains the seemingly unassailable conventional wisdom.
+But that nagging problem of macromolecular formation remains.
+Most known living species depend on the Sun directly or indirectly,
+but the Sun’s harsh ultraviolet radiation inhibits the emergence of the
+larger multimolecular structures on which all organisms depend. Furthermore, if the earliest life of almost 4 billion years ago was confined
+to the sunlit surface, how did it escape the brutal, sterilizing final stages
+of bombardment by asteroids and comets? As Gold said over and over
+again, Earth’s surface, bathed in solar radiation and blasted by lightning, is the truly extreme environment.
+And there’s another reason to look closely at the possibility of hydrothermal origins. If life is constrained to form in a sun-drenched
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+106
+
+GENESIS
+
+pond or ocean surface, then Earth, and perhaps ancient Mars or Venus,
+are the only possible places where life could have begun in our solar
+system. If, however, living cells can emerge from deeply buried wet
+zones, then life may be much more widespread than previously imagined. The possibility of deep origins raises the stakes in our exploration of other planets and moons.
+Jupiter’s fourth largest moon, Europa, presents a particularly
+promising target for exploration. According to recent observations,
+Europa is covered with a veneer of ice about 10 kilometers thick, covering a deep ocean of liquid water. Hydrothermal activity on the floor of
+that ocean might be an ideal environment for life-forming chemistry.
+Saturn’s largest moon, Titan, is another intriguing world. Though
+much colder than Earth, Titan has an organic-rich atmosphere slightly
+denser than Earth’s and, like all large bodies, its own sources of internal heat energy.
+The idea that life may have arisen in a deep, dark zone of volcanic
+heat and sulfurous minerals flies in the face of deeply ingrained religious metaphors. To many people, the Sun represents the life-giving
+warmth of heaven, while sulfurous volcanoes are the closest terrestrial
+analog to hell. How could life have come from such a dark, hostile
+environment?
+Nature is not governed by our metaphors, however cherished they
+may be. Life as we know it demands carbon-based chemicals, a waterrich environment, and energy with which to assemble those ingredients into a self-replicating entity. Ongoing laboratory experiments that
+simulate deep conditions as well as those on the surface—coupled with
+observations of environments elsewhere in the solar system—will be
+the ultimate arbiters of truth.
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+8
+Under Pressure
+Where is this original homestead of life? . . . a place where hot
+volcanic exhalations clash with a circulating hydrothermal
+water flow; a place deep down where a pyrite-forming
+autocatalyst once gave, and is still giving, birth to life.
+Günter Wächtershäuser, 1988
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+T
+
+he first emergent step in life’s chemical origin, wherever it may
+have occurred, must have been the synthesis of organic molecules.
+Stanley Miller’s experiments amply demonstrated one potential ancient energy source with which to effect this synthesis—lightning near
+the ocean–atmosphere interface. Subsequent workers, notably Thomas
+Gold, postulated deeper origins and chemically derived energy sources.
+Any plausible source of carbon-based molecules should be fair game
+for origin researchers. Every plausible source deserves rigorous study.
+In 1996, when George Cody, Hat Yoder, and I began our research
+on hydrothermal chemistry and the origins of life, we were novices in
+the origins game, too naïve to suspect that we were wasting our time.
+We thought that our experimental studies of organic synthesis in hot,
+high-pressure water provided compelling evidence that hydrothermal
+zones could have played a role in the prebiotic production of life’s molecules. Stanley Miller and his students, most notably chemist Jeffrey
+Bada at the Scripps Institution of Oceanography, would have been
+happy to set us straight, but we had yet to cross paths with them.
+Harold Morowitz, whose ideas instigated the research, had warned us
+that we might meet with some criticism. He was right.
+It must have seemed odd to the scientific community that a group
+of geologists and geophysicists was studying the origin of life. For al107
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+108
+
+GENESIS
+
+most a century, our home base, the Carnegie Institution’s Geophysical
+Laboratory, had supported research on the physics and chemistry of
+Earth materials at extreme temperatures and pressures. Carnegie scientists had melted granite, synthesized basalt, and heated and squeezed
+just about every known rock-forming mineral to understand how our
+dynamic planet works. They routinely achieved temperatures of thousands of degrees and pressures of millions of atmospheres—extreme
+environments that would seem to have little to do with life’s delicate
+chemistry. Nevertheless, the lab’s arsenal of furnaces and pressure vessels stood ready to heat and squeeze almost any sort of sample, and
+experiments on carbon compounds weren’t intrinsically different from
+any other chemical we might have chosen to study.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+EXPERIMENTS
+Now, more than 2,000 experiments later, our hydrothermal organicsynthesis program is expanded, well funded by NASA, and going
+strong. Our simple strategy, much in the spirit of Stanley Miller’s original experiments, has been to subject plausible prebiotic chemical mixes
+of water, carbon dioxide, and minerals to a controlled environment—
+in our case, a high-pressure and high-temperature environment typical of deep-ocean hydrothermal systems—still often employing the
+classic gold-tube protocol described in the Prologue.
+Our first experiments (the ones with pyruvate and carbon dioxide) were exhilarating. In that series we synthesized sugars, alcohols,
+and a host of larger molecules, many incorporating dozens of carbon
+atoms. Under extreme hydrothermal conditions, the pyruvate molecules polymerize; in some cases they form rings and branching structures reminiscent of molecules found in modern cells.
+In a later set of experiments, we sealed water, nitrogen gas, and
+powdered minerals into the gold tubes—a reasonable proxy for primitive conditions at some hydrothermal vents. In these experiments, we
+produced ammonia, an essential starting material for synthesizing
+amino acids and other biomolecules. Our work suggests that hydrothermal vents may have been one of the principal sources of the early
+Earth’s ammonia. Carrying on with this line of experiments, we put
+ammonia into a capsule with pyruvate and found that these two compounds react to form the amino acid alanine. By 1999, we had estab-
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+UNDER PRESSURE
+
+109
+
+lished one plausible chemical pathway leading from simple carbon
+compounds, nitrogen gas, and common minerals to key biomolecules.
+In 1997, shortly after our initial exciting results, Cody, Yoder, and I
+submitted our first papers for peer review. We believed optimistically
+that our demonstrations of facile hydrothermal organic synthesis
+would be welcomed as a logical extension of the Miller–Urey approach.
+After all, we, like Miller a half-century before, had subjected a closed
+vessel containing water and simple carbon-containing molecules to
+heat. We had followed Miller’s lead in attempting to simulate a plausible prebiotic environment. And we, too, had found an abundance of
+synthetic organic molecules. We thought the Miller camp might actually welcome our contribution. Boy, were we wrong!
+Miller and his scientific cohort had staked their claim to a surface
+origin of life, and they seemed determined to systematically head off
+dissenting opinions. Their reasons were straightforward and clearly argued. While organic synthesis may occur near the 100°C limit of liquid
+water, they argued, at the much higher temperatures of our experiments, the biomolecules of interest, notably amino acids, decompose
+at a higher rate than they can be manufactured. Hydrothermal zones
+on the early Earth would have destroyed many essential biomolecules
+in the prebiotic ocean much faster than they could have been replenished. Such hostile zones were antithetical to life. We weren’t the first
+researchers to suffer these criticisms: The Oregon State group who first
+outlined the hypothesis of a hydrothermal origin of life following deepsea discoveries in Alvin had found themselves repeatedly thwarted by
+this argument, their manuscript rejected time and again. However, we
+were not about to follow their example by publishing in obscure conference proceedings.
+Stanley Miller had been relentless in his offensive ever since the
+hydrothermal-origins idea arose. In a 1988 article in Nature, Miller
+and Jeffrey Bada wrote, “This proposal is based on a number of misunderstandings concerning the organic chemistry involved. . . . The high
+temperatures in the vents would not allow synthesis of organic compounds, but would decompose them.” Miller was more blunt in a Discover feature in 1992, when he called the vent hypothesis “a real loser.”
+In The Spark of Life, their popular book on origin theories, Bada
+and Christopher Wills dubbed those of us working on the hydrothermal hypothesis “ventists,” making us sound a little like the members of
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+110
+
+GENESIS
+
+some fanatical religious cult. Their presentation is engaging and generally accurate, but like an argumentative rondo the old refrain appears again and again: “Vents are more likely to destroy organic
+compounds than create them.” “This high temperature rapidly destroys
+organic compounds rather than synthesizing them.” “At these high
+temperatures, amino acids undergo total decomposition on a time
+scale of only a few minutes.” “Vents . . . do terrible things to the primordial soup.” Piled onto this catchy litany were other criticisms: Our starting solutions were much too concentrated, the resulting products were
+much too dilute, and our geological assumptions about vent-water circulation were incorrect.
+Our immediate reaction to the assault was defensive and angry.
+We saw the Miller camp as self-serving, defending old ideas while discounting new possibilities. Such turf-protecting tactics are not unknown in science, but we were more than a little dismayed by such
+focused efforts to thwart what seemed an interesting and testable idea.
+Our sense of a conspiracy arrayed against us was heightened when
+anonymous reviewers recommended rejecting one of our grant proposals on the basis of familiar, party-line criticisms.
+The most maddening aspect of Stanley Miller’s criticisms wasn’t
+his persistence or even the public way he voiced them. The most maddening aspect was that he was basically right. Our first experiments
+were admittedly flawed. Our starting mixtures of pyruvate were much
+more concentrated than any plausible prebiotic solution; indeed, unstable pyruvate is unlikely as an important prebiotic reactant in any
+environment. What’s more, we couldn’t control the acidity inside our
+gold capsule (acidity can drastically alter reaction pathways), we
+couldn’t be sure that all our products formed at high temperature (as
+opposed to during cooling), and we hadn’t proved that the gold was an
+inert container (might the gold have triggered the observed reactions?).
+In short, it was a typical start to a complex scientific research program.
+The art of science isn’t necessarily to avoid mistakes; rather,
+progress is often made by making mistakes as fast as possible, while
+avoiding making the same mistake twice. After several hundred experiments under a wide range of pressure and temperature conditions, we
+began to realize that water, carbon dioxide, and nitrogen are not sufficient by themselves to synthesize very many useful biomolecules. Under the right circumstances we could trigger some interesting organic
+reactions, but many key biomolecules were missing from the inventory
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+UNDER PRESSURE
+
+111
+
+of our products; and the ones we did manage to make were indiscriminate, with numerous molecules of no possible use to biology. We
+needed some other chemical ingredient, or ingredients, and so our research led us back to my specialty—mineralogy. Minerals, it turns out,
+have the potential to promote key chemical reactions, while protecting
+the products from the ravages of high temperature.
+Before biology, the only raw materials our planet had to play with
+were the ocean, the atmosphere, and rocks. It now appears that rocks
+and minerals, in roles as varied as containers, templates, catalysts, and
+chemical reactants, may provide a key to understanding life’s ancient
+origins.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+ENTER WÄCHTERSHÄUSER
+The view of minerals’ roles in the origin of life came to the fore with
+the publication of a seminal paper in 1988: “Before enzymes and templates: Theory of surface metabolism,” by the brilliant, combative
+Günter Wächtershäuser. Wächtershäuser, a chemist by training but a
+Munich patent attorney by day, erected a sweeping theory of organic
+evolution in which minerals—mostly iron and nickel sulfides, which
+abound at deep-sea volcanic vents—provided catalytic, energy-rich
+surfaces for the synthesis and assembly of life.
+Among the many striking aspects of Wächtershäuser’s grand
+scheme is the unusual extent to which he roots his theory in the philosophy of science. Most researchers tend to ignore science philosophers, whose work often seems removed from the practical day-to-day
+details of experimentation. But Wächtershäuser is an avowed disciple
+(and a personal friend) of the influential philosopher of science Karl
+Popper, who encouraged the new theory’s development. “During
+breakfast I mentioned my ideas on an alternative and he urged me to
+work it out,” Wächtershäuser told a New York Times reporter not long
+ago.
+According to Popper’s dictum, theories, to be theories at all in the
+scientific sense, must make testable predictions that might be proved
+false by empirical tests. A theory that makes no testable predictions is
+pseudoscience according to Popper. By the same token, the more precise (and, therefore, the more falsifiable) its predictions, the more believable a theory becomes when it survives scrutiny.
+Most origins researchers before Wächtershäuser had adopted an
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+112
+
+GENESIS
+
+ad hoc, trial-and-error approach: They cooked up likely geochemical
+recipes to see what worked, then patched together a theory around
+those observations. Stanley Miller’s experiment made amino acids, so
+his followers became convinced that that’s how it happened in nature.
+“Ventists,” who found primitive life in hydrothermal zones, often fell
+into the same trap. Theories flourished around particular sets of observations rather than grand falsifiable frameworks. By contrast,
+Wächtershäuser set out to formulate his theory from scratch, starting
+with a few plausible assumptions about the nature of the first living
+entity.
+Assumption 1. Reject the “primordial soup” concept. In
+Wächtershäuser’s model, random prebiotic synthesis plays no essential role in life’s origin. He argues that the prebiotic emergence of
+biomolecules à la Miller–Urey was irrelevant because the primordial
+soup was too dilute and contained too many molecular species that
+could not contribute to life. It takes a lot of nerve to throw out decades
+of research, but that’s Wächtershäuser’s style.
+Assumption 2. The first life-form made its own molecules. Most
+other workers assume that the first living entity scavenged amino
+acids, hydrocarbons, and other useful molecules from its surroundings—a strategy called heterotrophy (from the Greek for “other nourishment”). Wächtershäuser denies that possibility, since the soup was
+so dilute and unreliable. He counters that the first life must have been
+autotrophic (“self-nourishing”), manufacturing its own molecular
+building blocks from scratch.
+Assumption 3. The first life-form relied on the chemical energy of
+minerals, not the Sun. Sunlight and lightning are both too violent, and
+they are uncharacteristic of the energy sources most cells use today.
+Moreover, photosynthesis is an immensely complex sequence of
+chemical reactions, requiring numerous proteins and other specialized
+molecules. Surface reactions on minerals, by contrast, are simple and
+similar to the synthesis strategies central to many cellular processes
+today.
+Assumption 4. Metabolism came first. Many researchers claim that
+life requires encapsulation and membranes, but simple membranes are
+ill suited to let food in or waste out. Others, seduced by discoveries of
+modern molecular genetics, are convinced that life began with a selfreplicating genetic molecule like RNA (see Chapter 16), but even the
+simplest genetic molecule is vastly more complex than anything in the
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+UNDER PRESSURE
+
+113
+
+Miller–Urey soup. Wächtershäuser, in sharp contrast to these more
+conventional ideas, assumes that life began with metabolism, which he
+defines as a simple cycle of chemical reactions that duplicates itself.
+These key ideas are amplified by one additional assumption, common to all origin theories—that of biological continuity. Today’s biochemistry, no matter how intricate and dependent on specialized
+catalysts, has evolved in an unbroken path from primordial geochemistry. Thus, for example, Wächtershäuser’s scheme builds on the observation that many of the molecules that enable today’s living cells to
+process energy have, at their core, a mineral-like cluster of iron or nickel
+and sulfur atoms.
+But Wächtershäuser’s theory is much more than a list of assumptions. Over 100 pages of detailed chemical reactions—testable steps
+that lead from simple geochemical raw materials to biology—amplify
+his epic proposition. “You don’t mind if I brag a little,” he told a reporter for Earth in 1998, “but something like this has never been done
+in the entire field.”
+We’ll look at the details of Günter Wächtershäuser’s theory in
+Chapter 15, but the central chemical idea is that iron and nickel sulfides, notably the common iron–sulfur minerals pyrrhotite and pyrite,
+served as template, catalyst, and energy source for biosynthesis. In
+Wächtershäuser’s view, simple molecules like carbon monoxide and
+hydrogen react on sulfide surfaces to produce larger molecules. These
+molecules tend to have negative charges and so they stick to the positively charged sulfide surfaces, where additional reactions build larger
+and larger molecules. Various surface-bound molecules begin to feed
+off each other, eventually forming a chemical cycle that copies itself.
+Voilà! It’s alive! In Wächtershäuser’s view, this emergent process is both
+inevitable and fast. “It takes maybe two weeks,” he estimated in answer
+to a question at a Carnegie seminar.
+Wächtershäuser’s theory has proven more than a little controversial, and it has evoked much discussion and comment, both pro and
+con. “There’s probably nothing there because, otherwise, people would
+have found it already,” Jeffrey Bada says. In a recent paper in Science, he
+and his colleague Antonio Lazcano dismiss Wächtershäuser’s originality: “It’s not a new idea,” they write, pointing to a 1955 paper by the
+Lithuanian-American microbiologst Martynas Ycas—a two-page
+“Note on the origin of life” in the Proceedings of the National Academy
+of Sciences that had comparatively little impact on the origins commu-
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+114
+
+GENESIS
+
+nity. Whatever one thinks of Wächtershäuser’s full-fledged and widely
+cited theory, it cannot be dismissed as a mere restatement of earlier
+ideas.
+More than most scientists, Wächtershäuser seems to keep track of
+who cites his work, who offers praise, who follows up with relevant
+experiments. Though we had never met, he considered our Carnegie
+group a friend. His provocative theoretical ideas had influenced our
+experimental program. We had focused on the possibility that in the
+presence of minerals—especially iron and nickel sulfides—metabolism
+can proceed without protein catalysts. Many of our experiments served
+to test his ideas. So in January 1998, as a member of the Lab’s seminar
+committee, I invited Wächtershäuser to give a lecture. He responded
+by phone less than a week later, and we agreed on a visit near the end of
+March.
+Intense and earnest, combative and to the point, Wächtershäuser
+delivered his lecture like a legal summary to a packed, attentive room.
+An hour proved not nearly enough to touch on the philosophy and
+outline of his epic hypothesis, but many of us had read his papers and
+followed as one does a favorite, oft-told tale. When he did touch on
+other theories or dissenting views, he dismissed them quickly, efficiently, as if he were brushing away a pesky fly.
+I should be clear: None of us was a Wächtershäuser disciple, nor
+did any of us believe everything he proposed; indeed, the idea that
+prebiotic chemistry and the primordial soup played no role in life’s
+origins runs counter to the assumptions of many of our hydrothermal
+synthesis experiments. But his origin-of-life model is amazingly rich
+and detailed. Virtually every chemical step is testable by experiments.
+Nothing is fuzzy or left to speculation. His daring lies in the prediction
+of specific chemicals that arise by specific reaction pathways. Right or
+wrong, Wächtershäuser has produced a synthesis that will be studied
+by scientists for decades to come (and historians of science long after
+that).
+Following the seminar, several of us were eager to help test the
+model in any way we could. That afternoon we showed him our extensive experimental facilities, described our origins research, and raised
+the possibility of collaboration. Our offer was for him to propose the
+experiments and be the lead author on any resulting publications. A
+week later I wrote, “We would like to explore the possibility of collaborative experimental work, in particular the effects of modest pres-
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+UNDER PRESSURE
+
+115
+
+sure on the rates of reactions you propose.” He received our offers
+politely, but was clearly reluctant and declined to accept our help. I
+was left with the strong impression that Günter Wächtershäuser is
+eager to maintain control over both his theory and its experimental
+verification.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+EXPERIMENTS
+The hypothesis that minerals might enhance the stability of some
+biomolecules received a boost from a series of experiments in 1999–
+2000 conducted by my Carnegie colleague Jay Brandes. Brandes had
+arrived at the Geophysical Lab fresh from his 1996 University of Washington PhD in oceanography—a study of nitrogen chemistry in the
+Central Amazonian Basin of Brazil. Jay’s original proposal for work at
+the Lab was to elaborate on the nitrogen work, but he soon shifted his
+efforts to our origin-of-life program. It proved a good decision.
+His first paper at Carnegie, “Abiotic nitrogen reduction on the early
+Earth,” appeared in the September 24, 1998, issue of Nature and immediately gained widespread attention. Brandes demonstrated that
+hydrothermal vents could have provided a reliable source of ammonia—an essential nitrogen-bearing compound for prebiotic synthesis.
+He followed up by demonstrating the synthesis of amino acids under
+ammonia-rich vent conditions.
+In spite of these successes, studies by Stanley Miller’s group on the
+rapid breakdown of amino acids had raised a question that would not
+go away. Miller and his colleagues objected to the hydrothermal-origin hypothesis, in part, because amino acids decompose rapidly at the
+elevated temperatures of ocean vents. How could we be making appreciable quantities of amino acids in our runs at 200°C, if these
+chemicals aren’t stable? So Jay’s next round of experiments focused on
+the breakdown of amino acids under a variety of geochemically relevant conditions.
+Brandes’s new experiments found evidence that the amino acid
+leucine, which breaks down in a few minutes in 200°C pressurized water, may persist for days when pyrrhotite, an iron–sulfur mineral commonly found at submarine volcanic vents, is added to the mix. While
+the exact protection mechanism is still under study, Brandes’s experiments seemed to demonstrate that minerals may greatly enhance the
+stability of essential biomolecules.
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+116
+
+GENESIS
+
+Two other intriguing lines of research point to the complexity of
+determining amino acid stability. One recent set of experiments focuses on fossil bones, which often preserve ancient proteins. Fossil
+bones are composite materials in which a strong but brittle mineral
+matrix interweaves with flexible fibers of the proteins osteocalcin and
+collagen. Unprotected, these proteins would break down in a matter of
+a few centuries, but some fossil bones are known to preserve proteins
+for many millions of years. Recent work in Andrew Steele’s laboratory
+has even revealed hints of fossil collagen in dinosaur bones more than
+70 million years old. The secret to such exceptional preservation is
+strong bonding between minerals and the amino acid constituents of
+the proteins. Minerals can thus protect and preserve amino acids.
+Additional evidence for amino acid survivability comes from experiments conducted by Stanford graduate student Kono Lemke and
+geochemist David Ross of the U.S. Geological Survey laboratories in
+Menlo Park. Working with financial support from our NASA Astrobiology Institute grant, they placed amino acids in a superhot pressure
+cooker and watched for them to decompose. But, unlike the protocol
+of our restrictive gold-tube experiments, Lemke and Ross employed an
+exotic flexible “gold bag” apparatus—a great improvement on the
+sealed-tube experiments.
+The heart of the gold-bag apparatus is a thin-walled flexible bag
+about the size of a grapefruit, meticulously crafted from pure gold foil.
+The bag opens at one end into a titanium-valve system, with which
+Lemke and Ross filled and emptied their experimental solutions. They
+immersed the entire gold assembly in a water-filled pressure chamber
+that was compressed to several hundred atmospheres and heated to
+several hundred degrees—conditions similar to those found at deepocean hydrothermal zones. Once they loaded and sealed the apparatus,
+hot, pressurized water compressed and heated their sample container
+uniformly on all sides.
+The principle of the gold-bag apparatus is much the same as that
+of our smaller gold-tube experiments. Both rely on soft, inert, deformable gold to exert uniform pressure and temperature on a fluid sample.
+The great advantage of the gold-bag setup is that small samples of the
+reacting fluid can be extracted every few hours or days throughout the
+duration of a long experiment. But trade-offs are a fact of scientific
+life. The disadvantage is that the thin-walled gold bag is frustratingly
+fragile and can be a pain to use. A slight miscalculation and the bag will
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+UNDER PRESSURE
+
+117
+
+rip, ruining an experiment and requiring a tedious and exacting welded
+repair. But once properly filled with reactants, the device usually works
+wonderfully well.
+Lemke and Ross gingerly placed the bag into a water-filled pressure vessel, slowly filled the gold container with a solution of the amino
+acid glycine and water, sealed the assembly, and ramped up the pressure and temperature. They ran their samples for weeks, monitoring
+the solution, watching for the glycine to decompose. Over time, the
+concentration of glycine steadily declined, but even though they didn’t
+use minerals in their experiments, they observed a much slower rate
+of breakdown than had been reported in previous studies at lower
+pressure.
+In addition, they found a surprisingly fast rate of peptide-bond
+formation—amino acids linking together to form molecular chains.
+This result was unexpected, because hot water tends to break apart
+rather than form peptide bonds. (That’s one reason boiled foods are so
+squishy—the sturdy bonds between amino acids that give food texture
+break down.) Once formed, these peptides decomposed rather quickly,
+but their formation pointed to more complex behavior than had been
+expected.
+Lemke and Ross found hints of another potentially important behavior in their gold bag. Single amino acid molecules and small clusters with just two or three molecules linked by peptide bonds readily
+dissolve in water at room temperature, but longer peptide chains
+proved much less soluble. Lemke and Ross imagine a scenario in which
+peptides form rapidly in vents and are then exposed to the cooler seawater. Given a high enough concentration of long amino acid chains,
+these molecules might separate out as a relatively stable concentrated
+phase—just the kind of emergent molecular selection and organization that life’s origin required. There’s a lot more work to be done, but
+it appears that the book is not yet closed on amino acid stability in
+hydrothermal systems.
+FIXING CARBON
+The most fundamental biological reaction—and one of our group’s
+primary goals in prebiotic-synthesis experiments—is carbon fixation,
+the incorporation of more carbon atoms (starting with carbon dioxide) into organic molecules. After all, the first chemical step in the path
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+118
+
+GENESIS
+
+to life must be to make bigger molecules, like amino acids and sugars,
+out of smaller ones, like carbon dioxide, ammonia, and water. Such
+reactions occur rapidly in our experiments, but they follow two rather
+different paths, depending on the mineral employed.
+Many common minerals, including most oxides and sulfides of
+iron, copper, and zinc, promote carbon addition by a routine, industrially important process known as the Fischer–Tropsch (F–T) synthesis.
+In its idealized form, F–T synthesis builds long chainlike organic molecules from carbon dioxide and hydrogen that are exposed to hot, dry
+metal surfaces. Our gold-tube experiments and studies in several other
+labs display similar reactions in the presence of wet mineral surfaces at
+high pressure, though a lot less efficiently than the industrial process.
+Field studies complement these experiments. Recent intriguing
+analyses of organic molecules emanating from hydrothermal vents reveal similar Fischer–Tropsch-like products, and it now appears that
+F-T synthesis constantly manufactures larger organic molecules from
+smaller building blocks in Earth’s hydrothermal zones. Many of these
+molecules are hydrocarbons of the type that form petroleum. (Who
+knows, maybe Tommy Gold is correct and at least some petroleum
+forms abiotically at depth.)
+Alternatively, when we use nickel or cobalt sulfides, we observe
+that carbon addition occurs primarily by the insertion of carbon monoxide, a molecule with one carbon atom and one oxygen atom, which
+readily attaches itself to nickel or cobalt atoms. By repeating these
+simple kinds of reactions—add a carbon atom here, an oxygen or hydrogen atom there—over and over again, new and more complex organic molecules emerge.
+One conclusion seems certain: Mineral-rich hydrothermal systems
+contributed to the early Earth’s varied inventory of potential bio-building blocks. With tens of thousands of miles of deep-ocean hydrothermal ridges, billions of cubic kilometers of warm wet crust, and
+hundreds of millions of years to process the raw materials, organic
+molecules must have been produced in prodigious amounts. But the
+Geophysical Lab synthesis experiments have done more than simply
+add to the catalog of interesting molecules that could have been formed
+on the early Earth. These experiments are now uncovering something
+quite new about the possible role of minerals in the origin of life.
+Previous origin-of-life studies, such as those of Günter
+Wächtershäuser, treat minerals essentially as solid and relatively stable
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+UNDER PRESSURE
+
+119
+
+platforms for synthesis and assembly of organic molecules. But our
+experiments reveal another, more complex behavior that may have
+important consequences for origin-of-life chemistry. We find that in
+the presence of high-temperature and high-pressure water, minerals
+often start to dissolve. In the process, the dissolved atoms and molecules from the minerals themselves become crucial reactants in the
+prebiotic milieu. Sulfur, dissolved from sulfide minerals, combines with
+carbon dioxide and water to form thiols and thioesters—reactive molecules that can jump-start new synthetic pathways.
+Even more dramatic is the behavior of iron, which can dissolve in
+water to form brilliantly colorful organic solutions. After one experimental run, George Cody bounced from office to office on the second
+floor, showing off a particularly striking orange-red solution he had
+just extracted from a pressure capsule. The deep color was exciting
+because it pointed to the formation of iron complexes—iron atoms
+surrounded by a starburst of organic molecules. Chemists have long
+known that similar iron complexes promote chemical reactions, so
+Cody speculated that our cheerful solutions might contain a kind of
+primitive catalyst that promoted the assembly of more complex molecular structures.
+Such behavior is not entirely unexpected, for hydrothermal fluids
+are well known to dissolve and concentrate mineral matter. Many of
+the world’s richest ore deposits arise from hydrothermal processes.
+Similarly, spectacular sulfide pillars tens of meters tall grow rapidly at
+volcanic vents called black smokers, where rising plumes of hot, mineral-rich solutions contact the frigid water of the deep ocean.
+Yet there’s so much we don’t know about hydrothermal systems
+and the chemical processes that might occur in their vicinity. And in
+spite of their prevalence, the role of these dissolved ingredients has not
+yet figured significantly in origin scenarios. No one yet knows how this
+rich mix of organic compounds and dissolved minerals might influence the synthesis and assembly of biomolecules. But we’re poised to
+find out.
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+9
+Productive Environments
+The limits of life on this planet have expanded to such a
+degree that our thoughts of both past and future life have been
+altered.
+Kenneth Nealson, 1997
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+E
+
+ven as the debate between Miller’s advocates and the ventists was
+heating up, an explosion of new research dramatically changed the
+research community’s view of the emergence of biomolecules. When
+Miller first reported organic synthesis on a benchtop in 1953, the results seemed almost magical. Fifty years ago, no one could have predicted how easy it would be to make amino acids, sugars, and other key
+biomolecules from water and gas. But the more scientists study carbon
+chemistry in a wide range of plausible, energetic prebiotic environments, the more diverse and facile organic synthesis seems to be. It
+now appears that anywhere energy and simple carbon-rich molecules
+are found together, a suite of interesting organic molecules is sure to
+emerge. It’s all a matter of environment, and it now appears that the
+universe boasts an extraordinary range of productive environments.
+MOLECULES FROM DEEP SPACE
+The last place you might think to look for life-forming molecules is the
+black void of interstellar space, but new research reveals that organic
+molecules from space must have predated Earth by billions of years.
+Deep space, we now realize, is home to immense tenuous clouds where
+carbon, hydrogen, oxygen, and nitrogen combine in complex sequences
+of reactions.
+A research team at NASA Ames Research Center at Moffett Field,
+121
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+122
+
+GENESIS
+
+California, led by veteran astrochemist Louis Allamandola, has simulated the ultracold deep-space environments of these so-called dense
+molecular clouds (though these vast volumes of dust and gas are far
+less dense than the highest vacuum attainable on Earth). A typical interstellar cloud harbors only a measly million atoms per cubic inch, at
+temperatures colder than –100°C. Such high vacuums and frigid temperatures would seem to preclude any sort of chemical reaction, but in
+these remote regions, minute ice-covered dust particles are subjected
+to ultraviolet radiation from distant stars. Gradually, as molecules absorb this radiation, they become sufficiently reactive to form larger
+collections of atoms. Radio astronomers have long recognized the distinctive signatures of numerous organic species in these clouds. Each
+type of molecule absorbs or emits characteristic wavelengths of light—
+features that appear as sharp lines on a radio spectrum. The most abundant molecules are the diatomic and triatomic species, such as CO, H2,
+CO2, and H2O, but more than 140 different compounds are known,
+including many larger molecules with a dozen atoms or more.
+Theorists easily explain such molecular diversity. They calculate
+the efficiency with which small cold molecules condense onto tiny dust
+particles, forming submicroscopic ice coatings. They predict details of
+how icy particles occasionally absorb ultraviolet radiation, which can
+shuffle electrons and trigger chemical reactions. They plot reaction cascades by which small groups of atoms clump together and slowly cause
+new larger molecules to accumulate in the cloud. Eventually, under the
+pervasive inward pull of gravity, local regions of a molecular cloud can
+collapse into a new planetary system with a central massive star and an
+array of planets and moons. As each body forms, a steady rain of
+organic-rich comets and asteroids contributes to the life-forming inventory. So, the theorists tell us, organic molecules inevitably constitute part of any planet-forming mix.
+Regardless of how convincing a theory may sound, experiments
+carry a lot of weight in science. Allamandola and co-workers’ experiments at NASA Ames have exploited an elegant chilled vacuum chamber, about 8 inches in diameter, crafted of shiny stainless steel, and
+equipped with thick glass observation ports, to produce suites of organic molecules. First, they introduce a fine spray of simple gas molecules, such as water, carbon monoxide, methane, and ammonia, into
+the chamber, where the gases freeze onto an aluminum disk. Then they
+bathe the thin ice layer with a beam of ultraviolet radiation, which
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+PRODUCTIVE ENVIRONMENTS
+
+123
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+triggers the formation of larger molecules—compounds that match
+the distinctive molecular emissions from those distant clouds.
+[Plate 5]
+The NASA team has used their benchtop apparatus to produce a
+rich variety of interesting molecules: reactive nitriles, ethers, and
+alcohols abound, as do ringlike hydrocarbons. One set of experiments
+yielded nitrogen-bearing precursor molecules to amino acids. Another
+set generated long chainlike molecules reminiscent of the building
+blocks of cell membranes.
+Evidence from space amply buttresses these nifty experiments. The
+Murchison meteorite and many other carbon-rich meteorites are
+loaded with organic molecules thought to be of extraterrestrial origin.
+Comets, too, are known to be rich in the molecular precursors of life,
+as are the microscopic interplanetary dust particles that incessantly
+drift down to Earth’s surface. Armed with their vacuum chamber, the
+Ames team can reproduce the supposed deep-space synthesis processes
+in the lab. Theory, observations, and experiments agree: The prebiotic
+Earth was seeded abundantly with extraterrestrial organics.
+Nevertheless, the Miller crowd is unpersuaded by these studies,
+too. Says Miller, “Organics from outer space, that’s garbage, it really is.”
+Jeff Bada echoes, “Even if cosmic debris struck the prebiotic Earth at
+10,000 times the present levels, the resultant prebiotic soup would still
+have been much too weak to engender life.”
+MOLECULES FROM GIANT IMPACTS
+Meteorites and comets carry a rich inventory of organic molecules, but
+can these molecules survive the catastrophic insults of collisions with
+Earth? Deep-space synthesis, no matter how fecund, would be irrelevant to life’s origin if the intense temperatures and pressures of impact disintegrated molecules.
+It’s hard to imagine an environment more destructive to life and
+its molecules than the shattering surface impact of an asteroid or
+comet. Nevertheless, carbon-rich meteorites like the Murchison contain a significant store of amino acids and other potential biomolecules; evidently impacts don’t destroy all organic molecules. In fact,
+recent experiments suggest quite the opposite. Jennifer Blank and her
+colleagues at the Lawrence Berkeley National Laboratory, in Berkeley,
+California, use a giant experimental gas gun that hurls hyperfast chunks
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+124
+
+GENESIS
+
+of metal at innocent rocks. Their goal is to trace the fates of organic
+molecules during these violent collisions.
+Blank’s experiments begin with a flattened cylindrical stainlesssteel capsule about 1 inch in diameter that is filled with a solution of
+five different amino acids in water. She carefully positions the sealed
+sample in a metal well—the target at the end of a 40-foot-long gun
+barrel.
+“Clear the room!” she demands, as they close the gun chamber.
+A technician powers up her weapon. “Three, two, one, fire!” and
+blam!, a tremendous shock wave shakes the building as a massive metal
+projectile hurls down the barrel at more than 4,000 miles per hour and
+squashes her neatly prepared sample like a bug. For a few microseconds, the amino acid solution experiences pressures in excess of
+200,000 atmospheres at temperatures approaching 900°C.
+Then the fun begins. Blank pries out her deformed steel capsule
+and mills down the metal to extract a few drops of liquid. The original
+clear solution has turned a dark brown color—something interesting
+has happened to the amino acids. The organic chemists’ standard analytical techniques, chromatography and mass spectrometry, tell the
+story. To be sure, most of the original amino acids are lost in every run.
+But, remarkably, some of the delicate molecules react with each other
+to form pairs of amino acids. The formation of these peptide bonds
+between amino acids is a crucial step in the assembly of proteins.
+Jennifer Blank’s highly publicized conclusion: Impacts on the early
+Earth may have reduced the quantity of organic molecules, but at the
+same time they increased the diversity of complex prebiotic chemical
+species.
+MOLECULES FROM HOT ROCKS
+Of all scenarios for the prebiotic production of organic molecules,
+none is more original (and correspondingly controversial) than the
+idea of Friedemann Freund, a longtime researcher at the NASA Ames
+Research Center. He claims that igneous rocks were, and still are, a
+principal source of Earth’s organic molecules. “Maybe,” he remarked
+to Wes Huntress, the Geophysical Lab’s director, “the next chapter in
+the origin of life is written in the solid state—in the dense, hard, seemingly hostile matrix of crystals.”
+Freund, who is as persistent and unflappable as anyone you’re ever
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+PRODUCTIVE ENVIRONMENTS
+
+125
+
+likely to meet, smiles and quietly presents his case. Tall, lean, with a
+shock of graying hair, he speaks gently, with a slight German accent
+and lots of eye contact. He’s always ready to talk about what he’s doing
+and seldom expresses the slightest doubt that he’s onto something
+important.
+Here’s how he claims it happens. At high temperatures, every melt
+contains some dissolved impurities. Molten rocks are no exception;
+they always incorporate a little bit of water, carbon dioxide, and nitrogen. As the melt cools, minerals begin to crystallize one after another.
+The first mineral might be rich in magnesium, silicon, and oxygen, but
+inevitably it will also incorporate a small amount of carbon and nitrogen—elements that don’t easily enter the crystal lattice. These residual
+elements concentrate along crystal defects—zipperlike elongated
+spaces where the foreign atoms can react and, according to Freund,
+ultimately form chainlike molecules with a carbon backbone. Freund
+suspects that every igneous rock has the potential to manufacture such
+organic molecules. When the rocks weather away, so the story goes,
+they release vast amounts of organic carbon into the environment.
+Many scientists would say that’s a wacky idea. “I am a hundred
+percent sure that the Freund paper is utter nonsense,” asserts Washington University mineralogist Anne Hofmeister. “Most igneous rocks
+form from an incandescent melt at temperatures greater than
+1,000°C—temperatures at which even the hardiest organic molecule is
+fragmented into carbon dioxide and water. By contrast, organic contamination is everywhere in our environment.” What causes Freund’s
+observed organics? “It’s surface residues,” Hofmeister says, “probably
+sorbed out of the air.”
+Freund rests his case on two sets of samples he has been studying
+for almost a quarter century. Two-inch-long synthetic magnesium oxide (MgO) crystals, produced by cooling a white-hot MgO melt from
+2,860°C, serve as a simple model system. Pure MgO should be clear
+and colorless, but Freund’s crystals have a cloudy, turbid interior, suggestive of pervasive impurities. Infrared spectra reveal the sharp absorption features of carbon-hydrogen and oxygen-hydrogen bonding,
+both characteristic of organic molecules. Studies of the crystals’ unusually high electrical conductivity and other anomalous properties
+have further convinced him that the supposed MgO crystals are loaded
+with excess carbon and hydrogen. The clincher: Subsequent analyses
+of molecules extracted from crushed MgO crystals reveal the presence
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+126
+
+GENESIS
+
+of carboxylic acids, which just happen to be essential molecules in the
+metabolism of all cells.
+Studies of natural gem-quality olivine, an attractive green mineral
+that is among the commonest constituents of igneous rocks, complement Freund’s work on synthetic MgO. Once again, his spectroscopic
+studies revealed C–H and O–H bonds; once again, he extracted organic molecules from crushed powders. Olivine crystals hold an astonishing 100 parts per million carbon, he claims. Furthermore, much
+of that carbon occurs in biologically interesting, chainlike organic
+molecules.
+Others remain unconvinced. Caltech mineralogist George
+Rossman duplicated some of Freund’s olivine results with dirty crystals. “I ran a sample of ours that had been standing around for a while,”
+he told Anne Hofmeister in 2002. “It had the organic bands. I washed it
+off with organic solvent and re-ran it. No organic bands.” Organic contamination is everywhere, so any surface—especially any powder—no
+matter how well cleaned, will quickly become loaded with adsorbed
+organic molecules. Freund counters that the types of molecules he extracts, carboxylic acids, are not typical of any ordinary environmental
+contamination. They must have come from inside the mineral.
+Freund had won relatively few converts by the summer of 2003,
+when he came to George Cody’s lab to duplicate his extraction of molecules from olivine. For several weeks, a white-coated Freund was an
+amiable fixture at Cody’s lab bench. He meticulously washed and powdered the semiprecious stones, extracted carbon compounds with
+strong solvents, and analyzed the samples with Cody’s battery of hightech instruments. Sure enough, every crystal seemed to release a small
+hoard of carbon-rich molecules. There wasn’t much, certainly, but the
+volume of igneous rock that has formed and eroded over the course of
+geological history is immense. So, by Freund’s estimates, solid rocks
+have provided one of Earth’s largest and most continuous sources for
+the emergence of biomolecules.
+Scientific progress involves a long process of hypothesis and testing, bold claims, and critical counterarguments. Not surprisingly,
+Freund’s hypothesis has received a lot of scrutiny and not a little disdain. But those unexplained carboxylic acids can’t be ignored. And so,
+for the time being, the jury is still out.
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+PRODUCTIVE ENVIRONMENTS
+
+127
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+THE MULTIPLE-SOURCE HYPOTHESIS
+Where did life’s crucial molecules form? In spite of the polarizing advocacy of one favored environment or another by this group and that,
+experiments increasingly point to the possibility that there was no
+single dominant source.
+It’s not a matter of Millerites versus ventists, or deep space versus
+Earth’s surface. Many ancient environments boasted carbon atoms and
+sufficient energy to initiate their chemical transformations. Many
+environments must have contributed to the prebiotic inventory.
+Lightning-sparked gases were a major source, to be sure, as were UVtriggered reactions high in the atmosphere. Deep in the ocean, in environments ranging from lukewarm to boiling hot, molecules must
+have been made in abundance, as they certainly were within some reactive rocks of the crust (and, if Tom Gold is correct, perhaps in the
+much deeper mantle). A wealth of organic products also rained down
+from space, formed in remote dense molecular clouds and concentrated in the carbon-rich meteorites and asteroids that coalesced to
+make our planet.
+The bottom line is that the prebiotic Earth had an embarrassment
+of organic riches derived from many likely sources. Carbon-rich molecules emerge from every conceivable environment. Amino acids, sugars, hydrocarbons, bases—all the key molecular species are there.
+So the real challenge turns out to be not so much the making of
+molecules, but the selection of just the right ones and their assembly
+into the useful structures we call macromolecules. That process required a higher level of emergence.
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:52.
+
+

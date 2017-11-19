@@ -1,0 +1,325 @@
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+Prologue
+
+“Look at this!”
+Harold Morowitz beamed as he hustled into my office. “The dielectric constant of water drops to about 20 at a kilobar and 350
+degrees. That’s like an organic solvent!” He pulled up a chair to show
+me the data.
+It took me a moment to change gears and realize what he was so
+excited about. Harold and I both teach undergraduate science courses
+at George Mason University, where we often discuss biology’s “Big
+Questions,” including the chemical processes that might have led to
+life’s origin. For more than two decades Harold had puzzled over the
+role of water, which poses a persistent problem in origin-of-life scenarios. Water is the medium of life, while carbon, by far the most versatile of all the chemical elements, forms the essential backbone of all
+biomolecules. Yet researchers find that several key chemical steps in
+assembling life’s carbon-based molecules do not work very well in water. So how could life have started on a wet planet?
+One intriguing, though untested, possibility is that life’s initial
+chemical reactions proceed more easily at high pressure and temperature. This idea had received a boost in the late 1970s, when Oregon
+State University oceanographer Jack Corliss descended to the deep,
+dark ocean floor in the research submersible Alvin and observed astonishing ecosystems at undersea volcanic vents. In these hellish zones,
+without benefit of sunlight, life has found a way to survive crushing
+1
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:13.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+2
+
+GENESIS
+
+pressures of 1,000 atmospheres—a kilobar—and scalding temperatures greater than 100°C. Perhaps, Corliss and co-workers suggested,
+life first arose at such hostile extremes, and in total darkness.
+Morowitz’s dense tabulation held a possible clue. Photocopied
+from a 1970s text, it recorded variations of water’s physical and chemical properties with temperature and pressure. Sure enough, at extreme
+pressure-cooker conditions water appeared to be a remarkably
+different liquid from the stuff that comes out of the tap. Harold was
+onto something. “So maybe Jack Corliss is right—maybe it is the vents.”
+The mainstream origin-of-life community, wedded as they were
+to the tradition of a globe-spanning ocean of “primordial soup”
+bathed in sunlight, had rejected this speculation out of hand. In the
+intervening two decades, no one had bothered to try the relevant hightemperature and high-pressure experiments. Yet the so-called hydrothermal-origins hypothesis was too intriguing and too testable to disappear. In the late 1980s, the German chemist and patent attorney
+Günter Wächtershäuser put flesh on the bones of this idea by proposing a detailed chemical scenario for origin events in a deep hydrothermal zone rich in sulfide minerals.
+Now Harold had uncovered data showing how the physical and
+chemical properties of water might be very different at extreme conditions from those of everyday experience. Perhaps chemical reactions
+that fail at Earth’s ordinary surface conditions could take place at those
+extremes. There was only one way to find out.
+“So, can you do the experiments?” Harold knew that my nearby
+research base, the Carnegie Institution’s Geophysical Laboratory in
+Washington, D.C., maintained an arsenal of high-temperature and
+high-pressure apparatus. The laboratory specialized in chemical reactions at extreme conditions, so he hoped that my colleagues and I
+might be able to tackle the complex carbon chemistry that underpins
+the origin of life.
+I hardly gave it a second thought. “Sure, why not? It’s an easy experiment.” I had no idea where that hasty promise would lead.
+
+
+Harold Morowitz is one of the kindest scientists I know. More than a
+few scientists wear a veneer of kindness—a pro forma geniality that
+masks an intense and often competitive personality. Those of us whose
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:13.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+PROLOGUE
+
+3
+
+lives are devoted to indulging our curiosity tend to be a distracted, selfabsorbed lot. Harold is different. He smiles winningly at the slightest
+encouragement and speaks with the calmness and quiet passion of a
+rabbi or father confessor. He loves a good idea, and shares his richly
+inventive vision of life’s origin without hesitation, without the conventional expectation of clever reciprocation. He came to George Mason
+University in 1988, after a full and productive career on the biology
+faculty at Yale, where he made his mark studying energy flow in cells.
+Harold argues persuasively that modern cells carry hints of life’s earliest biochemical processes. Such molecular “fossils” persist in all of us
+in all our cells he claims, and these molecules point to the chemistry of
+life’s origins. [Plate 1]
+Although at the time a novice at origins research, I was delighted
+for an excuse to collaborate with Harold Morowitz. His name provided instant credibility in a field at times tarnished by questionable
+data, contentious debates, or even outright quackery. Nevertheless, a
+successful experiment must be planned with care, and Harold had already spent a lot of time thinking about strategy.
+“Let’s start with pyruvate,” he urged. Pyruvate, an energy-rich, 3carbon molecule, was a natural choice for Harold, who had spent a
+lifetime studying metabolism, the processes by which cells gather atoms and energy to sustain themselves, grow, and reproduce. Pyruvate
+is a key ingredient in every cell’s metabolism. Most cells gain energy by
+splitting the 6-carbon sugar, glucose, into two pyruvate molecules, after which the pyruvate is broken into smaller molecules to release further energy. Morowitz explained that some cells also use pyruvate as a
+building block to construct larger molecules. So, for example, a pyruvate molecule and a molecule of carbon dioxide (one carbon atom
+bonded to two oxygen atoms) can react to form a 4-carbon molecule
+called oxaloacetate, which undergoes further reactions in metabolism.
+It’s simple math: 3 + 1 = 4. But that reaction never works in water
+at room pressure, at least not without a complex biological catalyst—a
+molecule that greatly boosts the reaction rate. In the absence of a cell’s
+sophisticated catalytic chemical machinery, pyruvate tends to break
+down into fragments with only one or two carbon atoms. Perhaps,
+Harold suggested, higher pressure and temperature would reverse this
+trend and induce pyruvate plus carbon dioxide to form oxaloacetate. If
+so—if we could demonstrate that hydrothermal conditions promote
+such a key metabolic reaction—then hydrothermal vents would be-
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:13.
+
+4
+
+GENESIS
+
+come even more of a focus for the origin of metabolism. Experimentalists dream of such opportunities—a simple experiment with a big
+potential payoff.
+We agreed on a range of temperatures from 150°C to 300°C and
+pressures from 500 to 2,000 atmospheres—conditions relevant to hydrothermal systems at and below Earth’s deep-ocean floor. But achieving such conditions is easier said than done.
+It was time to pay Hat Yoder a visit.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+
+Every scientific career rests on the support of colleagues who act as
+teachers, collaborators, and employers. In my career, Hatten S. Yoder
+Jr. served in all three roles. He is my scientific hero. Burly, handsome,
+with big, powerful hands, Hat built his high-pressure lab at Carnegie’s
+Geophysical Laboratory from scratch, shortly after returning from action with the Pacific Fleet in World War II. For more than half a century, he maintained this premier facility, working tirelessly in his quest
+to understand the origins of rocks. [Plate 1] Even at the age of 75, I
+knew he would jump at the chance to try something new.
+“What P and T?” he asked.
+My response was somewhat sheepish. Hat’s pressure lab was designed to achieve extreme conditions: pressures of 10,000 atmospheres
+at more than 1,000°C. Running our proposed experiments at a measly
+2,000 atmospheres and 250°C would be like using a blast furnace to
+bake a cake. But an experiment is an experiment, and after only the
+slightest raising of eyebrows and barely audible “hmmph!” Hat was
+ready to go.
+High-pressure experiments are not for the faint of heart. Even at
+pressures of only a few atmospheres, hot gas can cause a nasty explosion. Your pressure cooker sustains no more than a pressure of 2 atmospheres, your car’s tires less than 3, and both can blow out violently.
+Hat’s home-built device, aptly called a pressure bomb, worked at thousands of atmospheres with a volume about the size—and with the same
+explosive power—of a stick of TNT. A catastrophic, explosive failure at
+those pressures could knock out a corner of the lab building. But no
+such worries attached to the pyruvate project.
+Our experimental strategy relied on a classic metal-capsule technique for studying chemical reactions at high temperatures and pres-
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:13.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+PROLOGUE
+
+5
+
+sures: Simply seal reactants into tiny cylindrical gold tubes about the
+size of a large grain of rice. The soft, chemically inert gold crushes
+down on the reactants, providing an isolated high-pressure, high-temperature environment.
+We crafted our capsules from a cylinder of gold a foot long, like a
+precious soda straw. I cut the cylinder into 1-inch lengths and welded
+each piece shut at one end. Water and pyruvate, both liquids, loaded
+easily into the capsules with a syringe—50 milligrams of water and 3
+milligrams of pyruvate, just a droplet. It’s difficult to weld shut a tube
+containing a gas, so we adopted an old experimental trick and used a
+white powdered chemical called oxalic acid dihydrate, which breaks
+down to water plus carbon dioxide above 100°C.
+My first attempts at welding the gold tubes shut were a mess. I
+weighed and loaded the reactants, crimped shut the tube’s open end,
+and placed the gold capsule into a vise, with the crimped end peeking
+out above thin steel jaws. A successful weld requires one smooth flick
+of the wrist with a carbon-arc welder, a graphite rod the size of a pencil
+that carries an intense electrical current. The gold is supposed to melt
+and flow, zipping up the capsule in a fraction of a second. But as my
+welder heated the gold, a portion of the volatile pyruvate boiled away.
+A sudden burp of smelly gas blew an ugly, gaping hole in the weld,
+ruining the carefully weighed ratios of reactants. After a lot of trial and
+error, I learned to weld one capsule end (using a microscope to see
+what I was doing), while the other end was immersed in ultracold liquid nitrogen, a frigid –196°C bath that froze the volatile reactants. The
+welder would erupt into blue-white flame and the gold would sputter
+and melt, sealing the tube. Eventually my batting average rose above
+0.500.
+
+
+Hat inserted three identical gold capsules into a platinum holder inside a foot-long nickel metal cylinder that would serve as an electric
+furnace. Decades of experience streamlined his routine. After the capsules are inserted, load the cylinder with ceramic filler rod, thermocouple wires, and ceramic end cap, and pack it all with a fine, sandlike
+powder of white aluminum oxide. Attach that sample assembly to the
+“head,” a fat steel plug that holds in pressure while providing insulated
+channels for wires that carry electric current for the heater and tem-
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:13.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+6
+
+GENESIS
+
+perature sensors. Insert the cylinder and head into the massive metal
+bomb. Seal the bomb with a giant 6-inch-long nut with a 6-sided head.
+Tighten the nut with a 3-foot-long 20-pound wrench; use a 3-footlong pipe as an extension for added torque.
+Hat banged away at the unwieldy wrench, making a horrendous
+racket as he tightened the nut just a bit more for safety. “It’s always
+good to make a lot of noise in the lab,” he said. “That way the director
+will know you’re working.”
+We retreated behind a wall of battleship gray, war-salvage naval
+armor as Hat opened and closed a bewildering sequence of valves to
+fill the system with pressurized argon, an inert gas. Ka-chunk, ka-chunk,
+ka-chunk! The argon gas compressor pumped the bomb to 2,000 atmospheres in a matter of minutes. Hat set the computerized furnace
+controls to ramp the temperature up to 250°C, and we were off. Deep
+inside the steel bomb the gold tubes were being crushed and heated to
+conditions similar to those found several miles beneath Earth’s surface. In such an extreme environment, the pyruvate was sure to do
+something interesting. We went to lunch.
+Two hours later, we were back in the high-pressure lab to quench
+the run. When the current shut off, the temperature dropped rapidly,
+cooling to below 100°C in about a minute or so. Hat released the pressure with a whoosh, unscrewed the big nut, and pulled out the sample
+assembly. He dumped the cylinder’s contents into a shallow metal tray:
+end cap, thermocouple, filler rod, platinum holder, lots of fine white
+sand, and three fat, shiny gold capsules spilled out. Success! The capsules had held! We itched to know what was inside. Two capsules went
+into the freezer, while I took the third upstairs for analysis.
+There is nothing sophisticated about opening a gold capsule; you
+simply snip open one end and pour out the contents. First I washed
+the outside of the capsule in organic solvents to avoid any contamination by machine oil or fingerprints. Then I froze it in liquid nitrogen,
+so that the contents would not leak out during the snip. I positioned
+the capsule over a glass vial to catch the gold and its contents. Just a
+little snip . . . usually does the trick. . . . Kapow! The gold weld blasted
+off into some remote corner of the lab, propelled by the sudden release of what must have been several atmospheres of internal gas pressure. A bit shaken, I dropped the capsule into the bottom of the vial,
+where it lay dormant for a few seconds. But then it began to hiss and
+foam as a yellow-brown oily substance frothed out, coating the gold
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:13.
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+PROLOGUE
+
+7
+
+and the glass. A pungent odor not unlike Jack Daniels permeated
+the lab.
+The pyruvate had clearly reacted, but it did not look anything like
+colorless, odorless oxaloacetate. What had we made?
+Time to consult George Cody [Plate 1], a recent arrival at the lab
+and an organic geochemist trained to analyze messy, oily stuff. George
+is enthusiastic, loquacious, and—luckily for us—he can’t seem to say
+no. He is also an expert in the chemistry of coal; he tends to snow
+visitors to his office with a blizzard of arcane chemical names and reactions. He thinks out loud and scribbles diagrams of molecules and reactions on any available surface, including the protective windows of
+his lab’s chemical hoods. When I showed him the smelly goo, he knew
+just what to do.
+“GCMS,” he said, “We probably don’t need CI.” I nodded as if I
+understood what he was talking about. “Let’s use BF3 propanol as the
+derivatizing agent. The Supelco column should work fine.”
+He had proposed that we analyze our suite of products by passing
+them, together with a chemically inert gas, through a long, thin tube
+filled with specially prepared organic molecules. This technique, gas
+chromatography (the “GC” of GCMS), separates different molecules
+according to how fast they move through the column. In general,
+smaller, less reactive molecules move faster than bigger, “sticky” molecules. The gas chromatograph sorts a collection of different molecules
+into separate little pulses, typically over a period of 30 or 40 minutes.
+Then comes the mass spectrometer (the “MS” of GCMS), which
+measures the relative masses of molecules and their fragments.
+George’s mass spectrometer blasts molecules into lots of smaller pieces
+of distinctive weights, so each pulse from the GC can be analyzed separately as a suite of characteristic mass fragments, providing a kind of
+fingerprint of the product molecule.
+It took a couple of hours of chemical processing to prepare the
+concentrated liquid sample for analysis. George filled a syringe with
+the pale yellow liquid and injected a tiny drop into the GCMS with a
+practiced, swift motion. We sat back to watch as a spectrum gradually
+appeared on the computer monitor. The first peak showed up at 10.79
+minutes—a small molecule with probably only two or three carbon
+atoms. Then another peak at 11.71 minutes, and another at 11.96.
+Faster and faster peaks appeared, piling in on top of each other, every
+spike representing additional molecular products. By the 20-minute
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:13.
+
+8
+
+GENESIS
+
+mark, a broad hump decorated with hundreds of sharp spikes was
+emerging.
+“Humpane,” George muttered in disgust. Pyruvate had reacted in
+our capsules, to be sure. But instead of the simple 3 + 1 = 4 reaction
+that Morowitz had proposed, we had produced an explosion of molecules—tens of thousands of different kinds of molecules. Not a trace
+of oxaloacetate was to be found, but a bewildering array of other molecular species had emerged. It might take a lifetime to decipher the
+contents of just one such molecular suite.
+One conclusion was obvious. Some very dynamic organic reactions proceed rapidly at hydrothermal conditions. In one sense,
+Morowitz’s hypothesis had failed: Pyruvate doesn’t react with carbon
+dioxide to form oxaloacetate under those conditions. But we had
+caught our first glimpse of a robust, emergent carbon chemistry in a
+hydrothermal environment. This was chemistry worth exploring.
+Where to begin? We were faced with choosing from among thousands of simple carbon-based molecules over a wide range of pressure,
+temperature, and other experimental variables—work to devour a
+hundred scientific lifetimes.
+What were we getting ourselves into?
+
+Intensity (counts per second)
+
+Copyright © 2005. Joseph Henry Press. All rights reserved.
+
+1800
+1600
+1400
+1200
+1000
+800
+600
+400
+200
+
+13.00 14.00 15.00 16.00 17.00 18.00 19.00 20.00 21.00 22.00 23.00 24.00 25.00 26.00 27.00
+
+Time (seconds)
+
+A diverse suite of molecules emerges when pyruvate is subjected to high temperature
+and pressure. These products appear as numerous sharp peaks superimposed on a
+broad “humpane” feature on a gas chromatogram.
+
+Genesis : The Scientific Quest for Life's Origins, Joseph Henry Press, 2005. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=4388347.
+Created from claremont on 2017-11-13 14:13:13.
+
+

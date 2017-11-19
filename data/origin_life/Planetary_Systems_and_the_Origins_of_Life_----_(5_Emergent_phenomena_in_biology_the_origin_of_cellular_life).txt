@@ -1,0 +1,994 @@
+5
+Emergent phenomena in biology: the origin
+of cellular life
+David Deamer
+University of California, Santa Cruz
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+5.1 Introduction
+The main themes of this chapter concern the phenomenon of emergence, the origin
+of life as a primary example of emergence, and how evolution begins with the
+inception of cellular life. The physical properties of certain molecular species
+are relevant to life’s origins, because these properties lead to the emergence of
+more complex structures by self-assembly. One such property is the capacity of
+amphiphilic molecules such as soap to form membranous boundary structures,
+familiar examples being soap bubbles and cell membranes. A second example is
+the chemical bonding that allows biopolymers such as nucleic acids and proteins to
+assemble into functional sequences. Self-assembly processes can produce complex
+supramolecular structures with certain properties of the living state. Such structures
+are able to capture energy available in the environment and initiate primitive
+reactions associated with metabolism, growth, and replication. At some point
+approximately 4 billion years ago, cellular compartments appeared that contained
+macromolecular systems capable of catalysed growth and replication. Because each
+cellular structure would be slightly different from all others, Darwinian evolution by
+natural selection could begin, with the primary selective factor being competition
+for energy and nutrients.
+5.2 Deﬁning emergence
+Researchers increasingly use the term emergence to describe processes by which
+more complex systems arise from seemingly simpler systems, typically in an
+unpredictable fashion. This usage is just the opposite of reductionism, the belief
+that any phenomenon can be explained by understanding the parts of that system.
+Although reductionism has been a powerful tool in the sciences, the concept of
+emergence is also useful in referring to some of the most remarkable phenomena
+that we observe in nature and in the laboratory.
+Planetary Systems and the Origins of Life, eds. Ralph E. Pudritz, Paul G. Higgs, and Jonathon R. Stone.
+Published by Cambridge University Press. © Cambridge University Press 2007.
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:27.
+
+90
+
+Emergent phenomena in biology: the origin of cellular life
+
+One example is the way that orderly arrangements of molecules appear when
+a relatively simple system of molecules undergoes a transition to a much more
+complex system. For instance, if we add soap molecules to water, at ﬁrst there
+is nothing present except the expected clear solution of individual molecules
+dissolved in the water. At a certain concentration, additional molecules no longer
+dissolve, but instead begin to associate into small aggregates called micelles. As the
+concentration increases further, the micelles begin to grow into membranous layers
+that cause the originally clear solution to become turbid. Finally, if air is blown
+through a straw into the solution, much larger structures appear at the surface, the
+soap bubbles that are familiar to everyone.
+Such emergent phenomena are called self-assembly processes, or sometimes
+self-organization. Typically the process is spontaneous, but in other instances an
+input of energy is required to drive self-assembly. One of the deﬁning characteristics
+of an emergent property is the element of unpredictability. If we did not know by
+observation that soap molecules have properties of self-assembly, we could not have
+predicted that micelles would be produced simply by increasing the concentration
+of soap molecules in solution. Even knowing that micelles form, there is no physical
+theory available that can predict exactly what concentration of soap is required to
+form the micelles. And if soap bubbles were not such a common phenomenon,
+we would be astonished by their appearance when a soap solution is disturbed by
+addition of free energy in the form of an air stream.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+5.3 Emergence of life: a very brief history
+The origin of life was strongly dependent on physical conditions of the early Earth
+environment. Imagine that we could somehow travel back in time to the prebiotic
+Earth 3.9 billion years ago. The ﬁrst thing we would notice is that it is very hot, with
+temperatures near the boiling point of water. Impacting objects the size of comets
+and asteroids add water, carbon dioxide, silicate minerals, and small amounts of
+organic material to the planetary surface. They also produce craters on the Moon
+that remain as a permanent record of the bombardment. The atmosphere has no
+oxygen, but instead is a mixture of carbon dioxide and nitrogen. Land masses are
+present, but they are volcanic islands resembling Hawaii or Iceland, rather than
+continents. We are standing on one such island, on a beach composed of black lava
+rocks, with tide pools containing clear seawater. We can examine the seawater in
+the tide pools with a powerful microscope, but there is nothing to be seen, only a
+dilute solution of organic compounds and salts. If we could examine the mineral
+surfaces of the lava rocks, we would see that some of the organic compounds have
+formed a ﬁlm adhering to the surface, while others assembled into aggregates that
+disperse in the seawater.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:27.
+
+5.4 The ﬁrst emergent phenomena: self-assembly processes on the early Earth
+
+91
+
+Now imagine that we return 300 million years later. Not much has changed.
+The primary land masses are still volcanic in origin, although small continents are
+beginning to appear as well. The meteorite impacts have dwindled, and the global
+temperature has cooled to around 70 ◦ C. We are surprised when we examine the tide
+pools, in which a turbidity has appeared that was not apparent earlier, and the mineral
+surfaces are coated with layers of pigmented ﬁlms. When we examine the water and
+ﬁlms with our microscope, we discover immense numbers of bacteria present in
+the layers. Life has begun.
+What happened in the intervening time that led to the origin of life? This is a
+fundamental question of biology, and the answer will change the way we think about
+ourselves, and our place in the universe, because if life could begin on the Earth,
+it could begin by similar processes on Earth-like planets circling other stars in our
+galaxy. The origin of life is the most extraordinary example of emergent phenomena,
+and the process by which life began must involve the same kinds of intermolecular
+forces and self-assembly processes that cause soap to form membranous vesicles
+and allow monomers like amino acids and nucleotides to form functional polymers.
+The origin of life must also have incorporated the reactions and products that are
+the result of energy ﬂowing through a molecular system, thereby driving it toward
+ever more complex systems with emergent properties.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+5.4 The ﬁrst emergent phenomena: self-assembly processes
+on the early Earth
+All cellular life today incorporates two processes we will refer to here as selfassembly and directed assembly. The latter process always involves the formation
+of covalent bonds by energy-dependent synthetic reactions, and requires that a
+coded sequence in one type of polymer in some way directs the sequence of
+monomer addition in a second polymeric species. The ﬁrst process – spontaneous
+self-assembly – occurs when certain compounds interact through non-covalent
+hydrogen bonds, electrostatic forces, and non-polar interactions to form closed
+membrane-bounded microenvironments. The self-assembly of membranes is by
+far the simplest of the processes associated with the origin of cellular life. It occurs
+whenever lipid-like molecules are present in an aqueous environment, and does not
+require the covalent bond formation needed for the synthesis of polymers such as
+proteins and nucleic acids. For this reason, it is reasonable to assume that membrane
+formation preceded the appearance of catalytic and replicating polymers. Boundary
+structures and the compartments they produce make energy available in the form
+of ion gradients, and can also mediate a selective inward transport of nutrients.
+Furthermore, membranous compartments are, in principle, capable of containing
+unique systems of macromolecules. If a replicating system of polymers could be
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:27.
+
+92
+
+Emergent phenomena in biology: the origin of cellular life
+
+encapsulated within a membrane-bounded compartment, the components of the
+system would share the same microenvironment, and the result would be a major
+step toward cellularity, speciation, and true cellular function (Deamer and Oro,
+1980; Morowitz et al., (1986); Morowitz, 1992; Dyson, (1995)).
+We know very little about how this event might have occurred at the origin
+of cellular life, but recent advances have provided clues about possible sources of
+self-assembling molecules and processes by which large molecules can be captured
+in membrane-bounded microenvironments. Here we will describe the chemical
+and physical properties of such systems, and several experimental models that
+incorporate certain properties related to the origin of cellular life.
+
+5.5 Sources of amphiphilic molecules
+The most striking examples of self-assembling molecules are called amphiphiles,
+because they have both a hydrophilic (‘water loving’) group and a hydrophobic
+(‘water hating’) group on the same molecule. Amphiphilic molecules are among
+the simplest of life’s molecular components, and are readily synthesized by nonbiological processes. Virtually any hydrocarbon having ten or more carbons in its
+chain takes on amphiphilic properties if one end of the molecule incorporates a polar
+or ionic group. The simplest common amphiphiles are therefore molecules such as
+soaps, more technically referred to as monocarboxylic acids. A good example is
+decanoic acid, which is shown below with its ten carbon chain:
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+CH3 –CH2 –CH2 –CH2 –CH2 –CH2 –CH2 –CH2 –CH2 –COOH
+McCollom et al. (1999) and Rushdi and Simoneit (2001) demonstrated that a
+series of alkanoic acids and alcohols in this size range can be produced from very
+simple organic compounds by Fischer–Tropsch reactions that simulate geothermal
+conditions on the early Earth. It has been found that such molecules readily form
+membranous vesicles, as shown in Figure 5.1 (Apel et al., 2002). This fact will
+become important later when we discuss the emergence of cellular life.
+Two possible sources of organic compounds on a primitive planetary surface
+are delivery during late accretion, followed by chemical evolution, and synthesis
+by geochemical processes in the early atmosphere or hydrosphere. Early
+investigations focused on chemical synthesis of monomers common to the primary
+macromolecules involved in living systems, with the goal of determining whether it
+was possible that biologically relevant compounds were available on the primitive
+Earth. Most of these studies emphasized water-soluble compounds such as amino
+acids, nucleobases, and simple carbohydrates. The classic experiments of Miller
+(1953) and Miller and Urey (1959) showed that amino acids such as glycine
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:27.
+
+5.5 Sources of amphiphilic molecules
+
+93
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+Fig. 5.1. Membranous vesicles are produced when simple amphiphilic molecules
+are dispersed in aqueous solutions at neutral pH ranges. The vesicles shown here
+are composed of a mixture of decanoic acid and decanol. Bar shows 20 µm.
+
+and alanine could be obtained when a mixture of reduced gases was exposed
+to an electrical discharge. The mixture was assumed to be a simulation of the
+original terrestrial atmosphere which, by analogy with the outer planets, would
+have contained hydrogen, methane, ammonia, and water vapour. At sufﬁciently
+high energy ﬂuxes, such mixtures of reducing gases generate hydrogen cyanide
+and formaldehyde, which in turn react to produce amino acids, purines, and a
+variety of simple sugars.
+The possibility that organic compounds could be synthesized under prebiotic
+conditions was given additional weight when it was convincingly shown that
+carbonaceous meteorites contained amino acids, hydrocarbons, and even traces
+of purines (Kvenholden et al., 1970; Lawless and Yuen, 1979; Cronin et al.,
+1988). Such meteorites are produced by collisions in the asteroid belt between
+Mars and Jupiter. Asteroids range up to hundreds of kilometres in diameter, and
+are examples of planetesimals that happened to avoid accretion into the terrestrial
+planets. Asteroids and their meteoritic fragments therefore represent samples of the
+primitive Solar System in which the products of prebiotic chemical reactions have
+been preserved for over 4.5 billion years. It was reasonable to assume that similar
+reactions and products were likely to have occurred on the Earth’s surface.
+In the late 1970s it became increasingly clear that the archaean atmosphere
+was largely of volcanic origin and composed of carbon dioxide and nitrogen
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:27.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+94
+
+Emergent phenomena in biology: the origin of cellular life
+
+rather than the mixture of reducing gases assumed by the Miller–Urey model
+(Holland, 1984; Kasting and Broun, 1998). This is consistent with the fact that
+approximately 65 atmosphere equivalents of carbon dioxide are present in the
+Earth’s crust as carbonate minerals, all of which must have passed through the
+atmosphere at some point as a gaseous component. Carbon dioxide does not support
+synthetic pathways leading to chemical monomers, so interest was drawn to the
+second potential source of organic material, extraterrestrial infall in the form of
+micrometeorites and comets. This was ﬁrst proposed by Oró (1961) and Delsemme
+(1984) and more recently extended by Anders (1989) and Chyba and Sagan
+(1992). The total organic carbon added by extraterrestrial infall over ∼108 years
+of late accretion can be estimated to be in the rage of 1016 –1018 kg, which
+is several orders of magnitude greater than the 12.5 × 1014 kg total organic
+carbon in the biosphere (www.regensw.co.uk/technology/biomass-faq.asp). From
+such calculations it seems reasonable that extraterrestrial infall was a signiﬁcant
+source of organic carbon in the prebiotic environment. Even today meteorites and
+interplanetary dust particles (IDPs) deliver organic materials to the modern Earth
+at a rate of ∼106 kg/y−1 (Love and Brownlee, 1992; Maurette, 1998).
+The discovery of biologically relevant compounds in meteorites also indicated
+that organic synthesis can occur in the interstellar medium, which immediately
+leads to the question of sources and synthetic pathways. The most important
+biogenic elements (C, N, O, S, and P) form in the interiors of stars, then are
+ejected into the surrounding interstellar medium (ISM) at the end of the star’s
+lifetime during red giant, nova, and supernova phases. Following ejection, much
+of this material becomes concentrated into dense molecular clouds from which
+new stars and planetary systems are formed (Ehrenfreund and Charnley, 2000;
+Sandford, 1996). At the low temperatures in these dark molecular clouds, mixtures
+of molecules condense to form ice mantles on the surfaces of dust grains where they
+can participate in additional chemical reactions. Comparison of infrared spectra
+of low-temperature laboratory ices with absorption spectra of molecular clouds
+indicates that interstellar ices are mainly composed of H2 O mixed with CO, CO2 ,
+CH3 OH, NH3 , and other components, the last ingredients generally comprising
+5–15% of the total. The ices are exposed to ionizing radiation in the form of
+cosmic rays (and secondary radiation generated by their interaction with matter),
+and ultraviolet photons from stars forming within the cloud.
+Laboratory experiments have shown that illuminating such ices with ultraviolet
+light leads to more complex molecular species (Greenberg and Mendoza-Gomez,
+1993; Bernstein et al., 1995; Gerakines et al., 2000; Ehrenfreund et al., 1995).
+Hundreds of new compounds are synthesized, even though the starting ices contain
+only a few simple common interstellar molecules. Many of the compounds formed
+in these experiments are also present in meteorites, comets, and 10 Ps, and some
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:27.
+
+5.6 The emergence of primitive cells
+
+95
+
+are relevant to the origin of life, including amino acids (Munoz-Caro et al.,
+2002; Bernstein et al., 2002; Bernstein et al., 2001), and amphiphilic material
+(Dworkin et al., 2001).
+Although it is now clear that organic molecules are synthesized in dense
+molecular clouds, the molecules must be delivered to habitable planetary surfaces if
+they are to take part in the origin of life. This requires that they survive the transition
+from the dense cloud into a protostellar nebula and subsequent incorporation
+into planetesimals, followed by delivery to a planetary surface. During the late
+bombardment period, which lasted until about 4 billion years ago, the amount of
+extraterrestrial organic material brought to the prebiotic Earth was likely to have
+been several orders of magnitude greater than current rates of infall (Chyba and
+Sagan, 1992). Thus, the early Earth must have been seeded with organic matter
+created in the interstellar medium, protosolar nebula, and asteroidal/cometary
+parent bodies.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+5.6 The emergence of primitive cells
+Life on the Earth most likely arose from vast numbers of natural experiments in
+which various combinations of organic molecules were mixed and recombined
+to form complex interacting systems, then exposed to sources of energy such as
+light, heat, and oxidation–reduction potentials presented by donors and acceptors
+of electrons. This mixing and recombination probably did not occur in free solution,
+but rather in ﬂuctuating environments at aqueous–mineral interfaces exposed to the
+atmosphere under conditions that would tend to concentrate the organic material so
+that reactions could occur. Through this process, incremental chemical evolution
+took place over a period of several hundred million years after the Earth had cooled
+sufﬁciently for water vapour to condense into oceans. At some point, membranebounded systems of molecules appeared that could grow and reproduce by using
+energy and nutrients from the environment. An observer seeing this endproduct
+would conclude that such systems were alive, but would be unable to pinpoint the
+exact time when the complex structures took on the property of life.
+Here we will assume that the structures described above would be recognizable
+cells, and that cellular compartments were required for life to begin. This assumption
+differs from the conjectures of Kauffman (1993) and Wächtershäuser (1988) that
+life began as a series of reactions resembling metabolism. In their view, autocatalytic
+pathways were ﬁrst established, perhaps on mineral surfaces. Over time the systems
+became increasingly complex to the point that self-reproducing polymers were
+synthesized, with cellular compartments appearing at a later stage. There is as yet
+little experimental evidence that allows a choice between the two perspectives of
+‘compartments ﬁrst’ or ‘metabolism ﬁrst’. However, because membrane structures
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:27.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+96
+
+Emergent phenomena in biology: the origin of cellular life
+
+readily self-assemble from amphiphilic compounds known to be present in mixtures
+of organic compounds available on the prebiotic Earth, it is highly likely that
+membranous compartments were among the ﬁrst biologically relevant structures
+to appear prior to the origin of life.
+Evidence from phylogenetic analysis suggests that microorganisms resembling
+today’s bacteria were the ﬁrst form of cellular life. Traces of their existence can
+be found in the fossil record in Australian rocks at least 3.5 billion years old. Over
+the intervening years between life’s beginnings and now, evolution has produced
+bacteria which are more advanced than the ﬁrst cellular life. The machinery of life
+has become so advanced that when researchers began subtracting genes in one of the
+simplest known bacterial species, they reached a limit of approximately 265–350
+genes that appears to be the absolute requirement for contemporary bacterial
+cells (Hutchinson et al., 1999). Yet life did not spring into existence with a full
+complement of 300+ genes, ribosomes, membrane transport systems, metabolism,
+and the DNA → RNA → protein information transfer that dominates all life today.
+There must have been something simpler, a kind of scaffold life that was left behind
+in the evolutionary rubble.
+Can we reproduce that scaffold? One possible approach was suggested by the
+RNA World concept that arose from the discovery of ribozymes, which are RNA
+structures having enzyme-like catalytic activities. The idea was greatly strengthened
+when it was discovered that the catalytic core of ribosomes is not composed
+of protein at the active site, but instead is composed of RNA machinery. This
+remarkable ﬁnding offers convincing evidence that RNA likely came ﬁrst, and then
+was overlaid by more complex and efﬁcient protein machinery (Hoang et al., 2004).
+Another approach to discovering a scaffold is to incorporate one or a few genes
+into microscopic artiﬁcial vesicles to produce molecular systems that display certain
+features associated with life. The properties of such systems may then provide clues
+to the process by which life began in a natural setting of the early Earth. What would
+such a system do? We can answer this question by listing the steps that would be
+required for a microorganism to emerge as the ﬁrst cellular life on the early Earth:
+• Boundary membranes self-assemble from amphiphilic molecules.
+• Energy is captured either from light and a pigment system, or from chemical energy, or
+
+both.
+• Ion concentration gradients are produced and maintained across the membrane by an
+
+energy-dependent process. The gradient is a source of energy to drive metabolism and
+synthetic reactions.
+• The energy is coupled to the synthesis of activated monomers, which in turn are used to
+make polymers.
+• Macromolecules are encapsulated, yet smaller nutrient molecules can cross the membrane
+barrier.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:27.
+
+5.6 The emergence of primitive cells
+
+97
+
+• The macromolecules grow by polymerizing the nutrient molecules, using the energy of
+
+metabolism.
+• Macromolecular catalysts speed the metabolic reactions and growth processes.
+• The macromolecular catalysts themselves are reproduced during growth.
+• Information is contained in the sequence of monomers in one set of polymers, and this
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+set is duplicated during growth. The information is used to direct the growth of catalytic
+polymers.
+• The membrane-bounded system of macromolecules can divide into smaller structures.
+• Genetic information is passed between generations by duplicating the sequences and
+sharing them between daughter cells.
+• Occasional errors (mutations) are made during replication or transmission of information
+so that a population of primitive living organisms can evolve through selection.
+
+Looking down this list, one is struck by the complexity of even the simplest form
+of life. This is why it has been so difﬁcult to ‘deﬁne’ life in the usual sense of a
+deﬁnition, i.e., boiled down to a few sentences in a dictionary. Life is a complex
+system that cannot be captured in a few sentences, so perhaps a list of its observed
+properties is the best we can ever hope to do. Given the list, one is also struck by the
+fact that all but one of the functions – self-reproducing polymers – have now been
+reconstituted individually in the laboratory. For instance, it was shown 40 years ago
+that lipid vesicles self-assemble into bilayer membranes that maintain ion gradients
+(Bangham et al., 1965). If bacteriorhodopsin is in the bilayer, light energy can be
+captured in the form of a proton gradient (Oesterhelt and Stoeckenius, 1973). If
+an ATP synthase is in the membrane, the photosynthetic system can make ATP
+by coupling the proton gradient to form a pyrophosphate bond between ADP and
+phosphate (Racker and Stoeckenius, 1974). Macromolecules such as proteins and
+nucleic acids can be easily encapsulated and can function in the vesicles as catalysts
+(Chakrabarti and Deamer, 1994) and as membrane transport agents. The system
+can grow by addition of lipids, and can even be made to divide by imposing shear
+forces, after which the vesicles grow again (Hanczyc et al., 2003). Macromolecules
+like RNA can grow by polymerization in the vesicle, driven by catalytic proteins
+(Monnard and Deamer, 2006). And ﬁnally, samples of cytoplasm from a living cell
+like E. coli are easily captured, including ribosomes. A micrograph of such vesicles
+is shown in Figure 5.2.
+The ability to capture structures as large as ribosomes has led to attempts to
+demonstrate translation in closed vesicles. This was ﬁrst achieved by Yu et al.
+(2001) and later by Nomura et al. (2003), who captured samples of bacterial
+cytoplasm from E. coli in large liposomes. The samples included ribosomes, tRNAs
+and the hundred or so other components required for protein synthesis. The mRNA
+containing the gene for green ﬂuorescent protein (GFP) was also included in the mix,
+which permitted facile detection of protein synthesis. The encapsulated translation
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:27.
+
+98
+
+Emergent phenomena in biology: the origin of cellular life
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+Fig. 5.2. Ribosomes from E. coli encapsulated in phospholipid vesicles. The
+vesicles were reconstituted from a detergent–lipid solution in the presence of
+cytoplasmic extracts from the bacteria. Several ribosomes were present in each
+vesicle. Micrograph courtesy of Z. Martinez.
+
+systems worked, but only a few molecules of GFP were synthesized in each vesicle,
+because the only amino acids available were those captured within the vesicle. This
+limitation was resolved by Noireaux and Libchaber (2004), who included not only
+the mRNA for GFP in the mix, but also a second mRNA coding for the pore-forming
+protein alpha hemolysin. The hemolysin produced a channel in the lipid bilayer that
+allowed externally added ‘nutrients’ in the form of amino acids and ATP to cross the
+membrane barrier and supply the translation process with energy and monomers
+(Figure 5.3). The system worked well, and GFP synthesis continued for as long as
+four days.
+These advances permit us to consider whether it might be possible to fabricate a
+kind of artiﬁcial life which is reconstituted from a complete system of components
+isolated from microorganisms. The system would by deﬁnition overcome the
+one limitation described above, the lack of a self-reproducing set of polymers,
+because everything in the system would grow and reproduce, including the
+catalytic macromolecules themselves and the lipid components of the boundary
+membrane. However, such a system requires that the genes for the translation
+system (ribosomes, tRNA, and so on) for DNA replication and transcription, and
+for lipid synthesis must all be present in a strand of synthetic DNA. When one adds
+up the number of essential genes, the total is over a hundred. This might at ﬁrst
+seem like a daunting task, but in fact it is within the realm of possibility, in that the
+complete set of genes required to synthesize the polio virus has been assembled in
+a strand of synthetic DNA (Cello et al., 2002).
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:27.
+
+5.6 The emergence of primitive cells
+
+Ribosome
+mRNA
+
+99
+
+Amino acids
+ATP
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+Fig. 5.3. Translation in a microenvironment. In the upper ﬁgure, amino acids and
+ATP encapsulated in the vesicle volume are used to make small amounts of GFP and
+alpha hemolysin (a-HL). The membrane prevents access to external amino acids
+and ATP, so the system will quickly exhaust the ‘nutrients’ trapped in the vesicle.
+However, because the a-HL is a pore forming protein, it migrates to the membrane
+and assembles into a heptamer with a pore large enough to allow amino acids
+and ATP to pass into the vesicle (lower ﬁgure). The system can now synthesize
+signiﬁcant amounts of new protein, and the vesicle begins to show ﬂuorescence
+from the accumulation of GFP (Noireaux and Libchaber, 2004).
+
+This thought experiment clearly points out the limitations of our current
+understanding of the origin of cellular life. It does make clear that life could not
+begin as a complex molecular system of a hundred or more genes required to
+fabricate the simplest possible artiﬁcial cell that uses DNA, RNA, and ribosomes
+for self-reproduction. Instead, as noted earlier, there must have been a kind of
+molecular scaffold that was much simpler, yet had the capacity to evolve into the
+living systems we observe today. Is there any hope that we might discover such a
+system? One possible lead is to ﬁnd a ribozyme that can grow by polymerization,
+in which the ribozyme copies a sequence of bases in its own structure (Johnston
+et al., 2001). So far, the polymerization has only copied a string of 14 nucleotides,
+but this is a good start. If a ribozyme system can be found that catalyses its own
+complete synthesis using genetic information encoded in its structure, it could
+rightly be claimed to have the essential properties that are lacking so far in artiﬁcial
+cell models: reproduction of the catalyst itself. Instead of the hundred or so genes
+necessary for the translation system described above, the number is reduced to just a
+few genes that allow the ribozyme to control its own replication, synthesize catalysts
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:27.
+
+100
+
+Emergent phenomena in biology: the origin of cellular life
+
+related to primitive metabolism, including synthesis of membrane components,
+and perhaps a pore-forming molecule that allows nutrient transport. Given such
+a ribozyme, it is not difﬁcult to imagine its incorporation into a system of lipid
+vesicles that would have the basic properties of the living state.
+
+5.7 Self-assembly processes in prebiotic organic mixtures
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+We can now return to considering process that are likely to have occurred on the
+prebiotic Earth, ultimately leading to the beginning of life and initiating Darwinian
+evolution. We will ﬁrst ask what physical properties are required if a molecule is
+to become incorporated into a stable cellular compartment. As discussed earlier,
+all membrane-forming molecules are amphiphiles, with a hydrophilic ‘head’ and a
+hydrophobic ‘tail’ on the same molecule. If amphiphilic molecules were present in
+the mixture of organic compounds available on the early Earth, it is not difﬁcult to
+imagine that their self-assembly into molecular aggregates was a common process.
+Is this a plausible premise? In order to approach this question, we can assume
+that the mixture of organic compounds in carbonaceous meteorites such as the
+Murchison meteorite resembles components available on the early Earth through
+extraterrestrial infall. A series of organic acids represents the most abundant watersoluble fraction in carbonaceous meteorites (Cronin et al., 1988). Samples of the
+Murchison meteorite have been extracted in an organic solvent commonly used to
+extract membrane lipids from biological sources (Deamer and Pashley, 1989). When
+this material was allowed to interact with aqueous phases, one class of compounds
+with acidic properties was clearly capable of forming membrane-bounded vesicles
+(Figure 5.4).
+
+A
+
+B
+
+Fig. 5.4. Membranous compartments are produced by self-assembly of
+amphiphilic molecules extracted from the Murchison meteorite. The larger vesicles
+have a diameter of 2030 µm. The image on the right shows a ﬂuorescent dye (1 mM
+pyranine) encapsulated within the vesicular volume. The fact that anionic dye
+molecules can be trapped shows that the vesicles are bounded by true membranes
+representing a permeability barrier. Bars show 20 µm.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:27.
+
+5.8 Emergence of membrane functions
+
+101
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+Fig. 5.5. Membranous compartments composed of very simple amphiphiles are
+capable of encapsulating macromolecules in stable vesicles. In the image above,
+DNA molecules have been trapped in decanoic acid vesicles. The DNA is stained
+with acridine orange so that it can be visualized by ﬂuorescence microscopy. Bar
+shows 20 µm.
+
+From these results, it is reasonable to conclude that a variety of simpler
+amphiphilic molecules were present on the early Earth that could participate in
+the formation of primitive membrane structures. Even if membranous vesicles
+were commonplace on the early Earth and had sufﬁcient permeability to permit
+nutrient transport to occur, these structures would be virtually impermeable to larger
+polymeric molecules that were necessarily incorporated into molecular systems
+on the pathway to cellular life. The encapsulation of macromolecules in lipid
+vesicles has been demonstrated by hydration–dehydration cycles that simulate
+an evaporating lagoon (Shew and Deamer, 1985). Molecules as large as DNA
+can be captured by such processes. For instance, when a dispersion of DNA and
+fatty acid vesicles is dried, the vesicles fuse to form a multilamellar sandwich
+structure with DNA trapped between the layers. Upon rehydration, vesicles reform
+that contain highly concentrated DNA, a process that can be visualized by staining
+with a ﬂuorescent dye (Figure 5.5).
+
+5.8 Emergence of membrane functions
+Membranes have many functions in addition to acting as a container for the
+macromolecular polymers of life. Three primary membrane functions associated
+with a protocell would include selective inward transport of nutrients from the
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:27.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+102
+
+Emergent phenomena in biology: the origin of cellular life
+
+environment, capture of the energy available in light or oxidation–reduction
+potentials, and coupling of that energy to some form of energy currency such as
+ATP in order to drive polymer synthesis.
+The simplest of these functions is that of a permeability barrier which limits free
+diffusion of solutes between the cytoplasm and external environment. Although
+such barriers are essential for cellular life to exist, there must also be a mechanism
+by which selective permeation allows speciﬁc solutes to cross the membrane. In
+contemporary cells, such processes are carried out by transmembrane proteins that
+act as channels and transporters. Examples include the proteins that facilitate the
+transport of glucose and amino acids into the cell, channels that allow potassium and
+sodium ions to permeate the membrane, and active transport of ions by enzymes
+that use ATP as an energy source. It seems unlikely that the ﬁrst living cellular
+systems evolved such highly specialized membrane transport systems, which
+brings up the question of how early cells overcame the membrane permeability
+barrier. One possibility is that simple diffusion across the bilayer may have been
+sufﬁcient. To give a perspective on permeability and transport rates by diffusion,
+we can compare the ﬂuxes of relatively permeable and relatively impermeable
+solutes across contemporary lipid bilayers. The measured permeability of lipid
+bilayers to small, uncharged molecules such as water, oxygen, and carbon dioxide
+is greater than the permeability to ions by a factor of ∼109 . Such values mean
+little by themselves, but make more sense when put in the context of time
+required for exchange across a bilayer: half the water in a liposome exchanges
+in milliseconds, while potassium ions have half-times of exchange measured
+in days.
+We can now consider some typical nutrient solutes like amino acids and
+phosphates. Such molecules are ionized, which means that they would not
+readily cross the permeability barrier of a lipid bilayer. Permeability coefﬁcients
+of liposome membranes to phosphate, amino acids, and nucleotides have been
+determined (Chakrabarti and Deamer, 1994; Monnard et al., 2002) and were found
+to be similar to ionic solutes such as sodium and chloride ions. From these ﬁgures
+one can estimate that if a primitive microorganism depended on passive transport
+of phosphate across a lipid bilayer composed of a typical phospholipid, it would
+require several years to accumulate phosphate sufﬁcient to double its DNA content,
+or pass through one cell cycle. In contrast, a modern bacterial cell can reproduce
+in as short a time as 20 minutes.
+If solutes like amino acids and phosphate are so impermeant, how could primitive
+cells have had access to these essential nutrients? One clue may be that modern
+lipids are highly evolved products of several billion years of evolution, and typically
+contain hydrocarbon chains 16–18 carbons in length. These chains provide an
+interior ‘oily’ portion of the lipid bilayer that represents a nearly impermeable
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:27.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+5.9 Emergence of growth processes in primitive cells
+
+103
+
+barrier to the free diffusion of ions such as sodium and potassium. The reason
+is related to the common observation that ‘oil and water don’t mix’. Using
+more technical language, ion permeation of the hydrophobic portion of a lipid
+bilayer faces a very high energy barrier which is associated with the difference
+in energy for an ion in water to ‘dissolve’ in the oily interior of a lipid bilayer
+composed of hydrocarbon chains. However, studies have shown that permeability
+is strongly dependent on chain length (Paula et al., 1996). For instance, shortening
+phospholipid chains from 18 to 14 carbons increases permeability to ions by nearly
+three orders of magnitude. The reason is that thinner membranes have increasing
+numbers of transient defects that open and close on nanosecond timescales, so
+that ionic solutes can pass from one side of the membrane to the other without
+dissolving in the oily interior phase of the bilayer. Ionic solutes even as large as
+ATP can diffuse across a bilayer composed of a 14-carbon phospholipid (Monnard
+and Deamer, 2001). On the early Earth, shorter hydrocarbon chains would have
+been much more common than longer chain amphiphiles, suggesting that the
+ﬁrst cell membranes were sufﬁciently leaky so that ionic and polar nutrients
+could enter, while still maintaining larger polymeric molecules in the encapsulated
+volume.
+There are several implications of this conjecture. First, if a living cell is to take
+up nutrients by diffusion rather than active transport, the nutrients must be at a
+reasonably high concentration, perhaps in the millimolar range. It is doubtful that
+such high concentrations would be available in the bulk phase medium of a lake
+or sea, which suggests that early life needed to be in an environment such as a
+small pond undergoing periodic wet–dry cycles that would concentrate possible
+nutrients. On the other hand, that same cell also was likely to have metabolic waste
+products, so it could not be in a closed system or it would soon reach thermodynamic
+equilibrium in which the waste product accumulation inhibits forward reactions
+required for metabolism and synthesis. And ﬁnally, a leaky membrane may allow
+entry of nutrients, but it would also be useless for developing the ion gradients that
+are essential energy sources for all modern cells. All of these considerations should
+guide our thinking as we attempt to deduce conditions that would be conducive for
+the origin of cellular life.
+5.9 Emergence of growth processes in primitive cells
+Reports (Walde et al., 1994) showed that vesicles composed of oleic acid can
+grow and ‘reproduce’ as oleoyl anhydride spontaneously hydrolyzed in the reaction
+mixture, thereby adding additional amphiphilic components (oleic acid) to the
+vesicle membranes. This approach has been extended by Hanczyc et al. (2003), who
+prepared myristoleic acid membranes under deﬁned conditions of pH, temperature,
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:27.
+
+104
+
+Emergent phenomena in biology: the origin of cellular life
+
+GROWTH
+
+FILTRATION
+
+GROWTH
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+Fig. 5.6. Growth and division of lipid vesicles. (See text for details.)
+
+and ionic strength. The process by which the vesicles formed from micellar solutions
+required several hours, apparently with a rate limiting step related to the assembly
+of ‘nuclei’ of bilayer structures. However, if a mineral surface in the form of clay
+particles was present, the surface in some way catalysed vesicle formation, reducing
+the time required from hours to a few minutes. The clay particles were spontaneously
+encapsulated in the vesicles. The authors further found that RNA bound to the clay
+was encapsulated as well. In a second series of experiments, Hanczyc and coworkers
+(Hanczyc et al., 2003; Hanczyc and Szostak, 2004) showed that the myristoleic
+acid vesicles could be induced to grow by addition of fatty acid to the medium,
+presumably by incorporating fatty acid molecules into the membrane, rather than
+by fusion of vesicles. If the resulting suspension of large vesicles was then ﬁltered
+through a polycarbonate ﬁlter having pores 0.2 µm in diameter, the larger vesicles
+underwent a kind of shear-induced division to produce smaller vesicles which could
+undergo further growth cycles (Figure 5.6). This remarkable series of experiments
+clearly demonstrated the relative simplicity by which complex system of lipid,
+genetic material and mineral catalysts can produce a model protocellular structure
+that can undergo a form of growth and division.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:27.
+
+5.10 Environmental constraints on the ﬁrst forms of life
+
+105
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+5.10 Environmental constraints on the ﬁrst forms of life
+Although self-assembly of amphiphilic molecules promotes the formation
+of complex molecular systems, the physical and chemical properties of an
+aqueous phase can signiﬁcantly inhibit such processes, possibly constraining the
+environments in which cellular life ﬁrst appeared. One such constraint is that
+temperature strongly inﬂuences the stability of vesicle membranes. It has been
+proposed that the last common ancestor, and even the ﬁrst forms of life, were
+hyperthermophiles that developed in geothermal regions such as hydrothermal
+vents (Baross et al., 1983) or deep subterranean hot aquifers (Pace, 1991). Such
+environments have the advantage of providing chemical energy in the form of
+redox potentials as well as abundant mineral surfaces to act as potential catalysts
+and adsorbants. However, because the intermolecular forces that stabilize selfassembled molecular systems are relatively weak, it is difﬁcult to imagine how
+lipid bilayer membranes assembling from plausible prebiotic constituents would be
+stable under these conditions. All hyperthermophiles today have highly specialized
+lipid components, and it seems likely that these are the result of more recent
+adaptation than a molecular fossil of early life.
+A second concern is related to the ionic composition of a marine environment.
+The high salt concentration of the present ocean has the potential to exert signiﬁcant
+osmotic pressure on any closed membrane system. All marine organisms today have
+highly evolved membrane transport systems that allow them to maintain osmotic
+equilibrium against substantial salt gradients across their membranes. Furthermore,
+the concentrations of divalent cations, in particular Mg2+ and Ca2+ , were likely to
+exceed 10 mM in the early oceans, similar to their concentrations in seawater today.
+In the absence of oxygen, Fe2+ would also be present at millimolar concentrations,
+rather than the micromolar levels in contemporary seawater. At concentrations
+in the millimolar range, all such divalent cations have a strong tendency to bind
+to the anionic head groups of amphiphilic molecules. This causes aggregation
+and precipitation, strongly inhibiting the formation of stable membranes
+(Monnard et al., 2002).
+These considerations suggest that, from the perspective of membrane biophysics,
+the most plausible planetary environment for the origin of life would be at moderate
+temperature ranges (< 60 ◦ C), and the ionic content would correspond to low
+ionic strength and pH values near neutrality (pH 5–8) with divalent cations at
+submillimolar concentrations. This suggestion is in marked contrast to the view
+that life most likely began in a marine environment, perhaps even the extreme
+environment of a hydrothermal vent. One argument favouring a marine site for life’s
+beginning is that fresh water would be rare on the early Earth. Even with today’s
+extensive continental crust, fresh water only represents ∼1% of the contemporary
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:27.
+
+106
+
+Emergent phenomena in biology: the origin of cellular life
+
+Earth’s reservoir of liquid water. Another concern about a fresh water origin of
+life is that the lifetime of fresh water bodies tends to be short on a geological time
+scale. On the other hand, if sea water, with its high content of sodium chloride
+and divalent ions, markedly inhibits self-assembly processes and reactions that are
+essential to the emergence of cellular life, we may need to reconsider the assumption
+that life inevitably began in a marine environment. A more plausible site for the
+origin of cellular life may be a low ionic strength lacustrine environment such as
+a pond or lake. After the ﬁrst form of cellular life was able to establish itself in a
+relatively benign environment, it would rapidly begin to adapt through Darwinian
+selection to more rigorous environments, including the extreme temperatures,
+salt concentrations and pH ranges that we associate with the limits of life on
+the Earth.
+Acknowledgements
+Portions of this chapter were adapted from a previous review (Deamer et al., 2002).
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+References
+Anders, E. (1989). Pre-biotic organic matter from comets and asteroids. Nature, 342,
+255–257.
+Apel, C. L., Deamer, D. W., and Mautner, M. (2002). Self-assembled vesicles of
+monocarboxylic acids and alcohols: conditions for stability and for the encapsulation
+of biopolymers. Biochim. Biophys. Acta, 1559, 1–10.
+Bangham, A. D., Standish, M. M., and Watkins, J. C. (1965). Diffusion of univalent ions
+across the lamellae of swollen phospholids. J. Mol. Biol., 13, 238–252.
+Baross, J. A., and Hoffman, S. E. (1983). Submarine hydrothermal vents and associated
+gradient environments as sites for the origin and evolution of life. Origins of Life, 15,
+327–335.
+Bernstein, M. P., Sandford, S. A., Allamandola, L. J., Chang, S., and Scharberg, M. A.
+(1995). Organic compounds produced by photolysis of realistic interstellar and
+cometary ice analogs containing methanol. Astrophys. J., 454, 327–344.
+Bernstein, M. P., Dworkin, J. P., Sandford, S. A., and Allamandola, L. J. (2001).
+Ultraviolet irradiation of naphthalene in H2O ice: Implications for meteorites and
+biogenesis. Meteorit. Planet. Sci., 36, 351.
+Bernstein, M. P., Dworkin, J. P., Sandford, S. A., Cooper, G. W., and Allamandola, L. J.
+(2002). The formation of racemic amino acids by ultraviolet photolysis of interstellar
+ice analogs. Nature, 416, 401–403.
+Cello, J., Paul, A. V., and Wimmer, E. (2002). Chemical synthesis of poliovirus cDNA:
+generation of infectious virus in the absence of natural template. Science, 297,
+1016–1018.
+Chakrabarti, A., and Deamer, D. W. (1994). Permeation of membranes by the neutral from
+fo amino acids and peptides: relevance to the origin of peptide translocation. J. Mol.
+Evol., 39, 1–5.
+Chakrabarti, A., Joyce, G. F., Breaker, R. R., and Deamer, D. W. (1994). RNA synthesis by
+a liposome-encapsulated polymerase. J. Mol. Evol., 39, 555–559.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:27.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+References
+
+107
+
+Chyba, C. F., and Sagan, C. (1992). Endogenous production, exogenous delivery and
+impact-shock synthesis of organic molecules: An inventory for the origin of life.
+Nature, 355, 125–130.
+Cronin J. R., Pizzarello S., and Cruikshank, D. P. (1988). In Meteorites and the Early
+Solar System, eds. J. F. Kerridge and M. S. Matthews. Tuscon: University of Arizona
+Press, p. 819.
+Deamer, D. W., and Barchfeld, G. L. (1982). Encapsulation of macromolecules by lipid
+vesicles under simulated prebiotic conditions. J. Mol. Evol., 18, 203–206.
+Deamer, D. W., and Oro, J. (1980). Role of lipids in prebiotic structures. Biosystems, 12,
+167–175.
+Deamer, D. W., and Pashley, R. M. (1989). Amphiphilic components of carbonaceous
+meteorites. Origins Life Evol. B., 19, 21–33.
+Deamer, D. W, Dworkin, J. P., Sandford, S. A., Bernstein, M. P., and Allamandola, L. J.
+(2002). The ﬁrst cell membranes. Astrobiology, 2, 371–382.
+Delsemme, A. (1984). The cometary connection with prebiotic chemistry. Origins of Life,
+14, 51–60.
+Dworkin, J. P., Deamer, D. W., Sandford, S. A., and Allamandola, L. J. (2001).
+Self-assembling amphiphilic molecules: synthesis in simulated
+interstellar/precometary ices. Proc. Nat. Acad. Sci. USA, 98, 815–819.
+Dyson, F. (1999). The Origins of Life. Princeton: Princeton University Press.
+Ehrenfreund, P., and Charnley, S. B. (2000). Organic molecules in the interstellar medium,
+comets, and meteorites: A voyage from dark clouds to the early Earth. Annu. Rev.
+Astron. Astr., 38, 427–483.
+Ehrenfreund, P., d’Hendecourt, L., Charnley, S. B., and Ruiterkamp, R. (2001). Energetic
+and thermal processing of interstellar ices. J. Geophys. Res., 106,
+33291–33302.
+Gerakines, P. A., Moore, M. H., and Hudson, R. L. (2000). Energetic processing of
+laboratory ice analogs: UV photolysis versus ion bombardment. J. Geophys. Res.,
+106, 3338.
+Greenberg, M., and Mendoza-Gomez, C. X. (1993). Interstellar dust evolution: a reservoir
+of prebiotic molecules, in The Chemistry of Life’s Origins, ed. M. Greenberg, C. X.
+Mendoza-Gomez and V. Pironella. Dordrecht: Academic Press, p. 1.
+Hanczyc, M. M., and Szostak, J. W. (2004). Replicating vesicles as models of primitive
+cell growth and division. Curr. Opin. Chem. Biol., 28, 660–664.
+Hanczyc M. M., Fujikawa S. M., and Szostak, J.W. (2003). Experimental models of
+primitive cellular compartments: encapsulation, growth, and division. Science, 302,
+618–622.
+Holland, H. D. (1984). The Chemical Evolution of the Atmosphere and Oceans. Princeton,
+NJ: Princeton University Press.
+Hoang, L., Fredrick, K., and Noller H. F. (2004). Creating ribosomes with an all-RNA 30S
+subunit P site. Proc. Nat. Acad. Sci. USA, 101, 12439–12443.
+Hutchison, C., Peterson, S., Gill, S., et al. (1999). Global transposon mutagenesis and a
+minimal Mycoplasma genome. Science, 286, 2165–2169.
+Ishikawa, K., Sato, K., Shima, Y., Urabe, I., and Yomo, T. (2004). Expression of a
+cascading genetic network within liposomes. FEBS Letters, 576, 387.
+Johnston, W. K., Unrau, P. J., Lawrence, M. S., Glasner, M. E., and Bartel, D. L. (2001).
+RNA-catalyzed RNA polymerization: accurate and general RNA-templated primer
+extension. Science, 292, 1319–1325.
+Kasting J. F. and Brown L. L. (1998). In The Molecular Origins of Life, ed. A. Brack.
+Cambridge: Cambridge University Press, p. 35.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:27.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+108
+
+Emergent phenomena in biology: the origin of cellular life
+
+Kauffman, S. (1993). The Origin of Order. Self-Organization and Selection in Evolution.
+New York: Oxford University Press.
+Knauth, L. P. (2005). Temperature and salinity history of the Precambran ocean:
+implications for the course of microbial evolution. Palaeogeogr. Palaeocl., 219,
+53–69.
+Kvenvolden, K. A., Lawless, J. G., Pering, K., et al. (1970). Evidence for extraterrestrial
+amino-acids and hydrocarbons in the Murchison meteorite. Nature, 228, 923.
+Lawless, J. G., and Yuen, G. U. (1979). Quantitation of monocarboxylic acids in the
+Murchison carbonaceous meteorite. Nature, 282, 396–398.
+Love, S. G., and Brownlee, D. E. (1993). A direct measurement of the terrestrial mass
+accretion rate of cosmic dust. Science, 262, 550–553.
+Luisi, P. L. (1998). About various deﬁnitions of life. Origins Life Evol. B., 28, 613–622.
+Maurette M. (1998). In The Molecular Origins of Life, ed. A. Brack. Cambridge:
+Cambridge University Press, p. 147.
+McCollom, T. M., Ritter, G., and Simoneit, B. R. T. (1999). Lipid synthesis under
+hydrothermal conditions by Fischer-Tropsch-type reactions. Origins of Life Evol. B.,
+29, 153–166.
+Miller, S. L. (1953). Production of amino acids under possible primitive Earth conditions.
+Science, 117, 528–529.
+Miller, S. L., and Urey, H. C. (1959). Organic compound synthesis on the primitive Earth.
+Science, 130, 245–251.
+Monnard, P.-A., and Deamer, D. W. (2001). Loading of DMPC based liposomes with
+nucleotide triphosphates by passive diffusion: A plausible model for nutrient uptake
+by the protocell. Origins Life Evol. B., 31, 147–155.
+Monnard, P.-A., and Deamer, D. W. (2006). Models of primitive cellular life: polymerases
+and templates in liposomes. Philos. T. Roy. Soc. B.
+Monnard, P.-A., Apel, C. L., Kanavarioti, A. and Deamer, D. W. (2002). Inﬂuence of ionic
+solutes on self-assembly and polymerization processes related to early forms of life:
+Implications for a prebiotic aqueous medium. Astrobiology, 2, 139–152.
+Morowitz, H. J. (1992). Beginnings of Cellular Life. New Haven: Yale University Press.
+Morowitz, H. J., Heinz, B., and Deamer, D. W. (1988). The chemical logic of a minimum
+protocell. Origins Life Evol. B., 18, 281–7.
+Munoz-Caro, G. M., Meierhenrich, U. J., Schutte, W. A. et al. (2002). Amino acids from
+ultraviolet irradiation of interstellar ice analogues. Nature, 416, 403–406.
+Noireaux, V., and Libchaber, A. (2004). A vesicle bioreactor as a step toward an artiﬁcial
+cell assembly. Proc. Nat. Acad. Sci. USA, 2, 139–152., 17669–17674.
+Nomura, S., Tsumoto, K., Hamada, T., et al. (2003). Gene expression within cell-sized
+lipid vesicles. Chembiochem, 4, 1172–1175.
+Oesterhelt, D. and Stoeckenius, W. (1973). Functions of a new photoreceptor membrane.
+Proc. Nat. Acad. Sci. USA, 70, 2853–2857.
+Oró, J. (1961). Comets and the formation of biochemical compounds on the primitive
+Earth. Nature, 190, 389–390.
+Pace, N. R. (1991). Origin of life – facing up to the physical setting. Cell, 65, 531.
+Paula, S, Volkov, A. G., Van Hoek, A. N., Haines, T.H., and Deamer, D.W. (1996).
+Permeation of protons, potassium ions, and small polar molecules through
+phospholipid bilayers as a function of membrane thickness. Biophys. J.,
+70, 339.
+Racker, E., and Stoeckenius W. (1974). Reconstitution of purple membrane vesicles
+catalyzing light-driven proton uptake and adenosine triphosphate formation. J. Biol.
+Chem., 249, 662–663.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:27.
+
+References
+
+109
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+Rasmussen, S., Chen, L., Deamer, D., et al. (2004). Evolution. Transitions from nonliving
+to living matter. Science, 303, 963–966.
+Rushdi, A. I. and B. Simoneit. (2001). Lipid formation by aqueous Fischer–Tropsch type
+synthesis over a temperature range of 100 to 400 ◦ C. Origins Life Evol. B., 31,
+103–118.
+Sandford, S. A. (1996). The inventory of interstellar materials available for the formation
+of the Solar System. Meteorit. Planet. Sci., 31, 449–476.
+Sandford, S. A., Bernstein, M. P., and Dworkin, J. P. (2001). Assessment of the interstellar
+processes leading to deuterium enrichment in meteoritic organics. Meteorit. Planet.
+Sci., 36, 1117–1133.
+Shew, R., and Deamer, D. W. (1985). A novel method for encapsulation of
+macromolecules in liposomes. Biochim. Biophys. Acta, 816, 1–8.
+Singer, S. J., and Nicolson, G. L. (1972). The ﬂuid mosaic model. Science, 175, 720–727.
+Szostak, J. W., Bartel, D. P., and Luisi, P. L. (2001). Synthesizing life. Nature, 409,
+387–390.
+Wachtershäuser, G. (1988). Before enzymes and templates: Theory of surface metabolism.
+Microbiol. Rev., 52, 452–484.
+Walde, P., Wick, R., Fresta, M., Mangone, A., and Luisi, P. L. (1994). Autopoietic
+self-reproduction of fatty acid vesicles. J. Am. Chem. Soc., 116, 11649.
+Walde, P., Goto, A., Monnard, P.-A., Wessicken, M., and Luisi, P.-A. (1994). Oparin’s
+reactions revisited: enzymatic synthesis of poly(adenylic acid) in micelles and
+self-reproducing vesicles. J. Am. Chem. Soc., 116, 7541–7547.
+Yu, W., Sato, K., Wakabayashi, M., et al. (2001). Synthesis of functional protein in
+liposome. J. Biosci. Bioeng., 92, 590.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:27.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:27.
+
+

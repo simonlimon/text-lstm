@@ -1,0 +1,1199 @@
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+62
+
+Iris Fry
+
+and Pasteur’s  convictions, most scientists toward the end of the nineteenth century
+nevertheless preferred not to deal with the origin-of-life problem. Following the
+growth of cytological knowledge and the rise of Biochemistry and Genetics, the
+realization of the enormous complexity of the cell seemed to have put a ban on
+research of this subject, turning it into a scientific taboo [2] (p. 494).
+A serious change in attitude emerged in the twentieth century. It was expressed
+in the formulation of new theories on the emergence of life, and by the middle of the
+century, in the establishment of a scientific discipline devoted to the subject. These
+developments reflected the accumulation of new scientific data in biology and chemistry and in many other scientific fields, such as astronomy and geology. However,
+this breakthrough could not have been made without the radical change in the conception of the living world produced by  Darwin’s  theory of evolution and coming
+into maturity in the twentieth century. In On the Origin of Species [3], published in
+1859, Darwin did not discuss the question of the  origin of life. In his private letters
+he expressed the feeling that contemporary scientific knowledge was far from sufficient to deal with this difficult problem [4]. He assumed that a single form, or a few
+original living forms, existed on the primordial Earth and explained the evolution of
+the whole tree of life from “so simple a beginning” [3] (p. 470).3 Yet, it was evident
+to Darwin’s supporters and opponents alike that a consistent  theory of evolution
+implied that life had formed in the ancient past from inorganic matter through natural processes. The naturalistic character of  Darwin’s theory stemmed mainly from
+his major explanation of the phenomena of evolution, the mechanism of  natural
+selection. This and other evolutionary mechanisms were thought to be the result of
+natural, material processes with no recourse to a supernatural, purposive power.
+The general philosophical postulate asserting that organized living systems
+emerged on Earth through physical and chemical mechanisms is supported by science
+today and is a crucial part of the evolutionary worldview. This worldview emphasizes
+with equal force both continuity and novelty. It is distinct from the  creationist view,
+which maintains an unbridgeable gap between matter and life that is overcome only
+by an intervening transcendent divine agent. It is also different from earlier simplistic
+mechanistic concepts that ignored the unique features of living systems. Origin-oflife research focuses on the physical and chemical factors that could have constituted the necessary infrastructure for the emergence of life, and thus emphasizes the
+continuous nature of the process. At the same time, researchers suggest theoretical
+models to account for the emergence of the new, unique features characteristic of
+­biological organization, already displayed by the first organized systems.
+ Not in public, however,  Darwin did contemplate the possibility of a primordial material organization out of
+simple chemical compounds in a “warm little pond” under the influence of various energy sources, to form
+a living entity. See F. Darwin. The Life and Letters of Charles Darwin, 3 vols. (New York: Johnson Reprint
+Corporation, 1969), pp. 3, 18 (originally published London: Murray, 1887).
+
+3
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:39.
+
+Philosophical aspects of the origin-of-life problem
+
+63
+
+Although there is as yet no consensus on the possible mechanisms of the
+e­ mergence of life, and though this process has not yet been simulated in the laboratory, scientists are confident that a primitive living system emerged on Earth a few
+billion years ago by natural means. This conviction is based on the achievements of
+the natural sciences. Above all it reflects the robust status of  the theory of evolution
+that underlies the evolutionary worldview. Like any scientific conviction, it stems
+from the interaction among the empirical, theoretical, and philosophical aspects of
+science, being shaped by the social, political, and cultural context.4 This conviction
+also serves as a motivation to the continuation of research.
+The following discussion will examine two main themes that are closely interwoven. First, the principles by which theories of the origin of life face the challenge
+of accounting for the emergence of biological organization will be considered. Here,
+the role played by physical and chemical constraints on the primordial Earth and
+the crucial function of  natural selection in the process will be analyzed. Second, the
+investigation of the origin-of-life problem is presented as a case study of the nature
+of science. Here, the need to acknowledge the interaction between the empirical
+and the philosophical in the working of science and the assault on the evolutionary
+worldview by the Intelligent-Design movement will be discussed.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+4.2  The  arch and the scaffolding
+As noted above, the core problem of the origin of life is the emergence of the unique
+functional organization of the living system – the interdependence among its various components and their dependence on the system as a whole. Echoing other
+scientists and philosophers, the Scottish chemist Graham Cairns-Smith referred to
+life as appearing to have been designed [5] (p. 2). Not surprisingly, natural theology
+traditionally regarded this appearance as the strongest evidence of God’s purposeful design of nature [6]. Present-day  creationists claim that signs of “intelligent
+design” revealed at the molecular level are even more pronounced than ever [7].
+Scientists, particularly evolutionary biologists, on the other hand, rely on material evolutionary processes, especially on the mechanism of  natural selection, to
+explain the apparent design of biological organization. It is commonly accepted
+by science that the last common ancestor at the root of the evolutionary tree was
+already an evolved cell, containing the basic biochemical machinery and manifesting apparent design [8]. It was on the basis of these features that it could continue
+to evolve by natural selection, consequently giving rise throughout the history of
+the Earth to enormously diverse and adaptive forms of life.
+While evolutionary biology deals with the evolution of the last common ancestor
+onward, the focus of origin-of-life research is on the natural, gradual processes that
+  Due to space limits and the nature of my argument, these influential factors will not be discussed here.
+
+4
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:39.
+
+64
+
+Iris Fry
+
+Figure 4.1  An arch of stones in which each stone is held in place by its neighbors. © Cambridge University Press 1985. Printed with permission of Cambridge
+University Press.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+Figure 4.2  The gradual building of the “paradoxical structure” of the arch is
+possible by the construction of supporting scaffolding. © Cambridge University
+Press 1985. Printed with permission of Cambridge University Press.
+
+led to the emergence of the last common ancestor out of a lifeless environment. To
+illuminate both the problem involved in the emergence of biological organization
+and its naturalistic solution, Cairns-Smith introduced a highly suggestive image
+representing the closely integrated biological organization – an arch of stones in
+which each stone is held in place by its neighbors (see Figure 4.1). An arch could
+not arise gradually, one stone at a time, hanging in midair [5]. Similarly, how could
+a step-by-step evolution lead to a system in which everything depends on everything else [5] (p. 39)?5 The arch-like architecture of the cell is manifested in numerous cyclic, interlocked subsystems, crucial to the functioning of the organism. The
+most noticeable subsystem is the interdependent relationship between nucleic acids
+and proteins, giving rise to the chicken–egg problem: how could nucleic acids have
+emerged without  proteins or proteins without nucleic acids?
+Cairns-Smith pointed out that the answer to the puzzle, the gradual building
+of the “paradoxical structure” of the arch, is possible by the construction of supporting scaffolding: building a stone wall gradually and then removing the stones
+to leave the arch standing (see Figure 4.2) [5] (pp. 59–61). For Cairns-Smith, the
+idea of a scaffold was more than a figurative device offering a naturalistic alternative to the design notion. In his scenario for the emergence of life he suggested
+ ��������������������������������������������������������������������������������������������������������������
+One of the proponents of the Intelligent Design movement, the biochemist Michael Behe, referred to this question as “the problem of irreducible complexity.” Behe contended that “An irreducibly complex system cannot
+be produced … by slight, successive modifications of a precursor system, because any precursor system … that
+is missing a part is by definition nonfunctional” (M. J. Behe. Darwin’s Black Box (New York: Free Press,
+1996), p. 39). We’ll come back to this claim later.
+
+5
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:39.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+Philosophical aspects of the origin-of-life problem
+
+65
+
+that organisms based on organic chemistry developed at a later evolutionary stage
+on pre-existing clay scaffolding. The first “organisms” capable of undergoing replication, mutation, and evolution through natural selection were made of mineral
+crystals of various clays [5] (pp. 98–106). Inorganic scaffolding made of materials
+ubiquitous on the primordial Earth was simple enough to evolve gradually and
+could have given rise to a more complex organic chemistry. At a certain historical
+point, when organic compounds were already built on the scaffolding and interconnected to form organic arch-like systems, there occurred a “genetic takeover” and
+the mineral scaffolding was then discarded [5] (pp. 107–113).
+It should be clarified that the purposeful (teleological) language that is used
+to describe Cairns-Smith’s arch-and-scaffolding scenario is a kind of a shorthand
+substitute for more elaborate causal statements describing mechanistic, selective
+processes. Just as evolution through  natural selection accounts for the apparent
+design of organisms, no purpose or plan is supposed to have been involved in the
+construction of the scaffolding and the arch at the origin-of-life stage.6
+Cairns-Smith’s suggestion of removable mineral scaffolding was his answer
+to what he saw as the limitation of prebiotic chemistry to produce sophisticated
+biologically relevant organic compounds without such a device [5] (pp. 4–6). The
+chemical discontinuity involved in this scenario has been questioned by several
+critics claiming that it challenges a basic “continuity conception” that is guiding
+research into the origin and evolution of life [9, 10]. Researchers point to the
+existence in present organisms of “molecular fossils” – structures or functions
+that arose early in the history of life. Being highly beneficial, they were “frozen
+in time,” since any change would have entailed many additional changes and the
+risk of the demise of such systems [11]. For this reason many scientists believe
+that the primordial organization of life was similar to the present biochemical
+system. Most origin-of-life theories therefore postulate various prebiotic stages,
+gradually increasing in organization and complexity that were at least partly
+incorporated into the first living systems rather than discarded.  Christian de
+Duve suggests that “protometabolism,” the complex set of chemical reactions
+in which organic building blocks were engaged prior to the emergence of  RNA,
+had to be “congruent” with metabolism into which it grew. The two had to follow
+similar pathways [12].
+Despite this basic difference between Cairns-Smith’s and other theories, I suggest that the arch-and-scaffolding model can serve as a common, unifying theme of
+all origin-of-life theories. First, all theories grapple with the fundamental problem
+of the construction of a living arch – a system, separated from its environment, in
+ At the same time, the teleological terminology inherent in biological discussions is not fortuitous. It reflects
+the fact that organisms are being naturally selected based on criteria of functionality and adaptability.
+
+6
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:39.
+
+66
+
+Iris Fry
+
+which both replication based on nucleic acids and  metabolism operated by protein
+enzymes were interconnected. The figure of the “arch” seems to demand, even
+point to, the role of a “scaffold.” Second, the concept of the scaffolding should
+direct our attention to the role of physical and chemical selection mechanisms and
+other channeling factors active in the prebiotic environment that laid the ground for
+the working of natural selection. As will be pointed out, with the recent emphasis in
+origin-of-life research on specific locales on the primordial Earth where life could
+have emerged, the image of scaffolding acquires a most tangible, physical meaning. It stresses the continuity between the primordial environment and emerging
+life.7 Third, philosophically, the application of this image will allow us to combat
+the  creationist contention that life is based on “irreducible complex systems” the
+emergence of which cannot be accounted for by causal, natural processes. Lastly,
+the arch-and-scaffolding tool enables comparative analysis of the various scenarios
+and theories formulated in the field, noting both their common denominator and
+the different “stone walls” suggested by each [13]  (pp. 185–193).
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+4.3  On the role of  selection mechanisms
+in the emergence of life
+Biologists and philosophers of biology are engaged in an ongoing controversy on
+the adequate  definition of life (and in a debate whether an exhaustive definition is
+at all possible) [9 (pp. 4–9), 14, 15]. Nevertheless, it is generally accepted that any
+definition of life must refer to the evolution of life’s adaptive complexity through
+the mechanism of natural selection [13 (pp. 238–242), 16]. Indeed, origin-of-life
+researchers, despite the differences among their theories, aim at explaining the
+emergence of systems capable of undergoing biological evolution.
+An examination of the various scaffolds suggested with this purpose in mind
+reveals that natural selection functions in all of them as an essential agent. Are we
+not involved here in a vicious circle? How could natural selection have operated
+prior to the existence of living systems capable of reproducing, mutating, and competing for resources? The first experiments demonstrating in vitro  Darwinian evolution in the laboratory were conducted in the 1960s and 1970s. These experiments
+revealed that populations of molecules capable of replicating, mutating, and reproducing these mutations responded to applied selective pressures by evolving and
+adapting to new “environmental conditions” [17, 18]. It became clear that any group
+of entities, not only living systems, could evolve through natural selection provided
+it conformed to a set of specific conditions: reproduction, variation, inheritance
+ On the continuous emergence of levels growing in complexity, see H. J. Morowitz. A theory of biochemical
+organization, metabolic pathways, and evolution. Complexity, 4(6) (1999), 39–53; R. M. Hazen. Genesis: The
+Scientific Quest for Life’s Origin (Washington, DC: Joseph Henry Press, 2005).
+
+7
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:39.
+
+Philosophical aspects of the origin-of-life problem
+
+67
+
+of these variations, relative advantage conferred by some of these variations, and
+competition [5] (pp. 2–3). This awareness made it possible to explore the role of
+natural selection in the origin of life itself. Though it was clear that molecular evolution achieved in the first in vitro experiments depended on the participation of a
+highly complex replicating enzyme, these results nevertheless led to a search for
+primitive entities that could have emerged on the primordial Earth and could have
+fulfilled the required conditions.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+4.3.1  The metabolic and genetic traditions
+As one reviews the origin-of-life field, it is possible to classify theories according to various criteria.8 Historically, the investigation of the origin of life was
+established early in the twentieth century both by biochemists and geneticists who
+brought to the subject their particular preconceptions, methods, and terminologies [19].9 Not surprisingly, the biochemical and genetic research traditions also
+involved different conceptions of the defining traits of life. While the biochemical tradition, from its inception to the present, characterizes life, primarily, as an
+integrated multi-molecular entity sustaining its homeostasis through metabolic
+processes, the genetic tradition focuses on the nature of life as a replicating system [20]. Chemically, the “metabolists” emphasized the emergence and function
+of proteins, while the “geneticists” regarded a self-replicating genetic molecule as
+the sine qua non of the emergence of life. More recently, the “chemical division”
+is less definitive;10 however, the difference in emphasis is still between an early or
+late appearance of genetic material (“gene-first” and “gene-second” theories) [13]
+(pp. 135–178).
+Clearly, these two traditions, or “camps,” attack the chicken–egg problem from
+different directions, facing the challenge of accounting for the emergence and evolution of the “living arch” by different means. In order to examine the role allotted
+by each group to natural selection and to the means that enable its operation, a brief
+analysis of metabolic and genetic scaffolding is in order.
+ See for example, H. Kamminga. Historical perspective: the problem of the origin of life in the context of
+developments in biology. Origins of Life and Evolution of the Biosphere, 18 (1988), 1–11; W. L. Davis and
+C. P. McKay. Origins of life: a comparison of theories and application to Mars. Origins of Life and Evolution
+of the Biosphere, 26 (1996), 61–73; J. Peretó. Controversies on the origin of life. International Microbiology,
+8 (2005), 23–31.
+9
+ These traditions were initially personified by the figures of the Russian biochemist Alexander Oparin and
+the British geneticist J. B. S. Haldane. The American physicist Leonard Troland and the American geneticist
+Herman Muller were also important contributors to the genetic tradition in the first decades of the twentieth
+century (I. Fry. The origins of research into the origins of life. Endeavour, 3 (2006), 24–29).
+10
+ For examples of these trends, see I. Fry. The Emergence of Life on Earth: A Historical and Scientific Overview
+(New Brunswick, NJ: Rutgers University Press, 2000), pp. 177–178, 190–193. See also M. M. Hanczyc,
+S. M. Fujikawa, and J. W. Szostak. Experimental models of primitive cellular compartments: encapsulation,
+growth, and division. Science, 302 (2003), 618–622.
+8
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:39.
+
+68
+
+Iris Fry
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+4.3.2  Genetic scaffolding
+The most important genetic conception addressing the chicken–egg problem is
+the  RNA-world theory. Suggested in the late 1960s as a tentative idea it acquired
+empirical support with the discovery of naturally occurring ribozymes in the 1980s
+and the continuous isolation of additional ribozymes in molecular-evolution experiments [13] (pp. 136–142). This theory constitutes the basic genetic scaffolding
+concept. The strong appeal of any “gene-first” theory stems from the fact that evolution through natural selection is best and most easily explained by the mechanism in extant cells of replication of nucleic acids, or nucleic-acid-like molecules.
+The discovery that RNA molecules can function as both information carriers and
+enzymes strengthens this appeal. It is thus clear that  natural selection is the central element in genetic scaffolding. However, extensive work in prebiotic chemistry
+has revealed huge difficulties interfering with the synthesis of RNA and its constituents under primordial conditions [21]. The realization that even more primitive
+scaffolding was needed for the emergence of a self-replicating RNA system led
+to the search for simpler genetic systems [22, 23]. It also directed the attention of
+origin-of-life “geneticists” to the necessary physical and chemical prebiotic factors
+without which natural selection could not have operated.
+This is a distinct shift from early “genetic” studies that paid little attention to
+the constraining effects of prebiotic chemistry on the emergence of RNA and  selfreplication [18, 24]. A common element now in all versions of genetic scaffolding
+is the extensive role of catalysts – metal ions, mineral surfaces, and peptides – both
+in the synthesis of building blocks and polymers as well as in the various templatedirected reactions [25, 26]. Catalysis acts as a channeling factor, enhancing a limited number of reactions from the wide spectrum of theoretically possible ones and
+enabling the synthesis of polymers of a more specific structure. Some researchers
+experiment with alternative replication mechanisms that are less demanding chemically than those active in current cells and thus more in line with the “strictures
+of prebiotic chemistry” [27]. They also consider how mixed populations of RNA
+sequences, varying in physical and chemical properties, could have evolved. Out
+of these heterogeneous aggregates of polymers, more homogeneous and efficient
+sequences may have been selected, eventually giving rise to ribozymes and the
+RNA world.11 Understanding the narrow constraints imposed on emerging life by
+the prebiotic environment has also led to a more open attitude toward non-genetic
+ The selection of RNA sequences, homogeneous in terms of their constitution and chirality, from a mixed
+­population depended on differences in stability and in the efficiency of binding. It was thus chemical selection
+that made it possible, first through the mechanism of template-directed ligation, and later through the templatedirected-elongation mechanism, for natural selection to become active, see A. Kanavarioti. Template-directed
+chemistry and the origins of the RNA world. Origins of Life and Evolution of the Biosphere, 24 (1994),
+489–492; K.D. James and A.D. Ellington. A search for missing links between self-replicating nucleic acids
+and the RNA world. Origins of Life and Evolution of the Biosphere, 25 (1995), 528.
+
+11
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:39.
+
+Philosophical aspects of the origin-of-life problem
+
+69
+
+models. Leading researchers of the chemistry of  RNA consider the possible role of
+metabolic, non-genetic systems in changing the chemical environment and thereby
+influencing the chances of the emergence of a genetic system [28, 29].
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+4.3.3  Metabolic scaffolding
+Early genetic studies regarded the synthesis of a few self-replicating sequences as
+enough to start the emergence of life through the action of natural selection. They
+tended to disregard the role played by the prebiotic environment in building the
+infrastructure needed for natural selection to work. Early metabolic theories, on the
+contrary, focused on the channeling effects of the prebiotic environment leading to
+the establishment of peptide catalysts and metabolic cycles and were not very concerned with the mechanism of evolution and the role of natural selection [30, 31].
+Most metabolic theories, old and new, in focusing on the integrated ­organization of
+the living system as its characteristic trait, postulate the emergence of a protocellular unit separated from its environment as an early, crucial step in scaffolding
+construction. The postulated protocells are claimed to have emerged as a result of
+physical and chemical prebiotic processes, especially physical and chemical selection processes based on thermodynamic and kinetic criteria. Material self-organization of available prebiotic chemical compounds is a fundamental principle in all
+metabolic scaffolding.12
+The protocellular character of emerging metabolic entities was associated from
+the start with their tendency to grow and divide. This was viewed as an unsophisticated means of heredity, assumed to form the basis of a primitive process of natural selection and evolution. In distinction to the predominant “genetic” conception
+asserting that evolution through natural selection is possible only through the replication of a genetic molecule, “metabolists” claim that reproduction of protocells
+at the origin of life could have been independent of replication [20] (pp. 5–9). More
+recent metabolic theories attempt to provide a “metabolic” mechanism for natural
+selection and evolution based on the emergence of autocatalytic reaction cycles
+within the protocellular units. Unlike the autocatalysis of a single genetic polymer,
+autocatalysis of a whole cycle is achieved by the mutual catalysis of its chemical
+components when a certain level of chemical complexity of the system is reached
+[9 (pp. 153–154), 32, 33, 34, 35]. All these models also grapple with the question of
+the emergence of metabolic novelties, branching from the autocatalytic cycles that
+12
+
+ See, for example, A. I. Oparin. Origin of Life, trans. S. Morgulis (New York: Dover Publications, 1953
+[1936]); S. A. Kauffman. The Origins of Order: Self-Organization and Selection in Evolution (New York:
+Oxford University Press, 1993); H.J. Morowitz. Beginnings of Cellular Life (New Haven, CT: Yale University
+Press, 1992); D. W. Deamer. The first living systems: a bioenergetic perspective. Microbiology and Molecular
+Biology Review, 61(2) (1997), 239–261; R. M. Hazen. Genesis: The Scientific Quest for Life’s Origin
+(Washington, DC: Joseph Henry Press, 2005).
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:39.
+
+70
+
+Iris Fry
+
+on rare, though finite, occasions can give rise to a variant autocatalytic cycle, thus
+providing a basis for selection and evolution.13
+Recently, there has been a growing tendency of origin-of-life research to focus
+on the question of specific geophysical and geochemical settings in which life
+could have emerged. The notion that life might have emerged at the bottom of the
+sea near hydrothermal vents is gaining wide support [36].14 The autotrophic metabolic theory of the organic chemist, Günter Wächtershäuser, postulates the emergence of a “surface metabolist,” consisting of a surface of the mineral pyrite (FeS2)
+and bonded organic compounds, at such submarine sites. The scaffold as a system
+within which processes of chemical selection based on differences in chemical
+affinity and stability set the stage for the action of natural selection is prominent in
+Wächtershäuser’s theory [33].15
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+4.4  The arch-and-scaffolding image:
+the philosophical angle
+We have observed how origin-of-life theories, both genetic and metabolic, suggest
+various modes of scaffolding all aimed at answering the fundamental question,
+how did matter organize itself to form life? These include both theoretical constructs, e.g. the RNA world, and actual physical structures, e.g. a pyrite surface or a
+lipid vesicle. Extensive research and the acquisition of data in the fields of prebiotic
+chemistry, geophysics, biochemistry, and molecular biology, make the notion of
+scaffolding necessary and cogent. This idea of scaffolding may also shed light on
+some philosophical dilemmas that traditionally accompany the discussion of the
+emergence of life.
+As pointed out, although the construction of scaffolding and the emergence
+of an arch may appear to be a purposeful process, it can in fact be accounted
+ Instead of identifying biological information with the “digital” machinery consisting of the “letters” in
+­biopolymers, these theories postulate a “compositional” mode of information that can be stored in and
+­propagated by mutually catalytic networks, see D. Segré, D. Ben-Eli, and D. Lancet. Compositional genomes:
+prebiotic information transfer in mutually catalytic noncovalent assemblies. Proceedings of the National
+Academy of Sciences, 97(8) (2000), 4112–4117.
+14
+ The submarine scenario is also attracting fierce criticism, see M. Levy and S. L. Miller. The stability of the
+RNA bases: implications for the origin of life. Proceedings of the National Academy of Sciences. USA, 95
+(1998), 7933–7937; J. L. Bada and A. Lazcano. Some like it hot, but not the first molecules. Science, 296
+(2002), 1982–1983; D. Penny. An interpretive review of the origin of life research. Biology and Philosophy,
+20 (2005), 633–671.
+15
+ The focus on a tangible, actual scaffolding, continuous with its geochemical setting, necessary for the
+emergence of the living arch is also prominent in the metabolic theories of the Scottish geologist Michael
+Russell and the physical chemist Harold Morowitz. See W. Martin and M. J. Russell. On the origins of cells: a
+hypothesis for the evolutionary transitions from abiotic geochemistry to chemoautotrophic prokaryotes, and
+from prokaryotes to nucleated cells. Philosophical Transactions of the Royal Society of London. Series B,
+Biological Sciences, 358 (2003), 59–85 (available online at: http://www.pubs.royalsoc.ac.uk/phi_bio/news/
+martin.htm); H. J. Morowitz. A theory of biochemical organization, metabolic pathways, and evolution.
+Complexity, 4(6) (1999), 39–53.
+13
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:39.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+Philosophical aspects of the origin-of-life problem
+
+71
+
+for by material processes. Crucial to the evolutionary worldview, the natural
+self-organization of prebiotic chemical building blocks to form a living system suggests an alternative to the need for a teleological divine intervention
+in the process. The arch-and-scaffolding image also negates the idea that the
+emergence of life was the result of an improbable chance event [10]. It is now
+unimaginable to assume, as was the case at the earlier stages of origin-of-life
+research, that a “happy accident,” producing a molecule capable of self-replication, was responsible for the emergence of life [37, 38, 39]. Obviously, in distinction to the biochemical events in extant cells, the chemical processes involved
+in the construction of scaffolding were not directed by genetic information, and
+in that sense were random [40] (p. 141). However, due to physical and chemical constraints these processes were not statistically random – not all chemical
+options had the same chance to materialize, hence the development of life took
+the more probable channels [39 (pp. 22–30), 40 (pp. 213–217)].
+In a captivating metaphor, the Princeton biologist Harold Blum compared
+evolution to a great tapestry. The basic chemical properties of the environment
+constitute the strong warp into which mutation and natural selection introduce the
+multicolored woof. Blum, however, indicated that through the restrictions exerted
+on mutation by the physical nature of the environment, the warp influenced the
+pattern itself: “Purely physical factors … must have imposed such restrictions from
+the beginning of life, since that beginning was inextricably tangled up with the
+physical nature of the then existing earth” [41].
+Does the emphasis on physical and chemical continuity mean that the originof-life process can be described as “reductionistic”? Among the various versions
+of “reductionism” contemplated by philosophers of science, the one relevant to
+our discussion is “theoretical reductionism” – the claim that theoretical concepts
+and explanations in biology can be reduced, in principle, to those in chemistry
+[42, 43].
+According to the physical chemist  Manfred Eigen, the two philosophical
+options for the explanation of the emergence of genetic information (that he identifies with the emergence of life) are reduction, or the assumption of vis vitalis (vital
+force) [39] (p. 122). At the same time, Eigen does claim that genetic information
+represents a quality that “far transcends chemistry” (p. 124). In his discussion of
+evolution, the chemist Harold Morowitz also speaks about “a deep logic of evolution within the reductionistic roots of quantum mechanics, the periodic table,
+and the boundary conditions on the planet Earth” [44]. The theme of reductionism is obviously connected to the question of the “autonomy of biology,” i.e. the
+relationship between biology on the one hand and physics and chemistry on the
+other. Traditionally, supporters of the notion of the autonomy of biology adopted
+a skeptical attitude toward the possibility of solving the origin-of-life problem
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:39.
+
+72
+
+Iris Fry
+
+[43 (p. 584), 45].16 The scaffolding approach, embodying the emergence of life as
+part of the evolutionary process, transcends the erroneously presumed dichotomy
+between biology and physico-chemistry and between reductionistic and organismic attitudes to life and its emergence. By insisting on both continuity and the
+emergence of more complex levels of organization, on physical and chemical factors as conditions necessary for the emergence of biological properties non-existent
+before, the arch-and-scaffolding image is a synthesis of both.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+4.5  The emergence of life and the nature of science
+A current wave of new  creationism, in the USA, and also elsewhere, challenges the
+reasoning underlying the arch-and-scaffolding image, attacking the very ­possibility
+of the natural emergence and evolution of biological organization. Using molecular terminology, the new  creationists claim that “irreducible complex systems” [7]
+could not have emerged and evolved via a gradual selective process. Rather, they
+suggest a supernatural Intelligent Design as the only explanation of the origin of life
+and important stages in evolution [7] (pp. 187–205) (see also [46]). The  Intelligent
+Design (ID) proponents dismiss the role of prebiotic chemistry and the application
+of natural selection to the origin of life and insist that nothing but a direct intervention by a purposeful, supernatural agent could have brought about the appearance
+of life on Earth [47].
+Since most scientists identify the empirical procedures of science as its most
+­distinct characteristic, they believe that the conflict with the  creationists is basically empirical rather than philosophical. Biochemists and evolutionary biologists
+therefore respond to the Intelligent-Design challenge by demonstrating theoretically and empirically how highly complex anatomical and biochemical systems
+could have evolved naturally [48, 49, 50]. This exclusive focus on the empirical
+aspects of science is especially significant when confronting the ID movement on
+the origin-of-life question. Since there is still no agreed-upon scientific solution to
+the problem, it is felt that ID  claims in this domain cannot be fully rejected at the
+moment. Indeed, origin-of-life research is often viewed as a problem in the fight
+against  creationism – as the “soft underbelly of evolutionary biology” [51].
+The philosopher of biology,  Michael Ruse believes that the status of originof-life study differs from that of Darwinism.17 He thus finds it advisable, facing a
+ ����������������������������������������������������������������������������������������������������������������
+The evolutionary biologist �����������������������������������������������������������������������������������
+Ernst Mayr later changed his opinion, considering the origin of life to be a probable process. See E. Mayr. The search for extraterrestrial intelligence. In Extraterrestrials: Where Are They?,
+2nd edn., eds. B. Zuckerman and M. H. Hart (Cambridge: Cambridge University Press, 1995), p. 152.
+17
+ See M. Ruse. Prologue: a philosopher’s day in court. In But is it Science?, ed. M. Ruse (Amherst, NY:
+Prometheus Books, 1996), p. 27; but see the change in  Ruse’s more recent books. He now describes
+the origin of life as an “extension of Darwinism, for scientists are now starting to think in terms of the
+ways in which selection might have taken over the process” (M. Ruse. Can a Darwinian be a Christian?
+16
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:39.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+Philosophical aspects of the origin-of-life problem
+
+73
+
+believer who asserts the special intervention by God in the creation of life, “to let
+it be” [52]. The biochemist,  Christian de Duve points out that as far as science is
+concerned a supernatural intervention is unnecessary, “as well as unlikely, in the
+light of present knowledge.” Yet, he feels that since the science of today “cannot
+prove wrong” those who believe in divine intervention, “it would be a mistake to
+make this point into an issue” [53].18 Apparently, according to this view, science
+could provide facts “to demonstrate an entirely material origin of life” [54]. Thus,
+the problem with the scientific status of origin-of-life research is its present inability to provide such a demonstration – the problem is with the lack of “proof,” or
+“evidence.”
+The history of the attempts by philosophers of science to determine the essential characteristics of science and demarcate it from non-science is notoriously
+controversial. A notable relevant episode took place following a legal battle with
+the  creationists in the early 1980s. In his testimony in this trial,  Michael Ruse
+described “ creation science” as a religion and a non-science. Ruse distinguished
+“creation science” from the  theory of evolution, which he characterized as science
+by its empirical methodology [55]. A heated dispute among philosophers followed
+in which other philosophers of science pointed out to Ruse that some of the hypotheses of “creation science” (e.g. the young age of Earth) are empirical and testable
+(which in fact made it possible to refute them ). The best way, they suggested, to
+deal with the creationists is thus piecemeal, by refuting empirically each of their
+contentions [56, 57] .
+Interestingly, both parties to this controversy seemed to disregard the philosophical dividing line between science and  creationism. The following discussion
+will aim to point out how this dividing line is associated with the question of the
+nature of science. The core procedures of science – putting hypotheses to the test
+and establishing empirical evidence – are based on philosophical presuppositions
+that provide necessary guidelines and make possible the work of science. Crucial
+to the philosophical underpinning of science is the presupposition that natural
+phenomena are to be explained on the basis of natural causes obeying the laws
+of nature. This presupposition, whose implications lie at the heart of the conflict
+with creationism , rules out any explanation based on purposeful intervention and
+is often described as “methodological naturalism.” As put by the philosopher of
+science, Robert Pennock, “lawful regularity is at the very heart of the naturalistic
+worldview and to say that some power is supernatural is, by definition, to say that
+it can violate natural laws” [58]. Whether the naturalistic worldview also involves a
+(Cambridge: Cambridge University Press, 2001), p. 65; M. Ruse. Darwinism and its Discontents
+(Cambridge: Cambridge University Press, 2006), p. 53).
+18
+ For a similar sentiment, see K.R. Miller. Finding Darwin’s God (New York: Cliff Street Books, 1999),
+p. 276.
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:39.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+74
+
+Iris Fry
+
+“metaphysical” or “ontological naturalism,” underlying an  agnostic or an atheistic
+point of view, is a controversial issue among philosophers and scientists.19
+The interaction between the empirical and philosophical aspects of science can
+be fully appreciated when examined in its historical development. During the last
+few hundred years, the naturalistic philosophical presupposition guiding research
+and the empirical results of this research continuously fed into each other. As a
+result, the more successful empirical science became, the stronger this philosophical presupposition grew. It should be clarified: philosophical ideas are not “caused”
+by empirical evidence. Similarly, philosophical ideas do not “cause” new theories
+in science. Nevertheless, both empirical results and philosophical concepts contribute to changes in the intellectual climate, allowing new scientific questions to
+be raised and making new scientific solutions possible. This dynamic interchange,
+always taking place within specific cultural and political contexts, has given rise
+during the last few hundred years to the naturalistic worldview whose implications
+clearly transcend questions of methodology.
+The naturalistic conception, relating to the realm of physical phenomena, was
+developed as part of the scientific revolution of the sixteenth and seventeenth centuries. For a while, particularly until the middle of the eighteenth century, the
+new Copernican cosmology promoted a revival of natural theology, especially in
+England. The discoveries of science were seen as the strongest indication of the
+existence and properties of God. However, by the end of the eighteenth century, the
+establishment of cosmology and astronomy based on Newtonian principles replaced
+the previous explanation of nature through purposeful divine intervention.
+The removal of God from the direct explanation of natural phenomena and the
+rejection of intention and purpose as causes in the working of nature – intertwining elements of the new cosmological worldview – came into their own following
+the rise in the nineteenth century of the evolutionary conception of nature. The
+revolution precipitated by Darwin’s theory of evolution depended on these previous
+developments and carried them even further. When the “hand of God” as the cause
+of the adaptive complexity of organisms was replaced by the material mechanisms
+of evolutionary biology, the remaining stronghold of natural theology in the realm of
+biology came down.
+Historians differ in their interpretation of the changes that led to the decreasing
+relevance of an intervening God for the explanation of natural phenomena. They
+point to diverse processes – political, economical, and cultural – as crucial in the
+ For support of the “methodological” position see M. Ruse. Can a Darwinian be a Christian? (Cambridge:
+Cambridge University Press, 2001), pp. 100–102; R.T. Pennock. The Tower of Babel (Cambridge, MA:
+The MIT Press, 2000), pp. 189–214. Among proponents of the “metaphysical” stance see R. Dawkins.
+Obscurantism to the rescue. Quarterly Review of Biology, 72(4) (1997), 397–399; D. Dennett. Darwin’s
+Dangerous Idea (New York: Simon and Schuster, 1995); S. Weinberg. Dreams of a Final Theory (New York:
+Vintage Books, 1994), pp. 241–261.
+
+19
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:39.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+Philosophical aspects of the origin-of-life problem
+
+75
+
+development of a new naturalistic worldview.20 However, the major influence of the
+growth of science on this development cannot be denied.
+The interaction between empirical and theoretical scientific achievements and
+a philosophical standpoint is evident also in the development of the study of the
+origin of life. Not until the  theory of evolution proved itself strong enough theoretically and empirically could the question of the origin of life be incorporated
+into the study of evolution. As already noted, in the early twentieth century, when
+the mechanism of natural selection was held in much doubt, many scientists still
+considered the origin of life a taboo, better left untouched [2, 59]. This attitude
+changed toward the middle of the century when the “neo-Darwinian synthesis”
+established  natural selection as the major evolutionary mechanism and rejected all
+purposive explanations of evolution previously entertained [60]. Devising experiments that showed the power of natural selection at  the molecular level allowed
+scientists to formulate various theoretical prebiotic scenarios. Data gathered by
+astronomy, geology, chemistry, and biology provided stronger constraints that limited the number of possible theoretical origin scenarios.
+Despite the greater knowledge and sophistication in evaluating the problem, it
+is not solved yet. Researchers are still debating the mechanisms and processes that
+could have brought about the emergence of the first living systems. No empirical
+simulation in the laboratory of a possible hypothesis was yet achieved. Following
+the above brief historical examination of the interdependence between empirical
+evidence and the naturalistic worldview, the question of the scientific status of
+origin-of-life study can now be reconsidered. It can be confidently stated that this
+status does not stand or fall on the merit of empirical evidence alone. Despite the
+difference in the empirical evidence for evolution and the origin of life, the distinction between unproven-as-yet origin of life and evolution-as-a-fact is not justified. The question whether life emerged naturally is not put to the test afresh in
+every new experiment. Scientists feel confident about this question on the basis of a
+robust worldview drawing its strength from the historical record of science.
+Indeed, science is not a body of demonstrated truths and scientific activity does
+rely on belief where we cannot provide proof [61].  Naturalism as a system of beliefs
+is clearly of a different status than empirical data and like all philosophical claims
+cannot be confirmed or refuted by facts. There are no facts to “demonstrate an
+entirely material origin of life [54]”, nor facts to refute it. Scientific belief, however,
+is not detached from empirical facts and can be strengthened or weakened by the
+accumulation of observations and experiments. In this respect, the confidence of
+origin-of-life scientists in the eventual solution of the problem is different from a
+dogmatic belief.
+20
+
+ See, for example, J. H. Brooke. Science and Religion: Some Historical Perspectives (Cambridge: Cambridge
+University Press, 1991), pp. 372–380.
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:39.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+76
+
+Iris Fry
+
+It is on this crucial interaction between the empirical and philosophical aspects
+of science that ID promoters focus their attack. Phillip Johnson, the leader and
+initiator of the ID movement, argues that instead of practicing “empirical science,” which should avoid “all philosophical prejudice and follow the evidence
+wherever it leads,” evolutionary biologists in fact practice science “as applied
+materialist philosophy” [62]. In the same vein, the study of the origin of life is
+presented as “metaphysical,” failing to be based on empirical evidence [62] (see
+also [63], p. 197).
+In their struggle against science, ID promoters contend that unlike the study of
+evolution, their own “science” is based on “experience” [63] (p. 177). Realizing
+obviously that there can be no experience of a supernatural designer, ID theorists move instead to discuss human designers, basing their argument on the analogy between human and divine intelligence. However, this is a faulty analogy: the
+causal connection between human designers and their organized, functional products can be explored, tested, and verified. On the other hand, a supernatural intelligent agent and his “design activity” cannot undergo the same scrutiny. Instead of
+distinguishing between natural and supernatural causes, the new  creationists differentiate between “natural” and “intelligent” causes. Relying on a general, generic
+sense of the term “cause,” they move freely between intelligent human causation
+open to observation and experimentation and the alleged analogical supernatural
+intelligent causation [13] (pp. 204–206).
+Presenting ID ideas as “scientific” is thus based on changing the concept of science altogether. In order to allow their “science” to detect the “footprints” (“specified complexity,” “irreducible complexity,” etc.) of a purposeful agent, ID theorists
+have to insist that intention and supernatural agents should be part and parcel of
+science (see [64] (especially pp. 197–201) and [65]).
+Interestingly, some scientists and philosophers, ignoring the philosophical
+dimension of science, seem also to disregard the philosophical implications of the
+new  creationism for the nature of science. In a recent volume titled Why Intelligent
+Design Fails, one of the editors contends that “ID is a very ambitious claim and … it
+must produce strong evidence before scientists go along with the proposed revolution” [66].21 Urging ID promoters to “go scientific” by producing testable hypotheses and, eventually, tested evidence is a contradiction in terms: no observation or
+experiment, no empirical measure whatsoever, can test supernatural intention and
+purpose supposedly intervening in nature and affecting natural phenomena.22 The
+ Similarly, the philosopher, Niall Shanks in a critical review of one of Johnson’s books says that scientists
+do not currently support ID claims for a supernatural creation, “but that is because these are hypotheses for
+which there is not currently any high-quality evidence” (N. Shanks. Creationism, evolution and baloney.
+Meta Science, 9(1) (2000), 90).
+22
+ ����������������������������������������������������������������������������������������������������������
+Howard Van Till, emeritus professor of astronomy and physics at Calvin College, points out that an intelligent designer has to perform two tasks: “Mind action has to be followed by hand action … to be intelligently
+21
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:39.
+
+Philosophical aspects of the origin-of-life problem
+
+77
+
+supporters of science should realize that the conflict between science and ID is
+not one between experimental evidence and the lack of it. The conflict is between
+those who are capable of studying nature and indeed do so and those who cannot
+and hence do not.
+To recapitulate, the study of the origin of life is an instructive case study of the
+nature of science: the very fact that researchers still struggle to find a ­specific scenario that could have led to the emergence of life, while not doubting the in-principle
+natural character of such a scenario, reveals the complex interaction characterizing
+science between empirical evidence, theory, and the naturalistic worldview .
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+References
+  [1]	I. Kant. Critique of Judgment. Part 2. Critique of Teleological Judgement, trans.
+W. S. Pluhar (Indianapolis, IN: Hackett Publishing Company, 1987 [1790]).
+  [2]	H. J. Muller. The gene material as the initiator and the organizing basis of life.
+American Naturalist, 100, no. 915 (1966), 493–517.
+  [3]	 C. Darwin. On the Origin of Species (New York: Washington Square Press, 1963
+[1859]).
+  [4]	 F. Darwin. The Life of Charles Darwin (London: Senate, 1995), p. 257. (Originally
+published London: Murray, 1902.)
+  [5]	A. G. Cairns-Smith. Seven Clues to the Origin of Life (Cambridge: Cambridge
+University Press, 1985).
+  [6]	 W. Paley. Natural Theology: or, Evidence of the Existence and Attributes of the Deity,
+Collected from the Appearances of Nature (Farnborough, UK: Gregg, 1970 [1802]).
+  [7]	 M. J. Behe. Darwin’s Black Box (New York: Free Press, 1996), pp. 39, 110–111, 230.
+  [8]	 C. De Duve. Vital Dust (New York: Basic Books, 1995), pp. 112–117.
+  [9]	H. J. Morowitz. Beginnings of Cellular Life (New Haven, CT: Yale University Press,
+1992), p. 27.
+[10]	I. Fry. Are the different hypotheses on the origin of life as different as they seem?
+Biology & Philosophy, 10 (1995), 389–393.
+[11]	A. M. Weiner and N. Meizels. The genomic tag model for the origin of protein synthesis. In Evolution of Life, eds. S. Osawa and T. Honjo (Tokyo: Springer-Verlag, 1991),
+p. 53.
+[12]	 C. De Duve. Singularities: Landmarks on the Pathways of Life (Cambridge, New
+York: Cambridge University Press, 2005), pp. 17–21.
+[13]	I. Fry. The Emergence of Life on Earth: A Historical and Scientific Overview (New
+Brunswick, NJ: Rutgers University Press, 2000).
+[14]	N. Lahav. Biogenesis: Theories of Life’s Origin (New York: Oxford University Press,
+1999), pp. 111–113.
+[15]	P. L. Luisi. About various definitions of life. Origins of Life and Evolution of the
+Biosphere, 28 (1998), 613–622.
+[16]	R. Dawkins. Universal biology. Nature, 360 (1992), 25–26.
+designed is … to be both conceptualized for a purpose and assembled by the action of an extranatural agent”
+(H.J. Van Till. Does “intelligent design” have a chance? Zygon, 34(4) (1999), 670). Not by chance, as noted
+by Van Till, proponents of the ID movement fail to say so candidly. They cannot of course specify how the
+designer intervenes in nature – his “hand action” – and hence they cannot, in principle, suggest any means
+to test this intervention.
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:39.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+78
+
+Iris Fry
+
+[17]	R. Safhill, H. Schneider-Bernloehr, L. E. Orgel, and S. Speigelman. In vitro selection
+of bacteriophage Qß variants resistant to enthidium bromide. Journal of Molecular
+Biology, 51 (1970), 531.
+[18]	 M. Eigen, W. Gardiner, P. Schuster, and R. Winkler-Oswatitsch. The origin of genetic
+information. Scientific American, 244(4) (1981), 82–83.
+[19]	I. Fry. The origins of research into the origins of life. Endeavour, 3(1) (2006),
+24–29.
+[20]	 F. Dyson. Origins of Life (Cambridge: Cambridge University Press, 1985).
+[21]	G. F. Joyce and L. E. Orgel. Prospects for understanding the origin of the RNA world.
+In The RNA World, eds. R. F. Gesteland, T. Cech, and J. F. Atkins (Plainview, NY:
+Cold Spring Harbor Laboratory Press, 1998), pp. 49–77.
+[22]	L. E. Orgel. The origin of life on the earth. Scientific American, October (1994), 60–61.
+[23]	 B. C. F. Chu and L. E. Orgel. Peptide-formation on cysteine-containing peptide scaffolds. Origins of Life and Evolution of the Biosphere, 29 (1999), 441–449.
+[24]	L. E. Orgel. The Origins of Life (New York: John Wiley & Sons, 1973).
+[25]	G. Ertem and P. Ferris. Synthesis of RNA oligomers on heterogeneous templates.
+Nature, 379 (1996), 238–240.
+[26]	A. Kanavarioti. Template-directed chemistry and the origins of the RNA world.
+Origins of Life and Evolution of the Biosphere, 24 (1994), 489–492.
+[27]	 K. D. James and A. D. Ellington. A search for missing links between self-replicating
+nucleic acids and the RNA world. Origins of Life and Evolution of the Biosphere, 25
+(1995), 528.
+[28]	G. F. Joyce. RNA evolution and the origins of life. Nature, 338 (1989), 222.
+[29]	A. Eschenmoser. Chemistry of potentially prebiological natural products. Origins of
+Life and Evolution of the Biosphere, 24 (1994), 393–394.
+[30]	A. I. Oparin. Origin of Life, trans. S. Morgulis (New York: Dover Publications, 1953
+[1936]).
+[31]	 S. W. Fox and K. Dose. Molecular Evolution and the Origin of Life (San Francisco,
+CA: W. H. Freeman, 1972).
+[32]	 S. A. Kauffman. The Origins of Order: Self-organization and Selection in Evolution
+(New York: Oxford University Press, 1993).
+[33]	G. Wächtershäuser. Groundwork for an evolutionary biochemistry: the iron-sulfur
+world. Progress in Biophysics and Molecular Biology, 58 (1992), 110–111.
+[34]	 B. Shenhav, D. Segré, and D. Lancet. Mesobiotic emergence: molecular and ensemble
+complexity in early evolution. Advances in Complex Systems, 6(1) (2003), 15–35.
+[35]	 E. Smith and H. J. Morowitz. Universality in intermediary metabolism. Proceedings
+of the National Academy of Sciences 101(36) (2003), 13168–13173.
+[36]	R. M. Hazen. Genesis: The Scientific Quest for Life’s Origin (Washington, DC: Joseph
+Henry Press, 2005), pp. 95–119.
+[37]	 J. Monod. Chance and Necessity (Glasgow: Collins Fontana Books, 1974), p. 137.
+[38]	 F. Crick. Life Itself (New York: Simon and Schuster, 1981), pp. 39, 88.
+[39]	 M. Eigen. Steps Towards Life (Oxford: Oxford University Press, 1992).
+[40]	 C. De Duve. Blueprint for a Cell (Burlington, NC: Neil Patterson Publishers, 1991).
+[41]	H. F. Blum. Time’s Arrow and Evolution (New York: Harper & Brothers, 1962 [1951]),
+pp. 208–209.
+[42]	 F. J. Ayala. Biological reductionism: the problems and some answers. In SelfOrganizing Systems: The Emergence of Order, ed. F. E. Yates (New York: Plenum,
+1987), pp. 315–324.
+[43]	 E. Mayr. The Growth of Biological Thought (Cambridge, MA: Harvard University
+Press, 1982), pp. 59–63.
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:39.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+Philosophical aspects of the origin-of-life problem
+
+79
+
+[44]	H. J. Morowitz. A theory of biochemical organization, metabolic pathways, and evolution. Complexity, 4(6) (1999), p. 39.
+[45]	 K. Popper. Reduction and the incompleteness of science. In Studies in the Philosophy
+of Biology, eds. F. Ayala and T. Dobzhansky (Berkeley, CA: University of California
+Press, 1974), p. 270.
+[46]	 B. C. Thaxton, W. L. Bradley, and R. L. Olsen. The Mystery of Life’s Origin (New
+York: Philosophical Library, 1994), pp. 200–217.
+[47]	P. E. Johnson. The Wedge of Truth: Splitting the Foundations of Naturalism (Downers
+Grove, IL: InterVarsity Press, 2000), pp. 48–62.
+[48]	A. D. Gishlick. Evolutionary path to irreducible systems: the avian flight apparatus.
+In Why Intelligent Design Fails, eds. M. Young and T. Edis (New Brunswick, NJ:
+Rutgers University Press, 2004), pp. 58–71.
+[49]	I. Musgrave. Evolution of the bacterial flagellum. In Why Intelligent Design Fails,
+eds. M. Young and T. Edis (New Brunswick, NJ: Rutgers University Press, 2004),
+pp. 72–84.
+[50]	 K. R. Miller. Finding Darwin’s God (New York: Cliff Street Books, 1999),
+pp. 129–161.
+[51]	 E. C. Scott. Creationism, ideology, and science. Annals of the New York Academy of
+Sciences, 775 (1996), 515–516.
+[52]	 M. Ruse. Can a Darwinian be a Christian? (Cambridge: Cambridge University Press,
+2001), p. 65.
+[53]	 C. De Duve. Life Evolving (New York: Oxford University Press, 2002), p. 288.
+[54]	G. Easterbrook. Science and God: a warming trend? Science, 277 (1997), 893.
+[55]	 M. Ruse. Witness testimony sheet McLean v. Arkansas. In But is it Science? ed.
+M. Ruse (Amherst, NY: Prometheus Books, 1996), p. 318.
+[56]	L. Laudan. Science at the bar – cause for concern. In But is it Science? ed. M. Ruse
+(Amherst, NY: Prometheus Books, 1996), p. 354.
+[57]	 E. Sober. Philosophy of Biology (Boulder, CO: Westview, 1993), pp. 46–53.
+[58]	R. T. Pennock. Naturalism, evidence and creationism: the case of Phillip Johnson.
+Biology and Philosophy, 11 (1996), 552.
+[59]	I. Fry. On the biological significance of the properties of matter: L. J. Henderson’s
+theory of the fitness of the environment. Journal of the History of Biology, 29 (1996),
+177–188.
+[60]	 W. B. Provine. Progress in evolution and meaning in life. In Evolutionary Progress,
+ed. M. H. Niteckie (Chicago, IL: Chicago University Press, 1988), pp. 58–62.
+[61]	P. Kitcher. Abusing Science (Cambridge, MA: The MIT Press, 1982), p. 34.
+[62]	P. E. Johnson. Author’s response. Meta Science, 9(1) (2006), 106.
+[63]	 W. L. Bradley and C. B. Thaxton. Information & the origin of life. In The Creation
+Hypothesis: Scientific Evidence for an Intelligent Designer, ed. J. P. Moreland
+(Downers Grove, IL: InterVarsity Press, 1994).
+[64]	P. E. Johnson. Darwin on Trial (Downers Grove, IL: InterVarsity Press, 1993).
+[65]	A. W. Dembski. Intelligent Design (Downers Gove, IL: InterVarsity Press, 1999),
+pp. 122–152.
+[66]	T. Edis. Grand themes, narrow constituency. In Why Intelligent Design Fails, eds.
+M. Young and T. Edis (New Brunswick, NJ: Rutgers University Press, 2004), p. 17.
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:39.
+
+5
+The  origin of terrestrial life:
+a Christian perspective
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+Ernan McMullin
+
+When the “origin-of-life” issue is debated nowadays, the question most often asked
+is: How did the first cell originate? What sequence of processes could have given
+rise to the extraordinary complexity of even the most rudimentary living cell?
+Once such a cell was in place, the assumption is that  metabolism and descent with
+modification could begin and the Darwinian selection process could get under way,
+generating over the course of aeons the vast profusion of  natural kinds, living and
+extinct, that we know. But what sort of selection principles, working on what sort
+of materials, could have sufficed in the first place to build up the kind of intricate
+structure that even the smallest functioning cell requires? In short, how did the living come from the non-living in the first place?
+In earlier centuries, the transition from non-life to life would have seemed
+unproblematic, indeed entirely commonplace. It would have appeared obvious that
+living comes from non-living in the world of nature all the time: maggots develop
+in decaying flesh, tiny worms appear in rotting fruit, and so on. At the lowest levels
+of living complexity, matter (it seemed) could generate life unaided. Only with
+the advent of the microscope and finally the experiments of  Pasteur was it shown
+that this kind of spontaneous generation was only apparent: no real transition from
+non-living to living actually occurred in it. So how did life begin? With the discovery in recent decades of just how biochemically complex the cell is, the transition
+has become even more of a puzzle. As other essays in this collection will show,
+important advances have been made and hints of possible paths have appeared. But
+it would seem fair to say that an even moderately plausible reconstruction in scientific terms of how the first functioning cells came to be is still lacking.
+5.1  A Christian perspective?
+One recent response to this situation goes under the title of “Intelligent Design”  (ID).
+Reminiscent of the natural theology of the seventeenth and eighteenth centuries,
+Exploring the Origin, Extent, and Future of Life: Philosophical, Ethical, and Theological Perspectives, ed.
+Constance M. Bertka. Published by Cambridge University Press. © Cambridge University Press 2009.
+
+80
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:39.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+The origin of terrestrial life: a Christian perspective
+
+81
+
+it postulates the “special” action on the part of a creating intelligence as the
+most plausible, some would argue the only plausible, explanation of how the first
+cells were formed. More broadly, it points to various features of organisms that
+would likewise, at a later evolutionary stage, have required the distinctive action
+of a ­shaping intelligence to bring their first appearance about. The “irreducible
+­complexity” of such features as the mammalian blood-clotting mechanism, so it is
+argued, would exclude a gradualist account of their first coming-to-be [1]. Unlike
+the “creation-science” of an earlier generation of  Christian critics of Darwin, the
+proponents of ID tend to limit themselves to what they regard as the key transitions in the evolutionary story, among which the origin of the first terrestrial living
+things holds pride of place.
+The ID argument can take two rather different logical forms, as already implied.
+One, which might be called “strong” ID, maintains that these transitions cannot, as a
+matter of principle, be explained in the gradualist terms of neo-Darwinism or of conventional natural science generally. The other, “weak” ID, emphasizes the current
+lack of satisfactory accounts in evolutionary terms of how those transitions occurred
+and concludes that an explanation in terms of a Designer’s action outside the ordinary course of Nature is, at present, at least, clearly the preferable explanation, notably for those who already accept the existence of a Creator on other grounds. (For
+others, the epistemic situation would, of course, be different, though proponents of
+the weaker form of ID argument would argue that it gives a motive for belief in such
+a Creator, the strength of which would depend on how far from satisfactory formulation the current scientific attempts to explain the designated transitions are.)
+The title of this chapter, “The origin of terrestrial life: a Christian perspective,”
+might lead the reader to expect that the ID position, whether in its stronger or
+weaker form, would be the likely choice for such a perspective. Strong ID is, however, open to obvious challenge: it would require one to know somehow or other
+in advance what the limits are of the intrinsic transformative capacities of matter.
+Claims that conventional science can never, in principle, explain the first appearance of some feature of the living world, including that of life itself, seem presumptuous in the light of the achievements of the sciences of recent centuries. If, on the
+other hand, the argument were to depend primarily on the fact that scientists have
+encountered far more checks than anticipated in their search for a “natural” origin
+of life and at the moment might be thought to be at a loss (weak ID), an obvious
+response would be that the resources of the scientific imagination, backed with
+careful experimental trial, are far from exhausted and pointers are beginning to
+appear. After all, only half a century has elapsed since serious research on this
+issue first got under way.
+I will, however, leave aside any further assessment of the merits and demerits of
+the ID approach; that has been amply done elsewhere. I prefer to focus here in quite
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:39.
+
+82
+
+Ernan McMullin
+
+another direction, leaving it to the reader to judge whether or not it offers a more
+plausible expectation, from the Christian point of view, of the sort of explanation
+that should, even in advance, be expected of how life made its first appearance on
+Earth. What gives this alternative a special plausibility for the Christian is that it
+is rooted in the earliest ages of Christian theology, long before Darwin was heard
+of. It cannot, then, be dismissed as a merely defensive ploy to cover the retreat of
+Christian belief in the face of triumphant scientific advance. Though its relevance
+for our purposes is to the origin of terrestrial life, its broader relevance is to the
+evolutionary account generally.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+5.2  Two sources
+The theologians of the early Christian church relied on two major sources as they
+pondered the question of cosmic origins. The first of those was, of course, Genesis,
+the book that serves as solemn introduction to the Bible. But there was an ­immediate
+problem. The first two chapters of Genesis set forth two rather different accounts
+of origins. The first chapter describes the creation as spread out over six days. First
+come the heavens and the Earth, then in succession the creation of light, of the firmament dividing the waters above from those beneath, of vegetation and trees, of
+the Sun and Moon, of fish and birds, of land animals, and finally of the first human
+beings, male and female (Genesis 1 to 2:4). The second account tells the story
+rather differently: the Earth is already in place, but barren and empty. After a flood
+rises from the Earth and waters it, God fashions a man from the dust of the Earth
+and plants a garden containing every sort of tree; then God adds ­animals and birds,
+drawing them “from the earth,” and finally makes a woman to be man’s helpmate
+(Genesis 2:5 to 2:25).
+The sequence of events does not appear to be the same in the two accounts nor is
+the focus the same. The first emphasizes God as the author of all that is; the second
+concerns itself with the creation of man and woman and with their relation to the
+rest of creation. Since Genesis was assumed to have had Moses as single author,
+attentive readers would ask themselves: What could Moses have had in mind by
+telling the story of creation in two installments so different from one another? The
+first chapters of Genesis were the source of choice for Christian theologians of the
+early and the medieval church who concerned themselves with the elucidation of
+cosmic origins. And this would leave them with a question: How are the first chapters of Genesis to be made consistent with one another?
+The second resource to which these theologians could turn was the works of the
+ philosophers, Greek and Roman, the secular learning of that day. In this case, the
+appropriation was cautious and usually only implicit. These were, after all, pagan
+sources as far as the theologians were concerned; the philosophers lacked the sort
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:39.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+The origin of terrestrial life: a Christian perspective
+
+83
+
+of privileged access to truth claimed for the Bible. Nevertheless, they had to be
+reckoned with and might be availed of when they could help to illuminate some
+theological issue or, as in this case, a puzzling biblical text.
+Only three of the earlier philosophical cosmogonies seemed to have the potential
+to be of service to the theologians. The first was that of  Plato, the most influential of
+the earlier Greek philosophers in those formative years of Christian theology. His
+Timaeus had been expressly conceived as a  cosmogony, mythic in form but intended
+as a “likely story.” Plato begins from the evidences of the work of intelligence that
+he sees everywhere in the physical world. How are they to be accounted for? One
+way, the one to which he devotes most attention, is to postulate a “Demiourgos” or
+Craftsman, a God who through Reason brought order from an original disorder of
+matter in chaotic motion, a matter not itself of the Demiurge’s making. Matter, the
+realm of necessity, is resistant; the order imposed by Reason is never perfect, never
+permanent. In this  cosmogony, there is a Maker and a beginning.
+Very different was the Stoic tradition, which was destined to take a firm hold in
+the Roman world of the first two centuries of the Christian era. For the Stoic, physics and ethics were inseparable: the order discovered in the one becomes the ideal
+to be achieved in the other. God is the power that makes all things be what they
+are and holds them together in harmony. God and the universe are one: all change
+is immanent in God and ordered by God’s logos spermatikos (seedlike word). The
+operation of this logos is sometimes described as a creative fire, sometimes as a
+tension, depending on whether its capacity to make things new or its capacity to
+maintain order is in question. The eclectic  cosmogony of Plotinus, which gained in
+popularity in the Roman world as Stoicism declined, drew on a variety of sources,
+on Platonism mainly but also on other  Greek philosophies as well as on Oriental
+religious thought. Plotinus represents creation as an emanation from the One. The
+One first gives rise to Nous (Intellect) from which in turn comes Soul. Then Soul
+continues this downward process of emanation, making use of the productive power
+of the ideas present within it to form “seedlike principles” (logoi spermatikoi in
+the original Greek, rationes seminales in Latin translation). Somewhat after the
+fashion of Aristotle’s substantial forms, these combine with matter, the indeterminate, to form the familiar bodies of the sensible world. They are, as it were, the last
+flicker of the One, removed as they are from the source of good and intelligibility
+from which the timeless process of emanation begins.
+In the monistic system of Stoicism, there is no qualitative difference between
+God and the universe: the logos spermatikos is, effectively, God. And the physical
+universe is the embodiment of the order produced by that logos, the model indeed
+for the sort of order to which the ethical life should aspire. Whereas for the neoPlatonism of Plotinus, the One and matter, the indeterminate, are as far removed
+from one another as conceivable: indeed, it is unclear how matter, so understood,
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:39.
+
+84
+
+Ernan McMullin
+
+can have a place in a fully emanationist system. Here the logoi spermatikoi are
+plural and the world they inform is touched with evil by the mere fact of being in
+part material.
+When the theologians of that day looked for aid in understanding the sometimes
+obscure or laconic text of the Scriptures when it touched on matters that were also
+of broader philosophic concern, it was to resources such as these that they turned,
+just as their modern counterparts often draw on the philosophies and sciences
+of our own time. Preeminent among those theologians was  Augustine, bishop of
+Hippo in North Africa, whose work was to have such a profound influence on the
+Christian theology of later ages.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+5.3   Augustine on creation
+As a young man, Augustine was attracted to the teachings of Mani, then widely disseminated in the Mediterranean world. Born in Babylon around AD 216, Mani created an eclectic religion with elements drawn from practically every religious source
+of the day: from Zoroastrianism, Judaism, Buddhism, and Christianity. His teaching
+featured an uncompromising dualism between polar opposites, portrayed as warfare
+between Light and Darkness, Good and Evil. The dramatic  cosmogony he proposed
+described a primal struggle between two forces that existed independently of one
+another. So strongly dualist a cosmogony posed a challenge for the cosmogony  of
+Genesis, with its single all-powerful Creator of all that is and its repetition of “and
+God saw that it was good” at each stage of the creation. The Manicheans, not surprisingly, subjected to unsparing attack the six-day account of the creation, so different from their own version of cosmic origins, treating it as childish and incoherent,
+unable to account for the pervasive presence of evil in the world.
+When Augustine returned to the Christian faith, he set his impressive talents to
+the task of developing and deepening the theological doctrines that were coming
+to define the still-new Christian church [2] (pp. 11–16). It was not surprising that
+meeting the Manichean challenge to Genesis would rank high in his priorities.
+Two early commentaries on Genesis, the second unfinished, left him dissatisfied.
+Finally, in AD 401, he began the composition of what would become one of his
+major works, the De Genesi ad litteram, which would eventually run to twelve
+books and would occupy him on and off for fourteen years.
+The work was intended to be a “literal” commentary, not in the modern sense of
+that term – it frequently treats as “literal” what we today would describe as metaphor – but, rather, in contrast to “allegorical” (i.e. regarding the Old Testament text
+as foreshadowing later Christian themes). “Literal” for Augustine in practice meant
+something like: “in the primary sense intended by the author.” A decision that he
+had to make right away was how to reconcile the striking differences between the
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:39.
+
+The origin of terrestrial life: a Christian perspective
+
+85
+
+two accounts of creation in Genesis 1 and 2. His solution would seem, to the ­modern
+reader at least, quite a radical one. He was evidently deploying the resources of the
+Stoic and neo-Platonic philosophies of the day to arrive at a more coherent, if
+unexpected, reading of the six-day account in chapter 1, one that departed almost
+entirely from the literal in our sense of that term but one that (more or less) enabled
+the two chapters to constitute a single story.
+He proposes first that the “days” of which the first account of the creation speaks
+cannot be understood in the everyday sense of that term “day” here:
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+It is not to be taken in the sense of our day, which we reckon by the course of the sun; but
+it must have another meaning, applicable to the three days mentioned before the creation
+of the heavenly bodies. This special meaning of “day” must not be maintained just for the
+first three days, with the understanding that after the third day [i.e. when the Sun makes its
+first appearance] we take the word “day” in its ordinary sense. But we must keep the same
+meaning even to the sixth and seventh days [3] (par. 43).
+
+The creation was not, from the human perspective, a series of discrete acts on
+God’s part spread out over six days or even six indefinitely long periods of time.
+Augustine lays much weight on a single text here: “He made all things together”
+(Sirach 18:1).1 The “days” of creation reduce to the single moment of cosmic initiation when all the  natural kinds are already somehow prefigured. The six-fold
+distinction in Genesis 1 must, then, refer to something other than time. He could
+only speculate as to what this might be.2 This idea of a creation in which “all
+things” are somehow already present from the beginning owed something to neoPlatonism for its philosophic inspiration. It had already been broached by Basil and
+by  Gregory of Nyssa, a Greek theologian of the Alexandrine school. Here is how
+Gregory puts it:
+The sources, causes, and potencies of all things were collectively sent forth in an instant,
+and in this first impulse of the Divine Will, the essences of all things assembled together:
+heaven, aether, star, fire, air, sea, earth, animal, plant – all beheld by the eye of God. …  There
+followed a certain necessary series according to a certain order … as nature, the maker,
+required … appearing not by chance … but because the necessary arrangement of nature
+required succession in the things coming into being [4].
+
+Augustine developed this notion much further than his predecessors had done. From
+God’s timeless perspective, he maintained, there is but a single act of creation: “one
+ Ironically, the crucial “together” (“simul”) in this passage now appears to have been a mistranslation of the
+original Hebrew in the Old Latin translation Augustine was using.
+2
+ He suggests that it could be two successive stages in the angelic knowledge of the “ordered arrangement
+according to causal connection” [3], LMG, Book IV, par. 33) implicit in the creation of the material universe,
+but he emphasizes how tentative that suggestion must remain.
+1
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:39.
+
+86
+
+Ernan McMullin
+
+can speak of ‘before’ and ‘after’ in the relationship of creatures, although all is
+simultaneous in the creative act of God” [3] (par. 56). But from our perspective,
+the perspective of the timebound creature, God’s creative act has two “moments,”
+two phases:
+one in the original creation when God made all creatures before resting from all His works
+on the seventh day, and the other in the administration of creatures by which He works
+even now. In the first instance God made all things together without any moments of time
+intervening, but now He works within the course of time, by which we see the stars move
+from their rising to their setting … [5] (par. 27).
+
+He stresses the distinctness of the two phases from our point of view:
+We should not think of [the first creation of things] as if it were the same as His working
+now in time. Rather, He made that which gave time its beginning as He made all things
+together, disposing them in an order based not on intervals of time but on causal connections … [5] (par. 12).
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+Later theologians would mark the distinction by means of different names,
+­“creation” and “conservation,” even though, to repeat, both are understood as
+aspects of the single creative act from the Creator’s perspective. (The unavoidable duality of perspective is a major source of ambiguity in all this.) Augustine  is
+careful to stress that the Creator’s involvement does not end with the originating
+bringing-to-be: “For the power and might of the Creator … makes every creature
+abide; and if this power ever ceased to govern creatures, their essences would pass
+away and all nature would perish” [3] (par. 22).
+5.4   Augustine’s seedlike principles
+But now, in what sense can one say that all things were created simultaneously
+in the first moment of the universe’s existence? Recall that this is what Augustine
+requires in order to have an instantaneous act cover all the multiple contents of
+the universe described in Genesis 1. It is at this point that he makes his most distinctive contribution, appropriating from the  Stoics and neo-Platonists the notion
+of seedlike principles (rationes seminales).3 But these principles function rather
+differently for him than did those of his predecessors. The Creator, he proposes,
+implanted in the matter or “earth” that came to be in the first moment of creation,
+the seedlike principles of each kind that would later make its appearance, each in
+its own time, when the conditions would be favorable.
+ It is difficult to find an adequate translation here for “ratio” or “logos.” Since the rationes are realized in the
+primal matter somewhat after the fashion of Aristotelian forms, the literal translation, “reason,” seems hardly
+appropriate. The term “principle” adopted here is intended to convey the notion of a really existing causal
+factor.
+
+3
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:39.
+
+

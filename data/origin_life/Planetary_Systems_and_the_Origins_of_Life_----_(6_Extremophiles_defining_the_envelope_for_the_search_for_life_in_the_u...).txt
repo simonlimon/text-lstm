@@ -1,0 +1,1162 @@
+6
+Extremophiles: deﬁning the envelope for
+the search for life in the universe
+Lynn Rothschild
+NASA Ames Research Center
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+6.1 Introduction
+Of the three big questions astrobiology addresses, none has captured the public
+imagination as much as the question, ‘Are we alone?’As knowledge increases about
+the physical environments available in the universe, organisms on the Earth are used
+to gauge the minimum envelope for life. Organisms that live on the physical and
+chemical (and perhaps, biological) boundaries are called ‘extremophiles’. Members
+of the domain Archaea are undoubtedly the high-temperature champions on Earth,
+surviving at temperatures far above the boiling point of water. However, a wide
+phylogenetic variety of organisms are able to inhabit other extremes, from low
+temperature to high salinity, from desiccation to high levels of radiation. In some
+cases, the adaptation is as simple as keeping ions out of the cell (low pH), but
+in others more profound adaptations are required. Reactive oxygen species are
+highly toxic, and thus organisms that are aerobic are arguably extremophilic. Thus,
+extraterrestrial habitats previously thought to be uninhabitable have been shown to
+be, at least theoretically, habitable, thus informing the search for life elsewhere.
+Extremophilic organisms, or ‘extremophiles’, are integral to understanding the
+three big questions in astrobiology: Where do we come from? Where are we
+going? Are we alone? We do not know the environmental conditions under which
+life arose, although speculation includes hydrothermal areas; nor do we know the
+environments in which the earliest life forms existed. The future study of life on this
+planet and elsewhere is likely to include extremophiles, as our nearest neighbours
+present environments that are, in many respects, extreme. Herein, I focus on the
+importance of extremophiles for deﬁning the boundary conditions for life. The focus
+will involve exploring the diversity of extremophiles, mechanisms for adaptation,
+examples of extreme ecosystems, and space as an extreme environment.
+Although this chapter contains examples of organisms that live in extreme
+environments on Earth that overlap with environmental conditions found elsewhere,
+Planetary Systems and the Origins of Life, eds. Ralph E. Pudritz, Paul G. Higgs, and Jonathon R. Stone.
+Published by Cambridge University Press. © Cambridge University Press 2007.
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:45.
+
+114
+
+Extremophiles: deﬁning the envelope for the search for life in the universe
+
+this does not entail these organisms will be found elsewhere. In fact, if they were,
+then their presence may be considered prima facie evidence of contamination,
+as it is extraordinarily unlikely that identical organisms would be found on other
+celestial bodies any other way. The critical point is that by studying extremophiles
+on Earth, currently the only source of living organisms, we can deﬁne an envelope
+for life in the Universe. We must be aware that this provides the minimum envelope
+for life. The envelope is likely to be extended as we discover new organisms, and
+life on Earth may not be able to or have had the opportunity to test all possible
+environmental habitats.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+6.2 What is an extremophile?
+The word ‘extremophile’, coined by Bob MacElroy (1974) from the Latin
+‘extremus’ and the Greek ‘philos’, literally means ‘lover of extremes’.
+Unfortunately, even the deﬁnition is not as clear as one might think. Extreme is
+usually taken to refer to physical, chemical, or, rarely, biological conditions. But
+what is extreme?
+There is an objective deﬁnition of extreme, owing to the fact that life on Earth is
+based on organic carbon with water as a solvent. Thus, conditions that disrupt the
+integrity or function of aqueous solutions of organic compounds are extreme.
+Must extremophiles ‘love’extreme conditions? Scientists tend to be inconsistent;
+when it comes to temperature, extremophiles thrive optimally at the extreme
+temperatures. However, for many extremes, from pH to radiation, the extremophile
+organisms grow well, or even grow better, under less-extreme conditions.
+The ability to thrive under extreme conditions may be limited to particular life
+stages. For example, some species of frogs, turtles, and snakes can tolerate freezing
+of extracellular water, but only after the production of appropriate antifreeze
+molecules in the autumn (Storey and Storey, 1996).
+Which taxa contain extremophiles? With attention focused on temperature and
+salt tolerance, biologists tend to equate Archaea with extremophiles. This is
+inaccurate, as many extremophiles are Eubacteria and Eukarya, and additionally
+an increasing number of non-extremophilic Archaea are being uncovered.
+Reasons for studying extremophiles are listed in Table 6.1. Only the last ﬁve
+are primarily or exclusively the territory of astrobiologists: the future use of
+extremophiles in space – perhaps for life support, perhaps for terraforming; the
+biodiversity of life on Earth, mechanisms to survive extreme environments, and
+the limits for life in the universe.
+It is interesting to note that extremophiles have been used to look for life in
+the Universe not as a recent construct of astrobiology, but rather as a nineteenthcentury suggestion. Richard Proctor, a popular science writer for the public, was
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:45.
+
+6.4 Environmental extremes
+
+115
+
+Table 6.1. Reasons to study extremophiles
+Reason to study extremophiles
+
+Important to astrobiology
+
+food preservation
+basic research; model organisms for basic research
+biological warfare
+biotech potential
+future use in space
+biodiversity on Earth
+origin of life
+mechanisms of extremophile survival
+limits for life in the universe
+
+no
+no
+no
+no
+yes
+yes
+yes
+yes
+yes
+
+probably the ﬁrst to connect the study of life in extreme environments and life on
+other planets (Proctor, 1870, Chapter 1):
+If we range over the [E]arth, from the arctic regions to the torrid zone, we ﬁnd that none of
+the peculiarities which mark the several regions of our globe sufﬁce to banish life from its
+surface.
+
+While this chapter will focus almost exclusively on microbes, even humans inhabit
+extreme environments, including outer space (for a fascinating review of human
+adaptations to extreme environments, see Ashcroft (2001)).
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+6.3 Categories of extremophiles
+The challenges posed by extreme environments range from physical factors such
+as temperature and pressure to chemical extremes such as pH and oxygen tension
+(reviewed in Rothschild and Mancinelli (2001); Table 6.2).
+
+6.4 Environmental extremes
+6.4.1 Temperature
+Why should temperature make a difference to organisms? Organisms rely on
+biomolecules, all of which will break down at some temperature. For example,
+chlorophyll degrades near 75 ◦ C (Rothschild and Mancinelli, 2001). The melting
+temperature of nucleic acids depends on the base composition (A–T bonds are less
+thermostable than are G–C bonds), the length of the polymer, and the solvent
+including the concentrations of ions in solution, but even DNA normally will
+degrade well below 100 ◦ C.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:45.
+
+116
+
+Extremophiles: deﬁning the envelope for the search for life in the universe
+
+Table 6.2. Examples of natural habitats with environmental extremes
+Environmental Type
+parameter
+
+Deﬁnition
+
+Example
+ecosystems
+
+Example organisms
+
+temperature
+
+hyperthermophile
+thermophile
+mesophile
+psychrophile
+
+growth > 80 ◦ C
+
+geyser
+
+Pyrolobus fumarii,
+113 ◦ C
+
+alkaliphile
+
+pH > 9
+
+soda lakes
+
+acidophile
+
+low pH loving
+
+salinity
+
+halophile
+
+desiccation
+
+xerophiles
+
+salt loving
+(2–5 M NaCl)
+anhydrobiotic
+
+acid mine
+drainoff,
+hotsprings
+salt lakes,
+salt mines
+desert
+
+pressure
+
+barophile
+piezophile
+
+pH
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+radiation
+
+growth 60–80 ◦ C hotspring
+15–60 ◦ C
+<15 ◦ C
+ice, snow
+
+weight loving,
+pressure loving
+tolerates high
+levels of
+radiation
+
+deep ocean
+reactors,
+high solar
+exposure,
+e.g., at
+altitude
+most of
+Earth today
+
+oxygen
+
+aerobe
+
+tolerates oxygen
+
+gravity
+
+hypergravity
+hypogravity
+
+>1g
+<1g
+tolerates vacuum
+(space devoid of
+matter)
+can tolerate high mine
+concentrations of drainage
+metal
+(metalotolerant)
+
+vacuum
+chemical
+extremes
+
+gases, metals
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:45.
+
+Homo sapiens
+Psychrobacter, some
+insects
+Natronobacterium,
+Bacillus ﬁrmus OF4,
+Spirulina spp.
+(all pH 10.5)
+Cyanidium caldarium,
+Ferroplasma sp. (both
+pH 0)
+Halobacteriacea,
+Dunaliella salina
+Artemia salina;
+nematodes, microbes,
+fungi, lichens
+unknown, for microbe,
+130 MPa
+Deinococcus
+radiodurans
+
+none known
+none known
+tardigrades, insects,
+microbes, seeds
+Cyanidium caldarium
+(pure CO2 ),
+Ferroplasma
+acidarmanus (Cu, As,
+Cd, Zn); Ralstonia sp.
+CH34 (Zn, Co, Cd,
+Hg, Pb)
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+6.4 Environmental extremes
+
+117
+
+As temperature increases, proteins denature, which results in loss of quaternary,
+tertiary, and even secondary structures. This rules out their use as structural
+compounds.
+Denatured enzymes lose their catalytic activity. But even when active, enzymes
+have a minimum, a maximum and an optimum temperature for function. By
+deﬁnition, at temperatures above or below the maximum, enzymatic function slows.
+The solubility of gases in a liquid, including water, varies depending on
+temperature. As anyone who has opened a cold bottle of soda knows, the solubility
+of gases in liquids decreases with increasing temperature. As aquatic organisms
+often utilize soluble gases, such as CO2 or O2 , high temperature decreases the
+availability of gases.
+At low temperatures, water freezes. During freezing, solutes concentrate creating
+high, perhaps toxic, concentrations of solutes. Once the water is frozen, the ice
+crystals may act like tiny swords, piercing the cell membranes, and thus destroying
+cellular integrity.
+These effects of temperature on biological compounds strongly suggest that life
+should have a fairly narrow temperature range, from above the freezing point of
+water to well below its boiling point. Thus, it was surprising to Tom Brock when,
+in July 1964, he detected living organisms in the run-off channels of hot springs in
+Yellowstone National Park. Later in the summer he noticed pink, gelatinous mats
+in Pool A of Octopus Spring, about six miles south of Old Faithful (Figure 6.1).
+At the time ‘high temperature’ was considered to be 60 ◦ C. In 1966, Brock’s
+graduate student, Hudson Freeze, cultured YT-1 (later known as Thermus aquaticus)
+from Mushroom Spring. T. aquaticus is the source for Taq polymerase which,
+when used as part of the polymerase chain reaction, revolutionized biology in
+the late twentieth century. Inspired by reports of this work (Brock, 1967), as
+well as the work of Woese (e.g., Woese and Fox (1977)) revealing the presence
+of the Archaea, Karl Stetter became the leading ﬁgure in thermophile research
+(see Chapter 7).
+In 1977, the exploratory submarine Alvin travelled through the Panama Canal
+for the ﬁrst time. Geological work in the Galapagos Rift was completed during
+February and March. The major discovery of an abundance of exotic animal life
+on and in the immediate proximity of warm water vents prompted theories about
+the generation of life. Because no light can penetrate through the deep waters,
+scientists concluded that the animal chemistry there is based on chemosynthesis,
+not photosynthesis. Since then, Alvin has located more than 24 hydrothermal sites
+in the Atlantic and Paciﬁc Oceans. It also has allowed researchers to ﬁnd and record
+about 300 new species of animals, including bacteria, foot-long clams and mussels,
+tiny shrimp, arthropods, and red-tipped tube worms that can grow up to 3 m long
+in some vents.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:45.
+
+118
+
+Extremophiles: deﬁning the envelope for the search for life in the universe
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+Fig. 6.1. Sources of thermophiles from Yellowstone National Park. Outﬂow
+channel of Octopus Spring, approximately 6 miles south of Old Faithful. Inset
+is close-up of the gelatinous (pink) mats, which contain the hyperthermophilic
+bacterium, Thermocrinis ruber (Reysenbach et al., 1994; Huber et al., 1998). The
+mats are growing at approximately 81 ◦ C. Note that Octopus is 7352 ft above
+sea-level, and therefore the boiling point of water is depressed. In the front of
+the photo is a section of the source, which is boiling, yet it too contains living
+hyperthermophiles. Photo captured 3 August 2006.
+
+The ability to withstand ﬁre is not normally considered an extreme-environment
+adaption, but it is worth mention here. Fire-triggered germination is widespread in
+the plant families Fabaceae, Rhamnaceae, Convolvulaceae, Malvaceae, Cistaceae,
+and Sterculiaceae. The trigger is either heat shock or the chemical products of
+combustion, rather than ﬁre itself (Keeley and Fotheringham, 1998).
+The ability of organisms to thrive in cold temperature environments has a
+much longer history. The great nineteenth-century microbiologist, Ferdinand Cohn,
+noticed algae that grow on snow, a phenomenon often referred to as ‘watermelon
+snow’ (Figure 6.2). Cold temperature organisms, or psychrophiles, were studied
+from the marine environment by Certes in the 1980s and Conn in the early
+twentieth century. ZoBell and his students – particularly Dick Morita – studied
+these organisms and were the ﬁrst to get deep-sea samples from the 1957 Galathea
+expeditions to ocean trenches. They were the ﬁrst to study these psychrophiles
+and barophiles. By the 1980s, multiple ﬁeld campaigns were being staged to
+the Dry Valleys of the Antarctic to study the microbes in the permanently
+ice-covered lakes (Figure 6.3). These lakes were seen as a model system for
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:45.
+
+6.4 Environmental extremes
+
+119
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+Fig. 6.2. Watermelon snow, Lassen National Park.
+
+Fig. 6.3. Nymph Creek, an acidic creek several miles north of Norris Annex. At the
+time the photo was taken, the water was 41 ◦ C. The water appears green due to
+Cyanidium caldarium, and an acidophilic Chlorella (Belly et al., 1973). Photo
+captured 3 August 2006. Color photographs are available on the book website
+http://www.cambridge.org/9780521875486.
+
+potential organisms living in rocks (e.g., Friedmann (1982), McKay and Friedmann
+(1988)), under ice-covered regions of ancient Mars, or even present-day Europa
+and now Enceladus (reviewed in Priscu et al. (1998), McKay et al. (2005);
+see Chapter 12).
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:45.
+
+120
+
+Extremophiles: deﬁning the envelope for the search for life in the universe
+
+6.4.2 pH limits for life
+The acidity of a solution, referred to as pH, quantiﬁes the activity of hydrogen ions.
+In dilute solutions, the activity is approximately equal to the numeric value of the
+concentration of the H+ ion, denoted as [H+ ]. Thus,
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+pH ∼ − log10 |[H+ ]|
+
+(6.1)
+
+Seawater (currently) has a pH of 8.2. This means that it has a [H+ ] of 10−8.2
+mol l−1 , or approximately 6.31 × 10−9 mol l−1 . While the pH scale is thought of
+as ranging from 0 to 14, a pH below 0 or above 14 is possible. For example, acid
+mine run-off can have a pH of −3.6, corresponding to a molar concentration of H+
+of 3981 M. The cytoplasm of most cells is near neutral, which is pH 7.
+Life at pH extremes is difﬁcult. At low pH, in the absence of a proton pump,
+hydrogen ions can rush into the cell, lowering the pH of the internal environment,
+thereby disrupting the internal biochemistry of the cell. At extremely low pH,
+proteins denature, which is the principle behind preservation at extremely low pH.
+Organisms that live at high pH and use proton pumps ﬁnd it difﬁcult to locate
+enough protons.
+Yet, in spite of this, eukaryotic and prokaryotic microbes from low pH
+environments have been observed for several decades. The red alga, Cyanidium
+caldarium (Fig. 6.3), can live at pH ∼ 0 (Seckbach, 1999). The Archaea Picrophilus
+oshimae and Picrophilus torridus live in dry soils below pH 0.5 (Schleper et al.,
+1995); and Ferroplasma acidarmanus, isolated from acid mine drainage, can
+grow at pH 0 (Edwards et al., 2000). A diversity of organisms, from bacteria to
+cyanobacteria to rotifers, can live at pH 10.5 (e.g., Martins et al. (2001)). Microbial
+communities live at pH 12.9 in the soda lakes of Maqarin, Jordan (Pedersen et al.,
+2004). It should be noted that soda lakes, in general, tend to be highly productive,
+with high concentrations of cyanobacteria because of the high concentration of
+dissolved CO2 (Grant et al., 1990; Rees et al., 2004).
+Work on life at low pH started because of the use of acidic conditions for food
+preservation (e.g., sauerkraut), but more recently low pH organisms have been
+useful as model systems for biochemistry research. In the late 1960s in particular
+(e.g., Seckbach et al. (1970)), but still to the present day, acidophiles have been
+used as model systems for a potential life form on Venus (e.g., Schulze-Makuch
+et al. (2004) and references therein).
+The biotechnical potential also is enormous, as there are times in industrial
+processes where it is most economical to conduct the reactions at either high or
+low pH. An example of the economic signiﬁcance of these organisms comes from
+the Kenya Wildlife Service (KWS), who planned to launch a multimillion dollar
+legal claim against Genencor and Procter & Gamble, alleging that a microbial
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:45.
+
+6.4 Environmental extremes
+
+121
+
+cellulase enzyme illegally obtained from a soda lake in the country was used as an
+ingredient in the latter company’s Tide laundry detergent (Sheridan, 2004).
+6.4.3 Life in high salt
+Red waters have been noted since biblical times, and Charles Darwin observed
+red ponds in South America during his voyage on HMS Beagle. But halophiles,
+organisms that live in 2–5 M salt, were ﬁrst noted in the early twentieth century
+in conjunction with spoilage of food preserved in salt and yet red. In preparation
+for the Viking missions to Mars, halophiles became of importance in the search
+for life elsewhere. More recently, the discovery of evaporites on Mars and life in
+evaporites on Earth, and the presumed radiation resistance of halophilic organisms
+have also contributed to the astrobiological interest in halophiles (e.g., Rothschild
+(1990), Rothschild et al. (1994), Forsythe and Zimbelman (1995), McLennan et al.
+(2005)).
+Halophiles are predominantly found among the Archaea and Bacteria. One
+eukaryote, the green alga Dunaliella salina, is well known from a variety of
+hypersaline environments. D. salina has been particularly useful commercially
+because the glycerol and β-carotene that it accumulates can be harvested.
+Halophiles are also desiccation resistant.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+6.4.4 Desiccation (anhydrobiosis)
+Desiccation is one of the oldest methods of food preservation. In ancient times,
+the sun and wind would have dried foods naturally, as they do with grapes on the
+vine producing raisins. There is evidence that the Middle Eastern cultures actively
+dried food in the sun as early as 12 000 BCE. The Romans in particular were fond
+of any dried fruit, but meats, especially pork, and cereal grains such as rice and
+wheat, have been dried or smoked for millennia. Desiccation preserves because all
+life on Earth relies heavily on the presence of liquid water, although it is possible
+that some lichens can survive on water vapour.
+So, as with the other extremophiles that we have considered here, many organisms
+are extremely good at tolerating this extreme (Crowe et al., 1992). Many microbes
+and plants use desiccation-resistant spores to weather dry periods and for dispersal.
+A variety of invertebrates, including nematodes and rotifers, are anhydrobiotic
+(Watanabe, 2006), and some, such as tardigrades, are known to survive desiccation
+for well over 100 years dried on herbarium samples.
+Organisms that can survive extreme dehydration are also resistant to freezing to
+very low temperatures, elevated temperature for brief periods, and the effects of
+ionizing radiation (Crowe and Crowe, 1992).
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:45.
+
+122
+
+Extremophiles: deﬁning the envelope for the search for life in the universe
+
+6.4.5 Pressure
+Organisms can live at extraordinarily high pressures, as evidenced by the lush
+microbial and invertebrate communities in the deep sea. Some of these organisms
+can also survive normal atmospheric pressure, while others cannot. Interestingly,
+the surface bacteria Escherichia coli and Shewanella oneidensis have been shown
+to be metabolically active up to 1600 MPa, substantially higher than ambient
+pressure (0.1 MPa) (Sharma et al., 2002).
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+6.4.6 Radiation
+Organisms are exposed to a variety of types of radiation on Earth. Some types
+of radiation have been constant for organisms over geological time, such as
+those from naturally occurring radioactive substances, while ultraviolet radiation
+received by organisms has varied as the Sun has aged and atmospheric oxygen has
+risen. Solar radiation exposure also varies seasonally and diurnally. Throughout
+the history of Earth, ultraviolet radiation below 200 nm has been blocked from
+reaching the surface by atmospheric CO2 . Since the rise of atmospheric oxygen
+and ozone over 2 billion years ago (see Chapter 11), much of the radiation
+below 300 nm has been attenuated as well. This is particularly important because
+the peak absorption for nucleic acids is ∼260 nm and that for proteins is, on
+average, ∼280 nm.
+More recently, life has been exposed to radiation from man-made sources, such
+as nuclear reactors. And, of course, with the advent of space exploration, organisms
+from Earth have gone beyond its protective atmosphere to low orbit, the Moon, and,
+now, beyond the edge of our Solar System as hitchhikers on the Voyager spacecraft.
+Radioactivity, a term coined by Marie Curie, was found to be hazardous to living
+organisms very quickly after the discovery of X-rays by Wilhelm Roentgen in
+1895. Radiation damages nucleic acids, proteins, and lipids directly and indirectly
+through the production of reactive oxygen radicals. While the types of radiation
+vary, the types of damage are similar, ranging from modiﬁed bases to singlestrand and double-strand breaks. With oxidative damage, oxidation of lipids and
+proteins can also occur. Thus, in 1956, when a can of γ radiation-sterilized
+meat surprisingly spoiled, Arthur W. Anderson at Oregon Agricultural Experiment
+Station in Corvallis, investigated and found the culprit: the aerobic bacterium
+Deinococcus radiodurans.
+D. radiodurans is not just phenomenally radiation-resistant, but it is also
+desiccation-resistant. This has led to the hypothesis that the radiation resistance
+is incidental to desiccation resistance (Battista, 1997). Certainly organisms that
+are desiccated are not able to repair DNA damage; so, upon rehydration, there is
+pressure to repair the accumulated damage rapidly.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:45.
+
+6.5 How do they do it?
+
+123
+
+6.4.7 High oxygen
+High oxygen seems an odd addition to a list of extreme parameters; are we not
+exquisitely adapted to living in 21% oxygen? In fact, oxygen levels on Earth are
+thought to have been as high as 35% during the Permo-Carboniferous, 248–354
+million years ago (Berner et al., 2003), deep into the age of multicellular life.
+Although we consider an aerobic lifestyle to be ‘normal’, I will argue that, in
+reality, oxygen presents one of the most severe challenges to organisms based on
+organic carbon, concluding that we, like all aerobes, are extremophiles.
+Aerobic metabolism arose and became dominant because it is far more efﬁcient
+than anaerobic metabolism, generating 18 times more ATP per molecule of glucose
+metabolized. However, during the reduction of oxygen to water, or the oxidation
+of water, a series of reactive oxygen species is produced, the worst of which, for a
+biological system, is the hydroxyl radical (·OH). These reactions, from oxygen to
+the superoxide anion (O−
+2 ), hydrogen peroxide (H2 O2 ), the hydroxyl radical (·OH),
+and H2 O, are shown in Equation (6.2).
+O2 ↔ O2− ↔ H2 O2 ↔ OH ↔ H2 O
+
+(6.2)
+
+Oxidative damage to DNA is well known and includes modiﬁcation of bases
+to single-strand breaks to double-strand breaks. Reactive oxygen species also
+cause damage to lipids and proteins. Current research suggests that the increased
+production of reactive oxygen species is a feature of most, if not all, human disease,
+including cardiovascular disease and cancer (Jacob and Burri, 1996).
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+6.5 How do they do it?
+Sometimes, evolution ﬁnds the route of the least number of changes, which I dub
+‘the laziness principle’. If the internal environment of a cell alters radically, there
+would have to be a massive reworking of the internal environment necessitating
+massive changes in the biomolecules and possibly pathways.
+For these reasons, the simplest approach to living in extreme environments is to
+keep the external environment out. This is what we do by wearing clothes, mammals
+do by growing fur, and so on. Living under protective materials, such as sand or
+salt, is another strategy (Rothschild and Giver, 2003). A similar approach is taken to
+living at low pH. Acidophiles maintain a roughly neutral internal pH by evolving a
+strong proton pump or having low permeability to protons. Conversely, alkaliphiles
+(organisms that live at high pH) maintain an internal pH two or more units below
+the external medium by evolving an effective proton transport system.
+As with pH, a variety of organisms can withstand anhydrobiosis, suggesting that
+this adaptation is relatively straightforward to evolve. Usually the synthesis of a
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:45.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+124
+
+Extremophiles: deﬁning the envelope for the search for life in the universe
+
+disaccharide such as trehalose in microbes, animals, and fungi, or sucrose in plants,
+is sufﬁcient to survive desiccation (Crowe et al., 1992). Trehalose may provide
+effective protection against desiccation because it has superior biochemical and
+physicochemical properties for stabilizing membranes and biomolecules including
+proteins and lipids (Watanabe, 2006) by hydrogen bonding to polar residues in the
+dry macromolecular assemblages (Crowe et al., 1998). However, both trehalose and
+sucrose form glasses in the dry state; so it has been suggested that glass formation
+(vitriﬁcation) is in itself sufﬁcient to stabilize dry biomolecules (Sun et al., 1998).
+Crowe et al. (1998) have shown that, while vitriﬁcation is required, it is not in itself
+sufﬁcient to allow anhydrobiosis.
+A further complication arises because anhydrobiosis occurs in the absence of
+trehalose or other disaccharides in bdelloid rotifers (Lapinski and Tunnacliffe,
+2003). Thus, there may be alternative pathways to desiccation resistance.
+Similarly, halophiles often are able to cope by the accumulation of a compatible
+solute. The internal osmotica include K+ for Archaea, glycine betaine and organic
+compounds in Bacteria, and glycerol in the eukaryote Dunaliella salina.
+If the external environment cannot be kept out, sometimes small modiﬁcations
+can be made to the internal environment. For example, enzyme activities can adapt
+to lower temperatures, and the lipid composition of the membrane can be altered
+to avoid loss of ﬂuidity at low temperatures. At temperatures below freezing, ice
+forms, which is doubly dangerous. First, as the ice forms, it removes water and
+increases the concentration of solutes in the remaining water. Second, ice crystals
+themselves can cause physical damage to cell membranes. Antifreeze molecule(s)
+can prevent this damage. For example, the accumulation of glycerol in frogs allows
+natural tolerance to freezing (Schmid, 1982), as do the antifreeze proteins in ﬁsh
+provide the same function (e.g., Davies and Hew (1990), Clarke (2003)).
+High temperature is normally lethal for a number of reasons, ranging from
+lowered solubility of gases at high temperature, to denaturation of proteins and
+nucleic acids. High temperature can be avoided by use of cold water circulation
+over the exterior, such as in the pompei worm. However, hyperthermophiles are
+required to make multiple changes to their internal biochemistry for survival. Salt
+bridges have long been known to stabilize proteins in thermophiles (Perutz, 1978).
+With increasing temperature, prokaryotes tend to acquire adenine and lose cytosine,
+while keeping thymine and guanosine relatively constant (Lambros et al., 2003).
+Because of the economic interest in hyperthermophiles, this is an active area of
+interest.
+Resistance to radiation damage, and the related phenomenon of oxidative
+damage, is critical for life. Thus, multiple pathways exist in all organisms
+(reviewed extensively elsewhere; e.g., Yasui and McCready (1998), Petit and Sancar
+(1999), Smith (2004)). These include photorepair, excision repair, and homologous
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:45.
+
+6.6 Examples of extreme ecosystems
+
+125
+
+recombinational repair, among others. However, the key to the remarkable ability
+of D. radiodurans to resist radiation might be the fact that the DNA is held in a
+ring-like structure, thus enabling the cell to ligate the broken strands in the correct
+order (Levin-Zaidman et al., 2003), although its ability to accumulate manganese
+while keeping a low intracellular level of iron also may be a contributing factor to
+resistance (Daly et al., 2004).
+
+6.6 Examples of extreme ecosystems
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+Even excluding our nearly ubiquitous high oxygen terrestrial environment,
+there is a remarkable diversity of extreme habitats on Earth (Table 6.2;
+Figures 6.1–6.4). These range from the ice at the poles to the searing heat of
+hydrothermal vents. Paralana Spring, in the Flinders Ranges of Australia, bubbles
+radioactivity (Figure 6.4). As suggested above, many of these have multiple
+extreme environments simultaneously. Thus, while the source of Octopus Springs
+in Yellowstone National Park is at the boilina pH ∼8.2, a pH similar to that of the
+ocean, Congress Springs also is boiling but with a pH of near 0. Laguna Colorada,
+a hypersaline lake in the Bolivian Altiplano, has a moderately alkaline pH of 8.4,
+but is hypersaline and, thus, populated by halophiles. At an altitude of 4364 m,
+and a location of 22 ◦ 15.836 S; 67 ◦ 48.970 W, the organisms are also subjected
+
+Fig. 6.4. Paralana Spring, a natural spring containing high levels of radiation.
+Despite high levels of radon, radium, and uranium, not to mention a high ultraviolet
+ﬂux, there is a lush microbial community growing in the source of Paralana Spring,
+shown here with bubbles of radon.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:45.
+
+126
+
+Extremophiles: deﬁning the envelope for the search for life in the universe
+
+to exceptionally high levels of UVB radiation in the austral summer (Rothschild,
+unpublished).
+An extreme environment that is poorly studied is that of the air. An airborne organism must deal with the effects of desiccation, decreasing temperature,
+ultraviolet radiation, and a nutrient-poor environment. Of course, with increasing
+elevation, oxygen decreases as well. The great microbiologist Louis Pasteur did
+some of the early work on aerobiology, but current work is conducted primarily
+for military reasons, to investigate spread of air-borne pathogens, and to preserve
+monuments.
+While many extreme environments occur naturally, there are new, human-made
+environments as well. In particular, nuclear reactors (high radiation) and acid mine
+drainage (high metals, low pH) can provide novel challenges.
+
+6.7 Space: new categories of extreme environments
+Assuming that all organisms on Earth are indigenous to this planet, outer space
+provides new extreme environments. Life beyond Earth is difﬁcult for at least six
+reasons.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+(i) Atmospheric composition is likely to be grossly different.
+(ii) Gravity can range from nearly zero to lower than on Earth on other rocky planets
+(although higher on the gas giants).
+(iii) Space itself is almost a vacuum.
+(iv) Temperature extremes occur even in our planetary neighbourhood.
+(v) Nutrient sources are different and may well be non-existent.
+(vi) The radiation regimes are grossly different.
+
+Cosmic and solar particle radiation are non-existent on Earth, but quickly
+add to the woes of increased ultraviolet ﬂux beyond Earth’s atmosphere and
+magnetosphere.
+A series of experiments has been conducted, primarily by the Europeans under
+the aegis of the ESA, to test the ability of terrestrial organisms to withstand the
+rigours of space. The ﬁrst studies were done on balloons and rockets, and, later,
+on spacecraft in low Earth orbit and outside the Earth’s magnetic ﬁeld (Apollo
+missions 16 and 17). The low Earth orbit experiments have been conducted on a
+variety of platforms including Spacelab 1, Spacelab D2, the Exobiology Radiation
+Assembly (ERA) on the European Retrievable Carrier (EURECA), NASA’s Long
+Duration Exposure-Facility (LDEF), and Biopan on the Russian satellite Foton.
+From 1994 to 2006, 25 exobiology experiments were performed on Biopan, an
+ESA space-exposure platform on a satellite, allowing two-week ﬂight opportunities
+(Schulte et al., 2006). Samples were exposed to the rigours of outer space vacuum
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:45.
+
+6.8 Life in the Solar System?
+
+127
+
+and the resulting desiccation and radiation regime. Plans are ﬁnalized for a similar
+exposure facility to be attached to the outside of the International Space Station
+in 2007. The plan is that EXPOSE will allow one-year experiments. Isolated short
+duration experiments continue (e.g., Saffary et al. (2002)).
+Early on Horneck showed that the spores of the bacterium Bacillus subtilis
+could survive such exposure (e.g., Horneck et al. (1984), Horneck (1993, 1999)).
+Since then, bacterial spores mixed with Mars soil analogues, permafrost soil
+samples with their embedded bacterial spores, and viruses also have survived. But,
+whereas spores are expected to be particularly resistant to environmental extremes
+(e.g., Nicholson et al. (2000)), Mancinelli et al. (1998) were the ﬁrst to show
+survival of cells in the vegetative state. Since then, lichens and yeast have also been
+shown to survive space travel.
+6.8 Life in the Solar System?
+While planet Earth is the only body in the Solar System, indeed our Universe, that
+we know to be infested with life, there are several other possible habitats. Assuming
+that liquid water is a necessity (see Benner et al. (2004) and Shulze-Makuch and
+Irwin (2004) for a discussion of this and alternatives), there are two planets (Venus
+and Mars), and several moons (e.g., Europa and Enceladus) that currently are the
+most-likely candidates to harbour life (see Chapter 5). If one assumes that an organic
+solvent, such as methane alone or in combination with water, could be a solvent for
+life, then the search extends to Titan.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+6.8.1 Venus
+While Proctor and others have discussed the possibility of an extant Venusian
+biosphere, most people believe Venus to be sterile today. The surface of Venus is
+the hottest in the Solar System at 477 ◦ C, so there is no liquid water. This was caused
+by a run-away greenhouse effect where the carbon-dioxide-rich atmosphere (96%
+CO2 with 3% N2 ) trapped incident sunlight raising temperatures. Additionally,
+clouds of sulphuric acid abound and the atmospheric pressure is over 90 times that
+of Earth at sea level. The information we have on the surface of Venus was obtained
+from the Russian Venera landers from the 1980s, which survived on the surface for
+about 60 minutes. Additional information has been gained from NASA’s Magellan
+spacecraft, the Russian Venera orbiters and the ESA’s Venus Express mission, which
+entered Venusian orbit on 11 April 2006.
+In many ways, Venus began as Earth’s close sister, perhaps even ‘twin’. Although
+Venus is approximately 30% closer to the Sun than the Earth, it is similar in size,
+mass, density, and volume. Venus coalesced out of the same materials as the Earth
+and should have a similar bombardment history, so it is likely to have been similar
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:45.
+
+128
+
+Extremophiles: deﬁning the envelope for the search for life in the universe
+
+when the planets formed. Since life arose on Earth by 3.8 billion years ago, and
+quite possibly much earlier, it is reasonable to assume that life could have arisen
+on Venus during that time as well. And, if life is not indigenous to Venus, transport
+from Earth or Mars during the time may have been possible (Gladman et al., 2005).
+Unfortunately, reworking of the Venusian surface means that it is unlikely that we
+will ever know for certain.
+First Sagan (1961) and more recently Cockell (1999), Grinspoon and SchulzeMakuch and others (e.g., Schulze-Makuch et al. (2004)) have envisioned a scenario
+where life could still be present on Venus. While the surface pressure and
+concentration of CO2 , though high, does not prohibit life, the high temperature
+does. However, in the lower and middle cloud layers of Venus, the temperatures
+are lower and water vapour is available, and thus these clouds could provide a
+refuge for life. Perhaps acidophilic sulphate-reducing chemoautotrophs suspended
+as aerosols could survive there even today. Ultraviolet radiation ﬂux would be
+high, but Schulze-Makuch et al. (2004) have suggested a way that the ﬂux could
+be attenuated allowing life to survive.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+6.8.2 Mars
+Mars is half again as far from the Sun as the Earth. Its mass is 0.12 that of the Earth,
+so there is one-sixth the gravity on the surface. As is the case for Venus, early Mars
+was similar to early Earth, and therefore if life is inevitable, or even likely, under
+early Earth conditions, it ought to have arisen on Mars as well. Unlike Venus, or
+even Earth, preservation of early fossils is possible, and, thus, Mars is a tantalizing
+target for palaeontologists.
+The interest in extant life on Mars continued well into the twentieth century,
+inspired in part by the discovery of canali on Mars in 1877 by Giovanni Schiaparelli
+in Milan (see Zahnle (2001) for the history of nineteenth- and twentieth-century
+views of the habitability of Mars). It was NASA’s Mariner IV mission, which gave
+the ﬁrst close-up glimpse of the Martian surface, that ﬁnally destroyed all hope of
+a civilization on Mars or even extensive vegetation. Mariner IV arrived at Mars
+on 14 July 1965 and returned photos showing a heavily cratered barren landscape.
+In addition, the thinness of the atmosphere was realized.
+The 1960s ended on a different note with Mariner 9’s superior photos revealing
+gigantic volcanoes and a grand canyon stretching 4800 km across its surface.
+More surprisingly, the relics of ancient riverbeds were carved in the landscape
+of this seemingly dry and dusty planet. Thus, attention turned to the possibility
+of microbial life on Mars, even extant life. NASA’s Viking landers arrived at
+Mars in 1976 with a variety of life detection experiments: a camera and a gas
+chromatograph/mass spectrometer (GC-MS) to detect organic compounds, and
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:45.
+
+6.8 Life in the Solar System?
+
+129
+
+three metabolic experiments: labelled release, pyrolytic release, and gas exchange.
+While the approach was clever and the performance was excellent, unambiguous
+signs of life were not detected. Worse, organic carbon was not detected by the
+GC-MS. Lack of surface water and strong surface oxidants were suspected to be
+the culprits. Attention in the exobiology community turned to the possibility of
+ﬁnding signs of extinct life.
+More recently, the possibility of extant microbial life has been revived. And,
+whether the Mars meteorite ALH84001 indeed harbours an extinct Martian biota
+(McKay et al., 1996) or has only whetted our appetite for further studies, it
+remains one of the most exciting science stories of the twentieth century. The
+life forms would be found in the polar ice caps, in subsurface communities, in
+hydrothermal systems or in endoliths or evaporites (Rothschild, 1990). Terrestrial
+analogues exist for all of these potential life forms, and all circumvent the high
+ﬂux of ultraviolet radiation on the surface. Primarily for these reasons, and the
+likelihood of eventual human settlement, Mars remains a prime target for missions,
+if not speciﬁcally to look for life, then to better understand the environment of
+the planet. By understanding the environment, habitability can be gauged. These
+include NASA’s Mars Pathﬁnder, Mars Global Surveyor, Mars Odyssey, the Mars
+Exploration Rovers, and ESA’s Mars Express. Sadly the British-designed Beagle 2
+lander which was intended speciﬁcally to look for life, failed to communicate with
+Mars Express after its release in December 2003, and is now presumed ‘dead’.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+6.8.3 Europa
+If water is the sine qua non for life, any body known to have liquid water instantly
+becomes a prime target in the search for life. For years it was thought that any
+body far from the Sun would not be able to harbour liquid water, but today there
+are several moons beyond Mars thought to contain liquid water beneath an icy
+covering. The best known of these is Europa.
+Europa was discovered by Galileo Galilei in 1610 along with Jupiter’s other three
+large moons, Io, Ganymede, and Callisto. In 1951, using Earth-based telescopes,
+H. Jeffreys proposed that Callisto might be partially or totally composed of water in
+the form of ice. This was suggested by Callisto’s very low density and also its albedo.
+The presence of frost or ice on Europa, Ganymede and Callisto was conﬁrmed by
+using infrared reﬂectivity observed from the solar telescope at Kitt Peak National
+Observatory. John Lewis (1971) and, later, others suggested that there could be a
+liquid water ocean beneath an icy crust. First the Voyager spacecraft, and, since the
+1990s, NASA’s Galileo spacecraft, have returned photos of ice-covered surfaces
+with coloured cracks (reviewed in Greenberg and Geissler (2002) and Greenberg
+(2005)). Current thinking focuses on the idea of a liquid water ocean beneath an icy
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:45.
+
+130
+
+Extremophiles: deﬁning the envelope for the search for life in the universe
+
+crust that is under 50 million years old, so is actively resurfacing (Khurana et al.,
+2002). The ocean is maintained by tidal resonance with Io and Ganymede and tidal
+friction with Jupiter.
+As soon as it became known that there might be liquid water on Europa
+discussions began on the possibility that there might also be life there. Guy
+Consolmagno, who worked on the theoretical models of oceans on Europa,
+Ganymede, and Callisto with John Lewis at MIT, included an appendix in his
+1975 Master’s thesis ‘Thermal history models of icy satellites’, where he suggested
+that Europa could have the beginnings of organic chemistry if the rocky core is
+as rich in carbon as some of the primitive meteorites. He concluded by writing
+‘. . . we stop short of postulating life forms in these mantles; we leave such to
+others more experienced than ourselves in such speculations.’ Since then a dozen
+or so papers have appeared with similar speculations, including Gaidos et al.
+(1999), Chyba and Phillips (2002), and Greenberg (2005). While pictures of large
+invertebrates prowling the Europan ocean have entered the popular imagination,
+a more constrained microbial biosphere is widely discussed. Future missions,
+though long and expensive compared to Mars missions, are ardently desired.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+6.8.4 Enceladus
+Suddenly in March 2006 there was a new body in the Solar System in the ranks of
+suspected harbourers of life (Porco et al., 2006). Enceladus, a tiny moon of Saturn,
+orbits in the outermost ring, the E ring. The Cassini mission had revealed a cloud of
+oxygen in the E ring, and Enceladus was suspected to be the source. Enceladus is
+thought to have an internal heat source and is geologically active, resulting in cold
+geysers that throw out water vapour and ice. The water decomposes into clouds of
+oxygen. Thus, there may be large pools of liquid water beneath the surface, and
+where there is water, the possibility for life exists.
+6.9 Conclusions
+Life ‘as we know it’ — and are likely to know it — is based on organic carbon.
+Furthermore, water is the solvent that supports life on Earth and, again, is likely to
+be used elsewhere, although the certainty is not quite as high as the argument for
+organic carbon. Based on these facts alone, environments that would be challenging
+to any life form exist.
+The story of the so-called extremophiles is a conglomeration of many stories
+gathered for a multitude of purposes over the years. They reveal an envelope for
+life that is far beyond what we could have imagined 40 or even 10 years ago. For
+this reason, the potential habitats for life in the Universe have also expanded.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:45.
+
+References
+
+131
+
+Some of the adaptations that organisms have made on Earth to these extreme
+environments are relatively simple from an evolutionary viewpoint, whereas others
+have required a suite of evolutionary changes. Particularly in the former case,
+examples of convergent evolution to solve the same problem the same way are
+known. Convergence suggests a relative simplicity to the adaptation, and thus
+increases the likelihood that it could occur elsewhere.
+While it is impossible to predict whether extremophiles will be found elsewhere,
+two things are of near certainty. Terrestrial extremophiles will be among the ﬁrst
+settlers of extraterrestrial bodies and the environmental limits for life presented here
+will someday be extended through further exploration of extreme environments on
+Earth.
+Acknowledgements
+The author wishes to thank the editors, whose patience can best be described as
+‘extreme’.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+References
+Ashcroft, F. (2001). Life at the Extremes. The Science of Survival. London: Flamingo
+Press.
+Battista, J. R. (1997). Against all odds: the survival strategies of Deinococcus radiodurans.
+Annu. Rev. Microbiol., 51, 203–224.
+Belly, R. T., Tansey, M. R., and Brock, T. D. (1973). Algal excretion of 14 C-labeled
+compounds and microbial interactions in Cyanidium caldarium mats. J. Phycol., 9,
+123–127.
+Benner, S. A., Ricardo, A., and Carrigan, M. A.. (2004). Is there a common chemical
+model for life in the universe? Curr. Opin. Chem. Biol., 8, 672–678.
+Berner, R. A., Beerlind, D. J., Dudley, R., Robinson, J. M., and Wildman, R. A. J. (2003).
+Phanerozoic atmospheric oxygen. Annu. Rev. Earth Pl. Sc., 31, 105–134.
+Brock, T. D. (1967). Life at high temperatures. Science, 158, 1012–1019.
+Chyba, C. F., and Phillips, C. B. (2002). Europa as an abode of life. Origins Life Evol. B.,
+32, 47–68.
+Clarke, A. (2003). Evolution at low temperatures, in Evolution on Planet Earth: The
+Impact of the Physical Environment, eds. L. Rothschild and A. Lister. London:
+Academic Press.
+Cockell, C. S. (1999). Life on Venus. Planet Space Science, 47, 1487–1501.
+Crowe, J. H., Hoekstra, F. A., and Crowe, L. M. (1992). Anhydrobiosis. Annu. Rev.
+Physiol., 54, 579–599.
+Crowe, J. H., Carpenter, J. F., and Crowe, L. M. (1998). The role of vitriﬁcation in
+anhydrobiosis. Annu. Rev. Physiol., 60, 73–103.
+Crowe L. M., and Crowe J. H. (1992). Anhydrobiosis: a strategy for survival. Adv. Space
+Res., 12(4), 239–249.
+Daly, M. J., Gaidamakova, E. K., Matrosova, V. Y., et al. (2004). Accumulation of Mn(II)
+in Deinococcus radiodurans facilitates gamma-radiation resistance. Science, 306,
+1025–1028.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:45.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+132
+
+Extremophiles: deﬁning the envelope for the search for life in the universe
+
+Davies, P. L., and Hew, C. L. (1990). Biochemistry of ﬁsh antifreeze proteins. FASEB J.,
+4, 2460–2468.
+Edwards, K. J., Bond, P. L., Gihring, T. M., and Banﬁeld, J. F. (2000). An Archaeal
+iron-oxidizing extreme acidophile important in acid mine drainage. Science, 287,
+1796–1799.
+Forsythe, R. D., and Zimbelman, J. R. (1995). A case for ancient evaporite basins on Mars.
+J. Geophys. Res., 100(E3), 5553–5563.
+Friedmann, E. I. (1982). Endolithic microorganisms in the Antarctic cold desert. Science,
+215, 1045–1053.
+Gaidos, E. J., Nealson, K. H., and Kirschvink, J. L. (1999). Life in ice-covered oceans.
+Science, 284, 1631–1633.
+Gladman, B., Dones, L., Levison, H. F., and Burns, J. A.. (2005). Impact seeding and
+reseeding in the inner solar system. Astrobiology, 5, 483–1496.
+Grant, W. D., Mwatha, W. E., and Jones, B. E. (1990). Alkaliphiles, ecology, diversity and
+applications. FEMS Microbiol. Rev., 75, 25570.
+Greenberg, R. (2005). European – The Ocean Moon. Chichester: Springer.
+Greenberg, R. and Geissler, P. (2002). Europa’s dynamic icy crust, An invited review.
+Meteorit. Planet. Sci., 37, 1685–1711.
+Horneck, G. (1993). Responses of Bacillus subtilis spores to space environment: Results
+from experiments in space. Origins Life Evol. B., 23, 3752.
+Horneck, G. (1999). European activities in exobiology in Earth orbit: results and
+perspectives. Adv. Space Res., 23, 38–386.
+Horneck, G., Bücker, H., Reitz, G., et al. (1984). Microorganisms in the space
+environment. Science, 225, 2268.
+Huber, R., Eder, W., Heldwein, S., et al. (1998). Thermocrinis ruber gen. nov., sp. nov., a
+pink-ﬁlament-forming hyperthermophilic bacterium isolated from Yellowstone
+National Park. Appl. Environ. Microbiol., 64, 357683.
+Jacob, R. A. and Burri, B. J. (1996). Oxidative damage and defense. Am. J. Clin. Nutrition,
+63, 985S–990S.
+Keeley, J. E., and Fotheringham, C. J. (1998). Smoke-induced seed germination in
+California chaparral. Ecology, 79, 232036.
+Khurana, K. K., Kivelson, M. G., and Russell, C. T. (2002). Searching for liquid water in
+Europa by using surface observatories. Astrobiology, 2, 93–103.
+Lambros, R. J., Mortimer, J. R., and Forsdyke, D. R. (2003). Optimum growth temperature
+and the base composition of open reading frames in prokaryotes. Extremophiles, 7,
+443–450.
+Lapinski. J., and Tunnacliffe, A. (2003). Anhydrobiosis without trehalose in bdelloid
+rotifers. FEBS Lett., 553(3), 387–390.
+Lewis, J. S. (1971). Satellites of the outer planets: Their physical and chemical nature.
+Icarus, 15, 174–185.
+Levin-Zaidman, S., Englander, J., Shimoni, E., et al. (2003). Ringlike structure of the
+Deinococcus radiodurans genome: a key to radioresistance? Science, 299,
+254–256.
+MacElroy, R. (1974). Some comments on the evolution of extremophiles. Biosystems, 6,
+74–75.
+Mancinelli, R. L., White, M. R., and Rothschild, L. J. (1998). Biopan-survival I: exposure
+of the osmophiles Synechococcus sp. (Nageli) and Haloarcula sp. to the space
+environment. Adv. Space Res., 22(3), 327–334.
+Martins, R. F., Davids, W., Al-Sond, W. A., et al. (2001). Starch-hydrolyzing bacteria from
+Ethiopian soda lakes. Extremophiles, 5, 135–144.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:45.
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+References
+
+133
+
+McKay, C. P., and Friedmann, E. I. (1988). The cryptoendolithic microbial environment in
+the Antarctic cold desert: temperature variations in nature. Polar Biol.,
+4, 19–25.
+McKay, C. P., Andersen, D. T., Pollard, W. H., et al. (2005). Polar lakes, streams, and
+springs as analogs for the hydrological cycle on Mars, in Advances in Astrobiology
+Biogeophysics, pp. 219–233. Herdelberg: Springer-Verlag.
+McKay, D. S., Gibson, E. K. Jr., Thomas-Keprta, K. L., et al. (1996). Search for past life
+on Mars: possible relic biogenic activity in Martian meteorite ALH84001. Science,
+273, 924–930.
+McLennan, S. M., Bell, J. F. III, Calvin, W. M., et al. (2005). Provenance and diagenesis
+of the evaporite-bearing Burns formation, Meridiani Planum, Mars. Earth Planet. Sc.
+Lett., 240, 95121.
+Nicholson, W. L., Munakata, N., Horneck, G., Melosh, H. J., and Setlow, P. (2000).
+Resistance of Bacillus endospores to extreme terrestrial and extraterrestrial
+environments. Microb. Mol. Biol. Rev., 64, 54872.
+Pedersen, K., Nilsson, E., Arlinger, J., Hallbeck, L., and O’Neill, A. (2004). Distribution,
+diversity and activity of microorganisms in the hyper-alkaline spring waters of
+Maqarin in Jordan. Extremophiles, 8, 151–164.
+Perutz, M. F. (1978). Electrostatic effects in proteins. Science, 201, 1187–1191.
+Petit, C., and Sancar, A. (1999). Nucleotide excision repair: from E. coli to man.
+Biochimie, 81, 15–25.
+Porco, C. C., Helfenstein, P., Thomas, P. C., et al. (2006). Cassini observes the active
+South Pole of Enceladus. Science, 311, 1393–1401.
+Priscu, J. C., Fritsen, C. F., Adams, E. E., et al. (1998). Perennial Antarctic lake ice: an
+oasis for life in a polar desert. Science, 280, 2095–2098.
+Proctor, R. (1870). Other Worlds Than Ours. New York: Longmans.
+Rees, H. C., Grant, W. D., Jones, B. E., and Heaphy, S. (2004). Diversity of Kenyan soda
+lake alkaliphiles assessed by molecular methods. Extremophiles, 8, 63–71.
+Reysenbach, A. L., Whickham, G. S., and Pace, N. R. (1994). Phylogenetic analysis of the
+hyperthermophilic pink ﬁlament community in Octopus Spring, Yellowstone
+National Park. Appl. Environ. Microbiol., 60, 21139.
+Rothschild, L. J. (1990). Earth analogs for Martian life. Microbes in evaporites, a new
+model system for life on Mars. Icarus, 88, 246–260.
+Rothschild, L. J., and Giver, L. J. (2003). Photosynthesis below the surface in a cryptic
+microbial mat. Intl. J. Astrobiol., 1, 295–304.
+Rothschild, L. J., and Mancinelli, R. L. (2001). Life in extreme environments. Nature,
+409, 1092–1101.
+Rothschild, L. J., Giver, L. J., White, M. R., and Mancinelli, R. L. (1994). Metabolic
+activity of microorganisms in evaporites. J. Phycol., 30, 431–438.
+Saffary, R., Nandakuma, R., Spence, D., et al. (2002). Microbial survival of space vacuum
+and extreme ultraviolet irradiation: strain isolation and analysis during a rocket
+ﬂight. FEMS Microbiol. Lett., 215, 163–168.
+Sagan, C. (1961). The planet Venus. Science, 133, 849–858.
+Schleper, C., Puehler, G., Holz, I. et al. (1995). Picrophilus gen. nov., fam. nov.: a novel
+aerobic, heterotrophic, thermoacidophilic genus and family comprising archaea
+capable of growth around pH 0. J. Bacteriol, 177, 7050–7059.
+Schmid, W. D. (1982). Survival of frogs in low temperature. Science, 215, 697–698.
+Schulte, W., Demets, R., Baglioni, P., et al. (2006). BIOPAN and ESPOSE: Space
+exposure platforms for exo/astrobiological research in earth orbit with relevance for
+Mars exploration. Geophys. Res. Abs., 8, 06643.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:45.
+
+134
+
+Extremophiles: deﬁning the envelope for the search for life in the universe
+
+Copyright © 2007. Cambridge University Press. All rights reserved.
+
+Seckbach, J. (1999). The Cyanidiophyceae: hot spring acidophilic algae, in Enigmatic
+Microorganisms and Life in Extreme Environments, ed. J. Seckbach. Dordrecht:
+Kluwer Academic Publishers, pp. 427–35.
+Seckbach, J., Baker, F. A., and Shugarman, P. M. (1970). Algae survive under pure CO2 .
+Nature, 227, 744–745.
+Sharma, A., Scott, J. H., Cody, G. D., et al. (2002). Microbial activity at gigapascal
+pressures. Science, 295, 1514–1516.
+Sheridan, C. (2004). Kenyan dispute illuminates bioprospecting difﬁculties. Nature
+Biotechnology, http://www.nature.com/news/2004/041108/pf/
+nbt1104–1337_pf.html.
+Shulze-Makuch, D., and Irwin, L. N.. (2004). Life in the Universe. Berlin: Springer.
+Shulze-Makuch, D., Grinspoon, D. H., Abbas, O., Irwin, L. N., and Bullock, M. A. (2004).
+A sulfur-based survival strategy for putative phototrophic life in the Venusian
+atmosphere. Astrobiology, 4, 11–17.
+Smith, K. C. (2004). Recombinational DNA repair: the ignored repair systems. BioEssays,
+26, 1322–1326.
+Storey, K. N., and Storey, J. M. (1996). Natural freezing survival in animals. Annu. Rev.
+Ecol. Syst., 27, 265–386.
+Sun, W. Q., Davidson, P., and Chan, H. S. (1998). Protein stability in the amorphous
+carbohydrate matrix: relevance to anhydrobiosis. Biochim. Biophys. Acta, 1425,
+245–254.
+Watanabe, M. (2006). Anhydrobiosis in invertebrates. Appl. Entomol. Zool., 41, 1531.
+Woese, C. R., and Fox, G. E. (1977). Phylogenetic structure of the prokaryotic domain:
+The primary kingdoms. Proc. Natl. Acad. Sci. USA, 74, 5088–5090.
+Yasui, A., and McCready, S. J. (1998). Alternative repair pathways for UV-induced DNA
+damage. BioEssays, 20, 291–297.
+Zahnle, K. (2001). Decline and fall of the martian empire. Nature, 412, 209–213.
+
+Planetary Systems and the Origins of Life, Cambridge University Press, 2007. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=321462.
+Created from claremont on 2017-11-13 14:08:45.
+
+

@@ -1,0 +1,1220 @@
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+Emergence and the experimental pursuit of the origin of life
+
+37
+
+world scenario provides an intriguing third option, though one totally unsupported
+by experimental evidence.
+Consequently, the favored genetics origin model is based on a nucleic acid molecule like RNA – a polymer that acted both as a carrier of information and as a
+catalyst that promoted  self-replication [104, 105, 106]. This idea received a boost
+in the early 1980s with the discovery of ribozymes – genetic material that also
+acts as a catalyst [107, 108, 109]. Modern life relies on two complexly intertwined
+molecules,  DNA to carry information and  proteins to perform chemical functions.
+This interdependence leads to the chicken–egg dilemma:  proteins make and maintain DNA, but DNA carries the instructions to make proteins. Which came first?
+RNA, it turns out, has the potential to do both jobs .
+The “RNA world” theory that quickly emerged champions the central role of
+genetic material in the dual tasks of catalyst and information transfer [110, 111,
+112]. Over the years “RNA world” has come to mean different things to different people, but three precepts are common to all versions: (1) once upon a time
+RNA carried genetic information, (2) RNA replication followed the same rules as
+modern DNA, by matching pairs of bases such as A-T and C-G, and (3)  proteins
+were not involved in the process. The first life form in this scenario was simply a
+self-replicating strand of RNA, perhaps enclosed in a protective lipid membrane.
+According to most versions of this hypothesis,  metabolism emerged later as a
+means to make the RNA replication process more efficient.
+The RNA world model is not without its difficulties. Foremost among these
+problems is the exceptional difficulty in the prebiotic synthesis of RNA [25, 111,
+112, 113]. Many of the presumed proto-metabolic molecules are easily synthesized
+in experiments that mimic prebiotic environments. RNA nucleotides, by contrast,
+have never been synthesized from scratch. Furthermore, even if a prebiotic synthetic pathway to nucleotides could be found, a plausible mechanism to link those
+nucleotides into an RNA strand has not been demonstrated. It is not obvious how
+useful  catalytic RNA sequences would have formed spontaneously in any prebiotic
+environment. Perhaps, some scientists speculate, a simpler nucleic acid preceded
+RNA [7, 114, 115, 116].
+Whatever the scenario – metabolism first or genetics first, on the ocean’s surface
+or at a deep ocean vent – the origin of life required more than the replication of
+chemicals. For a chemical system to be alive, it must display evolution by the process of natural selection.
+2.5  The emergence of  natural selection
+Molecular selection, the process by which a few key molecules earned key roles in
+life’s origin, proceeded on many fronts. Some molecules were inherently unstable
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:24.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+38
+
+Robert M. Hazen
+
+or highly reactive and so they quickly disappeared from the scene. Other molecules easily dissolved in the oceans and so were effectively removed from contention. Still other molecular species may have sequestered themselves by bonding
+strongly to surfaces of chemically unhelpful minerals or clumped together into
+gooey masses of little use to emerging biology.
+In every geochemical environment, each kind of organic molecule had its reliable sources and its inevitable sinks. For a time, perhaps for hundreds of millions
+of years, a kind of molecular equilibrium was maintained as the new supply of each
+species was balanced by its loss. Such an equilibrium features non-stop competition among molecules, to be sure, but the system does not evolve.
+The first self-replicating molecules changed that equilibrium. Even a relatively unstable collection of molecules can be present in significant concentration if it learns how to make copies of itself. The first successful metabolic cycle
+of molecules, for example, would have proven vastly superior to its individual
+chemical neighbors at accumulating atoms and harnessing energy. But success
+breeds competition. Inevitable slight variations in the self-replicating cycle, triggered by the introduction of new molecular species or by differences in environment, initiated an era of increased competition. More efficient cycles flourished
+at the expense of the less efficient. Evolution by natural selection had begun on
+Earth.
+The simplest self-replicating molecular systems are not alive. Given all the time
+in the world such systems won’t evolve. A more interesting possibility is an environment in which two or more self-replicating suites of molecules compete. These
+dueling molecular networks vie for resources, mimicking life’s unceasing struggle
+for survival. A stable system without competition, by contrast, has no incentive to
+evolve.
+Two common processes – variation and selection – provide a powerful mechanism for self-replicating systems to evolve. For a system to evolve it must first display
+a range of variations. Natural systems display random variations through mutations,
+which are undirected changes in the chemical makeup of key biomolecules. Most
+variations harm the organism and are doomed to failure. Once in a while, however,
+a random mutation leads to an improved trait – a more efficient metabolism, better
+camouflage, swifter locomotion, or greater tolerance for extreme environmental
+conditions. Such beneficial variations are more likely to survive in the competitive
+natural world – such variations fuel the process of natural selection.
+Competition drives the emergence of natural selection . Such behavior appears to
+be inevitable in any self-replicating chemical system in which resources are limited
+and some molecules have the ability to mutate. Over time, more efficient networks
+of autocatalytic molecules will increase in concentration at the expense of less efficient networks. In such a competitive milieu the emergence of increasing molecular
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:24.
+
+Emergence and the experimental pursuit of the origin of life
+
+39
+
+complexity is inevitable; new chemical pathways overlay the old. So it is that life
+has continued to evolve over the past four billion years of Earth history.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+2.5.1  Molecular evolution in the lab
+Laboratory studies of molecular evolution have led to methods for the artificial
+evolution of molecules that accomplish specific chemical tasks. Harvard biologist
+Jack Szostak, for example, has explored this approach in attempts to design an
+evolving synthetic laboratory life form [117]. Szostak focuses on devising chains of
+RNA that perform one key task such as copying other RNA molecules [118].
+Szostak and co-workers [119, 120, 121, 122] tackle RNA evolution by first generating a collection of trillions of random RNA sequences, each about 120 nucleo­
+tides (RNA “letters”) long. The vast majority of these chains do nothing, but a few
+are able to perform a specific task, for example grabbing onto another molecule
+that has been attached to the sides of a glass beaker. Flushing out the beaker with
+water removes all of the unattached RNA strands and thus selects and concentrates
+RNA sequences bonded to the target. These select strands are then copied with
+a controlled rate of mutational errors to produce a new batch of trillions of RNA
+sequences, some of which are even better suited to attach to the beaker’s sides.
+Repeating this process improves the speed and accuracy with which the RNA
+latches onto the target molecules.
+An enticing target of molecular evolution research is self-replicating RNA – a
+big molecule that carries genetic information, catalyzes its own reproduction, and
+mutates and evolves as well. But no plausible geochemical environment could
+have fed such an unbound molecule, nor would it have survived long under most
+natural chemical conditions. Szostak’s group ultimately hopes to encapsulate such
+a replicative RNA strand in a lipid vesicle to synthesize a self-replicating cell-like
+entity [117].
+The synthesis of an “RNA organism” would provide a degree of credibility to
+the RNA world hypothesis, that a strand of RNA  (or some chemically more stable
+precursor genetic molecule) formed the basis of the first evolving, self-replicating
+chemical system. But lab life will not have emerged spontaneously from chemical
+reactions among the simple molecular building blocks of the prebiotic Earth, nor
+would such an object be capable of reproduction without a steady supply of laboratory chemicals. Deep mysteries will remain.
+2.6  Three scenarios for the origin of life
+What do we know so far? Abundant organic molecules must have been synthesized
+and accumulated in a host of productive prebiotic environments. Subsequently,
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:24.
+
+40
+
+Robert M. Hazen
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+biomolecular systems including lipid membranes and genetic polymers might have
+formed through self-organization and by selection on mineral surfaces. As molecular complexity increased, it seems plausible that simple metabolic cycles of selfreplicating molecules emerged, as did self-replicating genetic molecules.
+The greatest gap in understanding life’s origin lies in the transition from a moreor-less static geochemical world with an abundance of interesting organic molecules, to an evolving biochemical world. How that transition occurred may be
+reduced to a choice among three possible scenarios [7]:
+1. Life began with  metabolism and genetic molecules were incorporated later. Following
+Günter Wächtershäuser’s hypothesis, life began autotrophically. Life’s first building
+blocks were the simplest of molecules, while minerals provided chemical energy. In this
+scenario a self-replicating chemical cycle akin to the reverse citric acid cycle became
+established on a mineral surface. All subsequent chemical complexities, including genetic mechanisms and encapsulation into a cell-like structure, arose through  natural
+selection as variants of the cycle competed for resources and the system became more
+efficient. In this scenario, life first emerged as an evolving chemical coating on rocks.
+2. Life began with self-replicating genetic molecules and  metabolism was incorporated
+later. Following the RNA world hypothesis, life began heterotrophically. Organic
+molecules in the prebiotic soup, perhaps aided by clays or some other template, selforganized into information-rich polymers. Eventually, one of these polymers, perhaps
+surrounded by a lipid membrane, acquired the ability to self-replicate. All subsequent
+chemical complexities, including metabolic cycles, arose through  natural selection as
+variants of the genetic polymer became more efficient at  self-replication. In this scenario, life emerged as an evolving polymer with a functional genetic sequence.
+3. Life began as a cooperative chemical phenomenon between  metabolism and genetics.
+A third possible scenario rests on the possibility that neither primitive metabolic cycles
+(which lack the means of faithful self-replication) nor primitive genetic molecules (which
+are not very stable and lack a reliable source of chemical energy) could have progressed far
+by themselves. If, however, a crudely self-replicating genetic molecule became attached
+to a crudely functioning surface-bound metabolic coating, then a kind of cooperative
+chemistry might have kicked in. The genetic molecule might have used chemical energy
+produced by metabolites to make copies of itself, while protecting itself by binding to
+the surface. Any subsequent variations of the genetic molecule that fortuitously offered
+protection for itself or for the metabolites, or improved the chemical efficiency of the system, would have been preserved preferentially. Gradually, both the genetic and metabolic
+components would have become more efficient and more interdependent.
+
+Scientists do not yet know the answer, but they are poised to find out. Whatever
+the process, ultimately competition began to drive the emergence of ever more elaborate chemical cycles by the process of  natural selection. Inexorably, life emerged,
+never to relinquish its foothold on Earth .
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:24.
+
+Emergence and the experimental pursuit of the origin of life
+
+41
+
+Acknowledgements
+I thank Connie Bertka and three anonymous reviewers for valuable comments on
+the manuscript. This work was supported by the NASA Astrobiology Institute and
+the Carnegie Institution of Washington.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+References
+  [1]	H. J. Morowitz. The Emergence of Everything (New York: Oxford University Press,
+2002).
+  [2]	 S. L. Miller. Production of amino acids under possible primitive earth conditions.
+Science, 17 (1953), 528–529.
+  [3]	I. Prigogine. Order out of Chaos: Man’s New Dialogue with Nature (Toronto: Bantam
+Books, 1984).
+  [4]	G. Nicolis and I. Prigogine. Exploring Complexity: An Introduction (New York:
+W. H. Freeman and Company, 1989).
+  [5]	 J. H. Holland. Hidden Order (Reading, MA: Helix Books, 1995).
+  [6]	 J. H. Holland. Emergence: From Chaos to Order (Reading, MA: Helix Books, 1998).
+  [7]	R. M. Hazen. Genesis: The Scientific Quest for Life’s Origin (Washington, DC: Joseph
+Henry Press, 2005).
+  [8]	R. A. Bagnold. The Physics of Blown Sand and Desert Dunes (London: Chapman and
+Hall, 1941).
+  [9]	R. A. Bagnold. The Physics of Sediment Transport by Wind and Water (New York:
+American Society of Civil Engineers, 1988).
+[10]	 S. Camazine, J. L. Deneubourg, N. R. Franks, J. Sneyd, G. Theraulaz, and E. Bonabeau.
+Self-Organization in Biological Systems (Princeton, NJ: Princeton University Press,
+2001).
+[11]	R. Solé and B. Goodwin. Signs of Life: How Complexity Pervades Biology (New
+York: Basic Books, 2000).
+[12]	 E. J. Chaisson. Cosmic Evolution: The Rise of Complexity in Nature (Cambridge,
+MA: Harvard University Press, 2001).
+[13]	 M. A. Kessler and B. T. Werner. Self-organization of sorted patterned ground. Science,
+299 (2003), 380–383.
+[14]	 J. L. Hansen, M. Van Hecke, A. Haaning, et al. Instabilities in sand ripples. Nature,
+410 (2001), 324.
+[15]	 C. De Duve. Vital Dust: Life as a Cosmic Imperative (New York: Basic Books,
+1995).
+[16]	 C. Cleland and C. Chyba. Defining life. Origins of Life and Evolution of the Biosphere,
+32 (2002), 387–393.
+[17]	R. M. Hazen, A. Steele, J. Toporski, G. D. Cody, M. Fogel, and W. T. Huntress Jr.
+Biosignatures and abiosignatures. Astrobiology, 2 (2002), 512–513.
+[18]	 S. L. Miller. Production of some organic compounds under possible primitive earth
+conditions. Journal of the American Chemical Society, 77 (1955), 2351–2361.
+[19]	 S. L. Miller and H. C. Urey. Organic compound synthesis on the primitive Earth.
+Science, 130 (1959), 245–251.
+[20]	 S. J. Dick and J. E. Strick. The Living Universe: NASA and the Development of
+Astrobiology (New Brunswick, NJ: Rutgers University Press, 2004).
+[21]	I. Fry. The Emergence of Life on Earth: A Historical and Scientific Overview (New
+Brunswick, NJ: Rutgers University Press, 2000), pp. 318–320.
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:24.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+42
+
+Robert M. Hazen
+
+[22]	 J. E. Strick. Sparks of Life: Darwinism and the Victorian Debate over Spontaneous
+Generation (Cambridge, MA: Harvard University Press, 2000).
+[23]	A. I. Oparin. Proiskhozhdenie Zhizny (in Russian) (Moscow: Rabochii, 1924). (An
+English translation appears in: J. D. Bernal. The Origin of Life (London: Weidenfeld
+and Nicolson, 1967).)
+[24]	 J. B. S. Haldane. The origin of life. The Rationalist Annual (1929), 3–10.
+[25]	 C. Wills and J. L. Bada. The Spark of Life: Darwin and the Primeval Soup (Cambridge,
+MA: Perseus, 2000).
+[26]	 J. Oró. Synthesis of adenine from ammonium cyanide. Biochemical and Biophysical
+Communications, 2 (1960), 407–412.
+[27]	 J. Oró. Mechanism of synthesis of adenine from hydrogen cyanide under possible
+primitive earth conditions. Nature, 191 (1961), 1193–1194.
+[28]	R. Shapiro. Prebiotic ribose synthesis: a critical analysis. Origins of Life and Evolution
+of the Biosphere, 18 (1988), 71–85.
+[29]	 C. F. Chyba and C. Sagan. Endogenous production, exogenous delivery, and impactshock synthesis of organic molecules: an inventory for the origins of life. Nature, 355
+(1992), 125–132.
+[30]	 J. F. Kasting and J. L. Siefert. Life and the evolution of Earth’s atmosphere. Science,
+296 (2002), 1066–1068.
+[31]	 J. F. Kasting. Methane-rich proterozoic atmosphere? Geology, 31 (2003), 87–90.
+[32]	 F. Tian, O. B. Toon, A. A. Pavlov, and H. De Sterck. A hydrogen-rich early Earth
+atmosphere. Science, 308 (2005), 1014–1016.
+[33]	 C. Chyba. Rethinking Earth’s early atmosphere. Science, 308 (2005), 962–963.
+[34]	 J. B. Corliss, J. Dymond, L. I. Gordon, et al. Submarine thermal springs on the
+Galapagos rift. Science, 203 (1979), 1073–1083.
+[35]	 J. B. Corliss. J. A. Baross, and S. E. Hoffman. An hypothesis concerning the relationship between submarine hot springs and the origin of life on earth. In Proceedings of
+the 26th International Geological Congress, Geology of the Oceans Symposium, eds.
+X. Le Pichon, J. Debyser, and F. Vine (Paris 1980, X. Oceanologica Acta, 4 (supplement) 1981), pp. 59–69.
+[36]	 J. A. Baross and S. E. Hoffman. Submarine hydrothermal vents and associated gradient environments as sites for the origin and evolution of life. Origins of Life and
+Evolution of the Biosphere, 15 (1985), 327–345.
+[37]	N. G. Holm. Why are hydrothermal systems proposed as plausible environments for
+the origin of life? Origins of Life and Evolution of the Biosphere, 22 (1992), 5–14.
+[38]	T. Gold. The Deep Hot Biosphere (New York: Copernicus, 1999).
+[39]	R. J. Parkes, B. A. Craig, S. J. Bale, et al. Deep bacterial biosphere in Pacific Ocean
+sediments. Nature, 371 (1993), 410–413.
+[40]	T. O. Stevens and J. P. McKinley. Lithoautotrophic microbial ecosystems in deep
+basalt aquifers. Science, 270 (1995), 450–454.
+[41]	 J. K. Frederickson and T. C. Onstott. Microbes deep inside the Earth. Scientific
+American, 275(4) (1996), 68–73.
+[42]	 K. Pedersen. The deep subterranean biosphere. Earth-Science Reviews, 34 (1993),
+243–260.
+[43]	 M. T. Madigan and B. L. Marrs. Extremophiles. Scientific American, 276(4) (1997),
+82–87.
+[44]	G. Wächtershäuser. Before enzymes and templates: theory of surface metabolism.
+Microbiology Review, 52 (1988), 452–484.
+[45]	G. Wächtershäuser. Pyrite formation, the first energy source for life: a hypothesis.
+Systematic Applied Microbiology, 10 (1988), 207–210.
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:24.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+Emergence and the experimental pursuit of the origin of life
+
+43
+
+[46]	G. Wächtershäuser. The case for the chemoautotrophic origin of life in an iron-sulfur
+world. Origins of Life and Evolution of the Biosphere, 20 (1990), 173–176.
+[47]	G. Wächtershäuser. Evolution of the first metabolic cycles. Proceedings of the National
+Academy of Sciences USA, 87 (1990), 200–204.
+[48]	G. Wächtershäuser. Groundworks for an evolutionary biochemistry: the iron-sulfur
+world. Progress in Biophysics and Molecular Biology, 58 (1992), 85–201.
+[49]	H. Beinert, R. H. Holm and E. Münck. Iron-sulfur clusters: nature’s modular, multipurpose structures. Science, 277 (1997), 653–659.
+[50]	 E. Blöchl, M. Keller, G. Wächtershäuser, and K. O. Stetter. Reactions depending on
+iron sulfide and linking geochemistry with biochemistry. Proceedings of the National
+Academy of Sciences USA, 89 (1992), 8117–8120.
+[51]	 W. Heinen and A. M. Lauwers. Organic sulfur compounds resulting from interaction
+of iron sulfide, hydrogen sulfide and carbon dioxide in an aerobic aqueous environment. Origins of Life and Evolution of the Biosphere, 26 (1996), 131–150.
+[52]	 C. Huber and G. Wächtershäuser. Activated acetic acid by carbon fixation on (Fe,Ni)
+S under primordial conditions. Science, 276 (1997), 245–247.
+[53]	 C. Huber and G. Wächtershäuser. Peptides by activation of amino acids with CO on
+(Ni,Fe)S surfaces: implications for the origin of life. Science, 281 (1998), 670–672.
+[54]	G. D. Cody, N. Z. Boctor, T. R. Filley, et al. Primordial carbonylated iron-sulfur compounds and the synthesis of pyruvate. Science, 289 (2000), 1337–1340.
+[55]	G. D. Cody, N. Z. Boctor, R. M. Hazen, J. A. Brandes, H. J. Morowitz, and H. S. Yoder,
+Jr. Geochemical roots of autotrophic carbon fixation: hydrothermal experiments in
+the system citric acid-H2O-(±FeS)-(±NiS). Geochimica et Cosmochimica Acta, 65
+(2001), 3557–3576.
+[56]	G. D. Cody, N. Z. Boctor, J. A. Brandes, T. R. Filley, R. M. Hazen, and H. S. Yoder, Jr.
+Assaying the catalytic potential of transition metal sulfides for prebiotic carbon fixation. Geochimica et Cosmochimica Acta, 68 (2004), 2185–2196.
+[57]	 J. L. Bada and A. Lazcano. Some like it hot, but not the first biomolecules. Science,
+296 (2002), 1982–1983.
+[58]	 J. L. Bada, S. L. Miller, and M. Zhao. The stability of amino acids at submarine hydrothermal vent temperatures. Origins of Life and Evolution of the Biosphere, 25 (1995),
+111–118.
+[59]	D. L. Nelson and M. M. Cox. Lehninger’s Principles of Biochemistry, 4th edn. (New
+York: Worth Publishers, 2004).
+[60]	P. L. Luisi and F. J. Varela. Self-replicating micelles: a chemical version of a minimal autopoietic system. Origins of Life and Evolution of the Biosphere, 19 (1989),
+633–643.
+[61]	D. W. Deamer. The first living systems: a bioenergetic perspective. Microbiology and
+Molecular Biology Review, 61 (1997), 239–261.
+[62]	 S. Segré, D. W. Deamer, and D. Lancet. The lipid world. Origins of Life and Evolution
+of the Biosphere, 31 (2001), 119–145.
+[63]	A. C. Lasaga, H. D. Holland, and M. J. Dwyer. Primordial oil slick. Science, 174
+(1971), 53–55.
+[64]	N. Lahav, D. White, and S. Chang. Peptide formation in the prebiotic era: thermal condensation of glycine in fluctuating clay environments. Science, 201 (1978), 67–69.
+[65]	L. E. Orgel. Polymerization on the rocks: theoretical introduction. Origins of Life and
+Evolution of the Biosphere, 28 (1998), 227–234.
+[66]	 J. V. Smith. Biochemical evolution. I. Polymerization on internal, organophilic silica
+surfaces of dealuminated zeolites and feldspars. Proceedings of the National Academy
+of Sciences USA, 95 (1998), 3370–3375.
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:24.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+44
+
+Robert M. Hazen
+
+[67]	 J. P. Ferris. Catalysis and prebiotic synthesis. Origins of Life and Evolution of the
+Biosphere, 23 (1993), 307–315.
+[68]	 J. P. Ferris. Prebiotic synthesis on minerals: bridging the prebiotic and RNA worlds.
+Biology Bulletin, 196 (1999), 311–314.
+[69]	 J. P. Ferris. Mineral catalysis and prebiotic synthesis: montmorillonite-catalyzed formation of RNA. Elements, 1 (2005), 145–149.
+[70]	 S. Pitsch, A. Eschenmoser, B. Gedulin, S. Hui, and G. Arrhenius. Mineral induced
+formation of sugar phosphates. Origins of Life and Evolution of the Biosphere, 25
+(1995), 297–334.
+[71]	A. G. Cairns-Smith. The origin of life and the nature of the primitive gene. Journal of
+Theoretical Biology, 10 (1968), 53–88.
+[72]	A. G. Cairns-Smith. Genetic Takeover and the Mineral Origins of Life (Cambridge:
+Cambridge University Press, 1982).
+[73]	A. G. Cairns-Smith. The first organisms. Scientific American, 252(6) (1985),
+90–100.
+[74]	A. G. Cairns-Smith. Seven Clues to the Origin of Life (Cambridge: Cambridge
+University Press, 1985).
+[75]	 W. A. Bonner. The origin and amplification of biomolecular chirality. Origins of Life
+and Evolution of the Biosphere, 21 (1991), 59–111.
+[76]	 W. A. Bonner. Chirality and life. Origins of Life and Evolution of the Biosphere, 25
+(1995), 175–190.
+[77]	R. M. Hazen and D. S. Sholl. Chiral selection on inorganic crystalline surfaces. Nature
+Materials, 2 (2003), 367–374.
+[78]	 J. R. Cronin and S. Pizzarello. Amino acids in meteorites. Advances in Space
+Research, 3 (1983), 5–18.
+[79]	 M. H. Engel and S. A. Macko. Isotopic evidence for extraterrestrial non-racemic
+amino acids in the Murchison meteorite. Nature, 296 (1997), 837–840.
+[80]	 S. Pizzarello and J. R. Cronin. Non-racemic amino acids in the Murray and Murchison
+meteorites. Geochimica et Cosmochimica Acta, 64 (2000), 329–338.
+[81]	 S. Clark. Polarized starlight and the handedness of life. American Scientist, 87 (1999),
+336–343.
+[82]	 J. Bailey, A. Chrysostomou, J. H. Hough, et al. Circular polarization in star-formation
+regions: implications for biomolecular homochirality. Science, 281 (1998), 672–674.
+[83]	 J. Podlech. New insight into the source of biomolecular homochirality: an extraterrestrial origin for molecules of life. Angewandt Chemie International Edition English,
+38 (1999), 477–478.
+[84]	R. M. Hazen. Chiral crystal faces of common rock-forming minerals. In Progress
+in Biological Chirality, eds. G. Palyi, C. Zucchi and L. Caglioti (Oxford: Elsevier,
+2004), pp. 137–151.
+[85]	R. M. Hazen. Mineral surfaces and the prebiotic selection and organization of biomolecules. American Mineralogist, 91 (2006), 1715–1729.
+[86]	R. M. Hazen, T. Filley, and G. A. Goodfriend. Selective adsorption of L- and D-amino
+acids on calcite: implications for biochemical homochirality. Proceedings of the
+National Academy of Sciences, USA, 98 (2001), 5487–5490.
+[87]	 C. De Duve. The beginnings of life on Earth. American Scientist, 83 (1995),
+428–437.
+[88]	 F. Dyson. Origins of Life (Cambridge: Cambridge University Press, 1999).
+[89]	 S. W. Fox. A theory of macromolecular and cellular origins. Nature, 205 (1965),
+328–340.
+[90]	 S. W. Fox. The Emergence of Life: Darwinian Evolution from the Inside (New York:
+Basic Books, 1988).
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:24.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+Emergence and the experimental pursuit of the origin of life
+
+45
+
+  [91]	L. E. Orgel. RNA catalysis and the origin of life. Journal of Theoretical Biology,
+123 (1986), 127–149.
+  [92]	H. J. Morowitz. The Beginnings of Cellular Life: Metabolism Recapitulates
+Biogenesis (New Haven, CT: Yale University Press, 1992).
+  [93]	 E. K. Wilson. Go forth and multiply. Chemical and Engineering News, 76 (December
+7, 1998), 40–44.
+  [94]	G. Von Kiedrowski. A self-replicating hexadeoxynucleotide. Angewandt Chemie
+International Edition English, 25 (1986), 932–935.
+  [95]	D. Sievers and G. Von Kiedrowski. A self-replication of complementary nucleotidebased oligomers. Nature, 369 (1994), 221–224.
+  [96]	 J. Rebek Jr. Synthetic self-replicating molecules. Scientific American, 271(1) (1994),
+48–55.
+  [97]	D. H. Lee, J. R. Granja, J. A. Martinez, K. Severin, and M. R. Ghadiri. A self-replicating peptide. Nature, 382 (1996), 525–528.
+  [98]	 S. Yao, I. Ghosh, R. Zutshi, and J. Chmielewski. A pH-modulated, self-replicating
+peptide. Journal of the American Chemical Society, 119 (1997), 10559–10560.
+  [99]	 M. Eigen and P. Schuster. The Hypercycle: A Principle of Natural Self-Organization
+(Berlin: Springer-Verlag, 1979).
+[100]	 S. A. Kauffman. The Origins of Order: Self-Organization and Selection in Evolution
+(New York: Oxford University Press, 1993).
+[101]	 C. Huber, W. Eisenreich, S. Hecht, and G. Wächtershäuser. A possible primordial
+peptide cycle. Science, 301 (2003), 938–940.
+[102]	 M. J. Russell and A. J. Hall. The emergence of life from iron monosulphide bubbles
+at a submarine hydrothermal redox and pH front. Journal of the Geological Society
+of London, 154 (1997), 377–402.
+[103]	 M. J. Russell and A. J. Hall. From geochemistry to biochemistry: chemiosmotic coupling and transition element clusters in the onset of life and photosynthesis. The
+Geochemical News, 113 (2002), 6–12.
+[104]	 C. R. Woese. The Genetic Code (New York: Harper & Row, 1967).
+[105]	 F. H. C. Crick. The origin of the genetic code. Journal of Molecular Biology, 38
+(1968), 367–379.
+[106]	L. E. Orgel. Evolution of the genetic apparatus. Journal of Molecular Biology, 38
+(1968), 381–393.
+[107]	 K. Kruger, P. J. Grabowski, A. J. Zaug, J. Sands, D. E. Gottschling, and T. R. Cech.
+Self-splicing RNA: autoexcision and autocyclization of the ribosomal RNA intervening sequence of Tetrahymena. Cell, 31 (1982), 147–157.
+[108]	 C. Guerrier-Takada, K. Gardiner, T. Marsh, N. Pace, and S. Altman. The RNA moiety
+of ribonuclease P is the catalytic subunit of the enzyme. Cell, 35 (1983), 849–857.
+[109]	A. J. Zaug and T. R. Cech. The intervening sequence RNA of Tetrahymena is an
+enzyme. Science, 231 (1986), 470–475.
+[110]	G. F. Joyce. RNA evolution and the origins of life. Nature, 338 (1989), 217–224.
+[111]	G. F. Joyce. The rise and fall of the RNA world. New Biology, 3 (1991), 399–407.
+[112]	G. F. Joyce and L. E. Orgel. Prospects for understanding the RNA world. In The RNA
+World, eds. R. F. Gesteland and J. F. Atkins (Cold Spring Harbor, NY: Cold Spring
+Harbor Laboratory Press, 1993), pp. 1–25.
+[113]	L. E. Orgel. Some consequences of the RNA world hypothesis. Origins of Life and
+Evolution of the Biosphere, 33 (2003), 211–218.
+[114]	A. Eschenmoser. Chemical etiology of nucleic acid structure. Science, 284 (1999),
+2118–2124.
+[115]	A. Eschenmoser. The TNA-family of nucleic acid systems: properties and prospects.
+Origins of Life and Evolution of the Biosphere, 34 (2004), 277–306.
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:24.
+
+46
+
+Robert M. Hazen
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+[116]	P. E. Nielsen. Peptide nucleic acid (PNA): a model structure for the primordial genetic
+material? Origins of Life and Evolution of the Biosphere, 23 (1993), 323–327.
+[117]	 J. W. Szostak, D. P. Bartel and P. L. Luisi. Synthesizing life. Nature, 409 (2001),
+387–390.
+[118]	G. F. Joyce. Directed molecular evolution. Scientific American, 267(6) (1992),
+90–97.
+[119]	 J. A. Doudna and J. W. Szostak. RNA catalyzed synthesis of complementary strand
+RNA. Nature, 339 (1998), 519–522.
+[120]	R. Green and J. W. Szostak. Selection of a ribozyme that functions as a superior
+template in a self-copying reaction. Science, 258 (1992), 1910–1915.
+[121]	D. P. Bartel and J. W. Szostak. Isolation of new ribozymes from a large pool of random sequences. Science, 261 (1993), 1411–1418.
+[122]	 J. W. Szostak and A. D. Ellington. In vitro selection of functional RNA sequences. In
+The RNA World, eds. R. F. Gesteland and J. F. Atkins (Cold Spring Harbor, NY: Cold
+Spring Harbor Laboratory Press, 1993), pp. 511–533.
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:24.
+
+3
+From Aristotle to Darwin, to Freeman Dyson:
+changing  definitions of life viewed
+in a historical context
+James E. Strick
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+3.1  Introduction
+ The origin of life has always been a topic charged with religious import. This
+chapter aims to survey briefly some origin-of-life ideas over time; first, if we look
+in detail at how the debate over life’s origin played out between  Darwin and his supporters, we will see a clear example of this. Note that I said Darwin’s supporters,
+rather than his opponents. We expect a story about the new evolutionary science to
+include much heated objection from religious groups, for whom so many aspects
+of Darwin’s theory produced problems. But a look at how divisive the issue was
+among the Darwinians themselves is an even more complex and enlightening
+story, perhaps of more relevance to scientists in their own work.
+By the 1850s,  William Benjamin Carpenter, Professor of physiology at the Royal
+Institution of London, believed, as did  Herbert Spencer, that the vital force of living things was completely interconvertible with forces from non-living nature such
+as heat, electricity, kinetic energy, etc. However, also like Spencer and a number
+of others in the Darwinian camp, Carpenter believed that the conversion of heat or
+chemical energy into vital energy could only be accomplished through the agency
+of already living matter; in other words, that non-living matter could never organize
+itself into living matter capable of generating vital force [1]. This served as a convenient theoretical barrier separating modern physiology and its ally, the new evolution theory, from the bête noir of spontaneous generation. (Spontaneous generation
+meant life arising directly from non-living matter; the idea had become associated
+through Buffon,  Lamarck, and others with the politics of revolutionary France. In
+Britain the most prominent spontaneous generation advocate was Charles Darwin’s
+early mentor, the Lamarckian  Robert Grant, also a supporter of radical political
+reforms.) Carpenter’s spin on how, despite the conservation of energy principle,
+Exploring the Origin, Extent, and Future of Life: Philosophical, Ethical, and Theological Perspectives, ed.
+Constance M. Bertka. Published by Cambridge University Press. © Cambridge University Press 2009.
+
+47
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:24.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+48
+
+James E. Strick
+
+there was still a qualitative difference between vital and non-living forces, did
+keep the politically unsavory doctrine of spontaneous generation at arm’s length
+from the new professional scientists among whom Darwin was a leader. However,
+it simultaneously posed a new conundrum for the emerging life sciences centered
+around  Darwinism: it seemed to prove an absolute, uncrossable divide between the
+living and non-living worlds, leaving no alternative but a supernatural explanation
+for the first  origin of life on Earth.
+That suited Carpenter,  a very religious man, just fine; but others were worried
+about the contradiction. Many younger supporters of Darwin’s theory were enthusiastic about its charter of seeming to banish supernatural explanations from life
+sciences and of establishing new proof for the unbroken continuity of nature. These
+included  T. H. Huxley and his protégés, the next generation of rising Darwinian talent, prominent among them the physician and medical researcher  Henry Charlton
+Bastian. Bastian was deeply interested in the problem of consciousness; and Bastian,
+more than any of the other young Darwinians, became fascinated with the origin of
+life itself and convinced that the question could be approached by experiment in a
+laboratory. While some Darwinians imagined even the simplest cells must require
+a long, gradual process of formation, Bastian described experiments that he thought
+showed cells emerging very rapidly, in a few days, from non-living starting materials.
+In hermetically sealed containers, Bastian boiled infusions of different materials, both
+organic and inorganic, then observed the cooled contents microscopically and saw a
+profusion of different living microorganisms. At this time many observers  thought
+the term “spontaneous generation” to automatically imply such rapid formation. By
+1870 he claimed experimental proof for spontaneous generation and argued this was
+important support for the Darwinian theory.1
+Those liberal-minded Christians who sought some kind of accommodation
+between the new evolutionary science and their religious beliefs were an audience
+of great interest to Darwin. Hence, in On the Origin of Species [2], Darwin went
+out of his way, even misrepresenting his own views on life’s origin, to use language
+that gave those readers some breathing room. He devoted only one sentence in the
+entire book to  the origin of life, and there he said:
+… I should infer from analogy that probably all the organic beings which have ever lived
+on this earth have descended from some one primordial form, into which life was first
+breathed (p. 484).
+ �������������������������������������������������������������������������������������������������������
+Works by Henry Charlton Bastian include the following: Facts and reasonings concerning the heterogeneous evolution of living things. Nature, 2 (June 30, 1870), 170–177; (July 7), 193–201; and (July 14), 219–228;
+Modes of Origin of Lowest Organisms (London: Macmillan, 1871); The Beginnings of Life, 2 vols. (London:
+Macmillan, 1872); Evolution and the Origin of Life (London: Macmillan, 1874); Discussion on the germ theory
+of disease. Transactions of the Pathological Society of London, 26 (1875), 255–345; The Commission of the
+French Academy and the Pasteur–Bastian eperiments. Nature, 16 (1877), 276–279; On the conditions favouring
+fermentation and the appearance of bacilli, micrococci, and torulae in previously boiled fluids. Journal of the
+Linnean Society of London, 14 (1879), 1–94; The Origin of Life (London: G.P. Putnam’s Sons, 1911).
+
+1
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:24.
+
+From Aristotle to Darwin, to Freeman Dyson
+
+49
+
+Many of Darwin’s friends criticized him for this dissembling, as did Richard Owen
+while touting an alternative evolution theory to Darwin’s. In private Darwin repeatedly regretted having weakened the clarity of his position by using such Biblical
+language. As he put it, with sarcasm toward Owen’s spontaneous generation concept, which likened snot to protoplasm:
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+It will be some time before we see “slime, snot, or protoplasm” … generating a new animal.
+But I have long regretted that I truckled to public opinion, and used the Pentateuchal term
+of creation, by which I really meant “appeared” by some wholly unknown process. It is
+mere rubbish, thinking at present of the  origin of life; one might as well think of the origin
+of matter [3].2
+
+But clearly Darwin felt that, at least in the short run, it was unwise to alienate so
+large a pool of potential allies during the early years of controversy over his theory.
+An indicator that Darwin agrees with the criticism of his friends is that he dropped
+the entire phrase “into which life was first breathed by the Creator” from the third
+edition of Origin, which appeared in April 1861. But, tellingly, Darwin did not
+insert in its place a more forthright explanation of the kind he had given in private.
+He simply left out any comment on the matter of how that “one primordial form”
+had arisen. And despite much private speculation, he never made any further public
+comment on the topic to his dying day in 1882. He left the passage untouched in all
+remaining editions of the book (the last revision was the sixth edition of 1872).
+I have demonstrated elsewhere that  Bastian’s experiments on the possibility of
+spontaneous generation were widely seen in the 1870s as relevant to much broader,
+socially charged questions such as the nature of consciousness; the interchangeability
+of “vital force,” and especially “nerve force,” with other physical and chemical forces
+in nature; the mechanism of heredity, and of memory generally; cell theory; and the
+origin of diseases, both contagious and degenerative [4].3 Clearly, a lot was at stake,
+and some of it, most deeply of all, was inseparably tied to whether there was any need
+at all for a Creator God. To those who opposed  Darwinian evolution on religious
+grounds, it was obvious that Darwin and  Huxley implied a naturalistic  origin of life,
+just as it was obvious to Bastian and his supporters [5, 64]. But for religious critics of
+evolution this meant an even more important reason to oppose  Darwinism.
+Thus, in 1870 when Bastian  began to publicly press the implications of
+Darwinism for a materialistic origin of life, he created great difficulty for many of
+ See also I. Fry. The Emergence of Life on Earth (New Brunswick, NJ: Rutgers University Press, 2000),
+pp. 55–57. By the third edition (April 1861) of his Origin, Darwin had removed the words “into which life was
+first breathed.”
+3
+ ��������������������������������������������������������������������������������������������������������������
+More primary materials on Victorian speculation about the problem of consciousness, with all its moral implications, can be found in Embodied Selves: An Anthology of Psychological Texts, 1830–1890, eds. J. Bourne
+Taylor and S. Shuttleworth (Oxford: Oxford University Press, 1998).
+4
+ It is this work by Stirling, attacking Huxley and Darwin, that  Bastian criticizes in Nature, February 1870 in
+his article “Protoplasm.”
+2
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:24.
+
+50
+
+James E. Strick
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+those liberal Christians who had, up until that point, felt they could enthusiastically
+support Darwin.5 In one public venue  Frederick Barnard, president of Columbia
+University, wrote that he found  Bastian’s Beginnings of Life so convincing, that
+educated Christians must now feel forced to choose between Darwinism and a universe with no Creator God.6 Surely Barnard was not the only such person, but his
+remarkable frankness bears quoting at some length, to show just why Darwin and
+ Huxley tried to avoid pushing the issue as forcefully as Bastian. Barnard said: 
+We are told, indeed, that the acceptance of these views need not shake our faith in the
+existence of an Almighty Creator. It is beautifully explained to us how they ought to give
+us more elevated and more worthy conceptions of the modes by which He works His
+will in the visible creation. We learn that our complex organisms are none the less the
+work of His hands because they have been evolved by an infinite series of changes from
+microscopic gemmules, and that these gemmules themselves have taken on their forms
+under the influence of the physical forces of light and heat and attraction acting on brute
+mineral matter. Rather it should seem we are a good deal more so. This kind of teaching
+is heard in our day even from the theologians. … It is indeed a grand conception which
+regards the Deity as conducting the work of His creation by means of those all-pervading
+influences which we call the forces of nature; but it leaves us profoundly at a loss to
+explain the wisdom or the benevolence which brings every day into life such myriads of
+sentient and intelligent beings, only that they may perish on the morrow of their birth.
+But this is not all. If these doctrines are true, all talk of creation or methods of creation
+becomes absurdity; for just as certainly as they are true, God himself is impossible. … 
+But we are told it is unphilosophical, in the pursuit of truth, to concern ourselves about
+consequences. … To this canon I am willing to subscribe up to a certain point. But if, in
+my study of nature, I find the belief forced upon me that my own conscious spirit … is but
+a mere vapor, which appeareth for a little time and then vanisheth away forever, that is a
+truth … for which I shall never thank the science which has taught it me. Much as I love
+truth in the abstract, I love my hope of immortality still more; and if the final outcome
+of all the boasted discoveries of modern science is to disclose to men that they are more
+evanescent than the shadow of the swallow’s wing upon the lake, … give me then, I pray,
+no more science. Let me live on, in my simple ignorance, as my fathers lived before me,
+and when I shall at length be summoned to my final repose, let me still be able to fold the
+drapery of my couch about me, and lie down to pleasant, even though they be deceitful
+dreams  [7].7
+
+Spontaneous generation seemed to bring home to many evolutionists the stark
+materialist implications of what  Huxley had called “the physical basis of life.”
+ The exception, so uncommon that he proves the rule, was spontaneous generation advocate and Darwinian,
+Rev. Thomas Stebbing. See his Essays on Darwinism (London: Longmans, 1871).
+6
+  Barnard himself may have already had problems with Darwinism, though this is not clear from the existing
+record. See W. Chute. Damn Yankee! The First Career of Frederick A. P. Barnard (Port Washington, NY:
+National University Publications, 1978), p. 69.
+7
+ It is interesting that this passage was one of very few excerpted from a bowdlerized version of  Barnard’s essay
+published in Medical America in the Nineteenth Century, ed. G. Brieger (Baltimore, OH: Johns Hopkins,
+1972), pp. 278–292; passage expurgated on p. 286.
+5
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:24.
+
+From Aristotle to Darwin, to Freeman Dyson
+
+51
+
+Among the younger Darwinians,  Alfred Russel Wallace came out early and
+very strongly in favor of Bastian’s arguments, in one of the first reviews to appear
+of  The Beginnings of Life [8]. The medical journals also applauded the strengthening of  Darwinism by Bastian’s experiments, emphasizing that he extended the logical “continuity in nature” so important to the new scientific  naturalism, bridging
+the arbitrary gap between living and non-living matter.
+At this,  Huxley and his colleague, physicist  John Tyndall, began to campaign
+more vigorously for a unified front among Darwin supporters. They thought  Bastian
+must be a careless experimenter (though on many of the most important points they
+were wrong); thus they adopted a strategy of severing the linkage between evolution and present-day spontaneous generation, and they declared Bastian and all his
+supporters, de facto,  “non-Darwinians.” Huxley in his famous BAAS address [9],
+ “Biogenesis and Abiogenesis,” first publicly declared that Darwinian science did
+indeed imply a naturalistic origin of life; he called this  “abiogenesis” to make clear
+that it differed from spontaneous generation in that it could only have occurred
+in the Earth’s distant past.8 It is from this time that  Darwin wrote privately to
+Hooker:
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+It is often said that all the conditions for the first production of living organisms are now
+present, which could ever have been present. But if (and oh what a big if) one could conceive in some warm little pond with the right amounts of ammonia and phosphoric salts, –
+light, heat, electricity, etc. present, thus a protein compound was chemically formed, ready
+to undergo itself such complex changes, at the present day such matter would be instantly
+devoured or absorbed, which would not have been the case before living creatures had
+formed [10].
+
+Clearly, Darwin’s private views were highly sympathetic to a naturalistic  origin of
+life, at least on the primitive Earth. And he continued to follow the debates between
+Bastian and Huxley with great interest. But he certainly never judged it appropriate
+to make his own views public, even when Bastian’s career was nearly ruined by
+Huxley’s campaign to undermine his scientific reputation. The reaction of  Barnard
+and others like him can only have confirmed for Darwin how important his original choice had been to keep silent, or even at first throw a bone to Christians on the
+origin-of-life issue. Thus until at least the 1870s, the scientists themselves stepped
+very carefully around religious implications of their work. 
+ William Thomson (later Lord Kelvin) produced his theory of meteoritic import
+of life to Earth in his 1871 Presidential Address to the BAAS as a clear rebuttal to
+  Huxley, ironically, hijacked  Bastian’s own term “biogenesis” without attribution and gave it the opposite
+meaning, i.e. life only from already existing life. Huxley’s rhetorical success in making his terms stick (and
+thereby distancing proper evolutionary science from the older doctrine of “spontaneous generation” and its
+unsavory associations, was no small part of his ability to vanquish Bastian. So much so that most textbooks
+today include “biogenesis” among terms Huxley is credited with coining.
+
+8
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:24.
+
+52
+
+James E. Strick
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+Huxley’s position on abiogenesis from 1870 [11]. Thomson was a deeply religious
+man and a committed opponent of Darwinism. Not surprisingly, in their personal
+correspondence the Darwinians made fun of Thomson’s recourse to such an unscientific hypothesis. From their point of view, he was abandoning his usual scientific
+critical faculties because he was so desperate to find a way to avoid the implication
+of abiogenesis.  In this early incarnation, Huxley  thought Thomson’s  version of
+ “panspermia” merely pushed the problem back to another planet but was no real
+solution to the origin-of-life question.9
+As  I ris Fry has pointed out, the Pope, even in his 1997 statement declaring that
+evolution was supported by enough facts that it was now “more than a hypothesis,” still made it clear that he was not ready to accept a theory of evolution
+based on a materialist interpretation, but only one that was spiritualist in its
+philosophy (i.e. one that acknowledges that if a human body takes its form from
+pre-existing living matter, the soul was immediately created by God). Fry’s book
+ T he Emergence of Life on Earth [12] offers an excellent summary of how varied
+Christian theological positions could be over time, however. Early Church doctrine was dominated for hundreds of years by the thinking of  St. Augustine, for
+example. Quoting Fry,
+According to Augustine, continuing spontaneous generation is made possible by a divine
+decree, issued at the moment of creation and active forevermore, under whose power
+the generation of living creatures from the earth and various organic materials persists.
+Augustine referred to biblical commands such as “Let the land produce vegetation,” “Let
+the water teem with living creatures,” and “Let the land produce living creatures according
+to their kinds.” At the first event of creation, he said, God formed the “seed-principles” of
+all the species, which are the potentials of all living creatures to come. These potentials
+materialize throughout the history of the Earth according to a preordained plan, in both
+sexual and spontaneous generation, when the circumstances are favorable [12] (p. 18).
+
+Fry  points out that, even when Thomas Aquinas modified this doctrine by
+­combining Augustine’s “seed-principles” with Aristotelian philosophy, arguing for
+much more active, direct intervention by God, still, under both Augustine’s and
+Aquinas’s doctrines
+and for centuries thereafter, no doubt was raised as to the possibility of spontaneous generation. This harmony between the belief in spontaneous generation and various Christian
+doctrines is noteworthy, especially since it tends to be forgotten following the radical
+change in the church’s attitude toward this issue that took place at the end of the seventeenth
+ See, for example, Huxley to Hooker, August 11, 1871, Joseph Dalton Hooker Papers, Royal Botanical Gardens,
+Kew, tss. pp. 101–102; Hooker to Huxley, August 19, 1871, Hooker papers tss. pp. 109–110; Hooker to Darwin,
+August 5, 1871, DCC #7896, Life and Letters of Sir Joseph Dalton Hooker, vol. 2: 126–127; Tyndall to Bence
+Jones, August 13, 1871, John Tyndall papers, Royal Institution, London (microfilm copies of all correspondence at Martin Science Library, Franklin and Marshall College), tss. p. 805.
+
+9
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:24.
+
+From Aristotle to Darwin, to Freeman Dyson
+
+53
+
+century. Until that change there was no reason – neither in the way organisms were thought
+of, nor in the predominant philosophy of nature – that would prevent the church from supporting the widespread belief in spontaneous generation [12] (p. 19).
+
+Both Augustine’s and Aquinas’s positions are explored in much more detail by
+ Ernan McMullin in Chapter 5.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+3.2  Changing concepts of life
+Talking about the  origin of life, then, is still potentially theologically charged,
+based upon how one defines life. Now for our (by no means exhaustive) sampling
+of concepts of what life actually is. Here I hope to show that broader historical context (than religious implications) can be just as informative about trends in defining
+life. A useful survey of numerous definitions of life up until the end of the nineteenth century can be found in the opening pages of the 1899  F. J. Allen article
+“What is life?”[13].
+ Louis Pasteur argued as early as 1860 that optical activity is “the only distinct
+line of demarcation that we can show today between dead and living matter.” (He
+believed that “cosmic asymmetric forces” were responsible for this.) One of Allen’s
+most useful observations is that most of the attempted definitions have some merit,
+but they all tried to find a single key formulation to capture an extremely complex,
+many-sided phenomenon. “Life,” he says, “is too complex to be described in a concise aphorism” [13] (p. 45). Pasteur was surely pointing out one of the most crucial
+features of living systems, but as the 1997 work of Cronin and Pizzarello on non
+50:50 enantiomers (the opposite right- and left-handed mirror image versions in
+which many organic molecules occur) in extraterrestrial amino acids from meteorites has shown, even that formerly sharp line of demarcation has begun to blur
+into a spectrum [14].
+Allen then plunges into a review of what is known about the biochemistry of metabolism and a very modern-sounding discussion of the central role of
+­“energy-traffic” in cells. He is impressed with the 1875 theory of the German physiologist Eduard Pflüger, that cyanogen is the defining unstable compound of living
+reactions, and, ironically enough, notwithstanding his opening caveat, Allen soon
+arrives at his own pet, too-concise formulation, which he calls a law: that “every
+vital action involves the passage of oxygen either to or from nitrogen” [13] (p. 52).10
+He cites another German, Oscar Loew, who has recently suggested that the basis
+ The original is E. Pflüger. Über die physiologische Verbrennung in den lebendigen Organismen. Arch.
+Gesam. Physiol. (Pflügers Archiv) 10 (1875), 251–278. Pflüger’s concepts were still influential, more recently,
+in the ideas on biogenesis developed by Wilhelm Reich. See, for example, Reich. The Cancer Biopathy
+[1948] (New York: Farrar, Straus and Giroux, 1973), p. 9; also S. Kramer. quoted in Origins of Life II, ed.
+L. Margulis (New York: Gordon and Breach, 1971), pp. 8–13.
+
+10
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:24.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+54
+
+James E. Strick
+
+of life is continuous atomic motion within large unstable organic molecules. Allen
+commends the theory for explaining some phenomena, but thinks “Dr. Loew does
+not lay enough stress on the functions of nitrogen, to which I personally trace so
+many of the phenomena of life. … It is chiefly owing to the instability of nitrogen
+compounds that continuous atomic motion is possible” [13] (p. 55). He gives priority to N, among the CHON.
+Here we are seeing a transition to a new, biochemical way of talking about the
+most basic characteristics of life, both structural and metabolic. But Allen’s attempt
+to hold on to some single sine qua non of life represents the deep grip of a late
+nineteenth century scientific gestalt that we need to look at more closely, in order
+to understand why biochemical ideas that in some ways sound so modern are still
+shaped by it. From the 1860s through the first decade of the twentieth century theories abounded as to the simplest “living unit.” From Thomas Graham’s colloid,
+containing “energia,” to Huxley’s “protoplasm,” to  Darwin’s “gemmules” of pangenesis, to Hering and Haeckel’s “plastidules,” to Nägeli’s “micelles,” to Verworn’s
+“biogen,” in many ways Allen’s  focus on nitrogen as the crucial “living element”
+is in this tradition. These theories reflect the fact that from 1860 to perhaps as late
+as 1910, “explaining life” was interpreted by most investigators to require addressing all or most of the parts of a large problem complex. This included generation,
+development, inheritance, sensation or irritability, evolution, and in some cases the
+postulate of a specific biological energy.11 The gradual teasing apart of the strands
+of this once-unified problem complex, for instance the separation, from about
+1910–1920 of  transmission genetics from embryology/development and its more
+inclusive notion of  “inheritance,” greatly altered discussions of the origin of life.
+The effect of the new discipline of transmission genetics,  most of all due to
+the work of the T. H. Morgan Drosophila school, began to be clearly seen in the
+August 1926 paper of  H. J. Muller  “The gene as the basis of life”12 and the 1929
+paper of  J. B. S. Haldane “The origin of life” [15]. In Muller’s paper, as John Farley
+has pointed out, defining the sudden appearance of a gene molecule as the sharp
+point at which life emerged has the paradoxical effect of reviving the supposedly
+most outdated feature of the old “spontaneous generation” doctrine: namely the
+idea that anything as complex as life could possibly arise in a sudden rapid event. In
+ A. I. Oparin’s writings from the 1920s, a gradual chemical evolutionary process is
+put forward as much more plausible; i.e. the idea of the emergence of life through a
+ For the postulate of a specific biological energy, see B. Moore. The Origin and Nature of Life (London:
+Williams and Norgate, 1913), reprint in 1921, pp. 157, 225–226; also P. Kammerer. Allgemeine Biologie
+(Berlin and Leipzig: Deutsche Verlags-Anstalt Stuttgart, 1915), p. 8. Kammerer seems to have changed his
+mind or at least removed this wording, by the second edition in 1920. But it is from Kammerer that Wilhelm
+Reich appears to have drawn most directly in positing a specific biological energy.
+12
+ H. J. Muller. The gene as the basis of life. In Proceedings of the 4th International Congress of Plant Biology,
+vol. 1 (Menasha, WI, 1929), pp. 897–921; the talk was originally given in 1926.
+
+11
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:24.
+
+From Aristotle to Darwin, to Freeman Dyson
+
+55
+
+series of transitional stages. While Haldane was interested in the latest ideas about
+ genes, he leaned more toward the Oparin approach:
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+In the present state of our ignorance we may regard the gene either as a tiny organism
+which can divide in the environment provided by the rest of the cell; or as a bit of machinery which the “living” cell copies at each division. The truth is probably somewhere in
+between these two hypotheses. … Unless a living creature is a piece of dead matter plus a
+soul (a view which finds little support in modern biology) something of the following kind
+must be true. A simple organism must consist of parts A, B, C, D, and so on, each of which
+can multiply only in the presence of all, or almost all, of the others [15]  (p. 6).
+
+Here Haldane  makes an early but cogent statement on what are now called
+“emergent properties.”
+A brief look, now, at two recent books will quickly bring out numerous points
+about trends in defining life in the past 40–50 years and the historical context in
+which these trends developed. The books are  Freeman Dyson’s  Origins of Life and
+ Maynard Smith and  Szathmáry’s  The Origins of Life: from the Birth of Life to the
+Origin of Language [16, 17].13
+Being a physicist allows Dyson to see [16] (pp. 6–7) the extent to which much
+thinking among biologists is predisposed by their own philosophical assumptions;
+as for instance, why such an overwhelming majority of life scientists raised since
+Watson and Crick believe information-carrying molecules more fundamental to
+life than biochemical metabolism. This, despite the fact that, ever since researchers have seen the origin of life to be predicated upon the origin of  DNA,  RNA, or
+some other more primitive information-carrying molecule, the result has been the
+chicken–egg problem because of the interdependence of  proteins and nucleic acids
+in extant cells. Dyson is less aware, or at least does not stop to comment on, the
+degree to which his own reasoning [16] (pp. 7–8) is being guided just as forcefully
+by notions about “hardware” and “software” inherited from the culture of computer technology. This is not to imply that use of these analogies in thinking about
+living systems is necessarily faulty. But rather, just as the dominance of machines
+in scientific cultures cannot be said to be historically unrelated to the growth of the
+mechanistic view of life from 1850–1950, one ought at least to note that the ideas
+of hardware and software are not merely disconnected intellectual “ideas” floating
+around, but also fundamentally cultural resources, being drawn upon here by scientists. Thus, it is worth asking the question: do these ideas come into the scientific
+arena freighted with any other interesting cultural or philosophical baggage? More
+on this later.
+ I survey more broadly the discussions of a definition of life and research into its origins in S. Dick and
+J. Strick. The Living Universe: NASA and the Development of Astrobiology (New Brunswick, NJ: Rutgers
+University Press, 2004), especially chapters 3–5.
+
+13
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:24.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+56
+
+James E. Strick
+
+Dyson emphasizes the need to distinguish between replication and reproduction,
+in order to break the logical “catch-22” deadlock that results when one considers
+DNA- or RNA-centered systems to be the sine qua non of life. Dyson gives Von
+Neumann credit for emphasizing the distinction between replication and metabolism. This is the most significant distinction Dyson rightly emphasizes in his book.
+But one can only wonder why he lauds Schrödinger and Von Neumann’s early and
+vague approaches to this distinction, while studiously avoiding mention of  Sidney
+Fox and his school – those who first made the issue of “proteins first” vs. what
+they called “the nucleic acid monopoly” central in the origin-of-life debate. Of
+course, the two big name physicists have become revered in science (and Dyson
+himself is a physicist), while Fox  was a protein chemist who eventually became
+marginalized by the mainstream origin-of-life community.14 So if one is constructing a ­“forerunners” pedigree for one’s most important idea, perhaps the temptation
+is overwhelming to attribute that idea to winners and silently pass over losers,
+especially if one at the outset intends to write a highly condensed narrative that
+disclaims any attempt at comprehensiveness. From a historian’s point of view, this
+practice is in itself an object of study.
+Dyson points out that Schrödinger saw biology through the eyes of the physicist-turned-biologist Max Delbrück and historians have elaborated at some length
+on the construction of a master narrative of the history of molecular biology that
+emphasizes only the line from Schrödinger, Delbrück, and Salvador Luria (the
+team which in the early 1940s famously began experiments on bacteriophage genetics) to Watson and Crick. Dyson  says that thus Delbrück’s focus on replication
+(and later on nucleic acids) as the central feature of the origin of life gained undue
+prominence in the field and came to dominate the mindset of most researchers.
+This insight into “paradigms” and their control of thinking in the field has been
+stated repeatedly over the last twenty-five years.15
+ Maynard Smith and  Szathmáry’s The Origins of Life sets out to describe and
+explain what they plausibly argue are the eight major qualitative transitions that
+have occurred in the history of life since the origin of replicating molecules.16
+The book is an eloquent and very illuminating analysis of these transitions and
+of some very important parallel trends among them [17] (pp. 19–25). But as a
+result of such breadth of conceptual reach, it manages to survey only somewhat
+ See W. Hagan. Review of Fox’s The Emergence of Life. Isis, 80 (1989), 162–163. Also, A. Brack. Review
+of chemical evolution: physics of the origins and evolution of life. Origins of Life and Evolution of the
+Biosphere, 29 (1999), 109–112, 110. Fox’s work, as well as the process of marginalizing him, are discussed
+further in S. Dick and J. Strick. The Living Universe: NASA and the Development of Astrobiology (New
+Brunswick, NJ: Rutgers University Press, 2004), chapter 2.
+15
+ See for example, S. Fox. The proteinoid theory of the origin of life and competing ideas. American Biology
+Teacher, 36 (1974), 161–172, 181.
+16
+ Note that, since the mid-1960s most researchers have preferred to use the plural, origins of life, to emphasize
+their belief that the process may have occurred multiple times, or in multiple steps.
+14
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:24.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+From Aristotle to Darwin, to Freeman Dyson
+
+57
+
+superficially the origin of life per se. The major transitions they address are:
+replicating molecules → populations of molecules in compartments; independent replicators → chromosomes;  RNA as gene and enzyme →  DNA and protein;
+prokaryote → eukaryote; asexual clones → sexual populations; protists → animals,
+plants, and fungi; solitary individuals → colonies; primate societies → human societies
+and the origin of language.
+In The Origins of Life, immediately from the first page, the focus is on information. The question of  metabolism being of equal importance, let alone first in time
+(as in Dyson), is very briefly raised [17] (p. 12), only to be dismissed or minimized:
+their overall usage betrays a strong bias toward an “information-first” view of life.
+Their approach clearly assumes that life is synonymous with replication.17
+There is no more historical a phenomenon in modern biology than the dialectically related rise of information theory and computers, and the simultaneous importation of such analysis into biological thinking, beginning no later than
+Schrödinger’s 1944 work What Is Life?18  Maynard Smith and  Szathmáry tackle
+this strikingly parallel development of concepts right away. It would seem strange
+or incomprehensible to  Darwin, they say [17] (p. 2), that template reproduction
+allows transmission of instructions in a homogeneous-looking, as yet unformed
+egg or zygote. The idea is much less strange to us because “we are familiar with the
+idea that patterns of magnetism on a magnetic tape can carry the instructions for
+producing a symphony.” Indeed, they close their book with a tantalizing guess that
+the move to transmitting information in electronic form may be potentially a transition on the scale of the other major transitions around which the book is framed. It
+is astute of the authors to recognize how much our cultural experience enables our
+view, especially on questions of such fundamental importance as “what is life?”
+However, being more or less complete advocates of the information-first approach
+to conceptualizing life, they seem to miss the other implication of the power of historical context. If our cultural experience enables our view, it also simultaneously
+constrains it. The primacy of computers and electronic information in our lives
+makes images of “programming” of instincts, “hard-wiring” of certain traits, etc.,
+highly compelling metaphors for how we think about “life” in late twentieth century, high-tech Western society. But these metaphors tend to channel one’s thinking
+strongly, above and beyond the actual experimental evidence, as in the nature–
+nurture debate where “master molecule” and “inborn hard-wiring” metaphors have
+17
+
+ See for example, p. 35 and p. 37 where they say “catch-22 of the origin of life,” but they mean the origin of
+replication.
+ Erwin Schrödinger. What Is Life? (Cambridge: Cambridge University Press, 1945), originally given as a lecture in 1944. E. Fox Keller’s Refiguring Life (New York: Columbia University Press, 1995) is one of several
+recent analyses that begin to examine this topic, as is L. Kay’s Who Wrote The Book of Life? (Palo Alto, CA:
+Stanford University Press, 2000). Donald Fleming also raised this issue in his Émigré physicists and the biological revolution. In The Intellectual Migration, eds. D. Fleming and B. Bailyn (Cambridge, MA: Harvard
+University Press, 1969).
+
+18
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:24.
+
+58
+
+James E. Strick
+
+boosted the stock of biological determinism far above even the rapidly growing
+knowledge-base of molecular genetics. We may well reflect on the dominance of
+such models, when they say [17] (p. 13) “a living being resembles a computer, rather
+than just a program, although it has its own program as subsystem.” The irony of
+the back-and-forth relations between culture and nature is never more provocative
+than in this passage [17] (pp. 12–13), where computers and computer “viruses” are
+used as the standard against which to evaluate whether biological viruses should
+be thought of as truly alive. Is this not putting the cart before the horse in some
+fundamental ontological sense? One is reminded of N. W. Pirie’s 1937 remark:
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+When one is asked whether a filter-passing virus is living or dead the only sensible answer
+is: “I don’t know; we know a number of things it will do and a number of things it won’t,
+and if some commission will define the word ‘living’ I will try to see how the virus fits
+into the definition.” His answer as a rule does not satisfy the questioner, who generally
+has strong but unformulated opinions about what he means by the words living and dead.
+The virus worker may then be told, to take one example out of many equally foolish, that
+a certain virus cannot be living because its physical properties enable us to investigate it
+in some detail [18] (p. 12).
+
+As we shall see in origin-of-life debates, the possibly crucial question that gets
+drowned out by talk of the primacy of information (and thus, of nucleic acids) is:
+can there be any other central characteristic of living systems as fundamental as,
+or perhaps even more fundamental than, information? Granted,  Maynard Smith
+and  Szathmáry give a brilliant and powerful analysis of events since the evolution of information-carrying molecules. But their bias leaves us with the chicken–
+egg problem: if  metabolism is dominated mostly by  proteins, but is a prerequisite
+for the functioning of nucleic acid information molecules, how can a system like
+our current living cell, even the simplest prokaryote, with each of these two parts
+totally dependent upon the other, ever have evolved in the first place? (In this way,
+giving primacy to nucleic acids/information plays into the hands of  creationists.)
+This is the issue upon which Dyson’s book is so focused.
+Not that Dyson is the first to raise this issue. Ever since Harvard biochemist
+Leonard Troland’s 1914 [19] paper emphasizing autocatalytic enzymes and  Muller’s
+1926 [20] gene-first response, this tension has been a central focus of debate and
+discussion in the origin-of-life literature. Noted advocates toward Muller’s  end of
+the spectrum have included Norman Horowitz and  Carl Sagan. Toward the opposite end have been  A. I. Oparin, J. D. Bernal, N. W. Pirie, and  Sidney Fox. The boom
+of interest in ribozymes and the “RNA world,” beginning with  Thomas Cech’s
+1982 discovery of  catalytic RNA molecules, was precisely because it was hoped
+this phenomenon would finally offer a way out of the impasse that dominated much
+of twentieth century discussion. If the simplest nucleic acid information molecules
+can also simultaneously perform the enzyme role, previously thought only to be a
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:24.
+
+From Aristotle to Darwin, to Freeman Dyson
+
+59
+
+property of proteins, then  catalytic RNA molecules could be the “missing link”
+bridging the gap between these two now separate but interdependent functions.
+ Maynard Smith and  Szathmáry clearly hope [17] ribozymes offered the solution
+to the catch-22. But this now seems to have been excessively optimistic [21].19 For,
+while  RNA does seem to have the dual capabilities to bridge the gap, its monomers are so difficult to form spontaneously, and are so short-lived under primitive
+Earth conditions, that the question of how to get from an abiotic world to the RNA
+world is not much easier to solve than before the RNA world transitional stage was
+known.20 Information is surely one of the fundamental issues for living systems as
+we know them, but we are still unclear as to whether it came first or is the sine qua
+non of the first life or its molecular predecessors.  
+In conclusion, I hope this chapter has demonstrated the need to look at the religious/theological context as well as the broader historical/cultural context in order
+to begin to understand how ideas about defining life and life’s origins have changed
+over time. Since the theory was first discussed, common cultural assumptions about
+the nature of life and/or common religious assumptions about its origin have been
+prominent forces shaping the conceptions of the scientific community.
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+References
+  [1]	 W. B. Carpenter. On the mutual relations of the vital and physical forces. Philosophical
+Transactions of the Royal Society (London), 140 (1850), 727–757.
+  [2]	 C. Darwin. On the Origin of Species (London: John Murray, 1859).
+  [3]	Darwin to Joseph Hooker, March 29, 1863, published in Correspondence of Darwin,
+vol. 11, pp. 277–278 (Darwin Correspondence Calendar – hereafter DCC, #4065);
+expurgated version in Darwin’s Autobiography, p. 272 and in Life and Letters of
+Charles Darwin, vol. 3, pp. 17–18.
+  [4]	 J. Strick. Sparks of Life (Cambridge, MA: Harvard University Press, 2000), especially chapters 2, 5, and 6.
+  [5]	L. Beale. Protoplasm and living matter. Monthly Microscopical Journal, 1 (1869),
+277–288.
+  [6]	 J. H. Stirling. As Regards Protoplasm, in Relation to Professor Huxley’s Essay on the
+Physical Basis of Life (Edinburgh: Blackwood and Sons, 1869), 2nd edn., 1872.
+ See also S. Freeland, R. Knight, and L. Landweber. Do proteins predate DNA? Science, 286 (1999), 690–692;
+G. F. Joyce. The rise and fall of the RNA world. New Biologist, 3 (1991), 399–407. This, along with many
+other critical papers in the field, are reprinted in an invaluable collection, D. Deamer and G. Fleischaker
+(eds.). Origins of Life: the Central Concepts (Boston, MA: Jones and Bartlett, 1994).
+20
+ The field underwent a similar burst of growth following the Miller–Urey experiment of 1953. But it was found
+that, here too, one of the most basic quandaries proved more elusive than expected. In 1981 researchers realized that the Earth’s early atmosphere was most likely not a chemically reducing one. It was probably neutral
+or even mildly oxidizing; under which conditions Miller–Urey-type syntheses do not produce any significant amounts of organic precursors of biomolecules. See R. Kerr. Origin of life: new ingredients suggested.
+Science, 210 (October 3, 1980), 42–43; also J. Levine, T. Augustsson, and M. Natarajan. The prebiological
+paleoatmosphere: stability and composition. Origins of Life, 12 (1982), 245–259, first presented in October
+1981, included as pp. 97–111 in D. Deamer and G. Fleischaker (eds.). Origins of Life: the Central Concepts
+(Boston, MA: Jones and Bartlett, 1994).
+19
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:24.
+
+60
+
+James E. Strick
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+  [7]	 F. Barnard. The germ theory of disease and its relations to hygiene. Public Health
+Reports and Papers, 1 (1873), 79–80.
+  [8]	A. R. Wallace. Review of The Beginnings of Life. Nature, 6 (August 8 and 15, 1872),
+284–287, 299–303.
+  [9]	T. H. Huxley. Biogenesis and Abiogenesis. Nature, 2 (September 15, 1870),
+400–406.
+[10]	Darwin to Joseph Hooker, February 1, 1871, DCC# 7471; Darwin papers, American
+Philosophical Society Library, Philadelphia.
+[11]	 W. Thomson. Presidential address to the BAAS. Nature, 4 (August 3, 1871),
+262–270.
+[12]	I. Fry. The Emergence of Life on Earth (New Brunswick, NJ: Rutgers University
+Press, 2000).
+[13]	 F. J. Allen. What is life? Proceedings of Birmingham Natural Historical and
+Philosophical Society, 11 (1899), 44–67.
+[14]	 J. Cronin and S. Pizzarello. Enantiomeric excesses in meteoritic amino acids. Science,
+275 (February 14, 1997), 951–955.
+[15]	 J. B. S. Haldane. The origin of life. Rationalist Annual (1929), 3–10.
+[16]	 F. Dyson. Origins of Life, 2nd edn. (Cambridge: Cambridge University Press, 1999).
+[17]	 J. M. Smith and E. Szathmáry. The Origins of Life: from the Birth of Life to the Origin
+of Language (Oxford: Oxford University Press, 1999).
+[18]	N. W. Pirie. The meaninglessness of the terms “life” and “living.” In Perspectives in
+Biochemistry, ed. Joseph Needham (Cambridge: Cambridge University Press, 1937),
+pp. 11–22.
+[19]	L. Troland. The chemical origin and regulation of life. Monist, 24 (1914), 92–133.
+[20]	H. J. Muller. The gene as the basis of life. In Proceedings of the 4th International
+Congress of Plant Biology, vol. 1 (Menasha, WI, 1929), 897–921.
+[21]	L. Orgel. The origin of life: a review of facts and speculations. Trends in Biochemical
+Science, 23 (1998), 491–495.
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:24.
+
+4
+ Philosophical aspects of the origin-of-life
+problem: the emergence of life and the
+nature of science
+Iris Fry
+
+Copyright © 2009. Cambridge University Press. All rights reserved.
+
+4.1  Introduction
+At a public lecture at the Sorbonne in 1864, the renowned French scientist  Louis
+Pasteur raised the fundamental philosophical question pertaining to the origin of
+life: can matter organize itself to form a living system? Pasteur answered this question with a decisive no. He was referring both to the emergence of life on the primordial Earth and to the possibility of “spontaneous generation” – the formation of
+living organisms out of matter here and now. Life, Pasteur believed, was originally
+created by God and organisms are subsequently born only from parents.1
+Toward the end of the eighteenth century, the German philosopher  Immanuel
+Kant had also pondered the question of the nature of biological organization and
+its emergence from matter. Unlike other physical objects, Kant noted, an organism
+is an interactive system in which parts and whole are reciprocally dependent.2 This
+circular, self-reproducing nature defines a living system and the critical question is
+whether we can understand the production of such an organized, functional whole
+in causal, materialistic terms [1] (77: 293).
+For Kant , the idea of physical principles of self-organization, working mechanistically without any guiding plan and yet capable of producing an organized whole,
+was inconceivable. Hence, the very possibility of the emergence of life from matter seemed to him absurd [1] (80:305, note 5; 81:311). Although not sharing Kant’s
+ Several historical studies reveal that  Pasteur’s position on the relationship between matter and life was far
+more complex than apparent from the standard Pasteur’s scientific biography. See G. L. Geison. The Private
+Science of Louis Pasteur (Princeton, NJ: Princeton University Press, 1995), pp. 133–138.
+2
+ ����������������������������������������������������������������������������������������������������������������
+This unique nature of organisms was evident to any keen observer of the living world long before the establishment of modern biology. The most notable manifestation of this awareness is to be found in the fourth century
+BCE in the biological treatises of Aristotle. See M. C. Nussbaum. Aristotle on teleological explanations. In
+Aristotle’s De Motu Animalium: Text with Translation, Commentary, and Interpretive Essays (Princeton, NJ:
+Princeton University Press, 1978), pp. 76–80.
+1
+
+Exploring the Origin, Extent, and Future of Life: Philosophical, Ethical, and Theological Perspectives, ed.
+Constance M. Bertka. Published by Cambridge University Press. © Cambridge University Press 2009.
+
+61
+
+Exploring the Origin, Extent, and Future of Life : Philosophical, Ethical and Theological Perspectives, Cambridge University Press,
+2009. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/claremont/detail.action?docID=461116.
+Created from claremont on 2017-11-13 14:11:24.
+
+
